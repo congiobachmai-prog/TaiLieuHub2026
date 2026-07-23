@@ -1,0 +1,464 @@
+<!DOCTYPE html>
+<html lang="vi" data-theme="light">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TaiLieuHub - Kho Tài Liệu Học Tập & Ôn Thi Hàng Đầu</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Nền Đốm Sáng Động (Mesh Blobs) -->
+    <div class="bg-mesh">
+        <div class="blob blob-1"></div>
+        <div class="blob blob-2"></div>
+        <div class="blob blob-3"></div>
+    </div>
+
+    <!-- Thanh Apple Liquid Navigation Bar -->
+    <header>
+        <nav class="liquid-nav" id="nav">
+            <div class="liquid-glare-container">
+                <div class="liquid-glare" id="glare"></div>
+            </div>
+
+            <div class="nav-items">
+                <div class="active-pill" id="active-pill"></div>
+                
+                <a href="#" class="nav-btn active">
+                    <i class="fa-solid fa-graduation-cap" style="color:var(--primary);"></i>
+                    <span>TaiLieuHub</span>
+                </a>
+
+                <a href="#categories" class="nav-btn">
+                    <i class="fa-solid fa-book-open"></i>
+                    <span>Tài liệu</span>
+                </a>
+
+                <button class="nav-btn" onclick="openAuthModal('login')" id="auth-group-btn">
+                    <i class="fa-solid fa-right-to-bracket"></i>
+                    <span id="authButtonText">Đăng Nhập</span>
+                </button>
+
+                <a href="#myCoursesArea" class="nav-btn" onclick="scrollToMyCourses(event)">
+                    <i class="fa-solid fa-book-bookmark"></i>
+                    <span>Khóa Của Tôi</span>
+                </a>
+
+                <a href="#contact" class="nav-btn">
+                    <i class="fa-solid fa-envelope"></i>
+                    <span>Liên hệ</span>
+                </a>
+            </div>
+
+            <div class="divider"></div>
+
+            <!-- Nút Bật/Tắt Dark Mode -->
+            <button class="theme-btn" id="theme-btn" aria-label="Dark Mode Toggle">
+                <div class="theme-icon-wrapper">
+                    <svg class="sun" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line><line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line><line x1="21" y1="12" x2="23" y2="12"></line>
+                    </svg>
+                    <svg class="moon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                </div>
+            </button>
+        </nav>
+    </header>
+
+    <!-- Hero Banner Kính Mờ -->
+    <section class="hero">
+        <div class="hero-content">
+            <h1>Kho Tài Liệu Ôn Thi & Học Tập Chất Lượng Cao</h1>
+            <p>Tổng hợp Đề thi HSA 2k9, Luyện thi TOEIC Cô Mai Phương, THPTQG 2027...</p>
+            <div class="search-box">
+                <input type="text" placeholder="Nhập tài liệu bạn cần tìm (VD: HSA 2k9, TOEIC...)...">
+                <button><i class="fa-solid fa-magnifying-glass"></i> Tìm kiếm</button>
+            </div>
+        </div>
+    </section>
+
+    <main class="container">
+
+        <!-- Khu vực Khóa Học Đã Đăng Ký -->
+        <div class="my-courses-box" id="myCoursesArea">
+            <div class="my-courses-header">
+                <span><i class="fa-solid fa-graduation-cap" style="color:var(--primary);"></i> Khóa Học / Môn Học Đã Đăng Ký Của Tôi</span>
+                <span id="userEmailNotice" style="font-size:13px; color:var(--primary); font-weight:bold;"></span>
+            </div>
+            <div class="my-courses-grid" id="myCoursesList"></div>
+        </div>
+
+        <div class="section-title" id="categories">
+            <h2>Danh Mục Tài Liệu Hot</h2>
+            <p>Lựa chọn môn học bạn đang cần tài liệu ôn tập</p>
+        </div>
+
+        <!-- Danh mục card khóa học -->
+        <div class="categories-grid">
+            <div class="category-card">
+                <img src="https://lh3.googleusercontent.com/d/1KqvMwM8CBjDrPH6rn-LQzPcONMUoHnYE" alt="THPTQG 2027" class="card-banner">
+                <h3>COMBO HS12 2027 2K9 - FULL LỘ TRÌNH HỌC TỐT LỚP 12 - LUYỆN THI 2027 2K9</h3>
+                <p>Đề thi thử, cấu trúc đề chi tiết, tài liệu luyện thi ĐGNL ĐHQGHN mới nhất cho lứa 2K9.</p>
+                <div style="display:flex; gap:10px; flex-wrap:wrap; margin-top:15px;">
+                    <a href="./courses/thptqg-2027/index.html" class="btn-card" style="background:var(--pill-bg); color:var(--text-main); border:1px solid var(--glass-border);">
+                        <i class="fa-solid fa-eye" style="color:var(--primary);"></i> Xem Trước Bài Học
+                    </a>
+                    <a href="./courses/thptqg-2027/checkout.html" class="btn-card btn-buy">
+                        <i class="fa-solid fa-cart-shopping"></i> Đăng Ký Môn Lẻ &rarr;
+                    </a>
+                </div>
+            </div>
+
+            <div class="category-card">
+                <img src="https://lh3.googleusercontent.com/d/1EP-FdH8jJtkz949jTZ83RiN0NqyTvMJe" alt="TOEIC Cô Mai Phương" class="card-banner">
+                <h3>TOEIC 4 KỸ NĂNG - Cô Mai Phương NGOAINGU24H</h3>
+                <p>Bộ tài liệu độc quyền, mẹo làm bài Listening & Reading, đề thi có đáp án chi tiết.</p>
+                <div style="display:flex; gap:10px; flex-wrap:wrap; margin-top:15px;">
+                    <a href="./courses/toeic-mai-phuong/index.html" class="btn-card" style="background:var(--pill-bg); color:var(--text-main); border:1px solid var(--glass-border);">
+                        <i class="fa-solid fa-eye" style="color:var(--primary);"></i> Xem Trước Bài Học
+                    </a>
+                    <a href="./courses/toeic-mai-phuong/checkout.html" class="btn-card btn-buy">
+                        <i class="fa-solid fa-cart-shopping"></i> Đăng Ký Môn Lẻ &rarr;
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="request-banner">
+            <h2>Bạn chưa tìm thấy tài liệu mình cần?</h2>
+            <p style="margin: 0.8rem 0 1rem 0; opacity: 0.9;">Nhắn tin trực tiếp qua Zalo để Admin gửi file PDF riêng cho bạn nhé!</p>
+            <a href="https://zalo.me/0385604632" target="_blank">
+                <i class="fa-solid fa-paper-plane"></i> Nhắn Zalo Yêu Cầu Tài Liệu
+            </a>
+        </div>
+
+        <section class="contact-section" id="contact">
+            <div class="contact-info">
+                <h2>Liên Hệ Trực Tiếp Với Admin</h2>
+                <p>Bạn cần tư vấn thêm hoặc có thắc mắc về tài liệu? Đừng ngần ngại liên hệ nhé:</p>
+                <div class="contact-details">
+                    <div class="contact-item"><i class="fa-solid fa-phone"></i><div><strong>Hotline / Zalo:</strong><p>0981.621.308</p></div></div>
+                    <div class="contact-item"><i class="fa-solid fa-envelope"></i><div><strong>Email Hỗ Trợ:</strong><p>congiobachmai@gmail.com</p></div></div>
+                    <div class="contact-item"><i class="fa-solid fa-clock"></i><div><strong>Thời gian hỗ trợ:</strong><p>08:00 - 22:00 (Hàng ngày)</p></div></div>
+                </div>
+            </div>
+
+            <form class="contact-form" onsubmit="event.preventDefault(); alert('Cảm ơn bạn! Yêu cầu hỗ trợ đã được gửi thành công đến Admin.');">
+                <div class="form-group"><input type="text" placeholder="Họ và tên của bạn..." required></div>
+                <div class="form-group"><input type="text" placeholder="Số điện thoại / Zalo..." required></div>
+                <div class="form-group"><textarea rows="4" placeholder="Nhập tên tài liệu bạn đang tìm..." required></textarea></div>
+                <button type="submit" class="form-btn"><i class="fa-solid fa-paper-plane"></i> Gửi Yêu Cầu Hỗ Trợ</button>
+            </form>
+        </section>
+    </main>
+
+    <div class="floating-widgets">
+        <a href="https://zalo.me/0981621308" target="_blank" class="widget-btn widget-zalo"><i class="fa-solid fa-comment-dots"></i></a>
+        <a href="https://m.me/yourpage" target="_blank" class="widget-btn widget-messenger"><i class="fa-brands fa-facebook-messenger"></i></a>
+        <a href="tel:0981621308" class="widget-btn widget-phone"><i class="fa-solid fa-phone"></i></a>
+    </div>
+
+    <!-- Modal Đăng Nhập / Đăng Ký -->
+    <div class="modal-overlay" id="authModal">
+        <div class="modal-box">
+            <button class="close-modal-btn" onclick="closeAuthModal()">&times;</button>
+            <h2 id="modalTitle">Đăng Nhập Tài Khoản</h2>
+            
+            <form id="authForm" onsubmit="handleAuthSubmit(event)">
+                <input type="email" id="authEmail" placeholder="Nhập địa chỉ Gmail..." required>
+                <input type="password" id="authPassword" placeholder="Nhập Mật khẩu..." required>
+                <button type="submit" class="btn-submit-auth" id="btnAuthSubmit">Đăng Nhập</button>
+            </form>
+
+            <p id="authMsg" style="text-align:center; font-size:13px; margin-top:10px; font-weight:bold;"></p>
+
+            <div class="auth-toggle-link" id="authToggleArea">
+                Chưa có tài khoản? <a href="javascript:void(0)" onclick="switchAuthMode('register')">Đăng ký ngay</a>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <div class="footer-content">
+            <div class="footer-col">
+                <h3>TaiLieuHub</h3>
+                <p>Nơi tổng hợp và chia sẻ tài liệu học tập, đề thi trắc nghiệm uy tín cho học sinh, sinh viên.</p>
+            </div>
+            <div class="footer-col">
+                <h3>Chuyên Mục Nổi Bật</h3>
+                <p>• COMBO HS12 2027 2K9 - THPTQG 2027</p>
+                <p>• TOEIC Cô Mai Phương</p>
+            </div>
+        </div>
+        <div class="copyright">&copy; 2026 TaiLieuHub. Tất cả quyền được bảo lưu.</div>
+    </footer>
+
+    <!-- Toàn bộ JavaScript logic bảo mật, đăng nhập, gọi Google Apps Script & Hiệu ứng Liquid Nav -->
+    <script>
+        const SECRET_KEY = "TLH_SECURE_2026_@KEY";
+
+        function setSecureCourses(coursesArray) {
+            try {
+                let jsonStr = JSON.stringify(coursesArray);
+                let encoded = btoa(encodeURIComponent(jsonStr + "|" + SECRET_KEY));
+                localStorage.setItem("allowedCourses", encoded);
+            } catch(e) {}
+        }
+
+        function getSecureCourses() {
+            let raw = localStorage.getItem("allowedCourses");
+            if (!raw) return [];
+            try {
+                let decoded = decodeURIComponent(atob(raw));
+                let parts = decoded.split("|");
+                if (parts.length === 2 && parts[1] === SECRET_KEY) {
+                    let courses = JSON.parse(parts[0]);
+                    return courses.map(c => String(c).toLowerCase().trim());
+                }
+            } catch(e) { return []; }
+            return [];
+        }
+
+        const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbzgzMKRRr5WCAmFKzUeIJCfAWdjryLkToD9htOcrH0OuJon_R1-IZSjF1NAhW6bDGqIHg/exec";
+
+        const COURSE_MAP = {
+            'all': { name: '👑 V-VIP ALL ACCESS (Tất Cả Khóa Học)', url: './courses/thptqg-2027/index.html' },
+            'thptqg-all': { name: '👑 Gói Trọn Bộ Cả Khóa THPTQG 2027', url: './courses/thptqg-2027/index.html' },
+            'toeic-all': { name: '📚 Full Combo TOEIC Cô Mai Phương', url: './courses/toeic-mai-phuong/index.html' },
+            'toeic-4-ky-nang': { name: '📚 Full Combo TOEIC Cô Mai Phương', url: './courses/toeic-mai-phuong/index.html' },
+            'toan-thay-chi': { name: 'Toán - Thầy Nguyễn Quốc Chí', url: './courses/thptqg-2027/detail.html?course=toan-thay-chi' },
+            'toan-thay-do-van-duc': { name: 'Toán - Thầy Đỗ Văn Đức', url: './courses/thptqg-2027/detail.html?course=toan-thay-do-van-duc' },
+            'toan-co-ngoc-huyen-lb': { name: 'Toán - Cô Ngọc Huyền LB', url: './courses/thptqg-2027/detail.html?course=toan-co-ngoc-huyen-lb' },
+            'toan-thay-nguyen-dang-ai': { name: 'Toán - Thầy Nguyễn Đăng Ái', url: './courses/thptqg-2027/detail.html?course=toan-thay-nguyen-dang-ai' },
+            'van-co-suong-mai': { name: 'Ngữ Văn - Cô Sương Mai QANDA', url: './courses/thptqg-2027/detail.html?course=van-co-suong-mai' },
+            'van-co-tran-thuy-duong': { name: 'Ngữ Văn - Cô Trần Thùy Dương', url: './courses/thptqg-2027/detail.html?course=van-co-tran-thuy-duong' },
+            'van-thay-pham-minh-nhat': { name: 'Ngữ Văn - Thầy Phạm Minh Nhật', url: './courses/thptqg-2027/detail.html?course=van-thay-pham-minh-nhat' },
+            'anh-co-vu-mai-phuong': { name: 'Tiếng Anh - Cô Vũ Mai Phương NGOAINGU24H', url: './courses/thptqg-2027/detail.html?course=anh-co-vu-mai-phuong' },
+            'ly-thay-vu-ngoc-anh': { name: 'Vật Lý - Thầy Vũ Ngọc Anh MAPSTUDY', url: './courses/thptqg-2027/detail.html?course=ly-thay-vu-ngoc-anh' },
+            'ly-thay-do-ngoc-ha': { name: 'Vật Lý - Thầy Đỗ Ngọc Hà', url: './courses/thptqg-2027/detail.html?course=ly-thay-do-ngoc-ha' },
+            'ly-thay-chu-van-bien': { name: 'Vật Lý - Thầy Chu Văn Biên', url: './courses/thptqg-2027/detail.html?course=ly-thay-chu-van-bien' },
+            'ly-thay-le-tung-ung': { name: 'Vật Lý - Thầy Lê Tùng Ứng', url: './courses/thptqg-2027/detail.html?course=ly-thay-le-tung-ung' },
+            'ly-thay-nguyen-dang-ai': { name: 'Vật Lý - Thầy Nguyễn Đăng Ái', url: './courses/thptqg-2027/detail.html?course=ly-thay-nguyen-dang-ai' },
+            'ly-thay-vu-hoang-quan': { name: 'Vật Lý - Thầy Vũ Hoàng Quân', url: './courses/thptqg-2027/detail.html?course=ly-thay-vu-hoang-quan' },
+            'hoa-thay-nguyen-anh-phong': { name: 'Hóa Học - Thầy Nguyễn Anh Phong NAP', url: './courses/thptqg-2027/detail.html?course=hoa-thay-nguyen-anh-phong' },
+            'hoa-thay-pham-van-trong': { name: 'Hóa Học - Thầy Phạm Văn Trọng', url: './courses/thptqg-2027/detail.html?course=hoa-thay-pham-van-trong' },
+            'sinh-co-tra-my': { name: 'Sinh Học - Cô Trà My QANDA', url: './courses/thptqg-2027/detail.html?course=sinh-co-tra-my' },
+            'sinh-thay-phan-khac-nghe': { name: 'Sinh Học - Thầy Phan Khắc Nghệ MOOP', url: './courses/thptqg-2027/detail.html?course=sinh-thay-phan-khac-nghe' },
+            'sinh-thay-truong-cong-kien': { name: 'Sinh Học - Thầy Trương Công Kiên', url: './courses/thptqg-2027/detail.html?course=sinh-thay-truong-cong-kien' },
+            'su-co-ngo-thi-lan-huong': { name: 'Lịch Sử - Cô Ngô Thị Lan Hương ATSCHOOL', url: './courses/thptqg-2027/detail.html?course=su-co-ngo-thi-lan-huong' },
+            'su-co-nguyen-huong-sen': { name: 'Lịch Sử - Cô Nguyễn Hương Sen SANGSANG', url: './courses/thptqg-2027/detail.html?course=su-co-nguyen-huong-sen' },
+            'hsa-education': { name: 'ĐGNL HSA - Khóa Edu Luyện Thi ĐGNL', url: './courses/thptqg-2027/detail.html?course=hsa-education' },
+            'hsa-empire': { name: 'ĐGNL HSA - Khóa Empire 2K9 Luyện Thi', url: './courses/thptqg-2027/detail.html?course=hsa-empire' },
+            'hsa-mapstudy': { name: 'ĐGNL HSA - Khóa Mapstudy 2K9 Luyện Thi', url: './courses/thptqg-2027/detail.html?course=hsa-mapstudy' },
+            'hsa-qda-hocmai': { name: 'ĐGNL HSA - Khóa HSA QDA HOCMAI 2K9', url: './courses/thptqg-2027/detail.html?course=hsa-qda-hocmai' },
+            'vact-empire': { name: 'ĐGNL V-ACT - Khóa V-ACT Empire 2K9', url: './courses/thptqg-2027/detail.html?course=vact-empire' },
+            'vact-hocmai': { name: 'ĐGNL V-ACT - Khóa V-ACT HOCMAI 2K9', url: './courses/thptqg-2027/detail.html?course=vact-hocmai' },
+            'vact-mapstudy': { name: 'ĐGNL V-ACT - Khóa V-ACT MAPSTUDY 2K9', url: './courses/thptqg-2027/detail.html?course=vact-mapstudy' },
+            'tsa-bmc': { name: 'ĐGTD TSA - Khóa TSA BMC Tư Duy', url: './courses/thptqg-2027/detail.html?course=tsa-bmc' },
+            'tsa-hocmai': { name: 'ĐGTD TSA - Khóa TSA HOCMAI Tư Duy', url: './courses/thptqg-2027/detail.html?course=tsa-hocmai' },
+            '48ngay': { name: 'TOEIC: 48 Ngày Lấy Gốc Tiếng Anh', url: './courses/toeic-mai-phuong/detail.html?course=48NGAY' },
+            'nghedoc': { name: 'TOEIC: Nghe - Đọc (650-700+)', url: './courses/toeic-mai-phuong/detail.html?course=NGHEDOC' },
+            'xoamunguphap': { name: 'TOEIC: Xóa Mù Ngữ Pháp Tiếng Anh', url: './courses/toeic-mai-phuong/detail.html?course=XOAMUNGUPHAP' },
+            'xoamucaptoc': { name: 'TOEIC: Xóa Mù Tiếng Anh Cấp Tốc', url: './courses/toeic-mai-phuong/detail.html?course=XOAMUCAPTOC' },
+            'writing': { name: 'TOEIC: Khóa Luyện Viết (Writing)', url: './courses/toeic-mai-phuong/detail.html?course=WRITING' },
+            'tongonnguphap': { name: 'TOEIC: Tổng Ôn Ngữ Pháp Cô Trang Anh', url: './courses/toeic-mai-phuong/detail.html?course=TONGONNGUPHAP' },
+            'tu-vung-sieu-toc': { name: 'TOEIC: Nhớ Từ Vựng Siêu Tốc', url: './courses/toeic-mai-phuong/detail.html?course=TU-VUNG-SIEU-TOC' },
+            'giaotiep': { name: 'TOEIC: Tiếng Anh Giao Tiếp Theo Chủ Đề', url: './courses/toeic-mai-phuong/detail.html?course=GIAOTIEP' },
+            'chuyennganh': { name: 'TOEIC: Tiếng Anh Trong Các Chuyên Ngành', url: './courses/toeic-mai-phuong/detail.html?course=CHUYENNGANH' },
+            'phatam': { name: 'TOEIC: Luyện Phát Âm Thầy Joe Hall', url: './courses/toeic-mai-phuong/detail.html?course=PHATAM' }
+        };
+
+        let currentAuthMode = 'login';
+
+        function checkUserAuthStatus() {
+            let userEmail = localStorage.getItem("userEmail");
+            let myCoursesArea = document.getElementById("myCoursesArea");
+            let myCoursesList = document.getElementById("myCoursesList");
+            let authButtonText = document.getElementById("authButtonText");
+
+            if (userEmail) {
+                authButtonText.innerText = userEmail.split('@')[0];
+                document.getElementById("auth-group-btn").onclick = function() {
+                    if(confirm("Bạn có muốn Đăng Xuất tài khoản không?")) { logout(); }
+                };
+                
+                document.getElementById("userEmailNotice").innerText = `Tài khoản: ${userEmail}`;
+                myCoursesArea.style.display = 'block';
+
+                let allowedCourses = getSecureCourses();
+
+                if (allowedCourses.length === 0) {
+                    myCoursesList.innerHTML = `<p style="font-size:13px; color:var(--text-muted); grid-column:1/-1;">Bạn chưa kích hoạt môn học nào. Hãy chọn môn bên dưới để đăng ký nhé!</p>`;
+                } else {
+                    let cardsHTML = '';
+                    allowedCourses.forEach(code => {
+                        let courseInfo = COURSE_MAP[code.toLowerCase()] || { name: `Môn học: ${code.toUpperCase()}`, url: `./courses/thptqg-2027/detail.html?course=${code}` };
+                        cardsHTML += `
+                            <div class="my-course-card">
+                                <div class="my-course-title"><i class="fa-solid fa-book" style="color:var(--primary); margin-right:6px;"></i> ${courseInfo.name}</div>
+                                <a href="${courseInfo.url}" class="btn-direct-study"><i class="fa-solid fa-circle-play"></i> VÀO HỌC NGAY</a>
+                            </div>
+                        `;
+                    });
+                    myCoursesList.innerHTML = cardsHTML;
+                }
+            } else {
+                authButtonText.innerText = "Đăng Nhập";
+                document.getElementById("auth-group-btn").onclick = function() { openAuthModal('login'); };
+                myCoursesArea.style.display = 'none';
+            }
+        }
+
+        function scrollToMyCourses(e) {
+            e.preventDefault();
+            let userEmail = localStorage.getItem("userEmail");
+            if (!userEmail) {
+                alert("Vui lòng Đăng Nhập tài khoản để xem các khóa học đã mua!");
+                openAuthModal('login');
+            } else {
+                let el = document.getElementById("myCoursesArea");
+                if (el) el.scrollIntoView({ behavior: 'smooth' });
+            }
+        }
+
+        function openAuthModal(mode) {
+            switchAuthMode(mode);
+            document.getElementById("authModal").style.display = 'flex';
+        }
+        function closeAuthModal() {
+            document.getElementById("authModal").style.display = 'none';
+            document.getElementById("authMsg").innerText = '';
+        }
+
+        function switchAuthMode(mode) {
+            currentAuthMode = mode;
+            document.getElementById("authMsg").innerText = '';
+            if (mode === 'login') {
+                document.getElementById("modalTitle").innerText = "Đăng Nhập Tài Khoản";
+                document.getElementById("btnAuthSubmit").innerText = "Đăng Nhập";
+                document.getElementById("authToggleArea").innerHTML = `Chưa có tài khoản? <a href="javascript:void(0)" onclick="switchAuthMode('register')">Đăng ký ngay</a>`;
+            } else {
+                document.getElementById("modalTitle").innerText = "Tạo Tài Khoản Mới";
+                document.getElementById("btnAuthSubmit").innerText = "Đăng Ký";
+                document.getElementById("authToggleArea").innerHTML = `Đã có tài khoản? <a href="javascript:void(0)" onclick="switchAuthMode('login')">Đăng nhập</a>`;
+            }
+        }
+
+        function handleAuthSubmit(e) {
+            e.preventDefault();
+            let email = document.getElementById("authEmail").value.trim().toLowerCase();
+            let password = document.getElementById("authPassword").value.trim();
+            let msg = document.getElementById("authMsg");
+
+            msg.style.color = "var(--primary)";
+            msg.innerText = "Đang kiểm tra...";
+
+            const callbackName = 'handleAuth_' + Date.now();
+
+            window[callbackName] = function(result) {
+                document.getElementById(callbackName)?.remove();
+                delete window[callbackName];
+
+                if (result.status === "success") {
+                    msg.style.color = "#16a34a";
+                    msg.innerText = result.message || "Thành công!";
+
+                    if (currentAuthMode === 'login') {
+                        localStorage.setItem("userEmail", result.email);
+                        setSecureCourses(result.allowedCourses);
+                        setTimeout(() => {
+                            closeAuthModal();
+                            checkUserAuthStatus();
+                        }, 800);
+                    } else {
+                        alert("Tạo tài khoản thành công! Bạn có thể Đăng Nhập ngay bây giờ.");
+                        switchAuthMode('login');
+                    }
+                } else {
+                    msg.style.color = "#dc2626";
+                    msg.innerText = result.message || "Email hoặc Mật khẩu chưa đúng!";
+                }
+            };
+
+            const script = document.createElement('script');
+            script.id = callbackName;
+            script.src = `${SCRIPT_URL}?action=${currentAuthMode}&email=${encodeURIComponent(email)}&password=${encodeURIComponent(password)}&callback=${callbackName}`;
+            document.body.appendChild(script);
+        }
+
+        function logout() {
+            localStorage.removeItem("userEmail");
+            localStorage.removeItem("allowedCourses");
+            alert("Đã đăng xuất tài khoản!");
+            checkUserAuthStatus();
+        }
+
+        // Script điều khiển Apple Liquid Navigation Bar & Dark Mode
+        document.addEventListener("DOMContentLoaded", () => {
+            checkUserAuthStatus();
+
+            const navButtons = document.querySelectorAll(".nav-btn");
+            const activePill = document.getElementById("active-pill");
+            const themeBtn = document.getElementById("theme-btn");
+            const nav = document.getElementById("nav");
+            const glare = document.getElementById("glare");
+
+            function updatePill(btn, smooth = true) {
+                if (!btn || !activePill) return;
+                activePill.style.transition = smooth
+                    ? "transform .5s cubic-bezier(.34,1.2,.64,1), width .5s cubic-bezier(.34,1.2,.64,1)"
+                    : "none";
+                activePill.style.width = `${btn.offsetWidth}px`;
+                activePill.style.transform = `translateX(${btn.offsetLeft}px)`;
+            }
+
+            const initialActive = document.querySelector(".nav-btn.active");
+            if (initialActive) {
+                setTimeout(() => {
+                    updatePill(initialActive, false);
+                    void activePill.offsetWidth;
+                }, 50);
+            }
+
+            navButtons.forEach(btn => {
+                btn.addEventListener("click", () => {
+                    navButtons.forEach(b => b.classList.remove("active"));
+                    btn.classList.add("active");
+                    updatePill(btn);
+                });
+            });
+
+            if (themeBtn) {
+                themeBtn.addEventListener("click", () => {
+                    const root = document.documentElement;
+                    const isDark = root.getAttribute("data-theme") === "dark";
+                    root.setAttribute("data-theme", isDark ? "light" : "dark");
+                    setTimeout(() => {
+                        const active = document.querySelector(".nav-btn.active");
+                        if (active) updatePill(active);
+                    }, 100);
+                });
+            }
+
+            if (nav && glare) {
+                nav.addEventListener("mousemove", e => {
+                    const rect = nav.getBoundingClientRect();
+                    glare.style.setProperty("--x", `${e.clientX - rect.left}px`);
+                    glare.style.setProperty("--y", `${e.clientY - rect.top}px`);
+                });
+            }
+
+            const urlParams = new URLSearchParams(window.location.search);
+            if (urlParams.get('action') === 'login' && !localStorage.getItem("userEmail")) {
+                openAuthModal('login');
+            }
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,260 @@
+/* =========================================
+   1. CẤU HÌNH BIẾN MÀU & GIAO DIỆN (LIGHT / DARK)
+   ========================================= */
+:root {
+    --bg-color: #f1f5f9;
+    --glass-bg: rgba(255, 255, 255, 0.75);
+    --glass-border: rgba(255, 255, 255, 0.9);
+    --text-main: #1e293b;
+    --text-muted: #64748b;
+    --primary: #2563eb;
+    --primary-hover: #1d4ed8;
+    --card-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
+    --pill-bg: #ffffff;
+}
+
+[data-theme="dark"] {
+    --bg-color: #050509;
+    --glass-bg: rgba(20, 20, 25, 0.75);
+    --glass-border: rgba(255, 255, 255, 0.12);
+    --text-main: #f8fafc;
+    --text-muted: #94a3b8;
+    --primary: #3b82f6;
+    --primary-hover: #2563eb;
+    --card-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+    --pill-bg: #2d2d35;
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+
+body {
+    background-color: var(--bg-color);
+    color: var(--text-main);
+    min-height: 100vh;
+    overflow-x: hidden;
+    position: relative;
+    transition: background-color 0.5s ease, color 0.5s ease;
+}
+
+/* =========================================
+   2. NỀN ĐỐM MÁU ĐỘNG (MESH BLOBS ANIMATION)
+   ========================================= */
+.bg-mesh {
+    position: fixed; inset: 0; z-index: -1; filter: blur(90px); opacity: 0.6; pointer-events: none; overflow: hidden;
+}
+.blob {
+    position: absolute; border-radius: 50%; animation: floatBlob 15s infinite alternate ease-in-out;
+}
+.blob-1 { width: 45vw; height: 45vw; background: #2563eb; top: -10%; left: -10%; }
+.blob-2 { width: 50vw; height: 50vw; background: #9333ea; bottom: -15%; right: -10%; animation-delay: -5s; }
+.blob-3 { width: 35vw; height: 35vw; background: #06b6d4; top: 35%; left: 35%; animation-delay: -10s; }
+
+@keyframes floatBlob {
+    0% { transform: translate(0, 0) scale(1); }
+    100% { transform: translate(40px, 50px) scale(1.15); }
+}
+
+/* =========================================
+   3. THANH MENU APPLE LIQUID GLASS (HEADER)
+   ========================================= */
+header { position: sticky; top: 15px; z-index: 1000; display: flex; justify-content: center; padding: 0 15px; }
+
+.liquid-nav {
+    position: relative; display: flex; align-items: center; padding: 6px 12px;
+    background: var(--glass-bg); backdrop-filter: blur(25px) saturate(180%);
+    -webkit-backdrop-filter: blur(25px) saturate(180%);
+    border: 1px solid var(--glass-border); border-radius: 99px; box-shadow: 0 20px 40px rgba(0,0,0,0.08);
+    transition: all 0.3s ease;
+}
+
+.liquid-glare-container { position: absolute; inset: 0; border-radius: 99px; overflow: hidden; pointer-events: none; }
+.liquid-glare {
+    position: absolute; inset: 0; opacity: 0; transition: opacity 0.3s ease;
+    background: radial-gradient(circle 90px at var(--x, 50%) var(--y, 50%), rgba(255,255,255,0.3) 0%, transparent 100%);
+}
+.liquid-nav:hover .liquid-glare { opacity: 1; }
+
+.nav-items { position: relative; display: flex; gap: 4px; z-index: 3; align-items: center; }
+
+.active-pill {
+    position: absolute; top: 0; left: 0; height: 100%; background: var(--pill-bg); border-radius: 99px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    transition: transform 0.5s cubic-bezier(0.34, 1.2, 0.64, 1), width 0.5s cubic-bezier(0.34, 1.2, 0.64, 1);
+    z-index: 1;
+}
+
+.nav-btn {
+    position: relative; background: transparent; border: none; padding: 10px 16px; border-radius: 99px;
+    font-size: 13px; font-weight: 600; color: var(--text-muted); cursor: pointer; transition: color 0.3s ease; z-index: 2;
+    text-decoration: none; display: inline-flex; align-items: center; gap: 6px; outline: none;
+}
+.nav-btn.active, .nav-btn:hover { color: var(--text-main); }
+
+.divider { width: 1px; height: 20px; background: var(--text-muted); opacity: 0.25; margin: 0 4px; z-index: 3; }
+
+.theme-btn {
+    position: relative; background: transparent; border: none; width: 38px; height: 38px; border-radius: 50%;
+    color: var(--text-main); cursor: pointer; z-index: 3; display: flex; align-items: center; justify-content: center;
+}
+.theme-icon-wrapper { position: relative; width: 18px; height: 18px; }
+.theme-icon-wrapper svg { position: absolute; inset: 0; transition: transform 0.5s cubic-bezier(0.34, 1.2, 0.64, 1), opacity 0.4s ease; stroke-width: 2.2; }
+.sun { opacity: 1; transform: rotate(0deg) scale(1); }
+.moon { opacity: 0; transform: rotate(-90deg) scale(0); }
+[data-theme="dark"] .sun { opacity: 0; transform: rotate(90deg) scale(0); }
+[data-theme="dark"] .moon { opacity: 1; transform: rotate(0deg) scale(1); }
+
+/* =========================================
+   4. HERO SECTION KÍNH MỜ
+   ========================================= */
+.hero {
+    background: linear-gradient(135deg, rgba(30, 41, 59, 0.85) 0%, rgba(37, 99, 235, 0.85) 100%);
+    backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px);
+    color: #ffffff; padding: 4.5rem 2rem; text-align: center; border-radius: 28px; margin: 25px auto; max-width: 1200px;
+    box-shadow: 0 20px 40px rgba(37, 99, 235, 0.15); border: 1px solid rgba(255, 255, 255, 0.15);
+}
+.hero-content { max-width: 800px; margin: 0 auto; }
+.hero h1 { font-size: 2.5rem; margin-bottom: 1rem; font-weight: 800; letter-spacing: -0.5px; }
+.hero p { font-size: 1.15rem; opacity: 0.9; margin-bottom: 2rem; }
+
+.search-box {
+    display: flex; max-width: 600px; margin: 0 auto; background: rgba(255, 255, 255, 0.9);
+    border-radius: 50px; padding: 0.4rem; box-shadow: 0 10px 25px rgba(0,0,0,0.15); border: 1px solid #fff;
+}
+.search-box input { border: none; outline: none; padding: 0.8rem 1.5rem; width: 100%; border-radius: 50px; font-size: 1rem; background: transparent; color: #0f172a; }
+.search-box button { background: var(--primary); color: white; border: none; padding: 0.8rem 1.8rem; border-radius: 50px; cursor: pointer; font-weight: 600; transition: background 0.2s; }
+.search-box button:hover { background: var(--primary-hover); }
+
+/* =========================================
+   5. CONTAINER & KHÓA HỌC CỦA TÔI (DASHBOARD)
+   ========================================= */
+.container { max-width: 1200px; margin: 3rem auto; padding: 0 2rem; }
+.section-title { text-align: center; margin-bottom: 2.5rem; }
+.section-title h2 { font-size: 2.2rem; margin-bottom: 0.5rem; font-weight: 800; letter-spacing: -0.5px; }
+.section-title p { color: var(--text-muted); }
+
+.my-courses-box {
+    background: var(--glass-bg); backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px);
+    border: 2px solid var(--primary); border-radius: 20px; padding: 24px; margin-bottom: 3.5rem;
+    box-shadow: 0 15px 35px rgba(37, 99, 235, 0.12); display: none; scroll-margin-top: 100px;
+}
+.my-courses-header { font-weight: 800; font-size: 18px; margin-bottom: 15px; display: flex; align-items: center; justify-content: space-between; border-bottom: 1px solid var(--glass-border); padding-bottom: 12px; }
+.my-courses-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 15px; margin-top: 15px; }
+.my-course-card {
+    background: var(--pill-bg); border: 1px solid var(--glass-border); border-radius: 14px; padding: 16px;
+    display: flex; flex-direction: column; justify-content: space-between; transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+}
+.my-course-card:hover { border-color: var(--primary); transform: translateY(-3px); box-shadow: var(--card-shadow); }
+.my-course-title { font-size: 14px; font-weight: 700; margin-bottom: 12px; line-height: 1.4; }
+.btn-direct-study {
+    background: #16a34a; color: white; text-decoration: none; padding: 9px 14px; border-radius: 8px;
+    font-size: 13px; font-weight: bold; text-align: center; display: inline-flex; align-items: center; justify-content: center; gap: 6px; transition: background 0.2s;
+}
+.btn-direct-study:hover { background: #15803d; }
+
+/* =========================================
+   6. DANH MỤC KHÓA HỌC (CARDS)
+   ========================================= */
+.categories-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 2.5rem; margin-bottom: 4rem; }
+.category-card {
+    background: var(--glass-bg); backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px);
+    border: 1px solid var(--glass-border); border-radius: 20px; padding: 2rem; box-shadow: var(--card-shadow);
+    transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1), box-shadow 0.3s ease; border-top: 5px solid var(--primary);
+}
+.category-card:hover { transform: translateY(-6px); box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1); }
+.card-banner { width: 100%; height: 160px; object-fit: cover; border-radius: 12px; margin-bottom: 1.2rem; }
+.category-card h3 { font-size: 1.25rem; margin-bottom: 0.8rem; font-weight: 700; line-height: 1.4; }
+.category-card p { color: var(--text-muted); font-size: 0.95rem; margin-bottom: 1.5rem; }
+
+.btn-card {
+    display: inline-flex; align-items: center; gap: 6px; padding: 10px 18px; border-radius: 10px;
+    font-weight: 700; text-decoration: none; font-size: 13.5px; transition: all 0.2s;
+}
+.btn-buy { background: rgba(37, 99, 235, 0.1); color: var(--primary); border: 1px solid rgba(37, 99, 235, 0.2); }
+.btn-buy:hover { background: var(--primary); color: #fff; }
+
+/* =========================================
+   7. LIÊN HỆ & BANNER YÊU CẦU TÀI LIỆU
+   ========================================= */
+.request-banner {
+    background: linear-gradient(135deg, #2563eb, #1d4ed8); color: white; padding: 3rem 2rem; border-radius: 24px;
+    text-align: center; margin-bottom: 4rem; box-shadow: 0 15px 30px rgba(37, 99, 235, 0.2);
+}
+.request-banner h2 { font-size: 2rem; margin-bottom: 0.5rem; font-weight: 800; }
+.request-banner a {
+    background: white; color: var(--primary); padding: 0.8rem 2rem; border-radius: 30px;
+    text-decoration: none; font-weight: 700; display: inline-block; margin-top: 1rem; transition: transform 0.2s;
+}
+.request-banner a:hover { transform: scale(1.05); }
+
+.contact-section {
+    background: var(--glass-bg); backdrop-filter: blur(20px); border: 1px solid var(--glass-border);
+    border-radius: 24px; padding: 3rem 2rem; box-shadow: var(--card-shadow); display: grid; grid-template-columns: 1fr 1fr; gap: 3rem; margin-top: 4rem;
+}
+.contact-info h2 { font-size: 1.8rem; margin-bottom: 1rem; font-weight: 800; }
+.contact-details { display: flex; flex-direction: column; gap: 1.2rem; margin-top: 1.5rem; }
+.contact-item { display: flex; align-items: center; gap: 1rem; }
+.contact-item i {
+    width: 42px; height: 42px; background: rgba(37, 99, 235, 0.1); color: var(--primary);
+    border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 1.1rem;
+}
+
+.contact-form { display: flex; flex-direction: column; gap: 1.2rem; }
+.form-group input, .form-group textarea {
+    width: 100%; padding: 0.9rem 1.1rem; border: 1px solid var(--glass-border);
+    background: var(--pill-bg); color: var(--text-main); border-radius: 12px; outline: none; font-size: 14px; transition: border-color 0.2s;
+}
+.form-group input:focus, .form-group textarea:focus { border-color: var(--primary); }
+.form-btn {
+    background: var(--primary); color: white; padding: 0.9rem; border: none; border-radius: 12px;
+    font-weight: 700; cursor: pointer; font-size: 14px; transition: background 0.2s;
+}
+.form-btn:hover { background: var(--primary-hover); }
+
+/* =========================================
+   8. FLOATING WIDGETS & MODAL ĐĂNG NHẬP
+   ========================================= */
+.floating-widgets { position: fixed; bottom: 30px; right: 30px; display: flex; flex-direction: column; gap: 12px; z-index: 9999; }
+.widget-btn {
+    width: 50px; height: 50px; border-radius: 50%; display: flex; align-items: center; justify-content: center;
+    color: white; font-size: 1.4rem; text-decoration: none; box-shadow: 0 6px 15px rgba(0,0,0,0.25); transition: transform 0.3s;
+}
+.widget-btn:hover { transform: scale(1.1); }
+.widget-zalo { background-color: #0068ff; }
+.widget-messenger { background-color: #0084ff; }
+.widget-phone { background-color: #10b981; }
+
+.modal-overlay {
+    position: fixed; inset: 0; background: rgba(0,0,0,0.6); backdrop-filter: blur(8px);
+    display: none; justify-content: center; align-items: center; z-index: 2000; padding: 15px;
+}
+.modal-box {
+    background: var(--glass-bg); backdrop-filter: blur(30px); border: 1px solid var(--glass-border);
+    width: 100%; max-width: 400px; padding: 30px; border-radius: 24px; position: relative; box-shadow: 0 25px 50px rgba(0,0,0,0.3);
+}
+.modal-box h2 { text-align: center; margin-bottom: 20px; font-size: 22px; font-weight: 800; }
+.modal-box input {
+    width: 100%; padding: 12px 16px; margin: 8px 0; border: 1px solid var(--glass-border);
+    background: var(--pill-bg); color: var(--text-main); border-radius: 12px; outline: none; font-size: 14px;
+}
+.modal-box button.btn-submit-auth {
+    width: 100%; padding: 12px; background: var(--primary); color: white; border: none;
+    border-radius: 12px; font-weight: bold; cursor: pointer; margin-top: 15px; font-size: 15px; transition: background 0.2s;
+}
+.modal-box button.btn-submit-auth:hover { background: var(--primary-hover); }
+.close-modal-btn { position: absolute; top: 15px; right: 20px; font-size: 24px; cursor: pointer; color: var(--text-muted); border: none; background: none; }
+.auth-toggle-link { text-align: center; margin-top: 15px; font-size: 13.5px; color: var(--text-muted); }
+.auth-toggle-link a { color: var(--primary); text-decoration: none; font-weight: bold; }
+
+/* =========================================
+   9. FOOTER & RESPONSIVE
+   ========================================= */
+footer { background: #0b0f19; color: #fff; padding: 3.5rem 2rem 2rem 2rem; margin-top: 6rem; border-top: 1px solid rgba(255,255,255,0.05); }
+.footer-content { max-width: 1200px; margin: 0 auto; display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 2rem; }
+.footer-col p { color: #94a3b8; font-size: 0.9rem; line-height: 1.6; }
+.copyright { text-align: center; padding-top: 2.5rem; margin-top: 2.5rem; border-top: 1px solid #1e293b; color: #64748b; font-size: 0.85rem; }
+
+@media (max-width: 768px) {
+    .contact-section { grid-template-columns: 1fr; }
+    .hero h1 { font-size: 2rem; }
+    .hero { padding: 3rem 1rem; }
+}

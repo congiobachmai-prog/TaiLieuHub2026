@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Đăng Ký Khóa Học - TOEIC Cô Mai Phương NGOAINGU24H</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, sans-serif; background: #f1f5f9; padding: 20px; color: #1e293b; margin: 0; }
+        .card { max-width: 620px; margin: 20px auto; background: #fff; padding: 25px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border-top: 5px solid #2563eb; }
+        h2 { text-align: center; margin-top: 0; color: #0f172a; font-size: 20px; }
+        p.sub { text-align: center; color: #64748b; font-size: 13px; margin-bottom: 20px; }
+        .form-group { margin-bottom: 16px; }
+        label { display: block; font-weight: bold; font-size: 13px; margin-bottom: 5px; color: #334155; }
+        
+        input[readonly] { width: 100%; padding: 10px; border: 1px solid #cbd5e1; border-radius: 6px; box-sizing: border-box; font-size: 14px; background-color: #e2e8f0; color: #334155; font-weight: bold; cursor: not-allowed; }
+        
+        .section-label { font-size: 13px; font-weight: 800; color: #1e3a8a; margin: 15px 0 8px 0; display: flex; align-items: center; gap: 6px; }
+        .checklist { background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; padding: 10px; max-height: 360px; overflow-y: auto; }
+        .item { display: flex; justify-content: space-between; align-items: center; padding: 9px 8px; border-bottom: 1px dashed #cbd5e1; font-size: 13px; border-radius: 6px; }
+        .item:last-child { border-bottom: none; }
+        .item-combo { background: #fefce8; border: 1px solid #fef08a; margin-bottom: 6px; }
+        .gift-tag { font-size: 11px; background: #dc2626; color: white; padding: 2px 6px; border-radius: 4px; font-weight: bold; margin-left: 4px; }
+        .free-tag { color: #16a34a; font-weight: bold; font-size: 12px; }
+
+        .btn { width: 100%; padding: 12px; background: #2563eb; color: #fff; border: none; border-radius: 6px; font-weight: bold; cursor: pointer; font-size: 15px; margin-top: 15px; transition: background 0.2s; }
+        .btn:hover { background: #1d4ed8; }
+        .btn:disabled { background: #94a3b8; cursor: not-allowed; }
+        .qr-box { display: none; margin-top: 20px; text-align: center; border-top: 2px dashed #cbd5e1; padding-top: 15px; }
+        .memo-text { background: #fef2f2; border: 1px solid #fecaca; color: #dc2626; padding: 8px; border-radius: 6px; font-weight: bold; font-size: 13px; margin-top: 8px; word-break: break-all; }
+        
+        .status-loading { color: #d97706; font-weight: bold; font-size: 14px; margin-top: 10px; }
+        .status-success { color: #16a34a; font-weight: bold; font-size: 16px; margin-top: 10px; background: #dcfce7; padding: 12px; border-radius: 8px; border: 1px solid #86efac; }
+    </style>
+</head>
+<body>
+
+<div class="card">
+    <h2><i class="fa-solid fa-graduation-cap" style="color:#2563eb;"></i> ĐĂNG KÝ TOEIC CÔ MAI PHƯƠNG</h2>
+    <p class="sub">Chọn khóa học & chuyển khoản VietQR tự động để nhận ưu đãi ngay!</p>
+    
+    <form onsubmit="generateQR(event)">
+        <div class="form-group">
+            <label><i class="fa-solid fa-user-check" style="color:#16a34a;"></i> Tài khoản Gmail đăng nhập:</label>
+            <input type="email" id="gmail" readonly title="Tài khoản đã đăng nhập">
+        </div>
+
+        <div class="form-group">
+            <label>Danh Sách Gói Combo & Khóa Học TOEIC:</label>
+            <div class="checklist">
+                
+                <div class="section-label"><i class="fa-solid fa-fire" style="color:#dc2626;"></i> CÁC GÓI COMBO TIẾT KIỆM</div>
+                
+                <div class="item item-combo">
+                    <label style="font-weight:bold; color:#b45309; cursor:pointer;">
+                        <input type="checkbox" class="sub-check" value="toeic-all" data-price="549000" onchange="calc()"> 
+                        Combo 1: Lựa Chọn Tốt Nhất
+                        <br><span style="font-weight:normal; font-size:11px; color:#64748b;">(Full tất cả khóa + Web luyện nói-viết + 27 đề luyện nghe đọc)</span>
+                    </label>
+                    <b style="color:#dc2626;">549.000đ</b>
+                </div>
+
+                <div class="item item-combo">
+                    <label style="font-weight:bold; color:#b45309; cursor:pointer;">
+                        <input type="checkbox" class="sub-check" value="combo2" data-price="189000" onchange="calc()"> 
+                        Combo 2: Đạt Target Toeic Nghe - Đọc
+                        <br><span style="font-weight:normal; font-size:11px; color:#64748b;">(Xóa mù cấp tốc + TOEIC nghe đọc)</span>
+                    </label>
+                    <b style="color:#dc2626;">189.000đ</b>
+                </div>
+
+                <div class="item item-combo">
+                    <label style="font-weight:bold; color:#b45309; cursor:pointer;">
+                        <input type="checkbox" class="sub-check" value="combo3" data-price="199000" onchange="calc()"> 
+                        Combo 3: Đạt Target Toeic Nói - Viết
+                        <br><span style="font-weight:normal; font-size:11px; color:#64748b;">(TOEIC nói viết + Writing)</span>
+                    </label>
+                    <b style="color:#dc2626;">199.000đ</b>
+                </div>
+
+                <div class="item item-combo">
+                    <label style="font-weight:bold; color:#b45309; cursor:pointer;">
+                        <input type="checkbox" class="sub-check" value="combo4" data-price="359000" onchange="calc()"> 
+                        Combo 4: Đạt Target Toeic 4 Kỹ Năng
+                        <br><span style="font-weight:normal; font-size:11px; color:#64748b;">(Xóa mù cấp tốc + Nghe nói + Đọc viết + Writing)</span>
+                    </label>
+                    <b style="color:#dc2626;">359.000đ</b>
+                </div>
+
+                <div class="item item-combo">
+                    <label style="font-weight:bold; color:#b45309; cursor:pointer;">
+                        <input type="checkbox" class="sub-check" value="combo5" data-price="229000" onchange="calc()"> 
+                        Combo 5: Từ Mất Gốc Đến Giỏi
+                        <br><span style="font-weight:normal; font-size:11px; color:#64748b;">(Xóa mù cấp tốc + Phát âm Joe Hall + Từ vựng siêu tốc + 48 ngày lấy gốc)</span>
+                    </label>
+                    <b style="color:#dc2626;">229.000đ</b>
+                </div>
+
+                <div class="item item-combo">
+                    <label style="font-weight:bold; color:#b45309; cursor:pointer;">
+                        <input type="checkbox" class="sub-check" value="combo6" data-price="169000" onchange="calc()"> 
+                        Combo 6: Làm Chủ Toàn Bộ Ngữ Pháp
+                        <br><span style="font-weight:normal; font-size:11px; color:#64748b;">(Xóa mù ngữ pháp + Tổng ôn ngữ pháp)</span>
+                    </label>
+                    <b style="color:#dc2626;">169.000đ</b>
+                </div>
+
+                <div class="section-label"><i class="fa-solid fa-book" style="color:#2563eb;"></i> CÁC KHÓA HỌC LẺ</div>
+
+                <div class="item">
+                    <label style="cursor:pointer;"><input type="checkbox" class="sub-check" value="xoamunguphap" data-price="159000" onchange="calc()"> Khóa Xóa Mù Ngữ Pháp (Cơ bản + Nâng cao)</label>
+                    <b style="color:#2563eb;">159.000đ</b>
+                </div>
+                <div class="item">
+                    <label style="cursor:pointer;"><input type="checkbox" class="sub-check" value="48ngay" data-price="99000" onchange="calc()"> 48 Ngày Lấy Gốc Tiếng Anh Toàn Diện</label>
+                    <b style="color:#2563eb;">99.000đ</b>
+                </div>
+                <div class="item">
+                    <label style="cursor:pointer;"><input type="checkbox" class="sub-check" value="nghedoc" data-price="129000" onchange="calc()"> TOEIC Nghe - Đọc <span class="gift-tag">Tặng 27 Đề Luyện</span></label>
+                    <b style="color:#2563eb;">129.000đ</b>
+                </div>
+                <div class="item">
+                    <label style="cursor:pointer;"><input type="checkbox" class="sub-check" value="xoamucaptoc" data-price="89000" onchange="calc()"> Xóa Mù Tiếng Anh Cấp Tốc</label>
+                    <b style="color:#2563eb;">89.000đ</b>
+                </div>
+                <div class="item">
+                    <label style="cursor:pointer;"><input type="checkbox" class="sub-check" value="writing" data-price="89000" onchange="calc()"> Khóa Luyện Viết (Writing)</label>
+                    <b style="color:#2563eb;">89.000đ</b>
+                </div>
+                <div class="item">
+                    <label style="cursor:pointer;"><input type="checkbox" class="sub-check" value="tongonnguphap" data-price="69000" onchange="calc()"> Tổng Ôn Ngữ Pháp Cô Trang Anh</label>
+                    <b style="color:#2563eb;">69.000đ</b>
+                </div>
+                <div class="item">
+                    <label style="cursor:pointer;"><input type="checkbox" class="sub-check" value="tu-vung-sieu-toc" data-price="69000" onchange="calc()"> Khóa Nhớ Từ Vựng Siêu Tốc</label>
+                    <b style="color:#2563eb;">69.000đ</b>
+                </div>
+                <div class="item">
+                    <label style="cursor:pointer;"><input type="checkbox" class="sub-check" value="phatam" data-price="89000" onchange="calc()"> Luyện Phát Âm Thầy Joe Hall</label>
+                    <b style="color:#2563eb;">89.000đ</b>
+                </div>
+                <div class="item">
+                    <label style="cursor:pointer;"><input type="checkbox" class="sub-check" value="noiviit" data-price="159000" onchange="calc()"> Khóa TOEIC Nói - Viết <span class="gift-tag">Tặng Web + Giao Tiếp</span></label>
+                    <b style="color:#2563eb;">159.000đ</b>
+                </div>
+
+                <div class="section-label"><i class="fa-solid fa-gift" style="color:#16a34a;"></i> QUÀ TẶNG KÈM TỰ ĐỘNG</div>
+                <div class="item" style="background:#f0fdf4; border:1px solid #bbf7d0;">
+                    <label style="cursor:not-allowed;"><input type="checkbox" id="giftCourse" value="chuyennganh" data-price="0" checked disabled> Tiếng Anh Trong Các Chuyên Ngành</label>
+                    <span class="free-tag">MIỄN PHÍ</span>
+                </div>
+
+            </div>
+        </div>
+
+        <div style="display:flex; justify-content:space-between; align-items:center; font-weight:bold; margin-top:12px; background:#eff6ff; padding:12px; border-radius:6px; border:1px solid #bfdbfe;">
+            <span>Tổng tiền thanh toán:</span>
+            <span id="total" style="color:#dc2626; font-size:20px;">0 đ</span>
+        </div>
+
+        <button type="submit" id="btnSubmit" class="btn"><i class="fa-solid fa-qrcode"></i> Tạo Mã Thanh Toán VietQR</button>
+    </form>
+
+    <div class="qr-box" id="qrBox">
+        <h3 style="color:#16a34a; margin:0 0 5px 0; font-size:16px;">Mã VietQR Thanh Toán Tự Động PayOS</h3>
+        <p style="font-size:12px; color:#64748b; margin:0 0 10px 0;">Dùng App Ngân Hàng quét mã bên dưới để hệ thống kích hoạt tự động</p>
+        <img id="qrImg" width="220" height="220" style="border: 2px solid #2563eb; border-radius:8px; padding:4px;">
+        
+        <p style="font-size:12px; margin:10px 0 0 0;">📌 <b>Nội dung chuyển khoản bắt buộc:</b></p>
+        <div class="memo-text" id="memo"></div>
+
+        <div id="paymentStatus" class="status-loading">
+            <i class="fa-solid fa-spinner fa-spin"></i> Đang chờ chuyển khoản... (Hệ thống sẽ tự nhận dạng ngay)
+        </div>
+
+        <a href="../../index.html" style="display:inline-block; margin-top:15px; padding:10px 20px; background:#16a34a; color:#fff; text-decoration:none; border-radius:6px; font-weight:bold; font-size:13px;">
+            <i class="fa-solid fa-right-to-bracket"></i> Đã Chuyển Khoản? Về Trang Chủ Đăng Nhập
+        </a>
+    </div>
+</div>
+
+<script>
+    const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbyLrUA_bpBJxO4mXxTROmCOySxmDKUYaBWxa2XqCqItIl2Hh0pJnzHPz25TEzuRo6bMJA/exec";
+
+    let currentUserEmail = "";
+
+    for (let i = 0; i < localStorage.length; i++) {
+        let key = localStorage.key(i);
+        let val = localStorage.getItem(key);
+
+        if (!currentUserEmail && typeof val === 'string' && val.includes('@') && val.includes('.')) {
+            currentUserEmail = val.replace(/["']/g, '').trim();
+        }
+    }
+
+    document.addEventListener("DOMContentLoaded", function() {
+        if (currentUserEmail) {
+            document.getElementById('gmail').value = currentUserEmail;
+        } else {
+            document.getElementById('gmail').placeholder = "Chưa nhận diện được tài khoản! Vui lòng đăng nhập.";
+        }
+    });
+
+    let totalPrice = 0;
+    function calc() {
+        totalPrice = 0;
+        document.querySelectorAll('.sub-check:checked').forEach(c => totalPrice += parseInt(c.dataset.price));
+        document.getElementById('total').innerText = totalPrice.toLocaleString('vi-VN') + ' đ';
+    }
+
+    function generateQR(e) {
+        e.preventDefault();
+
+        if (!currentUserEmail) {
+            alert('Bạn chưa đăng nhập tài khoản! Vui lòng quay lại Trang chủ để đăng nhập.');
+            return;
+        }
+
+        let subs = [];
+        document.querySelectorAll('.sub-check:checked').forEach(c => subs.push(c.value));
+
+        if (subs.length === 0) return alert('Vui lòng tích chọn ít nhất 1 khóa học hoặc gói Combo!');
+
+        let btn = document.getElementById('btnSubmit');
+        btn.innerText = "⏳ Đang khởi tạo đơn PayOS...";
+        btn.disabled = true;
+
+        // Nội dung chỉ cần gửi Email để Backend lưu lại kèm mã OrderCode
+        let cleanEmailPrefix = currentUserEmail.split('@')[0].trim();
+        let description = `DH ${cleanEmailPrefix}`;
+
+        fetch(`${SCRIPT_URL}?action=createOrder&amount=${totalPrice}&description=${encodeURIComponent(description)}&email=${encodeURIComponent(currentUserEmail)}&courses=${encodeURIComponent(subs.join(','))}`, {
+            method: 'GET',
+            redirect: 'follow'
+        })
+        .then(response => response.json())
+        .then(res => {
+            btn.innerText = "🔑 Tạo Mã Thanh Toán VietQR";
+            btn.disabled = false;
+
+            if (res && res.status === "success" && res.data && res.data.qrCode) {
+                // Hiển thị mã QR PayOS
+                document.getElementById('qrImg').src = `https://api.qrserver.com/v1/create-qr-code/?size=220x220&data=${encodeURIComponent(res.data.qrCode)}`;
+                // Hiển thị đúng nội dung mã giao dịch do PayOS cấp
+                document.getElementById('memo').innerText = res.data.description || description;
+                document.getElementById('qrBox').style.display = 'block';
+                document.getElementById('qrBox').scrollIntoView({ behavior: 'smooth' });
+
+                // Lắng nghe kích hoạt khóa học
+                startCheckingPayment(subs);
+            } else {
+                alert("Không thể tạo đơn PayOS: " + (res.message || "Lỗi tạo đơn"));
+            }
+        })
+        .catch(err => {
+            btn.innerText = "🔑 Tạo Mã Thanh Toán VietQR";
+            btn.disabled = false;
+            alert("Lỗi kết nối tới máy chủ Google Apps Script!");
+        });
+    }
+
+    let checkInterval = null;
+    function startCheckingPayment(boughtSubs) {
+        if (checkInterval) clearInterval(checkInterval);
+
+        checkInterval = setInterval(() => {
+            window.handleCheckPaymentResponse = function(data) {
+                if (data && data.status === "success" && data.allowedCourses) {
+                    // Kiểm tra xem các môn vừa mua đã được cộng vào Cột C trên Google Sheet chưa
+                    let isActivated = boughtSubs.every(sub => data.allowedCourses.includes(sub));
+                    
+                    if (isActivated) {
+                        clearInterval(checkInterval);
+                        document.getElementById('paymentStatus').className = "status-success";
+                        document.getElementById('paymentStatus').innerHTML = "<i class='fa-solid fa-circle-check'></i> Thanh toán thành công! Khóa học đã được kích hoạt. Đang chuyển về trang chủ...";
+                        
+                        setTimeout(() => {
+                            window.location.href = "../../index.html";
+                        }, 2000);
+                    }
+                }
+            };
+
+            let oldCheckScript = document.getElementById('checkPaymentScript');
+            if (oldCheckScript) oldCheckScript.remove();
+
+            let script = document.createElement('script');
+            script.id = 'checkPaymentScript';
+            script.src = `${SCRIPT_URL}?action=checkStatus&email=${encodeURIComponent(currentUserEmail)}&callback=handleCheckPaymentResponse`;
+            document.body.appendChild(script);
+        }, 3000);
+    }
+</script>
+</body>
+</html>

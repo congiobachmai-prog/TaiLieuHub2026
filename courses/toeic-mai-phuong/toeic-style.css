@@ -1,0 +1,135 @@
+/* =========================================
+   1. CẤU HÌNH PHONG CẢNH 2D CHUẨN (KHÔNG LỖI LINK)
+   ========================================= */
+:root {
+    --glass-bg: rgba(255, 255, 255, 0.82);
+    --glass-border: rgba(255, 255, 255, 0.95);
+    --text-main: #0f172a;
+    --text-muted: #475569;
+    --primary: #0284c7;
+    --card-shadow: 0 15px 35px rgba(0, 0, 0, 0.12);
+}
+
+[data-theme="dark"] {
+    --glass-bg: rgba(15, 23, 42, 0.82);
+    --glass-border: rgba(255, 255, 255, 0.15);
+    --text-main: #f8fafc;
+    --text-muted: #94a3b8;
+    --primary: #38bdf8;
+    --card-shadow: 0 15px 35px rgba(0, 0, 0, 0.6);
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+
+body {
+    position: relative;
+    min-height: 100vh;
+    color: var(--text-main);
+    line-height: 1.6;
+    padding-bottom: 60px;
+    transition: color 0.5s ease;
+}
+
+/* KHUNG PHONG CẢNH 2D CHUYỂN CẢNH MƯỢT MÀ */
+.scenery-bg-container {
+    position: fixed; inset: 0; z-index: -2; pointer-events: none; overflow: hidden;
+}
+
+/* Nền Ban ngày: 2D Bình minh bờ biển nắng vàng */
+.bg-daylight {
+    position: absolute; inset: 0;
+    background: linear-gradient(to bottom, #ff9a9e 0%, #fecfef 40%, #a1c4fd 70%, #c2e9fb 100%),
+                url('https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1920&q=80') center/cover no-repeat;
+    background-blend-mode: soft-light;
+    opacity: 1; transition: opacity 1.2s ease-in-out;
+}
+
+/* Nền Ban đêm: 2D Bãi biển đêm huyền ảo & dải ngân hà */
+.bg-nightstar {
+    position: absolute; inset: 0;
+    background: linear-gradient(to bottom, #09203f 0%, #537895 100%),
+                url('https://images.unsplash.com/photo-1519681393784-d120267933ba?w=1920&q=80') center/cover no-repeat;
+    background-blend-mode: overlay;
+    opacity: 0; transition: opacity 1.2s ease-in-out;
+}
+
+/* Tự động chuyển cảnh mượt khi bấm nút */
+[data-theme="dark"] .bg-daylight { opacity: 0; }
+[data-theme="dark"] .bg-nightstar { opacity: 1; }
+
+/* =========================================
+   2. NAVBAR & NÚT CHUYỂN BAN NGÀY / BAN ĐÊM
+   ========================================= */
+.top-navbar {
+    background: var(--glass-bg) !important;
+    backdrop-filter: blur(25px) saturate(180%);
+    -webkit-backdrop-filter: blur(25px) saturate(180%);
+    border-bottom: 1px solid var(--glass-border) !important;
+    padding: 12px 24px; display: flex; justify-content: space-between; align-items: center;
+    position: sticky; top: 0; z-index: 100; box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+}
+
+.nav-brand { font-size: 18px; font-weight: 800; color: var(--primary); text-decoration: none; display: flex; align-items: center; gap: 8px; }
+.btn-back { color: var(--text-main); text-decoration: none; font-size: 13.5px; font-weight: 700; display: flex; align-items: center; gap: 6px; }
+
+.theme-toggle-btn {
+    background: var(--glass-bg); border: 1px solid var(--glass-border); cursor: pointer; color: var(--text-main);
+    font-size: 13.5px; padding: 7px 16px; border-radius: 99px; font-weight: 700;
+    display: inline-flex; align-items: center; gap: 8px; transition: all 0.3s ease;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1); backdrop-filter: blur(10px);
+}
+.theme-toggle-btn:hover { transform: translateY(-2px) scale(1.03); }
+
+/* =========================================
+   3. KHUNG BÀI HỌC KÍNH MỜ (ACCORDION)
+   ========================================= */
+.container { max-width: 950px; margin: 25px auto; padding: 0 16px; }
+
+.header-box {
+    background: var(--glass-bg) !important;
+    backdrop-filter: blur(25px) saturate(180%) !important;
+    -webkit-backdrop-filter: blur(25px) saturate(180%) !important;
+    border: 1px solid var(--glass-border) !important;
+    border-left: 5px solid var(--primary) !important;
+    border-radius: 20px !important; padding: 22px 26px !important;
+    box-shadow: var(--card-shadow) !important; margin-bottom: 22px !important;
+}
+.course-title { font-size: 22px !important; color: var(--text-main) !important; font-weight: 800 !important; margin-bottom: 6px !important; }
+.course-sub { font-size: 13.5px !important; color: var(--text-muted) !important; margin: 0 !important; }
+
+#content-container { display: flex; flex-direction: column; gap: 12px; }
+
+.accordion-card {
+    background: var(--glass-bg) !important;
+    backdrop-filter: blur(25px) saturate(180%) !important;
+    -webkit-backdrop-filter: blur(25px) saturate(180%) !important;
+    border: 1px solid var(--glass-border) !important;
+    border-radius: 16px !important; overflow: hidden !important;
+    box-shadow: var(--card-shadow) !important; transition: all 0.3s ease !important;
+}
+
+.accordion-header {
+    background: transparent !important; padding: 16px 20px !important;
+    font-weight: 700 !important; color: var(--text-main) !important; cursor: pointer !important;
+    display: flex !important; justify-content: space-between !important; align-items: center !important;
+}
+.accordion-header:hover { background: rgba(255, 255, 255, 0.15) !important; }
+
+.lesson-item { display: flex; justify-content: space-between; align-items: center; padding: 12px 0; border-bottom: 1px dashed var(--glass-border); }
+.lesson-item:last-child { border-bottom: none; }
+.lesson-name { font-size: 13.5px; color: var(--text-main); font-weight: 600; }
+
+.btn-action { padding: 7px 14px !important; border-radius: 8px !important; font-size: 12px !important; font-weight: 700 !important; border: none !important; cursor: pointer !important; display: inline-flex !important; align-items: center !important; gap: 6px !important; transition: all 0.2s ease !important; }
+.btn-action:hover { transform: translateY(-2px) !important; box-shadow: 0 4px 12px rgba(0,0,0,0.15) !important; }
+.btn-video { background: rgba(2, 132, 199, 0.15) !important; color: var(--primary) !important; }
+.btn-pdf { background: rgba(220, 38, 38, 0.15) !important; color: #ef4444 !important; }
+
+/* ÉP MÀU CHỮ SÁNG RÕ CHO DARK MODE */
+[data-theme="dark"] .accordion-header span,
+[data-theme="dark"] .accordion-header div,
+[data-theme="dark"] .lesson-name,
+[data-theme="dark"] .lesson-item span,
+[data-theme="dark"] #content-container * {
+    color: #f8fafc !important;
+}
+[data-theme="dark"] .accordion-header i { color: #38bdf8 !important; }

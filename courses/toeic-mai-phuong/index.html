@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TOEIC CÔ MAI PHƯƠNG - KHÓA HỌC FULL KỸ NĂNG</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <style>
+        * { box-sizing: border-box; }
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #f8fafc; margin: 0; padding-bottom: 60px; color: #1e293b; }
+
+        .top-navbar { background: #0f172a; color: #fff; padding: 12px 24px; display: flex; justify-content: space-between; align-items: center; box-shadow: 0 2px 10px rgba(0,0,0,0.15); position: sticky; top: 0; z-index: 100; }
+        .nav-brand { font-size: 18px; font-weight: bold; color: #38bdf8; text-decoration: none; display: flex; align-items: center; gap: 8px; }
+        .nav-links { display: flex; gap: 10px; align-items: center; }
+        .nav-item { color: #f1f5f9; text-decoration: none; font-size: 13px; font-weight: 600; padding: 8px 14px; border-radius: 6px; transition: all 0.2s; display: flex; align-items: center; gap: 6px; }
+        .nav-item:hover { background: #334155; }
+        
+        .btn-auth-login { background: #16a34a; color: #fff; border: none; cursor: pointer; }
+        .btn-auth-login:hover { background: #15803d; }
+        .btn-auth-logout { background: #dc2626; color: #fff; border: none; cursor: pointer; }
+        .btn-auth-logout:hover { background: #b91c1c; }
+        .user-email-display { font-size: 13px; color: #38bdf8; font-weight: 600; display: flex; align-items: center; gap: 5px; }
+
+        .hero-section { background: linear-gradient(135deg, #1e3a8a, #0f172a); color: #fff; padding: 40px 20px; text-align: center; box-shadow: inset 0 -10px 20px rgba(0,0,0,0.1); }
+        .hero-section h1 { font-size: 26px; margin: 0 0 10px 0; color: #f8fafc; }
+        .hero-section p { font-size: 15px; color: #94a3b8; max-width: 700px; margin: 0 auto 20px auto; line-height: 1.6; }
+
+        .container { max-width: 1200px; margin: 25px auto; padding: 0 15px; }
+
+        .subject-header { display: flex; justify-content: space-between; align-items: center; border-bottom: 2px solid #e2e8f0; padding-bottom: 12px; margin-bottom: 25px; }
+        .subject-title { font-size: 20px; color: #1e3a8a; margin: 0; display: flex; align-items: center; gap: 10px; }
+        .btn-buy-subject { font-size: 13px; color: #fff; text-decoration: none; font-weight: 600; background: #2563eb; padding: 8px 18px; border-radius: 20px; transition: background 0.2s; }
+        .btn-buy-subject:hover { background: #1d4ed8; }
+
+        .course-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(270px, 1fr)); gap: 20px; }
+        .course-card { background: #ffffff; border-radius: 12px; border: 1px solid #e2e8f0; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.05); display: flex; flex-direction: column; justify-content: space-between; transition: transform 0.2s, box-shadow 0.2s; }
+        .course-card:hover { transform: translateY(-4px); box-shadow: 0 8px 20px rgba(0,0,0,0.1); }
+
+        .card-img { width: 100%; height: 160px; object-fit: cover; border-bottom: 1px solid #f1f5f9; background-color: #f8fafc; }
+        .card-body { padding: 15px; flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between; }
+        .card-title { font-size: 14px; font-weight: 700; color: #0f172a; line-height: 1.4; margin-bottom: 15px; display: -webkit-box; -webkit-line-clamp: 2; line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+
+        .btn-view-course { display: flex; align-items: center; justify-content: center; gap: 6px; font-size: 13px; color: #ffffff !important; background-color: #2563eb; text-decoration: none !important; padding: 10px; border-radius: 6px; font-weight: 700; width: 100%; box-shadow: 0 2px 4px rgba(37, 99, 235, 0.2); transition: all 0.2s ease; cursor: pointer; border: none; }
+        .btn-view-course:hover { background-color: #1d4ed8; }
+
+        .floating-zalo { position: fixed; bottom: 20px; right: 20px; background: #0068ff; color: #fff; padding: 12px 18px; border-radius: 30px; text-decoration: none; font-weight: bold; font-size: 13px; box-shadow: 0 4px 15px rgba(0, 104, 255, 0.4); display: flex; align-items: center; gap: 8px; z-index: 999; }
+    </style>
+</head>
+<body>
+
+    <nav class="top-navbar">
+        <a href="../../index.html" class="nav-brand"><i class="fa-solid fa-graduation-cap"></i> TOEIC CÔ MAI PHƯƠNG</a>
+        <div class="nav-links">
+            <a href="../../index.html" class="nav-item"><i class="fa-solid fa-house"></i> Trang Chủ TaiLieuHub</a>
+            <div id="auth-area" style="display: flex; align-items: center; gap: 8px;"></div>
+        </div>
+    </nav>
+
+    <div class="hero-section">
+        <h1>📚 LỘ TRÌNH CHINH PHỤC TOEIC CÔ MAI PHƯƠNG</h1>
+        <p>Tổng hợp bài giảng Video & Tài liệu PDF luyện thi TOEIC Listening, Reading & Từ vựng độc quyền</p>
+    </div>
+
+    <div class="container">
+        <div class="subject-header">
+            <h2 class="subject-title"><i class="fa-solid fa-layer-group" style="color: #2563eb;"></i> CÁC KHÓA HỌC TOEIC CHUYÊN SÂU</h2>
+            <a href="checkout.html" class="btn-buy-subject"><i class="fa-solid fa-cart-shopping"></i> Đăng Ký Mua Khóa Học</a>
+        </div>
+
+        <div class="course-grid">
+            <div class="course-card">
+                <img src="https://lh3.googleusercontent.com/d/1LB-FSVJKovQirdXpGGVLMQiupga0CZ4X" alt="48 Ngày Lấy Gốc" class="card-img">
+                <div class="card-body">
+                    <div class="card-title">48 NGÀY LẤY GỐC TIẾNG ANH TOÀN DIỆN - CÔ VŨ MAI PHƯƠNG</div>
+                    <button onclick="goToCourse('48NGAY')" class="btn-view-course"><i class="fa-solid fa-circle-play"></i> VÀO HỌC NGAY</button>
+                </div>
+            </div>
+
+            <div class="course-card">
+                <img src="https://lh3.googleusercontent.com/d/1EP-FdH8jJtkz949jTZ83RiN0NqyTvMJe" alt="TOEIC Nghe Đọc" class="card-img">
+                <div class="card-body">
+                    <div class="card-title">TOEIC NGHE-ĐỌC (Mục tiêu 650-700+) - CÔ VŨ MAI PHƯƠNG</div>
+                    <button onclick="goToCourse('NGHEDOC')" class="btn-view-course"><i class="fa-solid fa-circle-play"></i> VÀO HỌC NGAY</button>
+                </div>
+            </div>
+
+            <div class="course-card">
+                <img src="https://lh3.googleusercontent.com/d/1tPfIen90c7ucZhQX8TAzzdHQK3b3pezO" alt="Xóa Mù Ngữ Pháp" class="card-img">
+                <div class="card-body">
+                    <div class="card-title">KHÓA XÓA MÙ NGỮ PHÁP TIẾNG ANH - CÔ VŨ MAI PHƯƠNG</div>
+                    <button onclick="goToCourse('XOAMUNGUPHAP')" class="btn-view-course"><i class="fa-solid fa-circle-play"></i> VÀO HỌC NGAY</button>
+                </div>
+            </div>
+
+            <div class="course-card">
+                <img src="https://lh3.googleusercontent.com/d/11lhh3tlJULb2kiWi4ZnNDdI6Ysx-s-bC" alt="Xóa Mù Cấp Tốc" class="card-img">
+                <div class="card-body">
+                    <div class="card-title">KHÓA XÓA MÙ TIẾNG ANH CẤP TỐC - CÔ VŨ MAI PHƯƠNG</div>
+                    <button onclick="goToCourse('XOAMUCAPTOC')" class="btn-view-course"><i class="fa-solid fa-circle-play"></i> VÀO HỌC NGAY</button>
+                </div>
+            </div>
+
+            <div class="course-card">
+                <img src="https://lh3.googleusercontent.com/d/17STyowN0XhV0lz5s-uqLbdx4nLYh7eg7" alt="Luyện Viết Writing" class="card-img">
+                <div class="card-body">
+                    <div class="card-title">KHÓA KHUYẾN MẠI LUYỆN VIẾT TIẾNG ANH (WRITING)</div>
+                    <button onclick="goToCourse('WRITING')" class="btn-view-course"><i class="fa-solid fa-circle-play"></i> VÀO HỌC NGAY</button>
+                </div>
+            </div>
+
+            <div class="course-card">
+                <img src="https://lh3.googleusercontent.com/d/1mN9rPh2ph6sqiMZZJKIBxFKnm3nHYGoE" alt="Tổng Ôn Ngữ Pháp" class="card-img">
+                <div class="card-body">
+                    <div class="card-title">TỔNG ÔN NGỮ PHÁP CÔ TRANG ANH</div>
+                    <button onclick="goToCourse('TONGONNGUPHAP')" class="btn-view-course"><i class="fa-solid fa-circle-play"></i> VÀO HỌC NGAY</button>
+                </div>
+            </div>
+
+            <div class="course-card">
+                <img src="https://lh3.googleusercontent.com/d/11LMjffZbKvLbCdiojJ9OkM6gzI9ttVnU" alt="Nhớ Từ Vựng Siêu Tốc" class="card-img">
+                <div class="card-body">
+                    <div class="card-title">KHÓA NHỚ TỪ VỰNG SIÊU TỐC - CÔ MAI PHƯƠNG</div>
+                    <button onclick="goToCourse('TU-VUNG-SIEU-TOC')" class="btn-view-course"><i class="fa-solid fa-circle-play"></i> VÀO HỌC NGAY</button>
+                </div>
+            </div>
+
+            <div class="course-card">
+                <img src="https://lh3.googleusercontent.com/d/1fofRgj7iX56pzhWuOf2e5qZNkkDAvNSy" alt="Luyện Phát Âm" class="card-img">
+                <div class="card-body">
+                    <div class="card-title">LUYỆN PHÁT ÂM THẦY JOE HALL</div>
+                    <button onclick="goToCourse('PHATAM')" class="btn-view-course"><i class="fa-solid fa-circle-play"></i> VÀO HỌC NGAY</button>
+                </div>
+            </div>
+
+            <div class="course-card">
+                <img src="https://images.unsplash.com/photo-1543269865-cbf427effbad?w=500&auto=format&fit=crop&q=80" alt="Giao Tiếp" class="card-img">
+                <div class="card-body">
+                    <div class="card-title">TIẾNG ANH GIAO TIẾP THEO CHỦ ĐỀ</div>
+                    <button onclick="goToCourse('GIAOTIEP')" class="btn-view-course"><i class="fa-solid fa-circle-play"></i> VÀO HỌC NGAY</button>
+                </div>
+            </div>
+
+            <div class="course-card">
+                <img src="https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=500&auto=format&fit=crop&q=80" alt="Chuyên Ngành" class="card-img">
+                <div class="card-body">
+                    <div class="card-title">TIẾNG ANH TRONG CÁC CHUYÊN NGÀNH</div>
+                    <button onclick="goToCourse('CHUYENNGANH')" class="btn-view-course"><i class="fa-solid fa-circle-play"></i> VÀO HỌC NGAY</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <a href="https://zalo.me/0385604632" target="_blank" class="floating-zalo"><i class="fa-solid fa-headset" style="font-size: 16px;"></i> Hỗ Trợ Zalo</a>
+
+    <script>
+        // ==========================================
+// CẤU HÌNH BẢO MẬT CHỐNG SỬA TÀI KHOẢN
+// ==========================================
+const SECRET_KEY = "TLH_SECURE_2026_@KEY";
+
+function setSecureCourses(coursesArray) {
+    try {
+        let jsonStr = JSON.stringify(coursesArray);
+        let encoded = btoa(encodeURIComponent(jsonStr + "|" + SECRET_KEY));
+        localStorage.setItem("allowedCourses", encoded);
+    } catch(e) {}
+}
+
+function getSecureCourses() {
+    let raw = localStorage.getItem("allowedCourses");
+    if (!raw) return [];
+    try {
+        let decoded = decodeURIComponent(atob(raw));
+        let parts = decoded.split("|");
+        if (parts.length === 2 && parts[1] === SECRET_KEY) {
+            let courses = JSON.parse(parts[0]);
+            return courses.map(c => String(c).toLowerCase().trim());
+        }
+    } catch(e) { return []; }
+    return [];
+}
+        function renderAuthButton() {
+            let userEmail = localStorage.getItem("userEmail");
+            let authArea = document.getElementById("auth-area");
+
+            if (userEmail) {
+                authArea.innerHTML = `
+                    <span class="user-email-display"><i class="fa-solid fa-circle-user"></i> ${userEmail}</span>
+                    <button onclick="logout()" class="nav-item btn-auth-logout"><i class="fa-solid fa-right-from-bracket"></i> Đăng Xuất</button>
+                `;
+            } else {
+                authArea.innerHTML = `
+                    <a href="../../index.html?action=login" class="nav-item btn-auth-login"><i class="fa-solid fa-right-to-bracket"></i> Đăng Nhập / Đăng Ký</a>
+                `;
+            }
+        }
+function goToCourse(courseCode) {
+            let userEmail = localStorage.getItem("userEmail");
+            let allowedCourses = getSecureCourses();
+
+            if (!userEmail) {
+                alert("Bạn chưa đăng nhập tài khoản! Hệ thống sẽ chuyển bạn về Trang chủ TaiLieuHub để Đăng Nhập / Đăng Ký.");
+                window.location.href = "../../index.html?action=login"; 
+                return;
+            }
+
+            let hasPermission = allowedCourses.includes("all") ||
+                                allowedCourses.includes("toeic-all") || 
+                                allowedCourses.includes("toeic-4-ky-nang") || 
+                                allowedCourses.includes(courseCode.toLowerCase());
+
+            if (!hasPermission) {
+                alert("Tài khoản của bạn chưa kích hoạt môn học này! Chuyển sang trang Đăng Ký Mua Môn.");
+                window.location.href = "checkout.html";
+                return;
+            }
+
+            window.location.href = `detail.html?course=${courseCode}`;
+        }
+
+        function logout() {
+            localStorage.removeItem("userEmail");
+            localStorage.removeItem("allowedCourses");
+            alert("Đã đăng xuất tài khoản!");
+            renderAuthButton();
+        }
+
+        renderAuthButton();
+    </script>
+</body>
+</html>
