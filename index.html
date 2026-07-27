@@ -36,6 +36,12 @@
                     <span>Tài liệu</span>
                 </a>
 
+                <!-- 🚀 NÚT CHUYỂN SANG TRANG THI ONLINE -->
+                <a href="https://congiobachmai-prog.github.io/BaiThiOnline_GitHub/index.html" class="nav-btn" style="background: linear-gradient(135deg, #2563eb, #1d4ed8); color: white !important;">
+                    <i class="fa-solid fa-headphones-simple"></i>
+                    <span>Thi Online</span>
+                </a>
+
                 <button class="nav-btn" onclick="openAuthModal('login')" id="auth-group-btn">
                     <i class="fa-solid fa-right-to-bracket"></i>
                     <span id="authButtonText">Đăng Nhập</span>
@@ -199,7 +205,6 @@
         <div class="copyright">&copy; 2026 TaiLieuHub. Tất cả quyền được bảo lưu.</div>
     </footer>
 
-    <!-- Toàn bộ JavaScript logic bảo mật, đăng nhập, gọi Google Apps Script & Hiệu ứng Liquid Nav -->
     <script>
         const SECRET_KEY = "TLH_SECURE_2026_@KEY";
 
@@ -399,7 +404,6 @@
             checkUserAuthStatus();
         }
 
-        // Script điều khiển Apple Liquid Navigation Bar & Dark Mode
         document.addEventListener("DOMContentLoaded", () => {
             checkUserAuthStatus();
 

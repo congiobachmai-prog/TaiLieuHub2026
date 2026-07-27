@@ -1,41 +1,44 @@
 <!DOCTYPE html>
-<html lang="vi">
+<html lang="vi" data-theme="light">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Chi Tiết Khóa Học - TaiLieuHub</title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <link rel="stylesheet" href="thptqg-style.css">
+  
   <style>
     * { box-sizing: border-box; }
-    body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: #f8fafc; margin: 0; padding-bottom: 40px; }
+    body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 0; padding-bottom: 40px; background: transparent !important; }
     
-    .top-navbar { background: #1e293b; color: #fff; padding: 12px 24px; display: flex; justify-content: space-between; align-items: center; box-shadow: 0 2px 10px rgba(0,0,0,0.15); position: sticky; top: 0; z-index: 100; }
-    .nav-brand { font-size: 18px; font-weight: bold; color: #38bdf8; text-decoration: none; display: flex; align-items: center; gap: 8px; }
-    .btn-back { color: #94a3b8; text-decoration: none; font-size: 14px; font-weight: 600; display: flex; align-items: center; gap: 6px; }
-    .btn-back:hover { color: #fff; }
+    .top-navbar { background: var(--glass-bg) !important; backdrop-filter: blur(25px) saturate(180%); -webkit-backdrop-filter: blur(25px) saturate(180%); border-bottom: 1px solid var(--glass-border) !important; padding: 12px 24px; display: flex; justify-content: space-between; align-items: center; position: sticky; top: 0; z-index: 100; box-shadow: 0 4px 20px rgba(0,0,0,0.1); }
+    .nav-brand { font-size: 18px; font-weight: 800; color: var(--primary); text-decoration: none; display: flex; align-items: center; gap: 8px; }
+    .btn-back { color: var(--text-main); text-decoration: none; font-size: 13.5px; font-weight: 700; display: flex; align-items: center; gap: 6px; }
 
     .container { max-width: 950px; margin: 24px auto; padding: 0 16px; }
-    .header-box { background: #fff; border-radius: 12px; padding: 20px 24px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); margin-bottom: 20px; border-left: 5px solid #2563eb; }
-    .course-title { font-size: 20px; color: #0f172a; margin: 0 0 8px 0; }
-    .course-sub { font-size: 13px; color: #64748b; margin: 0; }
+    .header-box { background: var(--glass-bg) !important; backdrop-filter: blur(25px) saturate(180%) !important; -webkit-backdrop-filter: blur(25px) saturate(180%) !important; border: 1px solid var(--glass-border) !important; border-left: 5px solid var(--primary) !important; border-radius: 20px !important; padding: 22px 26px !important; box-shadow: var(--card-shadow) !important; margin-bottom: 22px !important; }
+    .course-title { font-size: 22px !important; color: var(--text-main) !important; font-weight: 800 !important; margin-bottom: 6px !important; }
+    .course-sub { font-size: 13.5px !important; color: var(--text-muted) !important; margin: 0 !important; }
 
-    .accordion-card { background: #ffffff; border: 1px solid #e2e8f0; border-radius: 8px; margin-bottom: 8px; overflow: hidden; }
-    .accordion-header { padding: 12px 16px; font-weight: 600; cursor: pointer; display: flex; justify-content: space-between; align-items: center; user-select: none; }
+    .accordion-card { background: var(--glass-bg) !important; backdrop-filter: blur(25px) saturate(180%) !important; -webkit-backdrop-filter: blur(25px) saturate(180%) !important; border: 1px solid var(--glass-border) !important; border-radius: 16px !important; overflow: hidden !important; box-shadow: var(--card-shadow) !important; margin-bottom: 12px !important; transition: all 0.3s ease !important; }
+    .accordion-header { background: transparent !important; padding: 16px 20px !important; font-weight: 700 !important; color: var(--text-main) !important; cursor: pointer !important; display: flex !important; justify-content: space-between !important; align-items: center !important; }
+    .accordion-header:hover { background: rgba(255, 255, 255, 0.15) !important; }
     .accordion-content { padding: 10px 15px; display: block; }
     .accordion-card.collapsed > .accordion-content { display: none; }
     .accordion-card.collapsed > .accordion-header .chevron-icon { transform: rotate(-90deg); }
     .chevron-icon { transition: transform 0.25s ease; }
 
-    .lesson-item { display: flex; justify-content: space-between; align-items: center; padding: 10px 0; border-bottom: 1px dashed #e2e8f0; }
+    .lesson-item { display: flex; justify-content: space-between; align-items: center; padding: 12px 0; border-bottom: 1px dashed var(--glass-border); }
     .lesson-item:last-child { border-bottom: none; }
-    .lesson-name { font-size: 13px; color: #1e293b; font-weight: 500; }
+    .lesson-name { font-size: 13.5px; color: var(--text-main); font-weight: 600; }
     
     .action-btns { display: flex; gap: 8px; flex-wrap: wrap; }
-    .btn-action { padding: 6px 12px; border-radius: 6px; font-size: 12px; font-weight: 600; text-decoration: none; border: none; cursor: pointer; display: inline-flex; align-items: center; gap: 5px; }
-    .btn-video { background: #eff6ff; color: #2563eb; }
-    .btn-pdf { background: #fef2f2; color: #dc2626; }
-    .btn-audio { background: #f0fdf4; color: #16a34a; }
-    .btn-zip { background: #fefce8; color: #ca8a04; }
+    .btn-action { padding: 7px 14px !important; border-radius: 8px !important; font-size: 12px !important; font-weight: 700 !important; border: none !important; cursor: pointer !important; display: inline-flex !important; align-items: center !important; gap: 6px !important; transition: all 0.2s ease !important; }
+    .btn-action:hover { transform: translateY(-2px) !important; box-shadow: 0 4px 12px rgba(0,0,0,0.15) !important; }
+    .btn-video { background: rgba(2, 132, 199, 0.15) !important; color: var(--primary) !important; }
+    .btn-pdf { background: rgba(220, 38, 38, 0.15) !important; color: #ef4444 !important; }
+    .btn-audio { background: rgba(22, 163, 74, 0.15) !important; color: #16a34a !important; }
+    .btn-zip { background: rgba(202, 138, 4, 0.15) !important; color: #ca8a04 !important; }
 
     .modal-overlay { position: fixed; top:0; left:0; width:100%; height:100%; background: rgba(0,0,0,0.75); display:none; justify-content:center; align-items:center; z-index: 1000; }
     .modal-box { background: #fff; width: 90%; max-width: 850px; border-radius: 12px; overflow: hidden; display: flex; flex-direction: column; height: 80vh; }
@@ -46,6 +49,28 @@
   </style>
 </head>
 <body>
+
+  <!-- KHUNG HÌNH NỀN VECTOR CHUYỂN ĐỘNG 2D -->
+  <div class="scenery-bg-container">
+      <div class="celestial-body"></div>
+      <div class="sky-elements">
+          <div class="cloud cloud-1"></div>
+          <div class="cloud cloud-2"></div>
+          <div class="stars"></div>
+          <div class="shooting-star"></div>
+      </div>
+      <svg class="creatures" viewBox="0 0 100 60">
+          <path class="bird-path" d="M10,20 Q20,10 30,20 Q40,10 50,20 Q40,15 30,22 Q20,15 10,20 Z" />
+          <path class="bird-path" d="M50,35 Q58,27 66,35 Q74,27 82,35 Q74,30 66,37 Q58,30 50,35 Z" />
+          <path class="bat-path" d="M15,25 Q22,15 30,22 Q38,15 45,25 Q35,30 30,24 Q25,30 15,25 Z" />
+          <path class="bat-path" d="M55,15 Q62,8 70,14 Q78,8 85,15 Q76,20 70,16 Q64,20 55,15 Z" />
+      </svg>
+      <svg class="landscape-svg" viewBox="0 0 1440 400" preserveAspectRatio="none">
+          <path class="mountain-back" d="M0,220 L120,160 L280,240 L450,130 L680,250 L890,120 L1100,230 L1280,150 L1440,210 L1440,400 L0,400 Z"></path>
+          <path class="mountain-mid" d="M0,280 L180,200 L360,270 L590,170 L820,290 L1050,190 L1260,280 L1440,220 L1440,400 L0,400 Z"></path>
+          <path class="forest-front" d="M0,320 L15,290 L25,320 L40,280 L55,320 L70,270 L85,320 L110,260 L135,320 L160,280 L180,320 L210,250 L240,320 L270,270 L300,320 L330,260 L360,320 L400,240 L430,320 L470,270 L510,320 L550,250 L590,320 L630,260 L670,320 L720,240 L760,320 L800,270 L840,320 L890,250 L930,320 L980,260 L1020,320 L1070,240 L1110,320 L1160,270 L1200,320 L1250,250 L1290,320 L1340,260 L1380,320 L1410,280 L1440,320 L1440,400 L0,400 Z"></path>
+      </svg>
+  </div>
 
   <div class="top-navbar">
     <a href="index.html" class="nav-brand"><i class="fa-solid fa-graduation-cap"></i> CHI TIẾT BÀI HỌC</a>
@@ -73,8 +98,49 @@
   </div>
 
   <script>
+    // XỬ LÝ CHUYỂN CHỦ ĐỀ BAN NGÀY / BAN ĐÊM
+    function toggleTheme() {
+        const htmlElement = document.documentElement;
+        const currentTheme = htmlElement.getAttribute("data-theme");
+        const newTheme = currentTheme === "dark" ? "light" : "dark";
+        
+        htmlElement.setAttribute("data-theme", newTheme);
+        localStorage.setItem("themePreference", newTheme);
+        updateThemeUI(newTheme);
+    }
+
+    function updateThemeUI(theme) {
+        const themeIcon = document.getElementById("themeIcon");
+        const themeText = document.getElementById("themeText");
+        if (!themeIcon || !themeText) return;
+        
+        if (theme === "dark") {
+            themeIcon.className = "fa-solid fa-moon";
+            themeText.textContent = "Ban Đêm";
+        } else {
+            themeIcon.className = "fa-solid fa-sun";
+            themeText.textContent = "Ban Ngày";
+        }
+    }
+
+    document.addEventListener("DOMContentLoaded", () => {
+        let navbar = document.querySelector(".top-navbar");
+        if (navbar && !document.getElementById("themeToggleBtn")) {
+            let btn = document.createElement("button");
+            btn.id = "themeToggleBtn";
+            btn.className = "theme-toggle-btn";
+            btn.innerHTML = `<i class="fa-solid fa-sun" id="themeIcon"></i> <span id="themeText">Ban Ngày</span>`;
+            btn.onclick = toggleTheme;
+            navbar.appendChild(btn);
+        }
+
+        const savedTheme = localStorage.getItem("themePreference") || "light";
+        document.documentElement.setAttribute("data-theme", savedTheme);
+        updateThemeUI(savedTheme);
+    });
+
     // ==========================================
-    // CẤU HÌNH BẢO MẬT CHỐNG SỬA TẢI KHOẢN
+    // CẤU HÌNH BẢO MẬT CHỐNG SỬA TÀI KHOẢN
     // ==========================================
     const SECRET_KEY = "TLH_SECURE_2026_@KEY";
 
@@ -103,7 +169,6 @@
     const urlParams = new URLSearchParams(window.location.search);
     const course = urlParams.get('course') || 'toan-thay-chi';
 
-    // ✅ ĐÃ NÂNG CẤP BẢO MẬT TẠI HÀM CHECKAUTH
     (function checkAuth() {
         let userEmail = localStorage.getItem("userEmail");
         let allowedCourses = getSecureCourses();
@@ -157,10 +222,10 @@
 
         nodes.forEach((node) => {
             let nodeId = 'node-' + Math.random().toString(36).substr(2, 9);
-            let bgHeader = depth === 0 ? '#f1f5f9' : (depth === 1 ? '#ffffff' : '#f8fafc');
-            let borderLeft = depth === 0 ? '4px solid #2563eb' : (depth === 1 ? '3px solid #38bdf8' : '2px solid #94a3b8');
+            let bgHeader = depth === 0 ? 'rgba(255,255,255,0.2)' : (depth === 1 ? 'rgba(255,255,255,0.1)' : 'transparent');
+            let borderLeft = depth === 0 ? '4px solid var(--primary)' : (depth === 1 ? '3px solid #38bdf8' : '2px solid #94a3b8');
             let fontSize = depth === 0 ? '16px' : (depth === 1 ? '14px' : '13px');
-            let fontColor = depth === 0 ? '#1e293b' : '#334155';
+            let fontColor = 'var(--text-main)';
             let iconClass = depth === 0 ? 'fa-folder-open' : (depth === 1 ? 'fa-bookmark' : 'fa-folder');
             let collapsedClass = isCollapsed ? 'collapsed' : '';
 
@@ -168,9 +233,9 @@
             <div class="accordion-card ${collapsedClass}" id="${nodeId}" style="border-left: ${borderLeft};">
                 <div class="accordion-header" onclick="toggleNode('${nodeId}', event)" style="background: ${bgHeader};">
                     <span style="font-size: ${fontSize}; font-weight: bold; color: ${fontColor};">
-                        <i class="fa-solid ${iconClass}" style="color: #2563eb; margin-right: 8px;"></i>${node.title}
+                        <i class="fa-solid ${iconClass}" style="color: var(--primary); margin-right: 8px;"></i>${node.title}
                     </span>
-                    <i class="fa-solid fa-chevron-down chevron-icon" style="color: #64748b;"></i>
+                    <i class="fa-solid fa-chevron-down chevron-icon" style="color: var(--text-muted);"></i>
                 </div>
                 <div class="accordion-content">`;
 
@@ -194,7 +259,7 @@
 
                         html += `
                         <div class="lesson-item">
-                            <span class="lesson-name"><i class="fa-regular fa-file" style="color:#64748b; margin-right: 6px;"></i>${item.name}</span>
+                            <span class="lesson-name"><i class="fa-regular fa-file" style="color: var(--text-muted); margin-right: 6px;"></i>${item.name}</span>
                             <div class="action-btns">${v}${p}${a}${z}</div>
                         </div>`;
                     });

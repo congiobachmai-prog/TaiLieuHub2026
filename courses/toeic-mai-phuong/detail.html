@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="vi">
 <head>
- <link rel="stylesheet" href="toeic-style.css">
+  <link rel="stylesheet" href="toeic-style.css">
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Chi Tiết Khóa Học - TaiLieuHub</title>
@@ -37,6 +37,9 @@
     .btn-pdf { background: #fef2f2; color: #dc2626; }
     .btn-audio { background: #f0fdf4; color: #16a34a; }
     .btn-zip { background: #fefce8; color: #ca8a04; }
+    /* Nút bấm làm bài thi online mới */
+    .btn-exam { background: #2563eb; color: #ffffff; }
+    .btn-exam:hover { background: #1d4ed8; }
 
     .modal-overlay { position: fixed; top:0; left:0; width:100%; height:100%; background: rgba(0,0,0,0.75); display:none; justify-content:center; align-items:center; z-index: 1000; }
     .modal-box { background: #fff; width: 90%; max-width: 850px; border-radius: 12px; overflow: hidden; display: flex; flex-direction: column; height: 80vh; }
@@ -202,26 +205,34 @@
 
                 if (node.items && node.items.length > 0) {
                     node.items.forEach(item => {
+                        let displayName = item.name || item.title || "Bài học / Bài thi";
+
+                        // XỬ LÝ NÚT BÀI THI ONLINE (NẾU CÓ CẤU TRÚC EXAM HOẶC LINK BÀI THI)
+                        let ex = '';
+                        if (item.type === "exam" || (item.link && item.link.includes("baithi.html"))) {
+                            ex = `<a href="${item.link}" target="_blank" class="btn-action btn-exam"><i class="fa-solid fa-pen-to-square"></i> Làm Bài Online</a>`;
+                        }
+
                         let v = (item.videos || []).map(vid => 
-                            `<button onclick="play('${convertDriveUrl(vid.link)}', '${item.name}')" class="btn-action btn-video"><i class="fa-solid fa-circle-play"></i> Xem Video</button>`
+                            `<button onclick="play('${convertDriveUrl(vid.link)}', '${displayName}')" class="btn-action btn-video"><i class="fa-solid fa-circle-play"></i> Xem Video</button>`
                         ).join('') || '';
 
                         let p = (item.pdfs || []).map(pdf => 
-                            `<button onclick="play('${convertDriveUrl(pdf.link)}', '${item.name}')" class="btn-action btn-pdf"><i class="fa-solid fa-file-pdf"></i> Xem PDF</button>`
+                            `<button onclick="play('${convertDriveUrl(pdf.link)}', '${displayName}')" class="btn-action btn-pdf"><i class="fa-solid fa-file-pdf"></i> Xem PDF</button>`
                         ).join('') || '';
 
                         let a = (item.audios || []).map(aud => 
-                            `<button onclick="play('${convertDriveUrl(aud.link)}', '${item.name}')" class="btn-action btn-audio"><i class="fa-solid fa-headphones"></i> Nghe Audio</button>`
+                            `<button onclick="play('${convertDriveUrl(aud.link)}', '${displayName}')" class="btn-action btn-audio"><i class="fa-solid fa-headphones"></i> Nghe Audio</button>`
                         ).join('') || '';
 
                         let z = (item.zips || []).map(zip => 
-                            `<button onclick="play('${convertDriveUrl(zip.link)}', '${item.name}')" class="btn-action btn-zip"><i class="fa-solid fa-file-zipper"></i> Xem File ZIP</button>`
+                            `<button onclick="play('${convertDriveUrl(zip.link)}', '${displayName}')" class="btn-action btn-zip"><i class="fa-solid fa-file-zipper"></i> Xem File ZIP</button>`
                         ).join('') || '';
 
                         html += `
                         <div class="lesson-item">
-                            <span class="lesson-name"><i class="fa-regular fa-file" style="color:#64748b; margin-right: 6px;"></i>${item.name}</span>
-                            <div class="action-btns">${v}${p}${a}${z}</div>
+                            <span class="lesson-name"><i class="fa-regular fa-file" style="color:#64748b; margin-right: 6px;"></i>${displayName}</span>
+                            <div class="action-btns">${ex}${v}${p}${a}${z}</div>
                         </div>`;
                     });
                 }

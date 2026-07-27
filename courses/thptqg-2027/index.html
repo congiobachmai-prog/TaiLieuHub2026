@@ -1,27 +1,41 @@
 <!DOCTYPE html>
-<html lang="vi">
+<html lang="vi" data-theme="light">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CHINHPHUCTHPTQG2027 - KHÓA HỌC FULL MÔN</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    
-    <!-- ✅ NHÚNG FILE CSS GIAO DIỆN MỚI TẠI ĐÂY -->
     <link rel="stylesheet" href="thptqg-style.css">
 </head>
 <body>
 
-    <!-- ✅ KHUNG NỀN PHONG CẢNH 2D CHUYỂN CẢNH NGÀY / ĐÊM -->
+    <!-- KHUNG HÌNH NỀN VECTOR NÚI & RỪNG THÔNG CHI TIẾT -->
     <div class="scenery-bg-container">
-        <div class="bg-daylight"></div>
-        <div class="bg-nightstar"></div>
+        <div class="celestial-body"></div>
+        <div class="sky-elements">
+            <div class="cloud cloud-1"></div>
+            <div class="cloud cloud-2"></div>
+            <div class="stars"></div>
+            <div class="shooting-star"></div>
+        </div>
+        <svg class="creatures" viewBox="0 0 100 60">
+            <path class="bird-path" d="M10,20 Q20,10 30,20 Q40,10 50,20 Q40,15 30,22 Q20,15 10,20 Z" />
+            <path class="bird-path" d="M50,35 Q58,27 66,35 Q74,27 82,35 Q74,30 66,37 Q58,30 50,35 Z" />
+            <path class="bat-path" d="M15,25 Q22,15 30,22 Q38,15 45,25 Q35,30 30,24 Q25,30 15,25 Z" />
+            <path class="bat-path" d="M55,15 Q62,8 70,14 Q78,8 85,15 Q76,20 70,16 Q64,20 55,15 Z" />
+        </svg>
+        <svg class="landscape-svg" viewBox="0 0 1440 400" preserveAspectRatio="none">
+            <path class="mountain-back" d="M0,220 L120,160 L280,240 L450,130 L680,250 L890,120 L1100,230 L1280,150 L1440,210 L1440,400 L0,400 Z"></path>
+            <path class="mountain-mid" d="M0,280 L180,200 L360,270 L590,170 L820,290 L1050,190 L1260,280 L1440,220 L1440,400 L0,400 Z"></path>
+            <path class="forest-front" d="M0,320 L15,290 L25,320 L40,280 L55,320 L70,270 L85,320 L110,260 L135,320 L160,280 L180,320 L210,250 L240,320 L270,270 L300,320 L330,260 L360,320 L400,240 L430,320 L470,270 L510,320 L550,250 L590,320 L630,260 L670,320 L720,240 L760,320 L800,270 L840,320 L890,250 L930,320 L980,260 L1020,320 L1070,240 L1110,320 L1160,270 L1200,320 L1250,250 L1290,320 L1340,260 L1380,320 L1410,280 L1440,320 L1440,400 L0,400 Z"></path>
+        </svg>
     </div>
 
+    <!-- NAVBAR: ĐÃ XÓA KHU VỰC ĐĂNG NHẬP / ĐĂNG XUẤT -->
     <nav class="top-navbar">
         <a href="../../index.html" class="nav-brand"><i class="fa-solid fa-graduation-cap"></i> CHINHPHUCTHPTQG2027</a>
         <div class="nav-links">
             <a href="https://zalo.me/0385604632" target="_blank" class="nav-item"><i class="fa-solid fa-headset"></i> Tư Vấn Zalo</a>
-            <div id="auth-area" style="display: flex; align-items: center; gap: 8px;"></div>
         </div>
     </nav>
 
@@ -296,38 +310,58 @@
 
     <a href="https://zalo.me/0385604632" target="_blank" style="position: fixed; bottom: 20px; right: 20px; background: #0068ff; color: #fff; padding: 12px 20px; border-radius: 30px; text-decoration: none; font-weight: bold; font-size: 13px; box-shadow: 0 4px 15px rgba(0, 104, 255, 0.4); display: flex; align-items: center; gap: 8px; z-index: 999;"><i class="fa-solid fa-headset"></i> Hỗ Trợ Zalo</a>
 
-    <!-- ✅ SCRIPT TỰ ĐỘNG THÊM NÚT CHUYỂN BAN NGÀY / BAN ĐÊM -->
+    <!-- SCRIPT TỰ ĐỘNG THÊM NÚT CHUYỂN BAN NGÀY / BAN ĐÊM -->
     <script>
+        function toggleTheme() {
+            const htmlElement = document.documentElement;
+            const currentTheme = htmlElement.getAttribute("data-theme");
+            const newTheme = currentTheme === "dark" ? "light" : "dark";
+            
+            htmlElement.setAttribute("data-theme", newTheme);
+            localStorage.setItem("themePreference", newTheme);
+            updateThemeUI(newTheme);
+        }
+
+        function updateThemeUI(theme) {
+            const themeIcon = document.getElementById("themeIcon");
+            const themeText = document.getElementById("themeText");
+            if (!themeIcon || !themeText) return;
+            
+            if (theme === "dark") {
+                themeIcon.className = "fa-solid fa-moon";
+                themeText.textContent = "Ban Đêm";
+            } else {
+                themeIcon.className = "fa-solid fa-sun";
+                themeText.textContent = "Ban Ngày";
+            }
+        }
+
         document.addEventListener("DOMContentLoaded", () => {
             let navbar = document.querySelector(".top-navbar");
             if (navbar && !document.getElementById("themeToggleBtn")) {
                 let btn = document.createElement("button");
                 btn.id = "themeToggleBtn";
                 btn.className = "theme-toggle-btn";
-                btn.innerHTML = `<i class="fa-solid fa-sun" style="color:#f59e0b;"></i> <span>Ban ngày</span>`;
-                btn.onclick = () => {
-                    let isDark = document.documentElement.getAttribute("data-theme") === "dark";
-                    document.documentElement.setAttribute("data-theme", isDark ? "light" : "dark");
-                    btn.innerHTML = isDark 
-                        ? `<i class="fa-solid fa-sun" style="color:#f59e0b;"></i> Ban ngày` 
-                        : `<i class="fa-solid fa-moon" style="color:#38bdf8;"></i> Ban đêm`;
-                };
-                navbar.appendChild(btn);
+                btn.innerHTML = `<i class="fa-solid fa-sun" id="themeIcon"></i> <span id="themeText">Ban Ngày</span>`;
+                btn.onclick = toggleTheme;
+                
+                let navLinks = navbar.querySelector(".nav-links");
+                if (navLinks) {
+                    navLinks.insertBefore(btn, navLinks.firstChild);
+                } else {
+                    navbar.appendChild(btn);
+                }
             }
+
+            const savedTheme = localStorage.getItem("themePreference") || "light";
+            document.documentElement.setAttribute("data-theme", savedTheme);
+            updateThemeUI(savedTheme);
         });
 
         // ==========================================
-        // CẤU HÌNH BẢO MẬT CHỐNG SỬA TÀI KHOẢN
+        // LOGIC KIỂM TRA TÀI KHOẢN TỪ TAILIEUHUB
         // ==========================================
         const SECRET_KEY = "TLH_SECURE_2026_@KEY";
-
-        function setSecureCourses(coursesArray) {
-            try {
-                let jsonStr = JSON.stringify(coursesArray);
-                let encoded = btoa(encodeURIComponent(jsonStr + "|" + SECRET_KEY));
-                localStorage.setItem("allowedCourses", encoded);
-            } catch(e) {}
-        }
 
         function getSecureCourses() {
             let raw = localStorage.getItem("allowedCourses");
@@ -343,28 +377,12 @@
             return [];
         }
 
-        function renderAuthButton() {
-            let userEmail = localStorage.getItem("userEmail");
-            let authArea = document.getElementById("auth-area");
-
-            if (userEmail) {
-                authArea.innerHTML = `
-                    <span class="user-email-display" style="font-size:13px; color:var(--primary); font-weight:600;"><i class="fa-solid fa-circle-user"></i> ${userEmail}</span>
-                    <button onclick="logout()" class="nav-item" style="background:rgba(220, 38, 38, 0.15); color:#ef4444; border-color:rgba(220, 38, 38, 0.3); cursor:pointer;"><i class="fa-solid fa-right-from-bracket"></i> Đăng Xuất</button>
-                `;
-            } else {
-                authArea.innerHTML = `
-                    <a href="../../index.html?action=login" class="nav-item" style="background:#16a34a; color:#fff;"><i class="fa-solid fa-right-to-bracket"></i> Đăng Nhập / Đăng Ký</a>
-                `;
-            }
-        }
-
         function goToCourse(courseCode) {
             let userEmail = localStorage.getItem("userEmail");
             let allowedCourses = getSecureCourses();
 
             if (!userEmail) {
-                alert("Bạn chưa đăng nhập tài khoản! Hệ thống sẽ chuyển bạn về Trang chủ TaiLieuHub để Đăng Nhập / Đăng Ký.");
+                alert("Bạn chưa đăng nhập tài khoản! Hệ thống sẽ chuyển bạn về Trang chủ TaiLieuHub để Đăng Nhập.");
                 window.location.href = "../../index.html?action=login";
                 return;
             }
@@ -382,13 +400,6 @@
             window.location.href = `detail.html?course=${courseCode}`;
         }
 
-        function logout() {
-            localStorage.removeItem("userEmail");
-            localStorage.removeItem("allowedCourses");
-            alert("Đã đăng xuất tài khoản!");
-            renderAuthButton();
-        }
-
         function filterSubject(category, evt) {
             const buttons = document.querySelectorAll('.filter-btn');
             buttons.forEach(btn => btn.classList.remove('active'));
@@ -403,8 +414,6 @@
                 }
             });
         }
-
-        renderAuthButton();
     </script>
 </body>
 </html>
