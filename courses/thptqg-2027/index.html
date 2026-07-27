@@ -1,0 +1,419 @@
+<!DOCTYPE html>
+<html lang="vi" data-theme="light">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CHINHPHUCTHPTQG2027 - KHÓA HỌC FULL MÔN</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="thptqg-style.css">
+</head>
+<body>
+
+    <!-- KHUNG HÌNH NỀN VECTOR NÚI & RỪNG THÔNG CHI TIẾT -->
+    <div class="scenery-bg-container">
+        <div class="celestial-body"></div>
+        <div class="sky-elements">
+            <div class="cloud cloud-1"></div>
+            <div class="cloud cloud-2"></div>
+            <div class="stars"></div>
+            <div class="shooting-star"></div>
+        </div>
+        <svg class="creatures" viewBox="0 0 100 60">
+            <path class="bird-path" d="M10,20 Q20,10 30,20 Q40,10 50,20 Q40,15 30,22 Q20,15 10,20 Z" />
+            <path class="bird-path" d="M50,35 Q58,27 66,35 Q74,27 82,35 Q74,30 66,37 Q58,30 50,35 Z" />
+            <path class="bat-path" d="M15,25 Q22,15 30,22 Q38,15 45,25 Q35,30 30,24 Q25,30 15,25 Z" />
+            <path class="bat-path" d="M55,15 Q62,8 70,14 Q78,8 85,15 Q76,20 70,16 Q64,20 55,15 Z" />
+        </svg>
+        <svg class="landscape-svg" viewBox="0 0 1440 400" preserveAspectRatio="none">
+            <path class="mountain-back" d="M0,220 L120,160 L280,240 L450,130 L680,250 L890,120 L1100,230 L1280,150 L1440,210 L1440,400 L0,400 Z"></path>
+            <path class="mountain-mid" d="M0,280 L180,200 L360,270 L590,170 L820,290 L1050,190 L1260,280 L1440,220 L1440,400 L0,400 Z"></path>
+            <path class="forest-front" d="M0,320 L15,290 L25,320 L40,280 L55,320 L70,270 L85,320 L110,260 L135,320 L160,280 L180,320 L210,250 L240,320 L270,270 L300,320 L330,260 L360,320 L400,240 L430,320 L470,270 L510,320 L550,250 L590,320 L630,260 L670,320 L720,240 L760,320 L800,270 L840,320 L890,250 L930,320 L980,260 L1020,320 L1070,240 L1110,320 L1160,270 L1200,320 L1250,250 L1290,320 L1340,260 L1380,320 L1410,280 L1440,320 L1440,400 L0,400 Z"></path>
+        </svg>
+    </div>
+
+    <!-- NAVBAR: ĐÃ XÓA KHU VỰC ĐĂNG NHẬP / ĐĂNG XUẤT -->
+    <nav class="top-navbar">
+        <a href="../../index.html" class="nav-brand"><i class="fa-solid fa-graduation-cap"></i> CHINHPHUCTHPTQG2027</a>
+        <div class="nav-links">
+            <a href="https://zalo.me/0385604632" target="_blank" class="nav-item"><i class="fa-solid fa-headset"></i> Tư Vấn Zalo</a>
+        </div>
+    </nav>
+
+    <div class="hero-section">
+        <h1>📚 KHÓA HỌC FULL MÔN ÔN THI THPTQG 2027</h1>
+        <p>Hệ thống bài giảng Video & Tài liệu PDF chất lượng update liên tục</p>
+        <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+            <a href="https://zalo.me/0385604632" target="_blank" class="btn-buy-subject" style="padding: 10px 22px; font-size: 14px;"><i class="fa-solid fa-comment-dots"></i> Liên Hệ Mua Khóa Học Qua Zalo</a>
+            <a href="#course-list-anchor" class="nav-item" style="padding: 10px 22px; font-size: 14px; background: rgba(255,255,255,0.2);"><i class="fa-solid fa-list-check"></i> Xem Danh Sách Môn Học</a>
+        </div>
+    </div>
+
+    <div class="container" id="course-list-anchor">
+        <div class="filter-container">
+            <button class="filter-btn active" onclick="filterSubject('all', event)"><i class="fa-solid fa-border-all"></i> Tất Cả</button>
+            <button class="filter-btn" onclick="filterSubject('toan', event)"><i class="fa-solid fa-calculator"></i> Toán</button>
+            <button class="filter-btn" onclick="filterSubject('van', event)"><i class="fa-solid fa-book-open"></i> Văn</button>
+            <button class="filter-btn" onclick="filterSubject('anh', event)"><i class="fa-solid fa-language"></i> Anh</button>
+            <button class="filter-btn" onclick="filterSubject('ly', event)"><i class="fa-solid fa-bolt"></i> Lý</button>
+            <button class="filter-btn" onclick="filterSubject('hoa', event)"><i class="fa-solid fa-flask"></i> Hóa</button>
+            <button class="filter-btn" onclick="filterSubject('sinh', event)"><i class="fa-solid fa-dna"></i> Sinh</button>
+            <button class="filter-btn" onclick="filterSubject('su-dia', event)"><i class="fa-solid fa-earth-americas"></i> Sử - Địa</button>
+            <button class="filter-btn" onclick="filterSubject('dgnl', event)"><i class="fa-solid fa-bullseye"></i> HSA / TSA</button>
+        </div>
+
+        <!-- MÔN TOÁN -->
+        <div class="subject-section" data-category="toan">
+            <div class="subject-header">
+                <h2 class="subject-title"><i class="fa-solid fa-calculator" style="color: #2563eb;"></i> MÔN TOÁN</h2>
+                <a href="checkout.html" class="btn-buy-subject"><i class="fa-solid fa-cart-shopping"></i> Đăng ký mua môn Toán</a>
+            </div>
+            <ul class="course-list">
+                <li>
+                    <a href="javascript:void(0)" onclick="goToCourse('toan-thay-chi')" class="course-title-link">TOÁN THẦY NGUYỄN QUỐC CHÍ TENS 2K9 - XPS Combo Kiến thức nền tảng và Luyện đề THPT 2027</a>
+                    <a href="javascript:void(0)" onclick="goToCourse('toan-thay-chi')" class="btn-view-course"><i class="fa-solid fa-circle-play"></i> VÀO HỌC NGAY</a>
+                </li>
+                <li>
+                    <a href="javascript:void(0)" onclick="goToCourse('toan-thay-do-van-duc')" class="course-title-link">TOÁN THẦY ĐỖ VĂN ĐỨC TENS 2K9 - XPS Toán 2027</a>
+                    <a href="javascript:void(0)" onclick="goToCourse('toan-thay-do-van-duc')" class="btn-view-course"><i class="fa-solid fa-circle-play"></i> VÀO HỌC NGAY</a>
+                </li>
+                <li>
+                    <a href="javascript:void(0)" onclick="goToCourse('toan-thay-nguyen-dang-ai')" class="course-title-link">TOÁN THẦY NGUYỄN ĐĂNG ÁI TDM 2K9 - XPS COMBO 9.2+ TDMVIP2027</a>
+                    <a href="javascript:void(0)" onclick="goToCourse('toan-thay-nguyen-dang-ai')" class="btn-view-course"><i class="fa-solid fa-circle-play"></i> VÀO HỌC NGAY</a>
+                </li>
+                <li>
+                    <a href="javascript:void(0)" onclick="goToCourse('toan-co-ngoc-huyen-lb')" class="course-title-link">TOÁN CÔ NGỌC HUYỀN NGỌC HUYỀN LB 2K9 - XPS 12 BON SEASON 2027</a>
+                    <a href="javascript:void(0)" onclick="goToCourse('toan-co-ngoc-huyen-lb')" class="btn-view-course"><i class="fa-solid fa-circle-play"></i> VÀO HỌC NGAY</a>
+                </li>
+            </ul>
+        </div>
+
+        <!-- MÔN VĂN -->
+        <div class="subject-section" data-category="van">
+            <div class="subject-header">
+                <h2 class="subject-title"><i class="fa-solid fa-book-open" style="color: #dc2626;"></i> MÔN NGỮ VĂN</h2>
+                <a href="checkout.html" class="btn-buy-subject"><i class="fa-solid fa-cart-shopping"></i> Đăng ký mua môn Văn</a>
+            </div>
+            <ul class="course-list">
+                <li>
+                    <a href="javascript:void(0)" onclick="goToCourse('van-co-suong-mai')" class="course-title-link">VĂN CÔ SƯƠNG MAI QANDA 2K9 - XPS Luyện thi toàn diện Văn 2027</a>
+                    <a href="javascript:void(0)" onclick="goToCourse('van-co-suong-mai')" class="btn-view-course"><i class="fa-solid fa-circle-play"></i> VÀO HỌC NGAY</a>
+                </li>
+                <li>
+                    <a href="javascript:void(0)" onclick="goToCourse('van-co-tran-thuy-duong')" class="course-title-link">VĂN CÔ TRẦN THÙY DƯƠNG QANDA 2K9 - XPS Luyện thi toàn diện, tinh hoa Ngữ văn 12 Plus</a>
+                    <a href="javascript:void(0)" onclick="goToCourse('van-co-tran-thuy-duong')" class="btn-view-course"><i class="fa-solid fa-circle-play"></i> VÀO HỌC NGAY</a>
+                </li>
+                <li>
+                    <a href="javascript:void(0)" onclick="goToCourse('van-thay-pham-minh-nhat')" class="course-title-link">VĂN THẦY PHẠM MINH NHẤT SANGSANG 2K9 - XPS Live SCTG Văn 2027</a>
+                    <a href="javascript:void(0)" onclick="goToCourse('van-thay-pham-minh-nhat')" class="btn-view-course"><i class="fa-solid fa-circle-play"></i> VÀO HỌC NGAY</a>
+                </li>
+            </ul>
+        </div>
+
+        <!-- MÔN ANH -->
+        <div class="subject-section" data-category="anh">
+            <div class="subject-header">
+                <h2 class="subject-title"><i class="fa-solid fa-language" style="color: #059669;"></i> MÔN TIẾNG ANH</h2>
+                <a href="checkout.html" class="btn-buy-subject"><i class="fa-solid fa-cart-shopping"></i> Đăng ký mua môn Anh</a>
+            </div>
+            <ul class="course-list">
+                <li>
+                    <a href="javascript:void(0)" onclick="goToCourse('anh-co-vu-mai-phuong')" class="course-title-link">ANH CÔ VŨ MAI PHƯƠNG NGOAINGU24H 2027 - Pro 3M + Pro 3M Plus Luyện thi THPT và ĐGNL 2027</a>
+                    <a href="javascript:void(0)" onclick="goToCourse('anh-co-vu-mai-phuong')" class="btn-view-course"><i class="fa-solid fa-circle-play"></i> VÀO HỌC NGAY</a>
+                </li>
+                <li>
+                    <a href="javascript:void(0)" onclick="goToCourse('anh-co-pham-lieu')" class="course-title-link">ANH CÔ PHẠM LIỄU TENS 2K9 - XPS Tiếng anh 12 2027</a>
+                    <a href="javascript:void(0)" onclick="goToCourse('anh-co-pham-lieu')" class="btn-view-course"><i class="fa-solid fa-circle-play"></i> VÀO HỌC NGAY</a>
+                </li>
+            </ul>
+        </div>
+
+        <!-- MÔN VẬT LÝ -->
+        <div class="subject-section" data-category="ly">
+            <div class="subject-header">
+                <h2 class="subject-title"><i class="fa-solid fa-bolt" style="color: #d97706;"></i> MÔN VẬT LÝ</h2>
+                <a href="checkout.html" class="btn-buy-subject"><i class="fa-solid fa-cart-shopping"></i> Đăng ký mua môn Lý</a>
+            </div>
+            <ul class="course-list">
+                <li>
+                    <a href="javascript:void(0)" onclick="goToCourse('ly-thay-vu-ngoc-anh')" class="course-title-link">LÝ THẦY VŨ NGỌC ANH MAPSTUDY 2K9 - XPS Vật lý 12 Khóa IMO 2027</a>
+                    <a href="javascript:void(0)" onclick="goToCourse('ly-thay-vu-ngoc-anh')" class="btn-view-course"><i class="fa-solid fa-circle-play"></i> VÀO HỌC NGAY</a>
+                </li>
+                <li>
+                    <a href="javascript:void(0)" onclick="goToCourse('ly-thay-do-ngoc-ha')" class="course-title-link">LÝ THẦY ĐỖ NGỌC HÀ 2K9 - XPS Chinh phục 9 10 Vật lý Zoom (H.T)</a>
+                    <a href="javascript:void(0)" onclick="goToCourse('ly-thay-do-ngoc-ha')" class="btn-view-course"><i class="fa-solid fa-circle-play"></i> VÀO HỌC NGAY</a>
+                </li>
+                <li>
+                    <a href="javascript:void(0)" onclick="goToCourse('ly-thay-le-tung-ung')" class="course-title-link">LÝ THẦY LÊ TÙNG ỨNG TENS 2k9 - XPS Vật lý 12 2027</a>
+                    <a href="javascript:void(0)" onclick="goToCourse('ly-thay-le-tung-ung')" class="btn-view-course"><i class="fa-solid fa-circle-play"></i> VÀO HỌC NGAY</a>
+                </li>
+                <li>
+                    <a href="javascript:void(0)" onclick="goToCourse('ly-thay-vu-hoang-quan')" class="course-title-link">LÝ THẦY VŨ HOÀNG QUÂN 2K9 - XPS Vật lý 12 2027</a>
+                    <a href="javascript:void(0)" onclick="goToCourse('ly-thay-vu-hoang-quan')" class="btn-view-course"><i class="fa-solid fa-circle-play"></i> VÀO HỌC NGAY</a>
+                </li>
+                <li>
+                    <a href="javascript:void(0)" onclick="goToCourse('ly-thay-chu-van-bien')" class="course-title-link">LÝ THẦY CHU VĂN BIÊN CHUVANBIEN 2027 - Combo VIP 2027</a>
+                    <a href="javascript:void(0)" onclick="goToCourse('ly-thay-chu-van-bien')" class="btn-view-course"><i class="fa-solid fa-circle-play"></i> VÀO HỌC NGAY</a>
+                </li>
+                <li>
+                    <a href="javascript:void(0)" onclick="goToCourse('ly-thay-nguyen-dang-ai')" class="course-title-link">LÝ THẦY NGUYỄN ĐĂNG ÁI TDM 2k9 - TDPXYZ2027 Chinh phục toàn diện Vật lý 2027</a>
+                    <a href="javascript:void(0)" onclick="goToCourse('ly-thay-nguyen-dang-ai')" class="btn-view-course"><i class="fa-solid fa-circle-play"></i> VÀO HỌC NGAY</a>
+                </li>
+            </ul>
+        </div>
+
+        <!-- MÔN HÓA HỌC -->
+        <div class="subject-section" data-category="hoa">
+            <div class="subject-header">
+                <h2 class="subject-title"><i class="fa-solid fa-flask" style="color: #0284c7;"></i> MÔN HÓA HỌC</h2>
+                <a href="checkout.html" class="btn-buy-subject"><i class="fa-solid fa-cart-shopping"></i> Đăng ký mua môn Hóa</a>
+            </div>
+            <ul class="course-list">
+                <li>
+                    <a href="javascript:void(0)" onclick="goToCourse('hoa-thay-nguyen-anh-phong')" class="course-title-link">HOÁ THẦY NGUYỄN ANH PHONG NAP 2K9 - XPS Hoá học 12 Khóa IMO 2027</a>
+                    <a href="javascript:void(0)" onclick="goToCourse('hoa-thay-nguyen-anh-phong')" class="btn-view-course"><i class="fa-solid fa-circle-play"></i> VÀO HỌC NGAY</a>
+                </li>
+                <li>
+                    <a href="javascript:void(0)" onclick="goToCourse('hoa-thay-pham-van-trong')" class="course-title-link">HOÁ THẦY PHẠM VĂN TRỌNG TENS 2K9 - XPS Hoá học TEN 2027</a>
+                    <a href="javascript:void(0)" onclick="goToCourse('hoa-thay-pham-van-trong')" class="btn-view-course"><i class="fa-solid fa-circle-play"></i> VÀO HỌC NGAY</a>
+                </li>
+                <li>
+                    <a href="javascript:void(0)" onclick="goToCourse('hoa-thay-pham-thang')" class="course-title-link">HOÁ THẦY PHẠM THẮNG TYHH 2K9 - XPS LIVEVIP Hoá 12 2027</a>
+                    <a href="javascript:void(0)" onclick="goToCourse('hoa-thay-pham-thang')" class="btn-view-course"><i class="fa-solid fa-circle-play"></i> VÀO HỌC NGAY</a>
+                </li>
+                <li>
+                    <a href="javascript:void(0)" onclick="goToCourse('hoa-co-than-thi-lien')" class="course-title-link">HOÁ CÔ THÂN THỊ LIÊN 2K9 - XPS VIP Hoá 12 BEST 2027</a>
+                    <a href="javascript:void(0)" onclick="goToCourse('hoa-co-than-thi-lien')" class="btn-view-course"><i class="fa-solid fa-circle-play"></i> VÀO HỌC NGAY</a>
+                </li>
+            </ul>
+        </div>
+
+        <!-- MÔN SINH HỌC -->
+        <div class="subject-section" data-category="sinh">
+            <div class="subject-header">
+                <h2 class="subject-title"><i class="fa-solid fa-dna" style="color: #16a34a;"></i> MÔN SINH HỌC</h2>
+                <a href="checkout.html" class="btn-buy-subject"><i class="fa-solid fa-cart-shopping"></i> Đăng ký mua môn Sinh</a>
+            </div>
+            <ul class="course-list">
+                <li>
+                    <a href="javascript:void(0)" onclick="goToCourse('sinh-thay-phan-khac-nghe')" class="course-title-link">SINH THẦY PHAN KHẮC NGHỆ MOON 2K9 - XPS Moon Premium + Zoom vip 2027</a>
+                    <a href="javascript:void(0)" onclick="goToCourse('sinh-thay-phan-khac-nghe')" class="btn-view-course"><i class="fa-solid fa-circle-play"></i> VÀO HỌC NGAY</a>
+                </li>
+                <li>
+                    <a href="javascript:void(0)" onclick="goToCourse('sinh-co-tra-my')" class="course-title-link">SINH CÔ TRÀ MY QANDA 2k9 - XPS Luyện thi toàn diện 2027</a>
+                    <a href="javascript:void(0)" onclick="goToCourse('sinh-co-tra-my')" class="btn-view-course"><i class="fa-solid fa-circle-play"></i> VÀO HỌC NGAY</a>
+                </li>
+                <li>
+                    <a href="javascript:void(0)" onclick="goToCourse('sinh-thay-truong-cong-kien')" class="course-title-link">SINH THẦY TRƯƠNG CÔNG KIÊN QANDA 2K9 - XPS Sinh 2027</a>
+                    <a href="javascript:void(0)" onclick="goToCourse('sinh-thay-truong-cong-kien')" class="btn-view-course"><i class="fa-solid fa-circle-play"></i> VÀO HỌC NGAY</a>
+                </li>
+            </ul>
+        </div>
+
+        <!-- MÔN SỬ - ĐỊA -->
+        <div class="subject-section" data-category="su-dia">
+            <div class="subject-header">
+                <h2 class="subject-title"><i class="fa-solid fa-earth-americas" style="color: #b45309;"></i> MÔN LỊCH SỬ & ĐỊA LÝ</h2>
+                <a href="checkout.html" class="btn-buy-subject"><i class="fa-solid fa-cart-shopping"></i> Đăng ký mua Sử - Địa</a>
+            </div>
+            <ul class="course-list">
+                <li>
+                    <a href="javascript:void(0)" onclick="goToCourse('su-co-nguyen-huong-sen')" class="course-title-link">SỬ CÔ NGUYỄN HƯƠNG SEN SANGSANG 2K9 - XPS Live CTG Lịch sử 2027</a>
+                    <a href="javascript:void(0)" onclick="goToCourse('su-co-nguyen-huong-sen')" class="btn-view-course"><i class="fa-solid fa-circle-play"></i> VÀO HỌC NGAY</a>
+                </li>
+                <li>
+                    <a href="javascript:void(0)" onclick="goToCourse('su-co-ngo-thi-lan-huong')" class="course-title-link">SỬ CÔ NGÔ THỊ LAN HƯƠNG ATSCHOOL 2K9 - 2K9 XPS giải pháp A+ ôn thi toàn diện</a>
+                    <a href="javascript:void(0)" onclick="goToCourse('su-co-ngo-thi-lan-huong')" class="btn-view-course"><i class="fa-solid fa-circle-play"></i> VÀO HỌC NGAY</a>
+                </li>
+                <li>
+                    <a href="javascript:void(0)" onclick="goToCourse('dia-ly-thay-dam-thanh-tung')" class="course-title-link">ĐỊA LÝ THẦY ĐÀM THÀNH TÙNG ATSCHOOL 2K9 - 2K9 XPS giải pháp A+ ôn thi toàn diện</a>
+                    <a href="javascript:void(0)" onclick="goToCourse('dia-ly-thay-dam-thanh-tung')" class="btn-view-course"><i class="fa-solid fa-circle-play"></i> VÀO HỌC NGAY</a>
+                </li>
+                <li>
+                    <a href="javascript:void(0)" onclick="goToCourse('dia-ly-thay-tai')" class="course-title-link">ĐỊA LÝ THẦY TÀI QANDA 2K9 - XPS Live 2027 Địa lý</a>
+                    <a href="javascript:void(0)" onclick="goToCourse('dia-ly-thay-tai')" class="btn-view-course"><i class="fa-solid fa-circle-play"></i> VÀO HỌC NGAY</a>
+                </li>
+                <li>
+                    <a href="javascript:void(0)" onclick="goToCourse('dia-ly-co-mai-anh')" class="course-title-link">ĐỊA LÝ CÔ MAI ANH LỚP HỌC ĐỊA LÝ 2K9 - XPS Lộ trình 9+ Địa lý 2027</a>
+                    <a href="javascript:void(0)" onclick="goToCourse('dia-ly-co-mai-anh')" class="btn-view-course"><i class="fa-solid fa-circle-play"></i> VÀO HỌC NGAY</a>
+                </li>
+            </ul>
+        </div>
+
+        <!-- ĐÁNH GIÁ NĂNG LỰC -->
+        <div class="subject-section" data-category="dgnl">
+            <div class="subject-header">
+                <h2 class="subject-title"><i class="fa-solid fa-star" style="color: #ffca28;"></i> ĐÁNH GIÁ NĂNG LỰC TP HÀ NỘI</h2>
+                <a href="checkout.html" class="btn-buy-subject"><i class="fa-solid fa-cart-shopping"></i> Đăng ký mua HSA</a>
+            </div>
+            <ul class="course-list">
+                <li>
+                    <a href="javascript:void(0)" onclick="goToCourse('hsa-qda-hocmai')" class="course-title-link">HSA/QDA HOCMAI 2K9 LUYỆN THI ĐGNL HÀ NỘI 2027 - Giải pháp toàn diện HSA Phòng luyện 2027</a>
+                    <a href="javascript:void(0)" onclick="goToCourse('hsa-qda-hocmai')" class="btn-view-course"><i class="fa-solid fa-circle-play"></i> VÀO HỌC NGAY</a>
+                </li>
+                <li>
+                    <a href="javascript:void(0)" onclick="goToCourse('hsa-empire')" class="course-title-link">HSA EMPIRE 2K9 LUYỆN THI ĐGNL HÀ NỘI 2027 - 2K9 HSA 2027 (Khóa XPS Nhóm 1)</a>
+                    <a href="javascript:void(0)" onclick="goToCourse('hsa-empire')" class="btn-view-course"><i class="fa-solid fa-circle-play"></i> VÀO HỌC NGAY</a>
+                </li>
+                <li>
+                    <a href="javascript:void(0)" onclick="goToCourse('hsa-mapstudy')" class="course-title-link">HSA MAPSTUDY 2K9 LUYỆN THI ĐGNL HÀ NỘI 2027 - XPS 2K9 HSA 2027</a>
+                    <a href="javascript:void(0)" onclick="goToCourse('hsa-mapstudy')" class="btn-view-course"><i class="fa-solid fa-circle-play"></i> VÀO HỌC NGAY</a>
+                </li>
+                <li>
+                    <a href="javascript:void(0)" onclick="goToCourse('hsa-education')" class="course-title-link">HSA 2K9 HSA EDU LUYỆN THI ĐGNL HÀ NỘI 2027 - Khoá Tinh hoa HSA TH01</a>
+                    <a href="javascript:void(0)" onclick="goToCourse('hsa-education')" class="btn-view-course"><i class="fa-solid fa-circle-play"></i> VÀO HỌC NGAY</a>
+                </li>
+            </ul>
+        </div>
+
+        <div class="subject-section" data-category="dgnl">
+            <div class="subject-header">
+                <h2 class="subject-title"><i class="fa-solid fa-bullseye" style="color: #6d28d9;"></i> ĐÁNH GIÁ NĂNG LỰC TP HỒ CHÍ MINH</h2>
+                <a href="checkout.html" class="btn-buy-subject"><i class="fa-solid fa-cart-shopping"></i> Đăng ký mua V-ACT</a>
+            </div>
+            <ul class="course-list">
+                <li>
+                    <a href="javascript:void(0)" onclick="goToCourse('vact-empire')" class="course-title-link">V-ACT EMPIRE 2K9 LUYỆN THI ĐGNL TP HỒ CHÍ MINH 2027 - Giải pháp toàn diện V-ACT Phòng luyện 2027</a>
+                    <a href="javascript:void(0)" onclick="goToCourse('vact-empire')" class="btn-view-course"><i class="fa-solid fa-circle-play"></i> VÀO HỌC NGAY</a>
+                </li>
+                <li>
+                    <a href="javascript:void(0)" onclick="goToCourse('vact-hocmai')" class="course-title-link">V-ACT HOCMAI 2K9 LUYỆN THI ĐGNL TP HỒ CHÍ MINH 2027 - 2K9 V-ACT 2027 (Khóa XPS Nhóm 1)</a>
+                    <a href="javascript:void(0)" onclick="goToCourse('vact-hocmai')" class="btn-view-course"><i class="fa-solid fa-circle-play"></i> VÀO HỌC NGAY</a>
+                </li>
+                <li>
+                    <a href="javascript:void(0)" onclick="goToCourse('vact-mapstudy')" class="course-title-link">V-ACT MAPSTUDY 2K9 LUYỆN THI ĐGNL TP HỒ CHÍ MINH 2027 - XPS 2K9 V-ACT 2027</a>
+                    <a href="javascript:void(0)" onclick="goToCourse('vact-mapstudy')" class="btn-view-course"><i class="fa-solid fa-circle-play"></i> VÀO HỌC NGAY</a>
+                </li>
+                <li>
+                    <a href="javascript:void(0)" onclick="goToCourse('bop-tro-tsa-hsa-vact-tdmu')" class="course-title-link">Bổ trợ TSA - HSA - VACT TDMU 2027 - Thầy Nguyễn Đăng Ái Tư Duy Mở</a>
+                    <a href="javascript:void(0)" onclick="goToCourse('bop-tro-tsa-hsa-vact-tdmu')" class="btn-view-course"><i class="fa-solid fa-circle-play"></i> VÀO HỌC NGAY</a>
+                </li>
+            </ul>
+        </div>
+
+        <div class="subject-section" data-category="dgnl">
+            <div class="subject-header">
+                <h2 class="subject-title"><i class="fa-solid fa-bullseye" style="color: #6d28d9;"></i> ĐÁNH GIÁ TƯ DUY ĐH BÁCH KHOA HÀ NỘI</h2>
+                <a href="checkout.html" class="btn-buy-subject"><i class="fa-solid fa-cart-shopping"></i> Đăng ký mua TSA</a>
+            </div>
+            <ul class="course-list">
+                <li>
+                    <a href="javascript:void(0)" onclick="goToCourse('tsa-hocmai')" class="course-title-link">TSA HOCMAI 2K9 LUYỆN THI ĐÁNH GIÁ TƯ DUY ĐHBK HÀ NỘI 2027 - Giải pháp toàn diện TSA, Phòng luyện 2027</a>
+                    <a href="javascript:void(0)" onclick="goToCourse('tsa-hocmai')" class="btn-view-course"><i class="fa-solid fa-circle-play"></i> VÀO HỌC NGAY</a>
+                </li>
+                <li>
+                    <a href="javascript:void(0)" onclick="goToCourse('tsa-bmc')" class="course-title-link">TSA BMC 2k9 LUYỆN THI ĐÁNH GIÁ TƯ DUY ĐHBK HÀ NỘI 2027 - XPS 2k9 TSA 2027</a>
+                    <a href="javascript:void(0)" onclick="goToCourse('tsa-bmc')" class="btn-view-course"><i class="fa-solid fa-circle-play"></i> VÀO HỌC NGAY</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+    <a href="https://zalo.me/0385604632" target="_blank" style="position: fixed; bottom: 20px; right: 20px; background: #0068ff; color: #fff; padding: 12px 20px; border-radius: 30px; text-decoration: none; font-weight: bold; font-size: 13px; box-shadow: 0 4px 15px rgba(0, 104, 255, 0.4); display: flex; align-items: center; gap: 8px; z-index: 999;"><i class="fa-solid fa-headset"></i> Hỗ Trợ Zalo</a>
+
+    <!-- SCRIPT TỰ ĐỘNG THÊM NÚT CHUYỂN BAN NGÀY / BAN ĐÊM -->
+    <script>
+        function toggleTheme() {
+            const htmlElement = document.documentElement;
+            const currentTheme = htmlElement.getAttribute("data-theme");
+            const newTheme = currentTheme === "dark" ? "light" : "dark";
+            
+            htmlElement.setAttribute("data-theme", newTheme);
+            localStorage.setItem("themePreference", newTheme);
+            updateThemeUI(newTheme);
+        }
+
+        function updateThemeUI(theme) {
+            const themeIcon = document.getElementById("themeIcon");
+            const themeText = document.getElementById("themeText");
+            if (!themeIcon || !themeText) return;
+            
+            if (theme === "dark") {
+                themeIcon.className = "fa-solid fa-moon";
+                themeText.textContent = "Ban Đêm";
+            } else {
+                themeIcon.className = "fa-solid fa-sun";
+                themeText.textContent = "Ban Ngày";
+            }
+        }
+
+        document.addEventListener("DOMContentLoaded", () => {
+            let navbar = document.querySelector(".top-navbar");
+            if (navbar && !document.getElementById("themeToggleBtn")) {
+                let btn = document.createElement("button");
+                btn.id = "themeToggleBtn";
+                btn.className = "theme-toggle-btn";
+                btn.innerHTML = `<i class="fa-solid fa-sun" id="themeIcon"></i> <span id="themeText">Ban Ngày</span>`;
+                btn.onclick = toggleTheme;
+                
+                let navLinks = navbar.querySelector(".nav-links");
+                if (navLinks) {
+                    navLinks.insertBefore(btn, navLinks.firstChild);
+                } else {
+                    navbar.appendChild(btn);
+                }
+            }
+
+            const savedTheme = localStorage.getItem("themePreference") || "light";
+            document.documentElement.setAttribute("data-theme", savedTheme);
+            updateThemeUI(savedTheme);
+        });
+
+        // ==========================================
+        // LOGIC KIỂM TRA TÀI KHOẢN TỪ TAILIEUHUB
+        // ==========================================
+        const SECRET_KEY = "TLH_SECURE_2026_@KEY";
+
+        function getSecureCourses() {
+            let raw = localStorage.getItem("allowedCourses");
+            if (!raw) return [];
+            try {
+                let decoded = decodeURIComponent(atob(raw));
+                let parts = decoded.split("|");
+                if (parts.length === 2 && parts[1] === SECRET_KEY) {
+                    let courses = JSON.parse(parts[0]);
+                    return courses.map(c => String(c).toLowerCase().trim());
+                }
+            } catch(e) { return []; }
+            return [];
+        }
+
+        function goToCourse(courseCode) {
+            let userEmail = localStorage.getItem("userEmail");
+            let allowedCourses = getSecureCourses();
+
+            if (!userEmail) {
+                alert("Bạn chưa đăng nhập tài khoản! Hệ thống sẽ chuyển bạn về Trang chủ TaiLieuHub để Đăng Nhập.");
+                window.location.href = "../../index.html?action=login";
+                return;
+            }
+
+            let hasPermission = allowedCourses.includes("all") || 
+                                allowedCourses.includes("thptqg-all") || 
+                                allowedCourses.includes(courseCode.toLowerCase());
+
+            if (!hasPermission) {
+                alert("Tài khoản của bạn chưa kích hoạt môn học này! Chuyển sang trang Đăng Ký Mua Môn.");
+                window.location.href = "checkout.html";
+                return;
+            }
+
+            window.location.href = `detail.html?course=${courseCode}`;
+        }
+
+        function filterSubject(category, evt) {
+            const buttons = document.querySelectorAll('.filter-btn');
+            buttons.forEach(btn => btn.classList.remove('active'));
+            evt.currentTarget.classList.add('active');
+
+            const sections = document.querySelectorAll('.subject-section');
+            sections.forEach(section => {
+                if (category === 'all' || section.getAttribute('data-category') === category) {
+                    section.style.display = 'block';
+                } else {
+                    section.style.display = 'none';
+                }
+            });
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <link rel="stylesheet" href="toeic-style.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chi Tiết Khóa Học - TaiLieuHub</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <style>
+    * { box-sizing: border-box; }
+    body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: #f8fafc; margin: 0; padding-bottom: 40px; }
+    
+    .top-navbar { background: #1e293b; color: #fff; padding: 12px 24px; display: flex; justify-content: space-between; align-items: center; box-shadow: 0 2px 10px rgba(0,0,0,0.15); position: sticky; top: 0; z-index: 100; }
+    .nav-brand { font-size: 18px; font-weight: bold; color: #38bdf8; text-decoration: none; display: flex; align-items: center; gap: 8px; }
+    .btn-back { color: #94a3b8; text-decoration: none; font-size: 14px; font-weight: 600; display: flex; align-items: center; gap: 6px; }
+    .btn-back:hover { color: #fff; }
+
+    .container { max-width: 950px; margin: 24px auto; padding: 0 16px; }
+    .header-box { background: #fff; border-radius: 12px; padding: 20px 24px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); margin-bottom: 20px; border-left: 5px solid #2563eb; }
+    .course-title { font-size: 20px; color: #0f172a; margin: 0 0 8px 0; }
+    .course-sub { font-size: 13px; color: #64748b; margin: 0; }
+
+    .accordion-card { background: #ffffff; border: 1px solid #e2e8f0; border-radius: 8px; margin-bottom: 8px; overflow: hidden; }
+    .accordion-header { padding: 12px 16px; font-weight: 600; cursor: pointer; display: flex; justify-content: space-between; align-items: center; user-select: none; }
+    .accordion-content { padding: 10px 15px; display: block; }
+    .accordion-card.collapsed > .accordion-content { display: none; }
+    .accordion-card.collapsed > .accordion-header .chevron-icon { transform: rotate(-90deg); }
+    .chevron-icon { transition: transform 0.25s ease; }
+
+    .lesson-item { display: flex; justify-content: space-between; align-items: center; padding: 10px 0; border-bottom: 1px dashed #e2e8f0; }
+    .lesson-item:last-child { border-bottom: none; }
+    .lesson-name { font-size: 13px; color: #1e293b; font-weight: 500; }
+    
+    .action-btns { display: flex; gap: 8px; flex-wrap: wrap; }
+    .btn-action { padding: 6px 12px; border-radius: 6px; font-size: 12px; font-weight: 600; text-decoration: none; border: none; cursor: pointer; display: inline-flex; align-items: center; gap: 5px; }
+    .btn-video { background: #eff6ff; color: #2563eb; }
+    .btn-pdf { background: #fef2f2; color: #dc2626; }
+    .btn-audio { background: #f0fdf4; color: #16a34a; }
+    .btn-zip { background: #fefce8; color: #ca8a04; }
+    /* Nút bấm làm bài thi online mới */
+    .btn-exam { background: #2563eb; color: #ffffff; }
+    .btn-exam:hover { background: #1d4ed8; }
+
+    .modal-overlay { position: fixed; top:0; left:0; width:100%; height:100%; background: rgba(0,0,0,0.75); display:none; justify-content:center; align-items:center; z-index: 1000; }
+    .modal-box { background: #fff; width: 90%; max-width: 850px; border-radius: 12px; overflow: hidden; display: flex; flex-direction: column; height: 80vh; }
+    .modal-header { background: #0f172a; color: #fff; padding: 12px 20px; display: flex; justify-content: space-between; align-items: center; }
+    .modal-body { flex: 1; background: #000; }
+    .modal-body iframe { width: 100%; height: 100%; border: none; }
+    .close-btn { background: none; border: none; color: #fff; font-size: 20px; cursor: pointer; }
+  </style>
+</head>
+<body>
+<!-- Khung Ảnh Nền Phong Cảnh Chuyển Động Ngày / Đêm -->
+<div class="scenery-bg-container">
+    <div class="bg-daylight"></div>
+    <div class="bg-nightstar"></div>
+</div>
+
+<!-- Nút Bật/Tắt Ban Ngày - Ban Đêm tự động chèn vào Navbar -->
+<script>
+    document.addEventListener("DOMContentLoaded", () => {
+        let navbar = document.querySelector(".top-navbar");
+        if (navbar && !document.getElementById("themeToggleBtn")) {
+            let btn = document.createElement("button");
+            btn.id = "themeToggleBtn";
+            btn.className = "theme-toggle-btn";
+            btn.innerHTML = `<i class="fa-solid fa-sun" style="color:#f59e0b;"></i> <span>Ban ngày</span>`;
+            btn.onclick = () => {
+                let isDark = document.documentElement.getAttribute("data-theme") === "dark";
+                document.documentElement.setAttribute("data-theme", isDark ? "light" : "dark");
+                btn.innerHTML = isDark 
+                    ? `<i class="fa-solid fa-sun" style="color:#f59e0b;"></i> Ban ngày` 
+                    : `<i class="fa-solid fa-moon" style="color:#38bdf8;"></i> Ban đêm`;
+            };
+            navbar.appendChild(btn);
+        }
+    });
+</script>
+  <div class="top-navbar">
+    <a href="index.html" class="nav-brand"><i class="fa-solid fa-graduation-cap"></i> CHI TIẾT BÀI HỌC</a>
+    <a href="index.html" class="btn-back"><i class="fa-solid fa-arrow-left"></i> Quay lại Danh sách</a>
+  </div>
+
+  <div class="container">
+    <div class="header-box">
+      <h1 class="course-title" id="course-title">Đang tải dữ liệu khóa học...</h1>
+      <p class="course-sub"><i class="fa-solid fa-circle-info"></i> Nhấn vào các danh mục bên dưới để mở rộng bài học và tài liệu.</p>
+    </div>
+    <div id="content-container"></div>
+  </div>
+
+  <div class="modal-overlay" id="videoModal">
+    <div class="modal-box">
+      <div class="modal-header">
+        <span id="videoTitle" style="font-weight: 600; font-size: 14px;">Xem Bài Học</span>
+        <button class="close-btn" onclick="closeModal()">&times;</button>
+      </div>
+      <div class="modal-body">
+        <iframe id="driveFrame" src="" allow="autoplay" allowfullscreen></iframe>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    // ==========================================
+    // CẤU HÌNH BẢO MẬT CHỐNG SỬA TẢI KHOẢN
+    // ==========================================
+    const SECRET_KEY = "TLH_SECURE_2026_@KEY";
+
+    function setSecureCourses(coursesArray) {
+        try {
+            let jsonStr = JSON.stringify(coursesArray);
+            let encoded = btoa(encodeURIComponent(jsonStr + "|" + SECRET_KEY));
+            localStorage.setItem("allowedCourses", encoded);
+        } catch(e) {}
+    }
+
+    function getSecureCourses() {
+        let raw = localStorage.getItem("allowedCourses");
+        if (!raw) return [];
+        try {
+            let decoded = decodeURIComponent(atob(raw));
+            let parts = decoded.split("|");
+            if (parts.length === 2 && parts[1] === SECRET_KEY) {
+                let courses = JSON.parse(parts[0]);
+                return courses.map(c => String(c).toLowerCase().trim());
+            }
+        } catch(e) { return []; }
+        return [];
+    }
+
+    const urlParams = new URLSearchParams(window.location.search);
+    const course = urlParams.get('course') || 'toan-thay-chi';
+
+    // ✅ ĐÃ NÂNG CẤP BẢO MẬT TẠI HÀM CHECKAUTH
+    (function checkAuth() {
+        let userEmail = localStorage.getItem("userEmail");
+        let allowedCourses = getSecureCourses();
+
+        if (!userEmail) {
+            alert("Vui lòng đăng nhập tài khoản để vào xem khóa học!");
+            window.location.href = "../../index.html?action=login";
+            return;
+        }
+
+        let hasPermission = allowedCourses.includes("all") || 
+                            allowedCourses.includes("thptqg-all") || 
+                            allowedCourses.includes("toeic-all") || 
+                            allowedCourses.includes("toeic-4-ky-nang") || 
+                            allowedCourses.includes(course.toLowerCase());
+
+        if (!hasPermission) {
+            alert("Tài khoản của bạn chưa kích hoạt môn học này!");
+            window.location.href = "checkout.html";
+        }
+    })();
+
+    const script = document.createElement('script');
+    script.src = `data/${course}.js`;
+
+    script.onload = function() {
+        if (typeof COURSE_DATA !== 'undefined') {
+            document.getElementById('course-title').innerText = COURSE_DATA.title || 'Nội Dung Khóa Học';
+            renderTabs(COURSE_DATA);
+        } else {
+            document.getElementById('course-title').innerText = "Không tìm thấy dữ liệu khóa học!";
+        }
+    };
+
+    script.onerror = function() {
+        document.getElementById('course-title').innerText = "Lỗi Tải Khóa Học";
+        document.getElementById('content-container').innerHTML = `<p style="color:red; font-weight:bold;">Không tìm thấy file data/${course}.js!</p>`;
+    };
+
+    document.body.appendChild(script);
+
+    function renderTabs(data) {
+        if (!data || !data.tree) return;
+        let html = renderNodes(data.tree, 0, true);
+        document.getElementById('content-container').innerHTML = html;
+    }
+
+    function renderNodes(nodes, depth, isCollapsed = false) {
+        if (!nodes || nodes.length === 0) return '';
+        let html = '';
+
+        nodes.forEach((node) => {
+            let nodeId = 'node-' + Math.random().toString(36).substr(2, 9);
+            let bgHeader = depth === 0 ? '#f1f5f9' : (depth === 1 ? '#ffffff' : '#f8fafc');
+            let borderLeft = depth === 0 ? '4px solid #2563eb' : (depth === 1 ? '3px solid #38bdf8' : '2px solid #94a3b8');
+            let fontSize = depth === 0 ? '16px' : (depth === 1 ? '14px' : '13px');
+            let fontColor = depth === 0 ? '#1e293b' : '#334155';
+            let iconClass = depth === 0 ? 'fa-folder-open' : (depth === 1 ? 'fa-bookmark' : 'fa-folder');
+            let collapsedClass = isCollapsed ? 'collapsed' : '';
+
+            html += `
+            <div class="accordion-card ${collapsedClass}" id="${nodeId}" style="border-left: ${borderLeft};">
+                <div class="accordion-header" onclick="toggleNode('${nodeId}', event)" style="background: ${bgHeader};">
+                    <span style="font-size: ${fontSize}; font-weight: bold; color: ${fontColor};">
+                        <i class="fa-solid ${iconClass}" style="color: #2563eb; margin-right: 8px;"></i>${node.title}
+                    </span>
+                    <i class="fa-solid fa-chevron-down chevron-icon" style="color: #64748b;"></i>
+                </div>
+                <div class="accordion-content">`;
+
+                if (node.items && node.items.length > 0) {
+                    node.items.forEach(item => {
+                        let displayName = item.name || item.title || "Bài học / Bài thi";
+
+                        // XỬ LÝ NÚT BÀI THI ONLINE (NẾU CÓ CẤU TRÚC EXAM HOẶC LINK BÀI THI)
+                        let ex = '';
+                        if (item.type === "exam" || (item.link && item.link.includes("baithi.html"))) {
+                            ex = `<a href="${item.link}" target="_blank" class="btn-action btn-exam"><i class="fa-solid fa-pen-to-square"></i> Làm Bài Online</a>`;
+                        }
+
+                        let v = (item.videos || []).map(vid => 
+                            `<button onclick="play('${convertDriveUrl(vid.link)}', '${displayName}')" class="btn-action btn-video"><i class="fa-solid fa-circle-play"></i> Xem Video</button>`
+                        ).join('') || '';
+
+                        let p = (item.pdfs || []).map(pdf => 
+                            `<button onclick="play('${convertDriveUrl(pdf.link)}', '${displayName}')" class="btn-action btn-pdf"><i class="fa-solid fa-file-pdf"></i> Xem PDF</button>`
+                        ).join('') || '';
+
+                        let a = (item.audios || []).map(aud => 
+                            `<button onclick="play('${convertDriveUrl(aud.link)}', '${displayName}')" class="btn-action btn-audio"><i class="fa-solid fa-headphones"></i> Nghe Audio</button>`
+                        ).join('') || '';
+
+                        let z = (item.zips || []).map(zip => 
+                            `<button onclick="play('${convertDriveUrl(zip.link)}', '${displayName}')" class="btn-action btn-zip"><i class="fa-solid fa-file-zipper"></i> Xem File ZIP</button>`
+                        ).join('') || '';
+
+                        html += `
+                        <div class="lesson-item">
+                            <span class="lesson-name"><i class="fa-regular fa-file" style="color:#64748b; margin-right: 6px;"></i>${displayName}</span>
+                            <div class="action-btns">${ex}${v}${p}${a}${z}</div>
+                        </div>`;
+                    });
+                }
+
+                if (node.children && node.children.length > 0) {
+                    html += renderNodes(node.children, depth + 1, false);
+                }
+
+            html += `</div></div>`;
+        });
+
+        return html;
+    }
+
+    function toggleNode(id, event) {
+        if (event) event.stopPropagation();
+        let el = document.getElementById(id);
+        if (el) el.classList.toggle('collapsed');
+    }
+
+    function convertDriveUrl(url) {
+        if(!url) return "";
+        return url.replace('/view?usp=drivesdk', '/preview').replace('/view', '/preview');
+    }
+
+    function play(url, title) {
+        document.getElementById('videoTitle').innerText = title;
+        document.getElementById('driveFrame').src = url;
+        document.getElementById('videoModal').style.display = 'flex';
+    }
+
+    function closeModal() { 
+        document.getElementById('driveFrame').src = ''; 
+        document.getElementById('videoModal').style.display = 'none'; 
+    }
+  </script>
+</body>
+</html>
