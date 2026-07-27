@@ -2,7 +2,7 @@ const COURSE_DATA = {
   "title": "TOEIC NGHE-ĐỌC (Mục tiêu 650-700+)- CÔ VŨ MAI PHƯƠNG 2026",
   "tree": [
     {
-      "title": "part1",
+      "title": "Part 1: MÔ TẢ TRANH",
       "items": [],
       "children": [
         {
@@ -369,7 +369,7 @@ const COURSE_DATA = {
       ]
     },
     {
-      "title": "part2",
+      "title": "Part 2: HỎI ĐÁP",
       "items": [],
       "children": [
         {
@@ -657,7 +657,7 @@ const COURSE_DATA = {
       ]
     },
     {
-      "title": "part3",
+      "title": "Part 3: HỘI THOẠI NGẮN",
       "items": [],
       "children": [
         {
@@ -997,7 +997,7 @@ const COURSE_DATA = {
       ]
     },
     {
-      "title": "part4",
+      "title": "Part 4: BÀI NÓI CHUYỆN NGẮN",
       "items": [],
       "children": [
         {
@@ -1233,7 +1233,7 @@ const COURSE_DATA = {
       ]
     },
     {
-      "title": "part5+6",
+      "title": "Part 5+6: HOÀN THÀNH CÂU & ĐỌC ĐOẠN VĂN",
       "items": [],
       "children": [
         {
@@ -2153,7 +2153,7 @@ const COURSE_DATA = {
       ]
     },
     {
-      "title": "part7",
+      "title": "Part 7: HỌC TỪ VỰNG VÀ LUYỆN ĐỌC HIỂU",
       "items": [],
       "children": [
         {
