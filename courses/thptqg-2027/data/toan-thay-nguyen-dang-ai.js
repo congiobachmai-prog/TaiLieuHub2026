@@ -1244,6 +1244,336 @@ const COURSE_DATA = {
                 }
               ],
               "children": []
+            },
+            {
+              "title": "TDMXX17_Khảo sát và Vẽ đồ thị hàm bậc ba",
+              "items": [
+                {
+                  "name": "Bg01. Khảo sát và vẽ đồ thị hàm bậc 3.mp4.mp4",
+                  "videos": [
+                    {
+                      "title": "Bg01. Khảo sát và vẽ đồ thị hàm bậc 3.mp4.mp4",
+                      "link": "https://drive.google.com/file/d/1LpxfeZ5K_DPybkh-YTR3EhIN6VPKjf1w/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "KEY ĐỀ TDMXX17_ĐTL_KHẢO SÁT VÀ VẼ ĐỒ THỊ HÀM BẬC BA_2027A.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "KEY ĐỀ TDMXX17_ĐTL_KHẢO SÁT VÀ VẼ ĐỒ THỊ HÀM BẬC BA_2027A.pdf",
+                      "link": "https://drive.google.com/file/d/1n8LQio87F46zNulLqjR_N56S4MKJ5aWV/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "TDMXX17.mp4.mp4",
+                  "videos": [
+                    {
+                      "title": "TDMXX17.mp4.mp4",
+                      "link": "https://drive.google.com/file/d/1d3G7faaLT7ZXrYMU5v2zfWTH7zDDQqH3/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "TDMXX17_FGC_KS VÀ VẼ ĐỒ THỊ HÀM BẬC BA.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "TDMXX17_FGC_KS VÀ VẼ ĐỒ THỊ HÀM BẬC BA.pdf",
+                      "link": "https://drive.google.com/file/d/1EvsHxbVVeYzxoBGeEMdpjUSu2rrFS8T3/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "Viết tay TDMXX17.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "Viết tay TDMXX17.pdf",
+                      "link": "https://drive.google.com/file/d/1w5ktub7tCWByoyY9W6mz8hNlJaafq0HJ/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "ĐỀ TDMXX17_ĐTL_KHẢO SÁT VÀ VẼ ĐỒ THỊ HÀM BẬC BA_2027A.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "ĐỀ TDMXX17_ĐTL_KHẢO SÁT VÀ VẼ ĐỒ THỊ HÀM BẬC BA_2027A.pdf",
+                      "link": "https://drive.google.com/file/d/1PIukO7yMN047aYQqN2YWp-X8QlroMaio/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "TDMXX18_Khảo sát và Vẽ đồ thị hàm phân thức",
+              "items": [
+                {
+                  "name": "Bg01. Khảo sát SBT và vẽ đồ thị hàm phân thức 01.mp4.mp4",
+                  "videos": [
+                    {
+                      "title": "Bg01. Khảo sát SBT và vẽ đồ thị hàm phân thức 01.mp4.mp4",
+                      "link": "https://drive.google.com/file/d/1SZ_wnX7z8mFudVu6t2rhgqcdxr2BcVeX/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "Bg02. Khảo sát SBT và vẽ đồ thị hàm phân thức 02.mp4.mp4",
+                  "videos": [
+                    {
+                      "title": "Bg02. Khảo sát SBT và vẽ đồ thị hàm phân thức 02.mp4.mp4",
+                      "link": "https://drive.google.com/file/d/1cQ9e0t1I_JaO3axq9VEcvl8CZ2KxykLX/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "BVT_TDMXX18.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "BVT_TDMXX18.pdf",
+                      "link": "https://drive.google.com/file/d/1VX9cA8S_8ki6tcjKGPiP7incVDkEKRX3/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "KEY ĐỀ_TDMXX18_ĐTL_KS VÀ VẼ ĐỒ THỊ HÀM PHÂN THỨC_PB12.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "KEY ĐỀ_TDMXX18_ĐTL_KS VÀ VẼ ĐỒ THỊ HÀM PHÂN THỨC_PB12.pdf",
+                      "link": "https://drive.google.com/file/d/1jmgSxJUlmFSgqdxYc6D6w2C32PxSGvAI/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "TDMXX18.mp4.mp4",
+                  "videos": [
+                    {
+                      "title": "TDMXX18.mp4.mp4",
+                      "link": "https://drive.google.com/file/d/19acOlLLHa_-lmPKPf8qbPFYdEha9D8HF/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "TDMXX18_FGC_KS VÀ VĐT HÀM PHÂN THỨC.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "TDMXX18_FGC_KS VÀ VĐT HÀM PHÂN THỨC.pdf",
+                      "link": "https://drive.google.com/file/d/1sQ9_wewUSzKLs7lOE0fFDhspMxRIQ5PZ/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "ĐỀ TDMXX18_ĐTL_KS VÀ VẼ ĐỒ THỊ HÀM PHÂN THỨC_PB12.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "ĐỀ TDMXX18_ĐTL_KS VÀ VẼ ĐỒ THỊ HÀM PHÂN THỨC_PB12.pdf",
+                      "link": "https://drive.google.com/file/d/1hg0luh1D_X5faAvNNACMkDuwjiQo8Q-L/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "TDMXX19_Một số nâng cao đồ thị hàm cơ bản",
+              "items": [
+                {
+                  "name": "Bg01. Cực trị KC trên đồ thị HPT.mp4.mp4",
+                  "videos": [
+                    {
+                      "title": "Bg01. Cực trị KC trên đồ thị HPT.mp4.mp4",
+                      "link": "https://drive.google.com/file/d/1EvdRGUdk-8oUDdueT-qjg1o_V-nWHIno/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "BVT_LIVE_TDMXX12_ĐTL_MỘT SỐ NÂNG CAO VỀ ĐỒ THỊ HÀM CƠ BẢN 2.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "BVT_LIVE_TDMXX12_ĐTL_MỘT SỐ NÂNG CAO VỀ ĐỒ THỊ HÀM CƠ BẢN 2.pdf",
+                      "link": "https://drive.google.com/file/d/16MGBKJAezkq48uwzN2qeyBCm7hYGNGF8/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "Chữa ĐTL TDMXX19.mp4.mp4",
+                  "videos": [
+                    {
+                      "title": "Chữa ĐTL TDMXX19.mp4.mp4",
+                      "link": "https://drive.google.com/file/d/1YqcO0cIwByRPT8OQvnXL2m-1_tGIg9qH/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "KEY ĐỀ_TDMXX19_ĐTL_MỘT SỐ NÂNG CAO VỀ ĐỒ THỊ HÀM CƠ BẢN_2027A.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "KEY ĐỀ_TDMXX19_ĐTL_MỘT SỐ NÂNG CAO VỀ ĐỒ THỊ HÀM CƠ BẢN_2027A.pdf",
+                      "link": "https://drive.google.com/file/d/1mU_zwWOxumFhR-MUUhcINLpmxWeJf5ZS/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "TDMXX19_FGC_MỘT SỐ NÂNG CAO ĐỒ THỊ HÀM CƠ BẢN.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "TDMXX19_FGC_MỘT SỐ NÂNG CAO ĐỒ THỊ HÀM CƠ BẢN.pdf",
+                      "link": "https://drive.google.com/file/d/1StKufDoPjLs_sHjhem9ngVpczJHy3ziG/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "ĐỀ TDMXX19_ĐTL_MỘT SỐ NÂNG CAO VỀ ĐỒ THỊ HÀM CƠ BẢN_2027A.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "ĐỀ TDMXX19_ĐTL_MỘT SỐ NÂNG CAO VỀ ĐỒ THỊ HÀM CƠ BẢN_2027A.pdf",
+                      "link": "https://drive.google.com/file/d/17RTBeE0Yc4nbUfQZeLl95ozFJv8CQtG0/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "TDMXX20_Cơ bản về vectơ trong không gian",
+              "items": [
+                {
+                  "name": "Bg01. Cơ bản về vectơ trong KG.mp4.mp4",
+                  "videos": [
+                    {
+                      "title": "Bg01. Cơ bản về vectơ trong KG.mp4.mp4",
+                      "link": "https://drive.google.com/file/d/1P8lMHTqND6QJDyMMDE8GaL4EtulJM1vd/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "Bg02. Tích vô hướng của hai vectơ trong KG.mp4.mp4",
+                  "videos": [
+                    {
+                      "title": "Bg02. Tích vô hướng của hai vectơ trong KG.mp4.mp4",
+                      "link": "https://drive.google.com/file/d/1QTM_jFmP3-udzvhJUiq0QqT0hjOu2Xvh/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "Chữa đề TDMXX20.mp4.mp4",
+                  "videos": [
+                    {
+                      "title": "Chữa đề TDMXX20.mp4.mp4",
+                      "link": "https://drive.google.com/file/d/17B9PwfeMpoQfh27lgaxF38V-8c26SuNa/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "KEY ĐỀ TDMXX20_ĐTL_CƠ BẢN VỀ VECTƠ TRONG KHÔNG GIAN_2027A_PB1.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "KEY ĐỀ TDMXX20_ĐTL_CƠ BẢN VỀ VECTƠ TRONG KHÔNG GIAN_2027A_PB1.pdf",
+                      "link": "https://drive.google.com/file/d/14a9A__VG7VEMqa51X4XQshVL2xktceZN/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "TDMXX20_FGC_CƠ BẢN VỀ VECTƠ TRONG KHÔNG GIAN.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "TDMXX20_FGC_CƠ BẢN VỀ VECTƠ TRONG KHÔNG GIAN.pdf",
+                      "link": "https://drive.google.com/file/d/1z-KRjJ-lBSaZ-F7cKXelnnWAR5iTQIuh/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "ĐỀ TDMXX20_ĐTL_CƠ BẢN VỀ VECTƠ TRONG KHÔNG GIAN_2027A_PB1.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "ĐỀ TDMXX20_ĐTL_CƠ BẢN VỀ VECTƠ TRONG KHÔNG GIAN_2027A_PB1.pdf",
+                      "link": "https://drive.google.com/file/d/1u7lTLRD1AMWwF5A4YOtQ3_GbRLKnR31g/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "TDMXX21_Cơ bản về không gian Oxyz",
+              "items": [
+                {
+                  "name": "Bg01. Cơ bản về không gian Oxyz.mp4.mp4",
+                  "videos": [
+                    {
+                      "title": "Bg01. Cơ bản về không gian Oxyz.mp4.mp4",
+                      "link": "https://drive.google.com/file/d/1Mf7Pn0fAPVh2YObT3Unjv_UgVvHn5T7f/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "Bg02. Tích vô hướng của hai vectơ trong Oxyz.mp4.mp4",
+                  "videos": [
+                    {
+                      "title": "Bg02. Tích vô hướng của hai vectơ trong Oxyz.mp4.mp4",
+                      "link": "https://drive.google.com/file/d/1DzprMnfkSY4LQDD-GrWCd_2wbhBzdzGO/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "KEY ĐỀ TDMXX21_ĐTL_CƠ BẢN VỀ KHÔNG GIAN OXYZ_2027A_PB1.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "KEY ĐỀ TDMXX21_ĐTL_CƠ BẢN VỀ KHÔNG GIAN OXYZ_2027A_PB1.pdf",
+                      "link": "https://drive.google.com/file/d/1lZT7zCJNY85QKT6YFGxQGDn3bJqfTvC2/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "TDMXX21_FGC_CƠ BẢN VỀ KHÔNG GIAN OXYZ.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "TDMXX21_FGC_CƠ BẢN VỀ KHÔNG GIAN OXYZ.pdf",
+                      "link": "https://drive.google.com/file/d/1mKz0fPCqk1yPRF9xLhXxzaXy_A_3xcMJ/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "ĐỀ TDMXX21_ĐTL_CƠ BẢN VỀ KHÔNG GIAN OXYZ_2027A_PB1.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "ĐỀ TDMXX21_ĐTL_CƠ BẢN VỀ KHÔNG GIAN OXYZ_2027A_PB1.pdf",
+                      "link": "https://drive.google.com/file/d/1mjNUrMYIEZRy6Plm0iYLr78KUk5MPWsv/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
             }
           ]
         },
@@ -1347,6 +1677,342 @@ const COURSE_DATA = {
                     {
                       "title": "ĐỀ TDMXV02B_ĐTL_HOÁN VỊ_PHẦN B.pdf",
                       "link": "https://drive.google.com/file/d/1axevc6o6YwOPPtJVDpoSVdlZi9z7M8F-/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "TDMXV03_Chỉnh hợp và tổ hợp",
+              "items": [
+                {
+                  "name": "Bg01. Cơ bản về chỉnh hợp và tổ hợp.mp4",
+                  "videos": [
+                    {
+                      "title": "Bg01. Cơ bản về chỉnh hợp và tổ hợp.mp4",
+                      "link": "https://drive.google.com/file/d/1NqklEuavfb5OIgSyqPO2SDPjw96Iaylb/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "Bg02. Một số VD về chỉnh tổ hợp.mp4",
+                  "videos": [
+                    {
+                      "title": "Bg02. Một số VD về chỉnh tổ hợp.mp4",
+                      "link": "https://drive.google.com/file/d/1zYjNUoSq0VrUXXjCB7UVIhQAUTrLeb9s/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "Chữa ĐTL TDMXV03A-XV03B.mp4.mp4",
+                  "videos": [
+                    {
+                      "title": "Chữa ĐTL TDMXV03A-XV03B.mp4.mp4",
+                      "link": "https://drive.google.com/file/d/1x8u7Ew66gNr26wQ2GWMNFpParLpcKeey/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "TDMXV03_FGC_CHỈNH HỢP VÀ TỔ HỢPỊ.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "TDMXV03_FGC_CHỈNH HỢP VÀ TỔ HỢPỊ.pdf",
+                      "link": "https://drive.google.com/file/d/1mDMcAy5XQSi0I89mIbU0UjP8kcl0GqVi/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "ĐỀ TDMXV03A_ĐTL_CHỈNH HỢP VÀ TỔ HỢP_PHẦN A.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "ĐỀ TDMXV03A_ĐTL_CHỈNH HỢP VÀ TỔ HỢP_PHẦN A.pdf",
+                      "link": "https://drive.google.com/file/d/1w7oXwPaXBSjT4BtSmp2-IGSticB0XPTH/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "ĐỀ TDMXV03B_ĐTL_CHỈNH HỢP VÀ TỔ HỢP_PHẦN B.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "ĐỀ TDMXV03B_ĐTL_CHỈNH HỢP VÀ TỔ HỢP_PHẦN B.pdf",
+                      "link": "https://drive.google.com/file/d/1bT8fKtUncRI7srMbuGc3yCfpsp9o__Lq/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "TDMXV04_Khai triển Newton",
+              "items": [
+                {
+                  "name": "Bg01. Khai triển Newton.mp4.mp4",
+                  "videos": [
+                    {
+                      "title": "Bg01. Khai triển Newton.mp4.mp4",
+                      "link": "https://drive.google.com/file/d/1Yx-ALYHuVla-qqtCuoCU_biZ9fcpYn8C/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "TDMXV04_FGC_KHAI TRIỂN NEWTON.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "TDMXV04_FGC_KHAI TRIỂN NEWTON.pdf",
+                      "link": "https://drive.google.com/file/d/1f4xdQay-2bJFBLmupM70KCOhLF_rpFkL/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "ĐỀ TDMXV04_ĐTL_KHAI TRIỂN NIU TƠN_PB12.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "ĐỀ TDMXV04_ĐTL_KHAI TRIỂN NIU TƠN_PB12.pdf",
+                      "link": "https://drive.google.com/file/d/1ZloSCvtUaHKGz5t_ASAApwq6z_4xzRM9/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "TDMXV05_Đa thức và khai triển",
+              "items": [
+                {
+                  "name": "Bg01. Khai triển và đa thứ.mp4.mp4",
+                  "videos": [
+                    {
+                      "title": "Bg01. Khai triển và đa thứ.mp4.mp4",
+                      "link": "https://drive.google.com/file/d/1p6dgwJ55VssB7T1ytoBfE4D8Fz0ndjDK/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "TDMXV05_FGC_ĐA THỨC VÀ KHAI TRIỂN.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "TDMXV05_FGC_ĐA THỨC VÀ KHAI TRIỂN.pdf",
+                      "link": "https://drive.google.com/file/d/14JCRN9HBi64a212l46I6FITc57Uudns2/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "ĐỀ TDMXV05_ĐTL_KHAI TRIỂN NIU TƠN VÀ ĐA THỨC_PB12.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "ĐỀ TDMXV05_ĐTL_KHAI TRIỂN NIU TƠN VÀ ĐA THỨC_PB12.pdf",
+                      "link": "https://drive.google.com/file/d/1hYSvNkc5_llS-K5IYiTOBqcfeJp9NB3G/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "TDMXV06_Cơ bản về biến cố và xác suất",
+              "items": [
+                {
+                  "name": "Bg01. Cơ bản về biến cố xác suất.mp4.mp4",
+                  "videos": [
+                    {
+                      "title": "Bg01. Cơ bản về biến cố xác suất.mp4.mp4",
+                      "link": "https://drive.google.com/file/d/1KEqXzS3wqJlO_WGG0QhNPcdhLcCwncAh/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "KEY ĐỀ TDMXV06A_ĐTL_CƠ BẢN VỀ BIẾN CỐ VÀ XÁC SUẤT_PHẦN A_PB12.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "KEY ĐỀ TDMXV06A_ĐTL_CƠ BẢN VỀ BIẾN CỐ VÀ XÁC SUẤT_PHẦN A_PB12.pdf",
+                      "link": "https://drive.google.com/file/d/1yyygDl1qSdwvmgI1MAEV1N3PE03ZJt0f/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "KEY ĐỀ TDMXV06B_ĐTL_CƠ BẢN VỀ BIẾN CỐ VÀ XÁC SUẤT_PHẦN B_PB12.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "KEY ĐỀ TDMXV06B_ĐTL_CƠ BẢN VỀ BIẾN CỐ VÀ XÁC SUẤT_PHẦN B_PB12.pdf",
+                      "link": "https://drive.google.com/file/d/1mHDh9q7XV6UTtmxECEy4ovV-KkY5eUw-/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "TDMXV06_FGC_CƠ BẢN VỀ BIẾN CỐ VÀ XÁC SUẤT.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "TDMXV06_FGC_CƠ BẢN VỀ BIẾN CỐ VÀ XÁC SUẤT.pdf",
+                      "link": "https://drive.google.com/file/d/12NzkwmC1S6S8tJy3aP78Qk3dSbTcP79K/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "ĐỀ TDMXV06A_ĐTL_CƠ BẢN VỀ BIẾN CỐ VÀ XÁC SUẤT_PHẦN A_PB12.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "ĐỀ TDMXV06A_ĐTL_CƠ BẢN VỀ BIẾN CỐ VÀ XÁC SUẤT_PHẦN A_PB12.pdf",
+                      "link": "https://drive.google.com/file/d/10MztkuNyEy36txg2uu7gPdlp248bTO9t/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "ĐỀ TDMXV06B_ĐTL_CƠ BẢN VỀ BIẾN CỐ VÀ XÁC SUẤT_PHẦN B_PB12.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "ĐỀ TDMXV06B_ĐTL_CƠ BẢN VỀ BIẾN CỐ VÀ XÁC SUẤT_PHẦN B_PB12.pdf",
+                      "link": "https://drive.google.com/file/d/15VG5r_RzTwN41ga9ntANkVtoAbCD2c9-/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "TDMXV07_Phép toán trên các biến cố",
+              "items": [
+                {
+                  "name": "Bg01. Phép toán trên các biến cố.mp4.mp4",
+                  "videos": [
+                    {
+                      "title": "Bg01. Phép toán trên các biến cố.mp4.mp4",
+                      "link": "https://drive.google.com/file/d/1oGROtTA6_bxQL9xr63BKIKHyKrCyAJL6/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "KEY ĐỀ TDMXV07A_ĐTL_PHÉP TOÁN TRÊN CÁC BIẾN CỐ_PHẦN A_PB12.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "KEY ĐỀ TDMXV07A_ĐTL_PHÉP TOÁN TRÊN CÁC BIẾN CỐ_PHẦN A_PB12.pdf",
+                      "link": "https://drive.google.com/file/d/1iee-tVkkifO2NBhPSXdYPoId17-ulhia/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "KEY ĐỀ TDMXV07B_ĐTL_PHÉP TOÁN TRÊN CÁC BIẾN CỐ_PHẦN B_PB12.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "KEY ĐỀ TDMXV07B_ĐTL_PHÉP TOÁN TRÊN CÁC BIẾN CỐ_PHẦN B_PB12.pdf",
+                      "link": "https://drive.google.com/file/d/1y5zqWzPnm9EXk0xENaA8Uc85g7LYaZT8/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "TDMXV07_FGC_PHÉP TOÁN TRÊN CÁC BIẾN CỐ.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "TDMXV07_FGC_PHÉP TOÁN TRÊN CÁC BIẾN CỐ.pdf",
+                      "link": "https://drive.google.com/file/d/11gfIVeWQVOP9ngrdcGtUxFiIqAQbUR8q/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "ĐỀ TDMXV07A_ĐTL_PHÉP TOÁN TRÊN CÁC BIẾN CỐ_PHẦN A_PB12.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "ĐỀ TDMXV07A_ĐTL_PHÉP TOÁN TRÊN CÁC BIẾN CỐ_PHẦN A_PB12.pdf",
+                      "link": "https://drive.google.com/file/d/1EG1-bhdWAzvesRW7Oc4N4wndtE9CAof1/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "ĐỀ TDMXV07B_ĐTL_PHÉP TOÁN TRÊN CÁC BIẾN CỐ_PHẦN B_PB12.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "ĐỀ TDMXV07B_ĐTL_PHÉP TOÁN TRÊN CÁC BIẾN CỐ_PHẦN B_PB12.pdf",
+                      "link": "https://drive.google.com/file/d/1BCBXKNCzkgSLKgnQqk71D4l6BEPGL3Rr/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "TDMXV08_Cơ bản XS có điều kiện",
+              "items": [
+                {
+                  "name": "Bg01. Cơ bản về xác suất có điều kiện.mp4",
+                  "videos": [
+                    {
+                      "title": "Bg01. Cơ bản về xác suất có điều kiện.mp4",
+                      "link": "https://drive.google.com/file/d/1-7CeFPAapN10eTfZHD62sdlS0aQmEOUQ/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "KEY ĐỀ TDMXV08A_ĐTL_CƠ BẢN VỀ XÁC SUẤT CÓ ĐIỀU KIỆN_PHẦN A_PB12.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "KEY ĐỀ TDMXV08A_ĐTL_CƠ BẢN VỀ XÁC SUẤT CÓ ĐIỀU KIỆN_PHẦN A_PB12.pdf",
+                      "link": "https://drive.google.com/file/d/1n1-Uj2OIzaHS57UeUMKo0thTijO8w3ch/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "KEY ĐỀ TDMXV08B_ĐTL_CƠ BẢN VỀ XÁC SUẤT CÓ ĐIỀU KIỆN_PHẦN B_PB12.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "KEY ĐỀ TDMXV08B_ĐTL_CƠ BẢN VỀ XÁC SUẤT CÓ ĐIỀU KIỆN_PHẦN B_PB12.pdf",
+                      "link": "https://drive.google.com/file/d/1W04yISnPdsLaauPk1IVRJE5vK024i_pY/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "TDMXV08_FGC_CƠ BẢN VỀ XÁC SUẤT CÓ ĐIỀU KIỆN_2027A.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "TDMXV08_FGC_CƠ BẢN VỀ XÁC SUẤT CÓ ĐIỀU KIỆN_2027A.pdf",
+                      "link": "https://drive.google.com/file/d/1yx5quoGyXTL8fk08Dv8WIgJVkh0whTQE/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "ĐỀ TDMXV08A_ĐTL_CƠ BẢN VỀ XÁC SUẤT CÓ ĐIỀU KIỆN_PHẦN A_PB12.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "ĐỀ TDMXV08A_ĐTL_CƠ BẢN VỀ XÁC SUẤT CÓ ĐIỀU KIỆN_PHẦN A_PB12.pdf",
+                      "link": "https://drive.google.com/file/d/1p6W8v_i1Z-IygeCklnb5AQQTUcbw-gGb/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "ĐỀ TDMXV08B_ĐTL_CƠ BẢN VỀ XÁC SUẤT CÓ ĐIỀU KIỆN_PHẦN B_PB12.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "ĐỀ TDMXV08B_ĐTL_CƠ BẢN VỀ XÁC SUẤT CÓ ĐIỀU KIỆN_PHẦN B_PB12.pdf",
+                      "link": "https://drive.google.com/file/d/1DvsfFWoofL_2coXG8pRffcTDIxETlziX/view?usp=drivesdk"
                     }
                   ]
                 }
@@ -2642,31 +3308,6 @@ const COURSE_DATA = {
           ]
         }
       ]
-    },
-    {
-      "title": "3. KHÓA TDMZ 2027 TINH HOA THỰC CHIẾN- TỔNG ÔN- VỀ ĐÍCH",
-      "items": [],
-      "children": []
-    },
-    {
-      "title": "4. KHÓA TDMT KSCL VÀ ÔN GIỮA KÌ- ÔN HỌC KÌ TOÁN LÝ CHẤT LƯỢNG CAO",
-      "items": [],
-      "children": []
-    },
-    {
-      "title": "5.KHOÁ TDMG 2027 ÔN TẬP CỐT LÕI TOÁN 10 -11",
-      "items": [],
-      "children": []
-    },
-    {
-      "title": "6. KHOÁ TDMU 2027 BỔ TRỢ TSA - HSA - VACT",
-      "items": [],
-      "children": []
-    },
-    {
-      "title": "KHÓA TDMG 2027 ÔN TẬP CỐT LÕI TOÁN 10,11",
-      "items": [],
-      "children": []
     }
   ]
 };

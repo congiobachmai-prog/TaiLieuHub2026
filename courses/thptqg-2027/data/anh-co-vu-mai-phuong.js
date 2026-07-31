@@ -5088,6 +5088,84 @@ const COURSE_DATA = {
                     }
                   ],
                   "children": []
+                },
+                {
+                  "title": "06. Từ vựng cơ bản cấp độ A1 - A2 (Buổi 6)",
+                  "items": [
+                    {
+                      "name": "tu-vung-co-ban-cap-do-a1-a2-buoi-6-pro-3m-2027.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "tu-vung-co-ban-cap-do-a1-a2-buoi-6-pro-3m-2027.pdf",
+                          "link": "https://drive.google.com/file/d/1Nd5zKQtWQoMhPWfepVXKCArOL6kG74QF/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Từ vựng cơ bản cấp độ A1 - A2 (Buổi 6).mp4",
+                      "videos": [
+                        {
+                          "title": "Từ vựng cơ bản cấp độ A1 - A2 (Buổi 6).mp4",
+                          "link": "https://drive.google.com/file/d/1tAvunXBd-iR9MrG5hNJirGnJA6HkOxsz/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "07. Từ vựng cơ bản cấp độ A1 - A2 (Buổi 7)",
+                  "items": [
+                    {
+                      "name": "tu-vung-co-ban-cap-do-a1-a2-buoi-7-pro-3m-2027.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "tu-vung-co-ban-cap-do-a1-a2-buoi-7-pro-3m-2027.pdf",
+                          "link": "https://drive.google.com/file/d/1Tiz63QhGQR0r14fBSka2MPefbOKNHYrW/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Từ vựng cơ bản cấp độ A1 - A2 (Buổi 7).mp4",
+                      "videos": [
+                        {
+                          "title": "Từ vựng cơ bản cấp độ A1 - A2 (Buổi 7).mp4",
+                          "link": "https://drive.google.com/file/d/1if689xqkk0AY5xtA3dMT3cL0JJoVQQ8N/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "08. Từ vựng cơ bản cấp độ A1 - A2 (Buổi 8)",
+                  "items": [
+                    {
+                      "name": "tu-vung-co-ban-cap-do-a1-a2-buoi-8-pro-3m-2027.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "tu-vung-co-ban-cap-do-a1-a2-buoi-8-pro-3m-2027.pdf",
+                          "link": "https://drive.google.com/file/d/1Lhb9hHuj0DIODDv4EcADQHpmva54T8j6/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Từ vựng cơ bản cấp độ A1 - A2 (Buổi 8).mp4",
+                      "videos": [
+                        {
+                          "title": "Từ vựng cơ bản cấp độ A1 - A2 (Buổi 8).mp4",
+                          "link": "https://drive.google.com/file/d/1Lkb0bNj7I3P_3Bp3ecXouTaUgrwlJqSj/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
                 }
               ]
             },
@@ -9115,6 +9193,354 @@ const COURSE_DATA = {
                   "children": []
                 }
               ]
+            },
+            {
+              "title": "03. CHUYÊN ĐỀ 3_ CHIẾN THUẬT XỬ LÍ CÂU HỎI ĐỌC HIỂU TRONG ĐỀ THI",
+              "items": [],
+              "children": [
+                {
+                  "title": "01. Chiến thuật xử gọn câu hỏi Quy chiếu",
+                  "items": [
+                    {
+                      "name": "chien-thuat-xu-gon-cau-hoi-quy-chieu-pro-3m-2027.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chien-thuat-xu-gon-cau-hoi-quy-chieu-pro-3m-2027.pdf",
+                          "link": "https://drive.google.com/file/d/1Ug3iFRGEeHbzU-dvBKex90iOgZ2ZEpgZ/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Chiến thuật xử gọn câu hỏi Quy chiếu.mp4",
+                      "videos": [
+                        {
+                          "title": "Chiến thuật xử gọn câu hỏi Quy chiếu.mp4",
+                          "link": "https://drive.google.com/file/d/1X08aVIsqEhvyYIoicXxRCPqXv6F7qVtZ/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "DA_Chiến thuật xử gọn câu hỏi Quy chiếu.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Chiến thuật xử gọn câu hỏi Quy chiếu.pdf",
+                          "link": "https://drive.google.com/file/d/1rsMB0ePItt6qUvlrVpywBl7daRSHkG01/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "02. Thi online Luyện tập câu hỏi quy chiếu - Đề số 01",
+                  "items": [
+                    {
+                      "name": "DA_Thi online Luyện tập câu hỏi quy chiếu - Đề số 01.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi online Luyện tập câu hỏi quy chiếu - Đề số 01.pdf",
+                          "link": "https://drive.google.com/file/d/16LCMqoydj9A1T0x21-yXtzfpWIpUKEsL/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "thi-online-luyen-tap-cau-hoi-quy-chieu-de-so-01-pro-3m-2027.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "thi-online-luyen-tap-cau-hoi-quy-chieu-de-so-01-pro-3m-2027.pdf",
+                          "link": "https://drive.google.com/file/d/1MK0YtIrolwfn4DpiUfFBXAD4ONQRKVNP/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "03. Thi online Luyện tập câu hỏi quy chiếu - Đề số 02",
+                  "items": [
+                    {
+                      "name": "DA_Thi online Luyện tập câu hỏi quy chiếu - Đề số 02.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi online Luyện tập câu hỏi quy chiếu - Đề số 02.pdf",
+                          "link": "https://drive.google.com/file/d/1Li81E7AAvWYPNNo1e60EIqAbJPDVhjtK/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "thi-online-luyen-tap-cau-hoi-quy-chieu-de-so-02-pro-3m-2027.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "thi-online-luyen-tap-cau-hoi-quy-chieu-de-so-02-pro-3m-2027.pdf",
+                          "link": "https://drive.google.com/file/d/1vJeEooIFiJiJ6pQ30XwliqGg4T0x3xXw/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "04. Thi online Luyện tập câu hỏi quy chiếu - Đề số 03",
+                  "items": [
+                    {
+                      "name": "DA_Thi online Luyện tập câu hỏi quy chiếu - Đề số 03.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi online Luyện tập câu hỏi quy chiếu - Đề số 03.pdf",
+                          "link": "https://drive.google.com/file/d/1ne0fKMb55aZ7yoMtPgYvIXSe89u2uefx/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "thi-online-luyen-tap-cau-hoi-quy-chieu-de-so-03-pro-3m-2027.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "thi-online-luyen-tap-cau-hoi-quy-chieu-de-so-03-pro-3m-2027.pdf",
+                          "link": "https://drive.google.com/file/d/1I9spDLxEnGL6LEyNmB8-ORZXtQLQHXlO/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "05. Chiến thuật xử gọn Đồng nghĩa - Trái nghĩa",
+                  "items": [
+                    {
+                      "name": "chien-thuat-xu-gon-dong-nghia-trai-nghia-pro-3m-2027.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chien-thuat-xu-gon-dong-nghia-trai-nghia-pro-3m-2027.pdf",
+                          "link": "https://drive.google.com/file/d/1GSjf9q1KX-BvlT0dhzk9eqma85jBGGdK/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Chiến thuật xử gọn Đồng nghĩa - Trái nghĩa.mp4",
+                      "videos": [
+                        {
+                          "title": "Chiến thuật xử gọn Đồng nghĩa - Trái nghĩa.mp4",
+                          "link": "https://drive.google.com/file/d/1vjVIPSk4h2YBtGYM2oAAWy0yg8IgKPBk/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "DA_Chiến thuật xử gọn Đồng nghĩa - Trái nghĩa.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Chiến thuật xử gọn Đồng nghĩa - Trái nghĩa.pdf",
+                          "link": "https://drive.google.com/file/d/1VKYNVVPQUccrM2dGIfJzWsrqYSHL5-2O/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "06. Thi online Luyện tập câu hỏi Đồng nghĩa - Trái nghĩa (Đề số 01)",
+                  "items": [
+                    {
+                      "name": "DA_Thi online Luyện tập câu hỏi Đồng nghĩa - Trái nghĩa (Đề số 01).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi online Luyện tập câu hỏi Đồng nghĩa - Trái nghĩa (Đề số 01).pdf",
+                          "link": "https://drive.google.com/file/d/12WQ-sCLPHVL6TIFGUqedIeJLAWdFbQTm/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "thi-online-luyen-tap-cau-hoi-dong-nghia-trai-nghia-de-so-01-pro-3m-2027.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "thi-online-luyen-tap-cau-hoi-dong-nghia-trai-nghia-de-so-01-pro-3m-2027.pdf",
+                          "link": "https://drive.google.com/file/d/1-6kTFH4HJZw_vaA9VOcS57D50o5kKJIb/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "07. Thi online Luyện tập câu hỏi Đồng nghĩa - Trái nghĩa (Đề số 02)",
+                  "items": [
+                    {
+                      "name": "DA_Thi online Luyện tập câu hỏi Đồng nghĩa - Trái nghĩa (Đề số 02).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi online Luyện tập câu hỏi Đồng nghĩa - Trái nghĩa (Đề số 02).pdf",
+                          "link": "https://drive.google.com/file/d/1bJbQdsMUR1wAwQu9ZSmEeJa9Tp1nmTlh/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "thi-online-luyen-tap-cau-hoi-dong-nghia-trai-nghia-de-so-02-pro-3m-2027.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "thi-online-luyen-tap-cau-hoi-dong-nghia-trai-nghia-de-so-02-pro-3m-2027.pdf",
+                          "link": "https://drive.google.com/file/d/1a471We_YFhUw0eLZ3YTpNCYHv-fdARXu/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "08. Thi online Luyện tập câu hỏi Đồng nghĩa - Trái nghĩa (Đề số 03)",
+                  "items": [
+                    {
+                      "name": "DA_Thi online Luyện tập câu hỏi Đồng nghĩa - Trái nghĩa (Đề số 03).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi online Luyện tập câu hỏi Đồng nghĩa - Trái nghĩa (Đề số 03).pdf",
+                          "link": "https://drive.google.com/file/d/13cLMBtBhmB8RWCr3ql8hFnJsG3WylKBW/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "thi-online-luyen-tap-cau-hoi-dong-nghia-trai-nghia-de-so-03-pro-3m-2027.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "thi-online-luyen-tap-cau-hoi-dong-nghia-trai-nghia-de-so-03-pro-3m-2027.pdf",
+                          "link": "https://drive.google.com/file/d/1ibFYbxChDe1ngjhvKVSnRVghEeQzcS5c/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "09. Chiến thuật xử gọn câu hỏi Thông tin chi tiết",
+                  "items": [
+                    {
+                      "name": "chien-thuat-xu-gon-cau-hoi-thong-tin-chi-tiet-pro-3m-2027.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chien-thuat-xu-gon-cau-hoi-thong-tin-chi-tiet-pro-3m-2027.pdf",
+                          "link": "https://drive.google.com/file/d/18V8iWjxxdKXHnTQCh93mjY70iMoim1VK/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Chiến thuật xử gọn câu hỏi Thông tin chi tiết.mp4",
+                      "videos": [
+                        {
+                          "title": "Chiến thuật xử gọn câu hỏi Thông tin chi tiết.mp4",
+                          "link": "https://drive.google.com/file/d/1ZnHIq6j36OKLXhvqG_EYT6xEIQIWw8sW/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "DA_Chiến thuật xử gọn câu hỏi Thông tin chi tiết.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Chiến thuật xử gọn câu hỏi Thông tin chi tiết.pdf",
+                          "link": "https://drive.google.com/file/d/1vUjQ9yUZwm6BrPzypYrS43Vk_a1Igovo/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "10. Thi online Luyện tập câu hỏi Thông tin chi tiết (Đề số 01)",
+                  "items": [
+                    {
+                      "name": "DA_Thi online Luyện tập câu hỏi Thông tin chi tiết (Đề số 01).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi online Luyện tập câu hỏi Thông tin chi tiết (Đề số 01).pdf",
+                          "link": "https://drive.google.com/file/d/1uLIVhi0hncv3tCfvPtBX3qlgvXUA_NeZ/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "thi-online-luyen-tap-cau-hoi-thong-tin-chi-tiet-de-so-01-pro-3m-2027.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "thi-online-luyen-tap-cau-hoi-thong-tin-chi-tiet-de-so-01-pro-3m-2027.pdf",
+                          "link": "https://drive.google.com/file/d/18ZJEZDJLFLjrlJUgKaVK_Wp9xUdZ7PFS/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "11. Thi online Luyện tập câu hỏi Thông tin chi tiết (Đề số 02)",
+                  "items": [
+                    {
+                      "name": "DA_Thi online Luyện tập câu hỏi Thông tin chi tiết (Đề số 02).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi online Luyện tập câu hỏi Thông tin chi tiết (Đề số 02).pdf",
+                          "link": "https://drive.google.com/file/d/1_hPAXPuGA4n2BTWNjlFQRnrc-aOoo0RC/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "thi-online-luyen-tap-cau-hoi-thong-tin-chi-tiet-de-so-02-pro-3m-2027.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "thi-online-luyen-tap-cau-hoi-thong-tin-chi-tiet-de-so-02-pro-3m-2027.pdf",
+                          "link": "https://drive.google.com/file/d/1kKVcnhMEzC1BYUM_GbHbIkGudtxd--6S/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "12. Thi online Luyện tập câu hỏi Thông tin chi tiết (Đề số 03)",
+                  "items": [
+                    {
+                      "name": "DA_Thi online Luyện tập câu hỏi Thông tin chi tiết (Đề số 03).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi online Luyện tập câu hỏi Thông tin chi tiết (Đề số 03).pdf",
+                          "link": "https://drive.google.com/file/d/15ZTxOEcFqfY_cHd22gV48xvaLNNHpAai/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "thi-online-luyen-tap-cau-hoi-thong-tin-chi-tiet-de-so-03-pro-3m-2027.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "thi-online-luyen-tap-cau-hoi-thong-tin-chi-tiet-de-so-03-pro-3m-2027.pdf",
+                          "link": "https://drive.google.com/file/d/1CKxQDiF3vBmxSHhkRVR6Vj8TulMdCZ83/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                }
+              ]
             }
           ]
         },
@@ -12835,6 +13261,5098 @@ const COURSE_DATA = {
                       ]
                     }
                   ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "2. COMBO PRO3M PLUS 2027 NÂNG CAO MỤC TIÊU 9+",
+      "items": [],
+      "children": [
+        {
+          "title": "1. PLUS 1_LUYỆN ĐỌC ĐIỀN VÀ ĐỌC HIỂU CHUYÊN SÂU (2027)",
+          "items": [],
+          "children": [
+            {
+              "title": "01. CHUYÊN ĐỀ 1. TỪ VỰNG CHUYÊN SÂU THEO CÁC CHỦ ĐỀ",
+              "items": [],
+              "children": [
+                {
+                  "title": "01. Bài 1 Từ vựng chuyên sâu Chủ đề The Generation gap",
+                  "items": [
+                    {
+                      "name": "Bài 1 Từ vựng chuyên sâu Chủ đề The Generation gap.mp4",
+                      "videos": [
+                        {
+                          "title": "Bài 1 Từ vựng chuyên sâu Chủ đề The Generation gap.mp4",
+                          "link": "https://drive.google.com/file/d/1hLn1A-MOgPRRwHTusCePrxO9aqtLKRFD/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "chude_thegenerationgapbuoi1.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chude_thegenerationgapbuoi1.pdf",
+                          "link": "https://drive.google.com/file/d/1lTfJbJ6GmBxqflXMPw3nHvP689Z236_O/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "02. Bài thi online Từ vưng chuyên sâu Unit 1 The generation gap",
+                  "items": [
+                    {
+                      "name": "DA_Chủ đề The generation gap.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Chủ đề The generation gap.pdf",
+                          "link": "https://drive.google.com/file/d/10VtxUk7nRc9_5Z9iTvc9hQZz2huG3Esi/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "thionlinechude_thegenerationgap.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "thionlinechude_thegenerationgap.pdf",
+                          "link": "https://drive.google.com/file/d/1C1gswqo7LSqNN3wq3UYQn_2HdzJcJ4G5/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "03. Bài 2 Từ vựng chuyên sâu Chủ đề Being Independent",
+                  "items": [
+                    {
+                      "name": "Bài 2 Từ vựng chuyên sâu Chủ đề Being Independent.mp4",
+                      "videos": [
+                        {
+                          "title": "Bài 2 Từ vựng chuyên sâu Chủ đề Being Independent.mp4",
+                          "link": "https://drive.google.com/file/d/1k9GjnZOks_lza_Vz2qJH1GYgBMn4hJfj/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "chude_beingindependent.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chude_beingindependent.pdf",
+                          "link": "https://drive.google.com/file/d/1EVilg3f2_p6DPxPjQePcZUid3WdDUPqy/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "04. Thi online Từ vựng chuyên sâu Chủ đề Being Independent",
+                  "items": [
+                    {
+                      "name": "DA_Chủ đề Being Independent.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Chủ đề Being Independent.pdf",
+                          "link": "https://drive.google.com/file/d/1Oql0YCp38mVsYe_bb7rFoCYimKEi2Jpk/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "thionlinechude_beingindependent.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "thionlinechude_beingindependent.pdf",
+                          "link": "https://drive.google.com/file/d/1T_F_-xGvkMHYGFyTh-U8-7JNqR7aTIT2/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "05. Bài 3 Từ vựng chuyên sâu Chủ đề Going Green",
+                  "items": [
+                    {
+                      "name": "Bài 3 Từ vựng chuyên sâu Chủ đề Going Green.mp4",
+                      "videos": [
+                        {
+                          "title": "Bài 3 Từ vựng chuyên sâu Chủ đề Going Green.mp4",
+                          "link": "https://drive.google.com/file/d/1etzdeOS_T8hCx1Ve5Lm4ce2uu83V-Kv1/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "chude_goinggreen.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chude_goinggreen.pdf",
+                          "link": "https://drive.google.com/file/d/1npmiqxxCXSPubJCPAjIbKbL_P1h73ZO0/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "06. Thi online Từ vựng chuyên sâu Chủ đề Going green",
+                  "items": [
+                    {
+                      "name": "DA_Chủ đề Going green.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Chủ đề Going green.pdf",
+                          "link": "https://drive.google.com/file/d/1xw2C3Vqbf3Nf7TirQABucI9Nm76o0Bdq/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "thionlinechude_goinggreen.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "thionlinechude_goinggreen.pdf",
+                          "link": "https://drive.google.com/file/d/14QRM-h3tNrBFEQ_flxx9R5XbeAz8CGKX/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "07. Bài 4 Từ vựng chuyên sâu Chủ đề Wildlife Conservation",
+                  "items": [
+                    {
+                      "name": "Bài 4 Từ vựng chuyên sâu Chủ đề Wildlife Conservation.mp4",
+                      "videos": [
+                        {
+                          "title": "Bài 4 Từ vựng chuyên sâu Chủ đề Wildlife Conservation.mp4",
+                          "link": "https://drive.google.com/file/d/1Q4XK6zUGtq7QuZ-LwNweLCShX64hH1D3/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "chude_wildlifeconservation.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chude_wildlifeconservation.pdf",
+                          "link": "https://drive.google.com/file/d/1VdLw_BodRk6KUY3KIG3o-ifBB-nWPVIn/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "08. Bài thi online Từ vựng chuyên sâu Chủ đề Wifelife Conversation",
+                  "items": [
+                    {
+                      "name": "DA_Chủ đề Wifelife Conversation.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Chủ đề Wifelife Conversation.pdf",
+                          "link": "https://drive.google.com/file/d/1wp5Q02ykyw40B6vafnT6NHHQq-pW4zKy/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "thionlinechude_wildlifeconservation.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "thionlinechude_wildlifeconservation.pdf",
+                          "link": "https://drive.google.com/file/d/1KirbrdJLgqfXW9f164d4BrODIkVmXSk0/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "09. Bài 5 Từ vựng chuyên sâu Chủ đề The World Of Work",
+                  "items": [
+                    {
+                      "name": "Bài 5 Từ vựng chuyên sâu Chủ đề The World Of Work.mp4",
+                      "videos": [
+                        {
+                          "title": "Bài 5 Từ vựng chuyên sâu Chủ đề The World Of Work.mp4",
+                          "link": "https://drive.google.com/file/d/1O_OUl3vPXUm0Bqpgm8j3jk9My18AjMrm/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "chude_theworldofwork.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chude_theworldofwork.pdf",
+                          "link": "https://drive.google.com/file/d/1ewio4F3KQEXHkSxpZF20GQCoZCPI59Kr/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "10. Thi online Từ vựng chuyên sâu Chủ đề The world of work",
+                  "items": [
+                    {
+                      "name": "DA_Chủ đề The world of work.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Chủ đề The world of work.pdf",
+                          "link": "https://drive.google.com/file/d/1KaKzAJGp1PWJO7mEU7lq1HKdiS5oBsJa/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "thionlinechude_theworldofwork.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "thionlinechude_theworldofwork.pdf",
+                          "link": "https://drive.google.com/file/d/18M_8iDBd-56sbJHXkwPJEy-9OvtnsldK/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "11. Bài 6 Từ vựng chuyên sâu Chủ đề Artificial Intelligence",
+                  "items": [
+                    {
+                      "name": "Bài 6 Từ vựng chuyên sâu Chủ đề Artificial Intelligence.mp4",
+                      "videos": [
+                        {
+                          "title": "Bài 6 Từ vựng chuyên sâu Chủ đề Artificial Intelligence.mp4",
+                          "link": "https://drive.google.com/file/d/1HUkEjEo3qzV2wIinQ7C7hDbaveDn82tD/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "chude_ai.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chude_ai.pdf",
+                          "link": "https://drive.google.com/file/d/1jYkfu562IYy-HZ6_5GWR1X5ullNJPVH0/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "12. Thi Online Từ vựng chuyên sâu Chủ đề Artificial Intelligence",
+                  "items": [
+                    {
+                      "name": "DA_Chủ đề Artificial Intelligence.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Chủ đề Artificial Intelligence.pdf",
+                          "link": "https://drive.google.com/file/d/1I9Fgpvv6phZEMEnGYDo4nPw67EiqO-hS/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "thionlinechude_ai.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "thionlinechude_ai.pdf",
+                          "link": "https://drive.google.com/file/d/1AQCpjZ0WMbcaI9oqh_XWVPSvkLT0438O/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "13. Bài 7 Từ vựng chuyên sâu Chủ đề Social issues",
+                  "items": [
+                    {
+                      "name": "Bài 7 Từ vựng chuyên sâu Chủ đề Social issues.mp4",
+                      "videos": [
+                        {
+                          "title": "Bài 7 Từ vựng chuyên sâu Chủ đề Social issues.mp4",
+                          "link": "https://drive.google.com/file/d/1OEJLHQtoPsVD8dJ57iqWjcGlS_kl5Qhh/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "chude_socialissues.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chude_socialissues.pdf",
+                          "link": "https://drive.google.com/file/d/10kqv1KS8qnIXlEaV26PMSM_uuL0svLug/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "14. Thi online Từ vựng chuyên sâu Chủ đề Social issues",
+                  "items": [
+                    {
+                      "name": "DA_Chủ đề Social issues.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Chủ đề Social issues.pdf",
+                          "link": "https://drive.google.com/file/d/1n4CcwI5Mz8dJ5ZBI77JHkPW75WWYiFS3/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "thionlinechude_socialissues.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "thionlinechude_socialissues.pdf",
+                          "link": "https://drive.google.com/file/d/1N8TjU_2vk-6Sj4yKVB6PJVgRvN2lMCVC/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "15. Bài 8 Từ vựng chuyên sâu Chủ đề Lifelong Learning",
+                  "items": [
+                    {
+                      "name": "Bài 8 Từ vựng chuyên sâu Chủ đề Lifelong Learning.mp4",
+                      "videos": [
+                        {
+                          "title": "Bài 8 Từ vựng chuyên sâu Chủ đề Lifelong Learning.mp4",
+                          "link": "https://drive.google.com/file/d/1YaHfaG-NI1GVPqhAiAaGzSxPc-mcwaYH/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "chude_lifelonglearning.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chude_lifelonglearning.pdf",
+                          "link": "https://drive.google.com/file/d/19UufOzSF1DuHW5y1RKY-shWxFEE4gv11/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "16. Thi online Từ vựng chuyên sâu Unit 8 Lifelong learning",
+                  "items": [
+                    {
+                      "name": "DA_Chủ đề Lifelong learning.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Chủ đề Lifelong learning.pdf",
+                          "link": "https://drive.google.com/file/d/1uSHS76zG4zthaj1w12Lz0dO0Lu6oAZUp/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "thionlinechude_lifelonglearning.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "thionlinechude_lifelonglearning.pdf",
+                          "link": "https://drive.google.com/file/d/1FwlW8CPajrp8Xi1gctp1JnPpguC5LIR7/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "17. Bài 9 Từ vựng chuyên sâu Chủ đề Health and Lifestyles",
+                  "items": [
+                    {
+                      "name": "Bài 9 Từ vựng chuyên sâu Chủ đề Health and Lifestyles.mp4",
+                      "videos": [
+                        {
+                          "title": "Bài 9 Từ vựng chuyên sâu Chủ đề Health and Lifestyles.mp4",
+                          "link": "https://drive.google.com/file/d/1g3FM0a3t7MzmfQPRsrBUrfehAWkqWkaG/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "chude_healthandlifestyles.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chude_healthandlifestyles.pdf",
+                          "link": "https://drive.google.com/file/d/1KPRMdOn05jQl7jdpfGlEzanL-g6lNRfX/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "18. Thi Online. Từ vựng chuyên sâu Chủ đề Health and Lifestyles",
+                  "items": [
+                    {
+                      "name": "chude_healthandlifestyles.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chude_healthandlifestyles.pdf",
+                          "link": "https://drive.google.com/file/d/1MTsWad20Yb5hh0PekIk0YnxYFO9iw7m3/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "DA_Thi Online. Từ vựng chuyên sâu Chủ đề Health and Lifestyles..pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi Online. Từ vựng chuyên sâu Chủ đề Health and Lifestyles..pdf",
+                          "link": "https://drive.google.com/file/d/1FtJsgFr5q8R-u7Bpij5bugjBD9_Ho-jR/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "19. Bài 10 Từ vựng chuyên sâu Chủ đề Problems and Experiences",
+                  "items": [
+                    {
+                      "name": "Bài 10 Từ vựng chuyên sâu Chủ đề Problems and Experiences.mp4",
+                      "videos": [
+                        {
+                          "title": "Bài 10 Từ vựng chuyên sâu Chủ đề Problems and Experiences.mp4",
+                          "link": "https://drive.google.com/file/d/1ZjmAzs7Ik3lBYOwYHoylWc-Fy-DYWQmx/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "chude_problemsandexperiences.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chude_problemsandexperiences.pdf",
+                          "link": "https://drive.google.com/file/d/1s-U6Bq9Y_9Oha_AQPdur7L2hYn_lB1dI/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "20. Thi Online. Từ vựng chuyên sâu Chủ đề Problems and Experiences",
+                  "items": [
+                    {
+                      "name": "chude_problemsandexperiences.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chude_problemsandexperiences.pdf",
+                          "link": "https://drive.google.com/file/d/1jskF5R7vbC1NwDmrQIuiVeEPPr0QgOS0/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "DA_Thi Online. Từ vựng chuyên sâu Chủ đề Problems and Experiences.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi Online. Từ vựng chuyên sâu Chủ đề Problems and Experiences.pdf",
+                          "link": "https://drive.google.com/file/d/1lrNolU6pcFCrEg8xZlr_vytRDl5zsHTL/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "21. Bài 11 Từ vựng chuyên sâu Chủ đề Career Path",
+                  "items": [
+                    {
+                      "name": "Bài 11 Từ vựng chuyên sâu Chủ đề Career Path.mp4",
+                      "videos": [
+                        {
+                          "title": "Bài 11 Từ vựng chuyên sâu Chủ đề Career Path.mp4",
+                          "link": "https://drive.google.com/file/d/19UjY86XkMC1xPLRpX80WuRs6ZRdTqLJB/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "chude_careerpaths.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chude_careerpaths.pdf",
+                          "link": "https://drive.google.com/file/d/1B2Og3Mp6qjCwg7q5LadmGGAK0deJP8Er/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "22. Thi Online Từ vựng chuyên sâu Chủ đề Career Path",
+                  "items": [
+                    {
+                      "name": "chude_careerpaths.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chude_careerpaths.pdf",
+                          "link": "https://drive.google.com/file/d/1KbBToX4TGmr5rCMK1bta-KAAKG7nUGdV/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "DA_Thi Online Từ vựng chuyên sâu Chủ đề Career Path.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi Online Từ vựng chuyên sâu Chủ đề Career Path.pdf",
+                          "link": "https://drive.google.com/file/d/1pBOxD0GNKkg6KzO8RbmMDtB6GEUGLEsJ/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "23. Bài 12 Từ vựng chuyên sâu Chủ đề The world of mass media",
+                  "items": [
+                    {
+                      "name": "Bài 12 Từ vựng chuyên sâu Chủ đề The world of mass media.mp4",
+                      "videos": [
+                        {
+                          "title": "Bài 12 Từ vựng chuyên sâu Chủ đề The world of mass media.mp4",
+                          "link": "https://drive.google.com/file/d/1NqdcDcMDs08nP2AJMFlUqVBbu5gMp62w/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "chudetheworldofmassmedia.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chudetheworldofmassmedia.pdf",
+                          "link": "https://drive.google.com/file/d/1qN5pyPw2jxMZv5yj56--gm1MQWn6z89U/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "24. Thi online Từ vựng chuyên sâu Chủ đề The world of mass media",
+                  "items": [
+                    {
+                      "name": "chude_theworldofmassmedia.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chude_theworldofmassmedia.pdf",
+                          "link": "https://drive.google.com/file/d/1185C0bN0PZi2nCSEYv0XO87peXNYizpL/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "DA_Thi online Từ vựng chuyên sâu Chủ đề The world of mass media.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi online Từ vựng chuyên sâu Chủ đề The world of mass media.pdf",
+                          "link": "https://drive.google.com/file/d/19RckPB0GlhBPVdHG2r6jISAn5a48Yeod/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "25. Bài 13 Từ vựng chuyên sâu Chủ đề Life Stories",
+                  "items": [
+                    {
+                      "name": "Bài 13 Từ vựng chuyên sâu Chủ đề Life Stories.mp4",
+                      "videos": [
+                        {
+                          "title": "Bài 13 Từ vựng chuyên sâu Chủ đề Life Stories.mp4",
+                          "link": "https://drive.google.com/file/d/1TkIh4KWF0lAOabm8t8zOKQ5YoEQLdaax/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "chude_lifestories.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chude_lifestories.pdf",
+                          "link": "https://drive.google.com/file/d/1c3y2LDi3MPtT6-Z61LjG-CGSI4hUnP93/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "26. Thi online Từ vựng chuyên sâu Chủ đề Life stories",
+                  "items": [
+                    {
+                      "name": "chude_lifestories.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chude_lifestories.pdf",
+                          "link": "https://drive.google.com/file/d/1w7yYo5Ox7x91Bo1H0ut89wLv-UZOgcwZ/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "DA_Thi online Từ vựng chuyên sâu Chủ đề Life stories.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi online Từ vựng chuyên sâu Chủ đề Life stories.pdf",
+                          "link": "https://drive.google.com/file/d/1zZ7bA16a1TBMjT443KbUAS2aFK9aVm9I/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "27. Bài 14 Từ vựng chuyên sâu Chủ đề Our Heritage",
+                  "items": [
+                    {
+                      "name": "Bài 14 Từ vựng chuyên sâu Chủ đề Our Heritage.mp4",
+                      "videos": [
+                        {
+                          "title": "Bài 14 Từ vựng chuyên sâu Chủ đề Our Heritage.mp4",
+                          "link": "https://drive.google.com/file/d/1p_jE93TYd0TEVZv6wssBcaXyc3F0-BBp/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "chude_ourheritage.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chude_ourheritage.pdf",
+                          "link": "https://drive.google.com/file/d/1k06LgjdKFL0Q_PBfTup7ktcs1EBDy-Sp/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "28. Thi online Từ vựng chuyên sâu Chủ đề Our Heritage",
+                  "items": [
+                    {
+                      "name": "chude_ourheritage.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chude_ourheritage.pdf",
+                          "link": "https://drive.google.com/file/d/1LVkmP1ebTRmD_3ANKXw9mLOf8PXecfF9/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "DA_Thi online Từ vựng chuyên sâu Chủ đề Our Heritage.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi online Từ vựng chuyên sâu Chủ đề Our Heritage.pdf",
+                          "link": "https://drive.google.com/file/d/1LLzVFCcFhinUzB0D4aqurNAQfd1mqA4p/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "02. CHUYÊN ĐỀ 2. 20 CHỦ ĐỀ TỪ VỰNG & ĐỌC ĐIỀN - ĐỌC HIỂU CHUYÊN SÂU",
+              "items": [],
+              "children": [
+                {
+                  "title": "01. Thi Online Chủ đề 1 Family and Relationships (Buổi 1)",
+                  "items": [
+                    {
+                      "name": "chu-de-family-and-relationships-buoi-1.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chu-de-family-and-relationships-buoi-1.pdf",
+                          "link": "https://drive.google.com/file/d/1uJwljXOY0rhzWphT858Ctoztq7RuGOmI/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "DA_Thi Online Chủ đề 1 Family and Relationships (Buổi 1).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi Online Chủ đề 1 Family and Relationships (Buổi 1).pdf",
+                          "link": "https://drive.google.com/file/d/1QjWXhf_cK3IbYQwReBZPzMV1sieLliai/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "02. Chủ đề 1 Family and Relationships (Buổi 1)",
+                  "items": [
+                    {
+                      "name": "Chủ đề 1 Family and Relationships (Buổi 1).mp4",
+                      "videos": [
+                        {
+                          "title": "Chủ đề 1 Family and Relationships (Buổi 1).mp4",
+                          "link": "https://drive.google.com/file/d/1um5M7W05urRfeJM_zxj3kJ95bYGqFIvX/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "03. Thi Online Chủ đề 1 Family and Relationships (Buổi 2)",
+                  "items": [
+                    {
+                      "name": "chu-de-family-and-relationships-buoi-2.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chu-de-family-and-relationships-buoi-2.pdf",
+                          "link": "https://drive.google.com/file/d/1Ev8Ogpa4J9iUGgjBXlMWaYPffaIvd2gz/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "DA_Thi Online Chủ đề 1 Family and Relationships (Buổi 2).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi Online Chủ đề 1 Family and Relationships (Buổi 2).pdf",
+                          "link": "https://drive.google.com/file/d/1FxtQVLiZ-SsHNT7LZQnuQ4vUwtPisuvT/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "04. Chủ đề 1 Family and Relationships (Buổi 2)",
+                  "items": [
+                    {
+                      "name": "Chủ đề 1 Family and Relationships (Buổi 2).mp4",
+                      "videos": [
+                        {
+                          "title": "Chủ đề 1 Family and Relationships (Buổi 2).mp4",
+                          "link": "https://drive.google.com/file/d/1U1r6ZyBHTjpiWgjJIjVbtIKsQVSDBivq/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "05. Thi Online Chủ đề 1 Family and Relationships (Buổi 3)",
+                  "items": [
+                    {
+                      "name": "chu-de-family-and-relationships-buoi-3.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chu-de-family-and-relationships-buoi-3.pdf",
+                          "link": "https://drive.google.com/file/d/1l5Chlat_brkE1Kyw9oHsgVejm5YckH9p/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "DA_Thi Online Chủ đề 1 Family and Relationships (Buổi 3).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi Online Chủ đề 1 Family and Relationships (Buổi 3).pdf",
+                          "link": "https://drive.google.com/file/d/1Hxq2pRbZhd586Olox8YMwHoE7by16dVy/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "06. Chủ đề 1 Family and Relationships (Buổi 3)",
+                  "items": [
+                    {
+                      "name": "Chủ đề 1 Family and Relationships (Buổi 3).mp4",
+                      "videos": [
+                        {
+                          "title": "Chủ đề 1 Family and Relationships (Buổi 3).mp4",
+                          "link": "https://drive.google.com/file/d/12klOlfCJQHaP4xoJPg-pSmXiia5TlRY9/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "07. Thi Online Chủ đề 1 Family and Relationships (Buổi 4)",
+                  "items": [
+                    {
+                      "name": "chu-de-family-and-relationships-buoi-4.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chu-de-family-and-relationships-buoi-4.pdf",
+                          "link": "https://drive.google.com/file/d/1EOen3JlUEM0jw6lWBEXaHmTzwideZcqr/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "DA_Thi Online Chủ đề 1 Family and Relationships (Buổi 4).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi Online Chủ đề 1 Family and Relationships (Buổi 4).pdf",
+                          "link": "https://drive.google.com/file/d/1xsgeVjnGSuzAOlxjerERWYDcwI0gAz3J/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "08. Chủ đề 1 Family and Relationships (Buổi 4)",
+                  "items": [
+                    {
+                      "name": "Chủ đề 1 Family and Relationships (Buổi 4).mp4",
+                      "videos": [
+                        {
+                          "title": "Chủ đề 1 Family and Relationships (Buổi 4).mp4",
+                          "link": "https://drive.google.com/file/d/1QP17I5fy3PVr8nZKsGszjgZOMlOM_QlB/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "09. Thi Online Chủ đề 1 Family and Relationships (Buổi 5)",
+                  "items": [
+                    {
+                      "name": "chu-de-family-and-relationships-buoi-5.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chu-de-family-and-relationships-buoi-5.pdf",
+                          "link": "https://drive.google.com/file/d/1vRzLDxaPLIbZzE_n9fB_iRLtLXy6wLkh/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "DA_Thi Online Chủ đề 1 Family and Relationships (Buổi 5).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi Online Chủ đề 1 Family and Relationships (Buổi 5).pdf",
+                          "link": "https://drive.google.com/file/d/1xo_eU4hZ6bkvW0XIo92tYNjPld51fZoT/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "10. Chủ đề 1 Family and Relationships (Buổi 5)",
+                  "items": [
+                    {
+                      "name": "Chủ đề 1 Family and Relationships (Buổi 5).mp4",
+                      "videos": [
+                        {
+                          "title": "Chủ đề 1 Family and Relationships (Buổi 5).mp4",
+                          "link": "https://drive.google.com/file/d/1ITUGR_IGP10Oi0aAX18-ZbAt4l3Do-Q0/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "11. Thi Online Chủ đề 1 Family and Relationships (Buổi 6)",
+                  "items": [
+                    {
+                      "name": "chu-de-family-and-relationships-buoi-6.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chu-de-family-and-relationships-buoi-6.pdf",
+                          "link": "https://drive.google.com/file/d/1TSxKMZ3S7eAlHeLZkuNBwN8Cn8ihUSyM/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "DA_Thi Online Chủ đề 1 Family and Relationships (Buổi 6).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi Online Chủ đề 1 Family and Relationships (Buổi 6).pdf",
+                          "link": "https://drive.google.com/file/d/1zkll3IZ4IAfh_UU_kHCYR0QpZhXqMn6E/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "12. Chủ đề 1 Family and Relationships (Buổi 6)",
+                  "items": [
+                    {
+                      "name": "Chủ đề 1 Family and Relationships (Buổi 6).mp4",
+                      "videos": [
+                        {
+                          "title": "Chủ đề 1 Family and Relationships (Buổi 6).mp4",
+                          "link": "https://drive.google.com/file/d/1VYAVkPkgwvn1r9CSMg9gxgJ4C4BId1Je/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "13. Thi online Chủ đề 2 Health and Well-Being (Buổi 1)",
+                  "items": [
+                    {
+                      "name": "chu-de-health-and-well-being-buoi-1.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chu-de-health-and-well-being-buoi-1.pdf",
+                          "link": "https://drive.google.com/file/d/1nvPTwtcCdC6RAIczLFbALNQOJuL01HLc/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "DA_Thi online Chủ đề 2 Health and Well-Being (Buổi 1).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi online Chủ đề 2 Health and Well-Being (Buổi 1).pdf",
+                          "link": "https://drive.google.com/file/d/1naZh8TSbpRO5nC_pTQeHre7y9-_Db9v3/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "14. Chủ đề 2 Health and Well-Being (Buổi 1)",
+                  "items": [
+                    {
+                      "name": "Chủ đề 2 Health and Well-Being (Buổi 1).mp4",
+                      "videos": [
+                        {
+                          "title": "Chủ đề 2 Health and Well-Being (Buổi 1).mp4",
+                          "link": "https://drive.google.com/file/d/1v9jMPIW1Ici-XGno5SE5jdzDSn8MbC9-/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "15. Thi online Chủ đề 2 Health and Well-Being (Buổi 2)",
+                  "items": [
+                    {
+                      "name": "chu-de-health-and-well-being-buoi-2.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chu-de-health-and-well-being-buoi-2.pdf",
+                          "link": "https://drive.google.com/file/d/1ZJzRn_fE8thWs4AAcsiU4uCzmHrp6nnx/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "DA_Thi online Chủ đề 2 Health and Well-Being (Buổi 2).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi online Chủ đề 2 Health and Well-Being (Buổi 2).pdf",
+                          "link": "https://drive.google.com/file/d/1Okax8dPC13ObIPBkDR5-CcwK4GKROBlY/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "16. Chủ đề 2 Health and Well-Being (Buổi 2)",
+                  "items": [
+                    {
+                      "name": "Chủ đề 2 Health and Well-Being (Buổi 2).mp4",
+                      "videos": [
+                        {
+                          "title": "Chủ đề 2 Health and Well-Being (Buổi 2).mp4",
+                          "link": "https://drive.google.com/file/d/19XvBIvP0EKlXcusjVWwryKYNJ4e9Ef3p/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "17. Thi online Chủ đề 2 Health and Well-Being (Buổi 3)",
+                  "items": [
+                    {
+                      "name": "chu-de-health-and-well-being-buoi-3.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chu-de-health-and-well-being-buoi-3.pdf",
+                          "link": "https://drive.google.com/file/d/1RnlYrSLvgeu49oyKHLlxgIkG0US5n4nt/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "DA_Thi online Chủ đề 2 Health and Well-Being (Buổi 3).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi online Chủ đề 2 Health and Well-Being (Buổi 3).pdf",
+                          "link": "https://drive.google.com/file/d/1_EX4v194k-Oled0POyPQ4mMnvFgPf271/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "18. Chủ đề 2 Health and Well-Being (Buổi 3)",
+                  "items": [
+                    {
+                      "name": "Chủ đề 2 Health and Well-Being (Buổi 3).mp4",
+                      "videos": [
+                        {
+                          "title": "Chủ đề 2 Health and Well-Being (Buổi 3).mp4",
+                          "link": "https://drive.google.com/file/d/1RkUtvqfo27HimnlHRhyt-XVJlpd7A8lt/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "19. Thi Online Chủ đề 2 Health and Well-Being (Buổi 4)",
+                  "items": [
+                    {
+                      "name": "chu-de-health-and-well-being-buoi-4.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chu-de-health-and-well-being-buoi-4.pdf",
+                          "link": "https://drive.google.com/file/d/1Nj8H3g1ix9HgJGQ6hpbk7SatCqsJfH53/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "DA_Thi Online Chủ đề 2 Health and Well-Being (Buổi 4).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi Online Chủ đề 2 Health and Well-Being (Buổi 4).pdf",
+                          "link": "https://drive.google.com/file/d/1-GMoDOsSSYYkz4cIr2L2MnKs2WmQOqly/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "20. Chủ đề 2 Health and Well-Being (Buổi 4)",
+                  "items": [
+                    {
+                      "name": "Chủ đề 2 Health and Well-Being (Buổi 4).mp4",
+                      "videos": [
+                        {
+                          "title": "Chủ đề 2 Health and Well-Being (Buổi 4).mp4",
+                          "link": "https://drive.google.com/file/d/17JmzcsER3ZFoyQc6Q5ApjB5zRk-oh1Fe/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "21. Thi Online Chủ đề 3 Education and Learning (Đề số 01)",
+                  "items": [
+                    {
+                      "name": "chu-de-education-and-learning-buoi-1.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chu-de-education-and-learning-buoi-1.pdf",
+                          "link": "https://drive.google.com/file/d/1lUNuVmhW-TdkUkTCrmyf28si63SYs3H4/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "DA_Thi Online Chủ đề 3 Education and Learning (Đề số 01).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi Online Chủ đề 3 Education and Learning (Đề số 01).pdf",
+                          "link": "https://drive.google.com/file/d/1gvXYnGJVCeok4zB2G3IzzRoh_2jQwhpQ/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "22. Chủ đề 3 Education and Learning (Buổi 1)",
+                  "items": [
+                    {
+                      "name": "Chủ đề 3 Education and Learning (Buổi 1).mp4",
+                      "videos": [
+                        {
+                          "title": "Chủ đề 3 Education and Learning (Buổi 1).mp4",
+                          "link": "https://drive.google.com/file/d/1PFCxPb3OIQH8rtMdh9p9pwNuwMnGKw2o/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "23. Thi Online Chủ đề 3 Education and Learning (Đề số 02)",
+                  "items": [
+                    {
+                      "name": "chu-de-education-and-learning-buoi-2.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chu-de-education-and-learning-buoi-2.pdf",
+                          "link": "https://drive.google.com/file/d/1tCfRr9z6u_XMIn_Y4r2bcA-fRHsZP3iP/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "DA_Thi Online Chủ đề 3 Education and Learning (Đề số 02).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi Online Chủ đề 3 Education and Learning (Đề số 02).pdf",
+                          "link": "https://drive.google.com/file/d/15SMmkXsV-bsGn9d83CZqrmP4tkG08kz2/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "24. Chủ đề 3 Education and Learning (Buổi 2)",
+                  "items": [
+                    {
+                      "name": "Chủ đề 3 Education and Learning (Buổi 2).mp4",
+                      "videos": [
+                        {
+                          "title": "Chủ đề 3 Education and Learning (Buổi 2).mp4",
+                          "link": "https://drive.google.com/file/d/1cEkLM2VAySE3AGjujt7-EaOsuFt5fl62/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "25. Thi Online Chủ đề 3 Education and Learning (Đề số 03)",
+                  "items": [
+                    {
+                      "name": "chuyen-sau-chu-de-education-and-learning-buoi-3.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chuyen-sau-chu-de-education-and-learning-buoi-3.pdf",
+                          "link": "https://drive.google.com/file/d/1janWPESgY8u_V0hUuZMJVgF4RrmHNlyx/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "DA_Thi Online Chủ đề 3 Education and Learning (Đề số 03).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi Online Chủ đề 3 Education and Learning (Đề số 03).pdf",
+                          "link": "https://drive.google.com/file/d/19OYk4EpGEwZpuJ3dheUzCfxgQrqKHBfq/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "26. Chủ đề 3 Education and Learning (Buổi 3)",
+                  "items": [
+                    {
+                      "name": "Chủ đề 3 Education and Learning (Buổi 3).mp4",
+                      "videos": [
+                        {
+                          "title": "Chủ đề 3 Education and Learning (Buổi 3).mp4",
+                          "link": "https://drive.google.com/file/d/1TYSmzzi1X-WAKWM2vkOce-uKR3AOAGpD/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "27. Thi Online Chủ đề 3 Education and Learning (Đề số 04)",
+                  "items": [
+                    {
+                      "name": "chuyen-sau-chu-de-education-and-learning-buoi-4.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chuyen-sau-chu-de-education-and-learning-buoi-4.pdf",
+                          "link": "https://drive.google.com/file/d/1-RA2soPewWryw2E40_B3vWasQTOgXoWH/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "DA_Thi Online Chủ đề 3 Education and Learning (Đề số 04).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi Online Chủ đề 3 Education and Learning (Đề số 04).pdf",
+                          "link": "https://drive.google.com/file/d/1bo7m8fkpRtR5gHHBE0ozRTUREg9sUPCT/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "28. Chủ đề 3 Education and Learning (Buổi 4)",
+                  "items": [
+                    {
+                      "name": "Chủ đề 3 Education and Learning (Buổi 4).mp4",
+                      "videos": [
+                        {
+                          "title": "Chủ đề 3 Education and Learning (Buổi 4).mp4",
+                          "link": "https://drive.google.com/file/d/1UyDkp66BeoLKaLZFE3-dsp_Pa_YXiovY/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "29. Thi Online Chủ đề 3 Education and Learning (Đề số 05)",
+                  "items": [
+                    {
+                      "name": "chuyen-sau-chu-de-education-and-learning-buoi-5.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chuyen-sau-chu-de-education-and-learning-buoi-5.pdf",
+                          "link": "https://drive.google.com/file/d/1Fhh0_YfvDEHcxUZxhAauK8bkX6Q2n-4h/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "DA_Thi Online Chủ đề 3 Education and Learning (Đề số 05).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi Online Chủ đề 3 Education and Learning (Đề số 05).pdf",
+                          "link": "https://drive.google.com/file/d/1hDggqH1B9hkOK87h4Lrk6ZycFjgsYLiw/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "30. Chủ đề 3 Education and Learning (Đề số 5)",
+                  "items": [
+                    {
+                      "name": "Chủ đề 3 Education and Learning (Buổi 5).mp4",
+                      "videos": [
+                        {
+                          "title": "Chủ đề 3 Education and Learning (Buổi 5).mp4",
+                          "link": "https://drive.google.com/file/d/1pPYCVf10EvDT1Sz2zcieyqvnbPsUBKGz/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "31. Thi Online Chủ đề 3 Education and Learning (Đề số 06)",
+                  "items": [
+                    {
+                      "name": "chuyen-sau-chu-de-education-and-learning-buoi-6.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chuyen-sau-chu-de-education-and-learning-buoi-6.pdf",
+                          "link": "https://drive.google.com/file/d/1hY5uyjEuJ0pkE9H2AFjRfitdGdo0GDUi/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "DA_Thi Online Chủ đề 3 Education and Learning (Đề số 06).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi Online Chủ đề 3 Education and Learning (Đề số 06).pdf",
+                          "link": "https://drive.google.com/file/d/1U0zdLVHRUHVZ7Pw36R5Sc_jqYlPD2_4r/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "32. Chủ đề 3 Education and Learning (Đề số 6)",
+                  "items": [
+                    {
+                      "name": "Chủ đề 3 Education and Learning (Buổi 6).mp4",
+                      "videos": [
+                        {
+                          "title": "Chủ đề 3 Education and Learning (Buổi 6).mp4",
+                          "link": "https://drive.google.com/file/d/1BjAkPP_OmY-F4dak6_LoRR_QCTmh7z3z/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "33. Thi Online Chủ đề 4 Social Issues (Đề số 01)",
+                  "items": [
+                    {
+                      "name": "Chủ đề 4 Social Issues (Buổi 1).mp4",
+                      "videos": [
+                        {
+                          "title": "Chủ đề 4 Social Issues (Buổi 1).mp4",
+                          "link": "https://drive.google.com/file/d/172qBVVidOr_gOYut98pFS6xGdvBBAZ72/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "34. Chủ đề 4 Social Issues (Đề số 1)",
+                  "items": [
+                    {
+                      "name": "chuyen-sau-chu-de-social-issues-buoi-1.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chuyen-sau-chu-de-social-issues-buoi-1.pdf",
+                          "link": "https://drive.google.com/file/d/1ohE5zXHPgfTwVh-hJKuhVgPop-Dkk0aQ/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "DA_Thi Online Chủ đề 4 Social Issues (Đề số 01).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi Online Chủ đề 4 Social Issues (Đề số 01).pdf",
+                          "link": "https://drive.google.com/file/d/1pmslwoRGwXx9LJ2P0au3a7T93TA3KsqK/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "35. Thi Online Chủ đề 4 Social Issues (Đề số 02)",
+                  "items": [
+                    {
+                      "name": "Chủ đề 4 Social Issues (Buổi 2).mp4",
+                      "videos": [
+                        {
+                          "title": "Chủ đề 4 Social Issues (Buổi 2).mp4",
+                          "link": "https://drive.google.com/file/d/1fkYgPp0gS1x2J5ZePQeoJrPtZopds43n/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "36. Chủ đề 4 Social Issues (Đề số 2)",
+                  "items": [
+                    {
+                      "name": "chuyen-sau-chu-de-social-issues-buoi-2.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chuyen-sau-chu-de-social-issues-buoi-2.pdf",
+                          "link": "https://drive.google.com/file/d/1VbV4ZcVeMwGvHLupWoazCCanX2ZSuNBM/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "DA_Thi Online Chủ đề 4 Social Issues (Đề số 02).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi Online Chủ đề 4 Social Issues (Đề số 02).pdf",
+                          "link": "https://drive.google.com/file/d/1Ne0W-0CYfZwDFzCKABq6JWIzomO7CrY9/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "37. Thi Online Chủ đề 4 Social Issues (Đề số 03)",
+                  "items": [
+                    {
+                      "name": "chu-de-social-issues-buoi-3.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chu-de-social-issues-buoi-3.pdf",
+                          "link": "https://drive.google.com/file/d/1eADdzwzOUcFO9xBRrAX-Z5PtFxjeTnAp/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "DA_Thi Online Chủ đề 4 Social Issues (Đề số 03).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi Online Chủ đề 4 Social Issues (Đề số 03).pdf",
+                          "link": "https://drive.google.com/file/d/1mNwM1H7xddnVWVF_kNCwNomoxYsLDcLx/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "38. Chủ đề 4 Social Issues (Đề số 03)",
+                  "items": [
+                    {
+                      "name": "Chủ đề 4 Social Issues (Buổi 3).mp4",
+                      "videos": [
+                        {
+                          "title": "Chủ đề 4 Social Issues (Buổi 3).mp4",
+                          "link": "https://drive.google.com/file/d/1sUOuuWN6OjUk7ZfPWo28KKdRbcQVYxGK/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "39. Thi Online Chủ đề 4 Social Issues (Đề số 04)",
+                  "items": [
+                    {
+                      "name": "chu-de-social-issues-buoi-4.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chu-de-social-issues-buoi-4.pdf",
+                          "link": "https://drive.google.com/file/d/1QBEhwai-2Nya23-emGojFRJZLhNZ_Zvg/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "DA_Thi Online Chủ đề 4 Social Issues (Đề số 04).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi Online Chủ đề 4 Social Issues (Đề số 04).pdf",
+                          "link": "https://drive.google.com/file/d/1LNoX_GJCAO79dxKg_58rjaNrA1GGffnq/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "40. Chủ đề 4 Social Issues (Đề số 04)",
+                  "items": [
+                    {
+                      "name": "Chủ đề 4 Social Issues (Buổi 4).mp4",
+                      "videos": [
+                        {
+                          "title": "Chủ đề 4 Social Issues (Buổi 4).mp4",
+                          "link": "https://drive.google.com/file/d/1SBRcEgZiFddPFb9nuWBvK8RlMwQHK8Ic/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "41. Thi Online Chủ đề 4 Social Issues (Đề số 05)",
+                  "items": [
+                    {
+                      "name": "chu-de-social-issues-buoi-5.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chu-de-social-issues-buoi-5.pdf",
+                          "link": "https://drive.google.com/file/d/1oYR8FNGRFqW8UUlr2soMFk7LS82XbbS3/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "DA_Thi Online Chủ đề 4 Social Issues (Đề số 05).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi Online Chủ đề 4 Social Issues (Đề số 05).pdf",
+                          "link": "https://drive.google.com/file/d/1XSCdbJLbA65nZpnyJIcE3bsJVJWeryME/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "42. Chủ đề 4 Social Issues (Đề số 05)",
+                  "items": [
+                    {
+                      "name": "Chủ đề 4 Social Issues (Buổi 5).mp4",
+                      "videos": [
+                        {
+                          "title": "Chủ đề 4 Social Issues (Buổi 5).mp4",
+                          "link": "https://drive.google.com/file/d/1AIu7ibyAMcVN9L7n9X8pnN7q1OiaDeGh/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "43. Thi Online Chủ đề 4 Social Issues (Đề số 06)",
+                  "items": [
+                    {
+                      "name": "chu-de-social-issues-buoi-6.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chu-de-social-issues-buoi-6.pdf",
+                          "link": "https://drive.google.com/file/d/1C1QhYjDkNju2IgjISe0BKDvRcFmoWB2A/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "DA_Thi Online Chủ đề 4 Social Issues (Đề số 06).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi Online Chủ đề 4 Social Issues (Đề số 06).pdf",
+                          "link": "https://drive.google.com/file/d/1FcfJM5oDEdFkX59hHRbRYdn1Ja0HSVPv/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "44. Chủ đề 4 Social Issues (Đề số 06)",
+                  "items": [
+                    {
+                      "name": "Chủ đề 4 Social Issues (Buổi 6).mp4",
+                      "videos": [
+                        {
+                          "title": "Chủ đề 4 Social Issues (Buổi 6).mp4",
+                          "link": "https://drive.google.com/file/d/1KgVx95mA8CwcQglCn7UJe6pa0jxWH2MD/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "45. Thi Online Chủ đề 5 Cultural Diversity (Đề số 1)",
+                  "items": [
+                    {
+                      "name": "chu-de-cultural-diversity-buoi-1.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chu-de-cultural-diversity-buoi-1.pdf",
+                          "link": "https://drive.google.com/file/d/1ousEfwwkDihzK7SLDdqEGU8aPpK8_oJ1/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "DA_Thi Online Chủ đề 5 Cultural Diversity (Đề số 1).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi Online Chủ đề 5 Cultural Diversity (Đề số 1).pdf",
+                          "link": "https://drive.google.com/file/d/1VEYuEYWMz5HzLeTrEPEZlBX2DHf2Fjwr/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "46. Chủ đề 5 Cultural Diversity (Đề số 1)",
+                  "items": [
+                    {
+                      "name": "Chủ đề 5 Cultural Diversity - Buổi 1.mp4",
+                      "videos": [
+                        {
+                          "title": "Chủ đề 5 Cultural Diversity - Buổi 1.mp4",
+                          "link": "https://drive.google.com/file/d/1gT6XiOtZEGf2P0zG69-mpqlfTqQRjHZb/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "47. Thi Online Chủ đề 5 Cultural Diversity (Đề số 2)",
+                  "items": [
+                    {
+                      "name": "chu-de-cultural-diversity-buoi-2.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chu-de-cultural-diversity-buoi-2.pdf",
+                          "link": "https://drive.google.com/file/d/1OL3Cd8N5xP1hzFIrVCkX76Sp2B27QlVS/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "DA_Thi Online Chủ đề 5 Cultural Diversity (Đề số 2).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi Online Chủ đề 5 Cultural Diversity (Đề số 2).pdf",
+                          "link": "https://drive.google.com/file/d/1wQPOAqovKQ6VINgaxPucK14J_p0eA--S/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "48. Chủ đề 5 Cultural Diversity (Đề số 2)",
+                  "items": [
+                    {
+                      "name": "Chủ đề 5 Cultural Diversity - Buổi 2.mp4",
+                      "videos": [
+                        {
+                          "title": "Chủ đề 5 Cultural Diversity - Buổi 2.mp4",
+                          "link": "https://drive.google.com/file/d/1ClvtGj_4nfXkWYpoYZBqiANjoQIIy-wM/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "49. Thi Online Chủ đề 5 Cultural Diversity (Đề số 3)",
+                  "items": [
+                    {
+                      "name": "chu-de-cultural-diversity-buoi-3.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chu-de-cultural-diversity-buoi-3.pdf",
+                          "link": "https://drive.google.com/file/d/1wIiaSuQWuEFK2mi3AgZ4laZ-f-LLidxS/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "DA_Thi Online Chủ đề 5 Cultural Diversity (Đề số 3).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi Online Chủ đề 5 Cultural Diversity (Đề số 3).pdf",
+                          "link": "https://drive.google.com/file/d/19cFsLzqwolLAZvXwqnCirL4b6yBYM0hf/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "50. Chủ đề 5 Cultural Diversity (Đề số 3)",
+                  "items": [
+                    {
+                      "name": "Chủ đề 5 Cultural Diversity - Buổi 3.mp4",
+                      "videos": [
+                        {
+                          "title": "Chủ đề 5 Cultural Diversity - Buổi 3.mp4",
+                          "link": "https://drive.google.com/file/d/1LexUNdj0LB5gQQQTQRKV7tafQuTVuJWW/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "51. Thi Online Chủ đề 5 Cultural Diversity (Đề số 4)",
+                  "items": [
+                    {
+                      "name": "chu-de-cultural-diversity-buoi-4.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chu-de-cultural-diversity-buoi-4.pdf",
+                          "link": "https://drive.google.com/file/d/1tEyEi1PQMwDdJDcUHkvFe4NztDOe_aZj/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "DA_Thi Online Chủ đề 5 Cultural Diversity (Đề số 4).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi Online Chủ đề 5 Cultural Diversity (Đề số 4).pdf",
+                          "link": "https://drive.google.com/file/d/1XQwgnY5jm9h_rJZ4BgcVsv3ePABO66zM/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "52. Chủ đề 5 Cultural Diversity (Đề số 4)",
+                  "items": [
+                    {
+                      "name": "Chủ đề 5 Cultural Diversity - Buổi 4.mp4",
+                      "videos": [
+                        {
+                          "title": "Chủ đề 5 Cultural Diversity - Buổi 4.mp4",
+                          "link": "https://drive.google.com/file/d/1vsT_3is4hVbHcC2Vx-domggbdRIJspSa/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "53. Thi Online Chủ đề 6 The Environment (Đề số 1)",
+                  "items": [
+                    {
+                      "name": "chu-de-the-environment-buoi-1.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chu-de-the-environment-buoi-1.pdf",
+                          "link": "https://drive.google.com/file/d/15wPhNiyWHYHxe2G1JWElbwAzA-eE96j0/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "DA_Thi Online Chủ đề 6 The Environment (Đề số 1).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi Online Chủ đề 6 The Environment (Đề số 1).pdf",
+                          "link": "https://drive.google.com/file/d/1OInKrInR1kQY3Fepwi94zbdy-y6hAnpt/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "54. Chủ đề 6 The Environment (Đề số 1)",
+                  "items": [
+                    {
+                      "name": "Chủ đề 6 The Environment - Buổi 1.mp4",
+                      "videos": [
+                        {
+                          "title": "Chủ đề 6 The Environment - Buổi 1.mp4",
+                          "link": "https://drive.google.com/file/d/1o2NMvz09VMrI4gIyyayb6kybUFdgDOvW/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "55. Thi Online Chủ đề 6 The Environment (Đề số 2)",
+                  "items": [
+                    {
+                      "name": "chu-de-the-environment-buoi-2.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chu-de-the-environment-buoi-2.pdf",
+                          "link": "https://drive.google.com/file/d/1sKobadM-cUdPQ0hdInImJdXx8chCpbBu/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "DA_Thi Online Chủ đề 6 The Environment (Đề số 2).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi Online Chủ đề 6 The Environment (Đề số 2).pdf",
+                          "link": "https://drive.google.com/file/d/1gDT9zqVwGeVg1OC_6jyoHZUhrrGI6rw9/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "56. Chủ đề 6 The Environment (Đề số 2)",
+                  "items": [
+                    {
+                      "name": "Chủ đề 6 The Environment - Buổi 2.mp4",
+                      "videos": [
+                        {
+                          "title": "Chủ đề 6 The Environment - Buổi 2.mp4",
+                          "link": "https://drive.google.com/file/d/1by_tBgz8_OLb2aNPKIzR6BBZEnkB4xbQ/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "57. Thi Online Chủ đề 6 The Environment (Đề số 3)",
+                  "items": [
+                    {
+                      "name": "chu-de-the-environment-buoi-3.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chu-de-the-environment-buoi-3.pdf",
+                          "link": "https://drive.google.com/file/d/11xxV2SKN5GKpnMqYZsaEorKaLtjPoiYo/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "DA_Thi Online Chủ đề 6 The Environment (Đề số 3).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi Online Chủ đề 6 The Environment (Đề số 3).pdf",
+                          "link": "https://drive.google.com/file/d/1W_NZa85DjF-ON6zeA8-uz1XH32xR_2qO/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "58. Chủ đề 6 The Environment (Đề số 3)",
+                  "items": [
+                    {
+                      "name": "Chủ đề 6 The Environment - Buổi 3.mp4",
+                      "videos": [
+                        {
+                          "title": "Chủ đề 6 The Environment - Buổi 3.mp4",
+                          "link": "https://drive.google.com/file/d/1WWjic8-PgXLEIen7vQV_c5ABMyy1mOVD/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "59. Thi Online Chủ đề 6 The Environment (Đề số 4)",
+                  "items": [
+                    {
+                      "name": "chu-de-the-environment-buoi-4.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chu-de-the-environment-buoi-4.pdf",
+                          "link": "https://drive.google.com/file/d/1aqAD7JKiLS56kY1uXohHN3qG6vSKHxSl/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "DA_Thi Online Chủ đề 6 The Environment (Đề số 4).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi Online Chủ đề 6 The Environment (Đề số 4).pdf",
+                          "link": "https://drive.google.com/file/d/12QWyz6dOVsaGoB1JddobDRwudFnaXOW2/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "60. Chủ đề 6 The Environment (Đề số 4)",
+                  "items": [
+                    {
+                      "name": "Chủ đề 6 The Environment - Buổi 4.mp4",
+                      "videos": [
+                        {
+                          "title": "Chủ đề 6 The Environment - Buổi 4.mp4",
+                          "link": "https://drive.google.com/file/d/134AY0C4msu1H3vOLderqPAsjnV4NvDMJ/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "61. Thi Online Chủ đề 6 The Environment (Đề số 5)",
+                  "items": [
+                    {
+                      "name": "chu-de-the-environment-buoi-5.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chu-de-the-environment-buoi-5.pdf",
+                          "link": "https://drive.google.com/file/d/1J874ezimHjWYYOHyPAzdpXKP_sfqj8mG/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "DA_Thi Online Chủ đề 6 The Environment (Đề số 5).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi Online Chủ đề 6 The Environment (Đề số 5).pdf",
+                          "link": "https://drive.google.com/file/d/10LS0Bl2Mdx7KISyacD3duhQlWlrT4wdr/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "62. Chủ đề 6 The Environment (Đề số 5)",
+                  "items": [
+                    {
+                      "name": "Chủ đề 6 The Environment - Buổi 5.mp4",
+                      "videos": [
+                        {
+                          "title": "Chủ đề 6 The Environment - Buổi 5.mp4",
+                          "link": "https://drive.google.com/file/d/1si2jQpcBBkwdLkJ4Q69BV_VKl8B_v99v/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "63. Thi Online Chủ đề 6 The Environment (Đề số 6)",
+                  "items": [
+                    {
+                      "name": "chu-de-the-environment-buoi-6.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chu-de-the-environment-buoi-6.pdf",
+                          "link": "https://drive.google.com/file/d/1MDm-Xjn9OTAjQ1N729nDRRdJXOvZNhZ9/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "DA_Thi Online Chủ đề 6 The Environment (Đề số 6).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi Online Chủ đề 6 The Environment (Đề số 6).pdf",
+                          "link": "https://drive.google.com/file/d/15zT3x8bwmXfftGMWJwnlOjjzIiZvN86x/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "64. Chủ đề 6 The Environment (Đề số 6)",
+                  "items": [
+                    {
+                      "name": "Chủ đề 6 The Environment - Buổi 6.mp4",
+                      "videos": [
+                        {
+                          "title": "Chủ đề 6 The Environment - Buổi 6.mp4",
+                          "link": "https://drive.google.com/file/d/13apDoGQTMYTDS9XhtHaU53gPTjS6j1nM/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "65. Thi Online Chủ đề 7 Wildlife Conservation and Ecotourism (Đề số 1)",
+                  "items": [
+                    {
+                      "name": "chu-de-wildlife-conservation-and-ecotourism-buoi-1.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chu-de-wildlife-conservation-and-ecotourism-buoi-1.pdf",
+                          "link": "https://drive.google.com/file/d/1qRbb6ZxjyiIpSsqlLaPjZAbUNYESFLgZ/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "DA_Thi Online Chủ đề 7 Wildlife Conservation and Ecotourism (Đề số 1).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi Online Chủ đề 7 Wildlife Conservation and Ecotourism (Đề số 1).pdf",
+                          "link": "https://drive.google.com/file/d/1Wxz6ZHG8KSm2EmZMOgOW8zAWw72hLHUg/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "66. Chủ đề 7 Wildlife Conservation and Ecotourism (Đề số 1)",
+                  "items": [
+                    {
+                      "name": "Chủ đề 7 Wildlife Conservation and Ecotourism - Buổi 1.mp4",
+                      "videos": [
+                        {
+                          "title": "Chủ đề 7 Wildlife Conservation and Ecotourism - Buổi 1.mp4",
+                          "link": "https://drive.google.com/file/d/1-IHLZ8STREQV6FePi9lFJwWuC0YBhilO/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "67. Thi Online Chủ đề 7 Wildlife Conservation and Ecotourism (Đề số 2)",
+                  "items": [
+                    {
+                      "name": "chu-de-wildlife-conservation-and-ecotourism-buoi-2.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chu-de-wildlife-conservation-and-ecotourism-buoi-2.pdf",
+                          "link": "https://drive.google.com/file/d/1d3JP6FsWlvBPutKoJy9JyzwUY6FG4XIN/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "DA_Thi Online Chủ đề 7 Wildlife Conservation and Ecotourism (Đề số 2).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi Online Chủ đề 7 Wildlife Conservation and Ecotourism (Đề số 2).pdf",
+                          "link": "https://drive.google.com/file/d/17E-2zITzSoqoH4LXfQkxpTnIZm1UX0Hx/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "68. Chủ đề 7 Wildlife Conservation and Ecotourism (Đề số 2)",
+                  "items": [
+                    {
+                      "name": "Chủ đề 7 Wildlife Conservation and Ecotourism - Buổi 2.mp4",
+                      "videos": [
+                        {
+                          "title": "Chủ đề 7 Wildlife Conservation and Ecotourism - Buổi 2.mp4",
+                          "link": "https://drive.google.com/file/d/1nLr0UbxXN5p3DQN31DkE_HuUfZBwZ2SG/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "69. Thi Online Chủ đề 7 Wildlife Conservation and Ecotourism (Đề số 3)",
+                  "items": [
+                    {
+                      "name": "chu-de-wildlife-conservation-and-ecotourism-buoi-3.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chu-de-wildlife-conservation-and-ecotourism-buoi-3.pdf",
+                          "link": "https://drive.google.com/file/d/1nB8M6YngOsJ1-OvgMwScTyr9k1pgrFEl/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "DA_Thi Online Chủ đề 7 Wildlife Conservation and Ecotourism (Đề số 3).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi Online Chủ đề 7 Wildlife Conservation and Ecotourism (Đề số 3).pdf",
+                          "link": "https://drive.google.com/file/d/1vqUPHIugmO90t5MrDC5cSRLDFKAr8IcL/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "70. Chủ đề 7 Wildlife Conservation and Ecotourism (Đề số 3)",
+                  "items": [
+                    {
+                      "name": "Chủ đề 7 Wildlife Conservation and Ecotourism - Buổi 3.mp4",
+                      "videos": [
+                        {
+                          "title": "Chủ đề 7 Wildlife Conservation and Ecotourism - Buổi 3.mp4",
+                          "link": "https://drive.google.com/file/d/1AaKA48O52X2AXY-XLQ0MN_rYto3cPl8f/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "71. Thi Online Chủ đề 7 Wildlife Conservation and Ecotourism (Đề số 4)",
+                  "items": [
+                    {
+                      "name": "chu-de-wildlife-conservation-and-ecotourism-buoi-4.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chu-de-wildlife-conservation-and-ecotourism-buoi-4.pdf",
+                          "link": "https://drive.google.com/file/d/1r4q5wppej_ZDqqUL06Or0a1TAxi2aOOY/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "DA_Thi Online Chủ đề 7 Wildlife Conservation and Ecotourism (Đề số 4).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi Online Chủ đề 7 Wildlife Conservation and Ecotourism (Đề số 4).pdf",
+                          "link": "https://drive.google.com/file/d/1fv_yvfIwnL3BWtmJiqsc0LEqG-yMarvH/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "72. Chủ đề 7 Wildlife Conservation and Ecotourism (Đề số 4)",
+                  "items": [
+                    {
+                      "name": "Chủ đề 7 Wildlife Conservation and Ecotourism - Buổi 4.mp4",
+                      "videos": [
+                        {
+                          "title": "Chủ đề 7 Wildlife Conservation and Ecotourism - Buổi 4.mp4",
+                          "link": "https://drive.google.com/file/d/19C5JuxR7fkff2sQpTU9qbmae97lKGjPW/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "73. Thi Online Chủ đề 8 Inventions (Đề số 1)",
+                  "items": [
+                    {
+                      "name": "chu-de-inventions-buoi-1.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chu-de-inventions-buoi-1.pdf",
+                          "link": "https://drive.google.com/file/d/1x5AFIB9mjCa4g8PBkJ4ETnkfPv97_S12/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "DA_Thi Online Chủ đề 8 Inventions (Đề số 1).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi Online Chủ đề 8 Inventions (Đề số 1).pdf",
+                          "link": "https://drive.google.com/file/d/1XJua0VQxRmrQ3fabO453gsVvcs_I5jYP/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "74. Chủ đề 8 Inventions (Đề số 1)",
+                  "items": [
+                    {
+                      "name": "Chủ đề 8 Inventions - Buổi 1.mp4",
+                      "videos": [
+                        {
+                          "title": "Chủ đề 8 Inventions - Buổi 1.mp4",
+                          "link": "https://drive.google.com/file/d/1xpl_gVNNwfdXK4nfp2ZYx2RGJRAofBCW/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "75. Thi Online Chủ đề 8 Inventions (Đề số 2)",
+                  "items": [
+                    {
+                      "name": "chu-de-inventions-buoi-2.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chu-de-inventions-buoi-2.pdf",
+                          "link": "https://drive.google.com/file/d/1YBl4Vj9X4_9knCKZeclvJbU0EFgU-XnE/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "DA_Thi Online Chủ đề 8 Inventions (Đề số 2).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi Online Chủ đề 8 Inventions (Đề số 2).pdf",
+                          "link": "https://drive.google.com/file/d/1krZUgzhavv2-MqYXjlWTDeir_0p1A0wp/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "76. Chủ đề 8 Inventions (Đề số 2)",
+                  "items": [
+                    {
+                      "name": "Chủ đề 8 Inventions - Buổi 2.mp4",
+                      "videos": [
+                        {
+                          "title": "Chủ đề 8 Inventions - Buổi 2.mp4",
+                          "link": "https://drive.google.com/file/d/1_J1oZ_EKJl7hXNktIrAt_Wr9O8E9Fv7g/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "77. Thi Online Chủ đề 8 Inventions (Đề số 3)",
+                  "items": [
+                    {
+                      "name": "chu-de-inventions-buoi-3.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chu-de-inventions-buoi-3.pdf",
+                          "link": "https://drive.google.com/file/d/15UX1IY3Qv99N1jgTLqY0u62lQDPiB4GC/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "DA_Thi Online Chủ đề 8 Inventions (Đề số 3).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi Online Chủ đề 8 Inventions (Đề số 3).pdf",
+                          "link": "https://drive.google.com/file/d/1h0gIBy8M-z6Lt7a6Kvf26VdvYxIGbpLs/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "78. Chủ đề 8 Inventions (Đề số 3)",
+                  "items": [
+                    {
+                      "name": "Chủ đề 8 Inventions - Buổi 3.mp4",
+                      "videos": [
+                        {
+                          "title": "Chủ đề 8 Inventions - Buổi 3.mp4",
+                          "link": "https://drive.google.com/file/d/1J9MmJ6vVgCn-GgLPCql-Epi8AdMgeZbC/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "79. Thi Online Chủ đề 8 Inventions (Đề số 4)",
+                  "items": [
+                    {
+                      "name": "chu-de-inventions-buoi-4.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chu-de-inventions-buoi-4.pdf",
+                          "link": "https://drive.google.com/file/d/14dOt0snTv1qDuPsPY3LwjaMWzMaRX4SG/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "DA_Thi Online Chủ đề 8 Inventions (Đề số 4).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi Online Chủ đề 8 Inventions (Đề số 4).pdf",
+                          "link": "https://drive.google.com/file/d/12LjoD4BET5J9h6pS6Qn4H1hWtmhZkNdH/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "80. Chủ đề 8 Inventions (Đề số 4)",
+                  "items": [
+                    {
+                      "name": "Chủ đề 8 Inventions - Buổi 4.mp4",
+                      "videos": [
+                        {
+                          "title": "Chủ đề 8 Inventions - Buổi 4.mp4",
+                          "link": "https://drive.google.com/file/d/1np5OIeC77Fn-FUrdEIRV3AImYfIjTsj7/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "81. Thi Online Chủ đề 9 Artitificial Intelligence and Technology (Đề số 1)",
+                  "items": [
+                    {
+                      "name": "chu-de-artificial-intelligence-and-technology-buoi-1.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chu-de-artificial-intelligence-and-technology-buoi-1.pdf",
+                          "link": "https://drive.google.com/file/d/1tI7kzJn6Yd8deGDaRP0IPeiTz8tiatMC/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "DA_Thi Online Chủ đề 9 Artitificial Intelligence and Technology (Đề số 1).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi Online Chủ đề 9 Artitificial Intelligence and Technology (Đề số 1).pdf",
+                          "link": "https://drive.google.com/file/d/1jMs6SED__EuWcbmf-Ve7AaPhMpD0OlkE/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "82. Chủ đề 9 Artitificial Intelligence and Technology (Đề số 1)",
+                  "items": [
+                    {
+                      "name": "Chủ đề 9 Artitificial Intelligence and Technology - Buổi 1.mp4",
+                      "videos": [
+                        {
+                          "title": "Chủ đề 9 Artitificial Intelligence and Technology - Buổi 1.mp4",
+                          "link": "https://drive.google.com/file/d/1nVY6Zpkxd_jh3d6e2-FX2e_qDmB2qVWm/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "83. Thi Online Chủ đề 9 Artitificial Intelligence and Technology (Đề số 2)",
+                  "items": [
+                    {
+                      "name": "chu-de-artificial-intelligence-and-technology-buoi-2.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chu-de-artificial-intelligence-and-technology-buoi-2.pdf",
+                          "link": "https://drive.google.com/file/d/1_B0te7q3RUOR6qkzWHUy4RrgLi_qealD/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "DA_Thi Online Chủ đề 9 Artitificial Intelligence and Technology (Đề số 2).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi Online Chủ đề 9 Artitificial Intelligence and Technology (Đề số 2).pdf",
+                          "link": "https://drive.google.com/file/d/10xVkEx0Bw88IJLaYtEy7L0L2N2Ip9ewK/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "84. Chủ đề 9 Artitificial Intelligence and Technology (Đề số 2)",
+                  "items": [
+                    {
+                      "name": "Chủ đề 9 Artitificial Intelligence and Technology - Buổi 2.mp4",
+                      "videos": [
+                        {
+                          "title": "Chủ đề 9 Artitificial Intelligence and Technology - Buổi 2.mp4",
+                          "link": "https://drive.google.com/file/d/1gpFI3Khb1YMU-MsQYwdatw4WgxGMWxG8/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "85. Thi Online Chủ đề 9 Artitificial Intelligence and Technology (Đề số 3)",
+                  "items": [
+                    {
+                      "name": "chu-de-artificial-intelligence-and-technology-buoi-3.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chu-de-artificial-intelligence-and-technology-buoi-3.pdf",
+                          "link": "https://drive.google.com/file/d/1iKSehpS1wSoZbFfthBig96dVfUW0Gnb9/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "DA_Thi Online Chủ đề 9 Artitificial Intelligence and Technology (Đề số 3).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi Online Chủ đề 9 Artitificial Intelligence and Technology (Đề số 3).pdf",
+                          "link": "https://drive.google.com/file/d/1doCHhak0sr_3LwTesv_dUOoRgbZEkhdY/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "86. Chủ đề 9 Artitificial Intelligence and Technology (Đề số 3)",
+                  "items": [
+                    {
+                      "name": "Chủ đề 9 Artitificial Intelligence and Technology - Buổi 3.mp4",
+                      "videos": [
+                        {
+                          "title": "Chủ đề 9 Artitificial Intelligence and Technology - Buổi 3.mp4",
+                          "link": "https://drive.google.com/file/d/12wAyl4-pS95GYQmXp9nNS0e8ysTp5VQg/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "87. Thi Online Chủ đề 9 Artitificial Intelligence and Technology (Đề số 4)",
+                  "items": [
+                    {
+                      "name": "chu-de-artificial-intelligence-and-technology-buoi-4.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chu-de-artificial-intelligence-and-technology-buoi-4.pdf",
+                          "link": "https://drive.google.com/file/d/1T87zfoPvmG6k2fYnU6nY77PMKbSfibc1/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "DA_Thi Online Chủ đề 9 Artitificial Intelligence and Technology (Đề số 4).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi Online Chủ đề 9 Artitificial Intelligence and Technology (Đề số 4).pdf",
+                          "link": "https://drive.google.com/file/d/1KC9lLkUnkf8WVcGo8fu17wkAisiuqWVb/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "88. Chủ đề 9 Artitificial Intelligence and Technology (Đề số 4)",
+                  "items": [
+                    {
+                      "name": "Chủ đề 9 Artitificial Intelligence and Technology - Buổi 4.mp4",
+                      "videos": [
+                        {
+                          "title": "Chủ đề 9 Artitificial Intelligence and Technology - Buổi 4.mp4",
+                          "link": "https://drive.google.com/file/d/1p8ud31_IL4Z1xaQHhi2bt1h9EdDLf4nS/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "89. Thi Online Chủ đề 10 Cities and Urbanisation (Đề số 1)",
+                  "items": [
+                    {
+                      "name": "chu-de-cities-and-urbanisation-buoi-1.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chu-de-cities-and-urbanisation-buoi-1.pdf",
+                          "link": "https://drive.google.com/file/d/1nzk76e5DzetRpFTDLSSg84eDvPj82VJW/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "DA_Thi Online Chủ đề 10 Cities and Urbanisation (Đề số 1).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi Online Chủ đề 10 Cities and Urbanisation (Đề số 1).pdf",
+                          "link": "https://drive.google.com/file/d/1BFfhtPRlutAT1ZS2VIQDLv9Uw7tipqMd/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "90. Chủ đề 10 Cities and Urbanisation (Đề số 1)",
+                  "items": [
+                    {
+                      "name": "Chủ đề 10 Cities and Urbanisation - Buổi 1.mp4",
+                      "videos": [
+                        {
+                          "title": "Chủ đề 10 Cities and Urbanisation - Buổi 1.mp4",
+                          "link": "https://drive.google.com/file/d/1MWaVZmHjApMvfxDxHJuR8OamKIbP4Jua/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "91. Thi Online Chủ đề 10 Cities and Urbanisation (Đề số 2)",
+                  "items": [
+                    {
+                      "name": "chu-de-cities-and-urbanisation-buoi-2.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chu-de-cities-and-urbanisation-buoi-2.pdf",
+                          "link": "https://drive.google.com/file/d/12WyBePN3US57Cx8qaUU2d--97pSdy061/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "DA_Thi Online Chủ đề 10 Cities and Urbanisation (Đề số 2).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi Online Chủ đề 10 Cities and Urbanisation (Đề số 2).pdf",
+                          "link": "https://drive.google.com/file/d/12nZ0eprtsl4bqM3RMgd2KPwoEfRlYY5O/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "92. Chủ đề 10 Cities and Urbanisation (Đề số 2)",
+                  "items": [
+                    {
+                      "name": "Chủ đề 10 Cities and Urbanisation - Buổi 2.mp4",
+                      "videos": [
+                        {
+                          "title": "Chủ đề 10 Cities and Urbanisation - Buổi 2.mp4",
+                          "link": "https://drive.google.com/file/d/1OGx5Xl9DaOtmMByuz_CHWoQMTfI66FnA/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "93. Thi Online Chủ đề 10 Cities and Urbanisation (Đề số 3)",
+                  "items": [
+                    {
+                      "name": "chu-de-cities-and-urbanisation-buoi-3.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chu-de-cities-and-urbanisation-buoi-3.pdf",
+                          "link": "https://drive.google.com/file/d/1Ww8uinC1gHwdWB-yqyqEm4rwCfIlgZZa/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "DA_Thi Online Chủ đề 10 Cities and Urbanisation (Đề số 3).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi Online Chủ đề 10 Cities and Urbanisation (Đề số 3).pdf",
+                          "link": "https://drive.google.com/file/d/1Y0bdTg1r8KBI8BEMoGky_kA7k9sFLnk0/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "94. Chủ đề 10 Cities and Urbanisation (Đề số 3)",
+                  "items": [
+                    {
+                      "name": "Chủ đề 10 Cities and Urbanisation - Buổi 3.mp4",
+                      "videos": [
+                        {
+                          "title": "Chủ đề 10 Cities and Urbanisation - Buổi 3.mp4",
+                          "link": "https://drive.google.com/file/d/1HJZzwNSRaeRvyV6HQ7bcMCkYcTUM7AHw/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "95. Thi Online Chủ đề 10 Cities and Urbanisation (Đề số 4) (1)",
+                  "items": [
+                    {
+                      "name": "chu-de-cities-and-urbanisation-buoi-4.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chu-de-cities-and-urbanisation-buoi-4.pdf",
+                          "link": "https://drive.google.com/file/d/158zJg4rW9FFPpsGV4twhk9VW42odb3jY/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "DA_Thi Online Chủ đề 10 Cities and Urbanisation (Đề số 4).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi Online Chủ đề 10 Cities and Urbanisation (Đề số 4).pdf",
+                          "link": "https://drive.google.com/file/d/1-AfUNA62W1mKdoabti44BoJBdUOvztnr/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "96. Chủ đề 10 Cities and Urbanisation (Đề số 4)",
+                  "items": [
+                    {
+                      "name": "Chủ đề 10 Cities and Urbanisation - Buổi 4.mp4",
+                      "videos": [
+                        {
+                          "title": "Chủ đề 10 Cities and Urbanisation - Buổi 4.mp4",
+                          "link": "https://drive.google.com/file/d/1Pk8VTEWHTSUwDFrNkE4XXX-QYK1IFQUs/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "03. CHUYÊN ĐỀ 3. CHUYÊN SÂU ĐỌC HIỂU 8 CÂU HỎI",
+              "items": [],
+              "children": [
+                {
+                  "title": "01. Rèn luyện và nâng cao kĩ năng xử lí bài Đọc hiểu 8 câu (Buổi 1)",
+                  "items": [
+                    {
+                      "name": "DA_Rèn luyện và nâng cao kĩ năng xử lí bài Đọc hiểu 8 câu (Buổi 1).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Rèn luyện và nâng cao kĩ năng xử lí bài Đọc hiểu 8 câu (Buổi 1).pdf",
+                          "link": "https://drive.google.com/file/d/1FPn0MzQpEyrth_5pEv7sT6SrXq1Azom3/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "ren-luyen-va-nang-cao-ki-nang-xu-li-bai-doc-hieu-8-cau-buoi-1-pro-3m-2027.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "ren-luyen-va-nang-cao-ki-nang-xu-li-bai-doc-hieu-8-cau-buoi-1-pro-3m-2027.pdf",
+                          "link": "https://drive.google.com/file/d/1mzq3VX6a817tzNqVHIHfFrBaLW4Uf6EC/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Rèn luyện và nâng cao kĩ năng xử lí bài Đọc hiểu 8 câu (Buổi 1).mp4",
+                      "videos": [
+                        {
+                          "title": "Rèn luyện và nâng cao kĩ năng xử lí bài Đọc hiểu 8 câu (Buổi 1).mp4",
+                          "link": "https://drive.google.com/file/d/14pgSwOJxWDYGOvQB-sFQc--WDS2pMXK9/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "02. Thi online Rèn luyện và nâng cao kĩ năng xử lí bài Đọc hiểu 8 câu (Buổi 1) - Đề số 01",
+                  "items": [
+                    {
+                      "name": "DA_Thi online Rèn luyện và nâng cao kĩ năng xử lí bài Đọc hiểu 8 câu (Buổi 1) - Đề số 01.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi online Rèn luyện và nâng cao kĩ năng xử lí bài Đọc hiểu 8 câu (Buổi 1) - Đề số 01.pdf",
+                          "link": "https://drive.google.com/file/d/1SVOUOsOBAcsWESOgrZ1dRPUNrGfSyojQ/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "thi-online-ren-luyen-va-nang-cao-ki-nang-xu-li-bai-doc-hieu-8-cau-buoi-1-de-so-01-pro-3m-2027.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "thi-online-ren-luyen-va-nang-cao-ki-nang-xu-li-bai-doc-hieu-8-cau-buoi-1-de-so-01-pro-3m-2027.pdf",
+                          "link": "https://drive.google.com/file/d/1o2Jh663ToeDpeIDwzolScEM5ArOZx567/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "03. Thi online Rèn luyện và nâng cao kĩ năng xử lí bài Đọc hiểu 8 câu (Buổi 1) - Đề số 02",
+                  "items": [
+                    {
+                      "name": "DA_Thi online Rèn luyện và nâng cao kĩ năng xử lí bài Đọc hiểu 8 câu (Buổi 1) - Đề số 02.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi online Rèn luyện và nâng cao kĩ năng xử lí bài Đọc hiểu 8 câu (Buổi 1) - Đề số 02.pdf",
+                          "link": "https://drive.google.com/file/d/1Ca1YaDf1LXSmILB16YbE9Vp1e2U81N-J/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "thi-online-ren-luyen-va-nang-cao-ki-nang-xu-li-bai-doc-hieu-8-cau-buoi-1-de-so-02-pro-3m-2027.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "thi-online-ren-luyen-va-nang-cao-ki-nang-xu-li-bai-doc-hieu-8-cau-buoi-1-de-so-02-pro-3m-2027.pdf",
+                          "link": "https://drive.google.com/file/d/1fQigDJ2J5DhiOFNzGzRv8uAhtOXcfLpC/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "04. Thi online Rèn luyện và nâng cao kĩ năng xử lí bài Đọc hiểu 8 câu (Buổi 1) - Đề số 03",
+                  "items": [
+                    {
+                      "name": "DA_Thi online Rèn luyện và nâng cao kĩ năng xử lí bài Đọc hiểu 8 câu (Buổi 1) - Đề số 03.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi online Rèn luyện và nâng cao kĩ năng xử lí bài Đọc hiểu 8 câu (Buổi 1) - Đề số 03.pdf",
+                          "link": "https://drive.google.com/file/d/1UfMvRwPyJhxh8OkBSPqB_Fxc9bzpu0fv/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "thi-online-ren-luyen-va-nang-cao-ki-nang-xu-li-bai-doc-hieu-8-cau-buoi-1-de-so-03-pro-3m-2027.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "thi-online-ren-luyen-va-nang-cao-ki-nang-xu-li-bai-doc-hieu-8-cau-buoi-1-de-so-03-pro-3m-2027.pdf",
+                          "link": "https://drive.google.com/file/d/1vixcgVqKRECgLDa12ZWWiBYYM1lqEsBo/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "05. Rèn luyện và nâng cao kĩ năng xử lí bài Đọc hiểu 8 câu (Buổi 2)",
+                  "items": [
+                    {
+                      "name": "DA_Rèn luyện và nâng cao kĩ năng xử lí bài Đọc hiểu 8 câu (Buổi 2).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Rèn luyện và nâng cao kĩ năng xử lí bài Đọc hiểu 8 câu (Buổi 2).pdf",
+                          "link": "https://drive.google.com/file/d/1P3pXKAnZMgoGHFnOOM4d8m0sRit2Qg4-/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "ren-luyen-va-nang-cao-ki-nang-xu-li-bai-doc-hieu-8-cau-buoi-2-pro-3m-2027.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "ren-luyen-va-nang-cao-ki-nang-xu-li-bai-doc-hieu-8-cau-buoi-2-pro-3m-2027.pdf",
+                          "link": "https://drive.google.com/file/d/1w1EQhHAszHqdBqxTvEYM962gPuGwBfjY/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Rèn luyện và nâng cao kĩ năng xử lí bài Đọc hiểu 8 câu (Buổi 2).mp4",
+                      "videos": [
+                        {
+                          "title": "Rèn luyện và nâng cao kĩ năng xử lí bài Đọc hiểu 8 câu (Buổi 2).mp4",
+                          "link": "https://drive.google.com/file/d/10hnA-Tz05KTNOmSf2vEwygKIbnPrM863/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "06. Thi online Rèn luyện và nâng cao kĩ năng xử lí bài Đọc hiểu 8 câu (Buổi 2) - Đề số 01",
+                  "items": [
+                    {
+                      "name": "DA_Thi online Rèn luyện và nâng cao kĩ năng xử lí bài Đọc hiểu 8 câu (Buổi 2) - Đề số 01.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi online Rèn luyện và nâng cao kĩ năng xử lí bài Đọc hiểu 8 câu (Buổi 2) - Đề số 01.pdf",
+                          "link": "https://drive.google.com/file/d/1Yy2W1GHyfCW9cngaUl4-jyGrV-UE_hH4/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "thi-online-ren-luyen-va-nang-cao-ki-nang-xu-li-bai-doc-hieu-8-cau-buoi-2-de-so-01-pro-3m-2027.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "thi-online-ren-luyen-va-nang-cao-ki-nang-xu-li-bai-doc-hieu-8-cau-buoi-2-de-so-01-pro-3m-2027.pdf",
+                          "link": "https://drive.google.com/file/d/1Cxcfb2qpYPW50Ssi-G3YqlFB1XoxSMv9/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "07. Thi online Rèn luyện và nâng cao kĩ năng xử lí bài Đọc hiểu 8 câu (Buổi 2) - Đề số 02",
+                  "items": [
+                    {
+                      "name": "DA_Thi online Rèn luyện và nâng cao kĩ năng xử lí bài Đọc hiểu 8 câu (Buổi 2) - Đề số 02.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi online Rèn luyện và nâng cao kĩ năng xử lí bài Đọc hiểu 8 câu (Buổi 2) - Đề số 02.pdf",
+                          "link": "https://drive.google.com/file/d/1dJ4W2EcCvHKRssiOzL4OejnsDdocrF7q/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "thi-online-ren-luyen-va-nang-cao-ki-nang-xu-li-bai-doc-hieu-8-cau-buoi-2-de-so-02-pro-3m-2027.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "thi-online-ren-luyen-va-nang-cao-ki-nang-xu-li-bai-doc-hieu-8-cau-buoi-2-de-so-02-pro-3m-2027.pdf",
+                          "link": "https://drive.google.com/file/d/1LZhvW-aO9ZfgCJRRInORY6xQ3_nP7LD5/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "08. Thi online Rèn luyện và nâng cao kĩ năng xử lí bài Đọc hiểu 8 câu (Buổi 2) - Đề số 03",
+                  "items": [
+                    {
+                      "name": "DA_Thi online Rèn luyện và nâng cao kĩ năng xử lí bài Đọc hiểu 8 câu (Buổi 2) - Đề số 03.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi online Rèn luyện và nâng cao kĩ năng xử lí bài Đọc hiểu 8 câu (Buổi 2) - Đề số 03.pdf",
+                          "link": "https://drive.google.com/file/d/1hs0sv4tpiv28X73DvLIFn_DDRopRWEen/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "thi-online-ren-luyen-va-nang-cao-ki-nang-xu-li-bai-doc-hieu-8-cau-buoi-2-de-so-03-pro-3m-2027.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "thi-online-ren-luyen-va-nang-cao-ki-nang-xu-li-bai-doc-hieu-8-cau-buoi-2-de-so-03-pro-3m-2027.pdf",
+                          "link": "https://drive.google.com/file/d/1mxF5acYGiN4nulvqr3UztIYL78RPJ3XI/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "09. Rèn luyện và nâng cao kĩ năng xử lí bài Đọc hiểu 8 câu (Buổi 3)",
+                  "items": [
+                    {
+                      "name": "DA_Rèn luyện và nâng cao kĩ năng xử lí bài Đọc hiểu 8 câu (Buổi 3).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Rèn luyện và nâng cao kĩ năng xử lí bài Đọc hiểu 8 câu (Buổi 3).pdf",
+                          "link": "https://drive.google.com/file/d/1b30fMksJaYgRDE3C4_yiRlNOAAVsEwk4/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "ren-luyen-va-nang-cao-ki-nang-xu-li-bai-doc-hieu-8-cau-buoi-3-pro-3m-2027.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "ren-luyen-va-nang-cao-ki-nang-xu-li-bai-doc-hieu-8-cau-buoi-3-pro-3m-2027.pdf",
+                          "link": "https://drive.google.com/file/d/1oQm6siJ8Coymyp2Ke6QwT__wauaFRpPO/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Rèn luyện và nâng cao kĩ năng xử lí bài Đọc hiểu 8 câu (Buổi 3).mp4",
+                      "videos": [
+                        {
+                          "title": "Rèn luyện và nâng cao kĩ năng xử lí bài Đọc hiểu 8 câu (Buổi 3).mp4",
+                          "link": "https://drive.google.com/file/d/1lb_Ax2uo-MqwXPP8NojDybOEvJw6cxLL/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "10. Thi online Rèn luyện và nâng cao kĩ năng xử lí bài Đọc hiểu 8 câu (Buổi 3) - Đề số 01",
+                  "items": [
+                    {
+                      "name": "DA_Thi online Rèn luyện và nâng cao kĩ năng xử lí bài Đọc hiểu 8 câu (Buổi 3) - Đề số 01.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi online Rèn luyện và nâng cao kĩ năng xử lí bài Đọc hiểu 8 câu (Buổi 3) - Đề số 01.pdf",
+                          "link": "https://drive.google.com/file/d/1Itm1uzHRWAw3ZgEzcIze5imiv1yTJ4Qg/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "thi-online-ren-luyen-va-nang-cao-ki-nang-xu-li-bai-doc-hieu-8-cau-buoi-3-de-so-01-pro-3m-2027.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "thi-online-ren-luyen-va-nang-cao-ki-nang-xu-li-bai-doc-hieu-8-cau-buoi-3-de-so-01-pro-3m-2027.pdf",
+                          "link": "https://drive.google.com/file/d/1dDOr0LL9Apabg3X_LBJZWAuhmsJfgeiT/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "11. Thi online Rèn luyện và nâng cao kĩ năng xử lí bài Đọc hiểu 8 câu (Buổi 3) - Đề số 02",
+                  "items": [
+                    {
+                      "name": "DA_Thi online Rèn luyện và nâng cao kĩ năng xử lí bài Đọc hiểu 8 câu (Buổi 3) - Đề số 02.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi online Rèn luyện và nâng cao kĩ năng xử lí bài Đọc hiểu 8 câu (Buổi 3) - Đề số 02.pdf",
+                          "link": "https://drive.google.com/file/d/1SR7ChA3v1PbT_7n4Shaq4eMyQmekt8B5/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "thi-online-ren-luyen-va-nang-cao-ki-nang-xu-li-bai-doc-hieu-8-cau-buoi-3-de-so-02-pro-3m-2027.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "thi-online-ren-luyen-va-nang-cao-ki-nang-xu-li-bai-doc-hieu-8-cau-buoi-3-de-so-02-pro-3m-2027.pdf",
+                          "link": "https://drive.google.com/file/d/1Utcsp_TpzZwBX9e4-tMLh4r_-e7uB_Qy/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "12. Thi online Rèn luyện và nâng cao kĩ năng xử lí bài Đọc hiểu 8 câu (Buổi 3) - Đề số 03",
+                  "items": [
+                    {
+                      "name": "DA_Thi online Rèn luyện và nâng cao kĩ năng xử lí bài Đọc hiểu 8 câu (Buổi 3) - Đề số 03.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi online Rèn luyện và nâng cao kĩ năng xử lí bài Đọc hiểu 8 câu (Buổi 3) - Đề số 03.pdf",
+                          "link": "https://drive.google.com/file/d/1O2OA9knoSfIVxW1kjfi-DgfNxi6LEDkV/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "thi-online-ren-luyen-va-nang-cao-ki-nang-xu-li-bai-doc-hieu-8-cau-buoi-3-de-so-03-pro-3m-2027.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "thi-online-ren-luyen-va-nang-cao-ki-nang-xu-li-bai-doc-hieu-8-cau-buoi-3-de-so-03-pro-3m-2027.pdf",
+                          "link": "https://drive.google.com/file/d/1riwcv9cXlbUatQ5PlLkNKDGrvqm2GaFI/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "13. Rèn luyện và nâng cao kĩ năng xử lí bài Đọc hiểu 8 câu (Buổi 4)",
+                  "items": [
+                    {
+                      "name": "DA_Rèn luyện và nâng cao kĩ năng xử lí bài Đọc hiểu 8 câu (Buổi 4).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Rèn luyện và nâng cao kĩ năng xử lí bài Đọc hiểu 8 câu (Buổi 4).pdf",
+                          "link": "https://drive.google.com/file/d/1z9aekH4BCRP5q8PWSpqLfXYo9-FyIPiu/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "ren-luyen-va-nang-cao-ki-nang-xu-li-bai-doc-hieu-8-cau-buoi-4-pro-3m-2027.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "ren-luyen-va-nang-cao-ki-nang-xu-li-bai-doc-hieu-8-cau-buoi-4-pro-3m-2027.pdf",
+                          "link": "https://drive.google.com/file/d/1UDheBgGVRoL3vq6oBstuBE3PeyKLUcmV/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Rèn luyện và nâng cao kĩ năng xử lí bài Đọc hiểu 8 câu (Buổi 4).mp4",
+                      "videos": [
+                        {
+                          "title": "Rèn luyện và nâng cao kĩ năng xử lí bài Đọc hiểu 8 câu (Buổi 4).mp4",
+                          "link": "https://drive.google.com/file/d/1Dy3_n77r3MOb2Zfqt-uF_NtIJ4gjNLs1/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "14. Thi online Rèn luyện và nâng cao kĩ năng xử lí bài Đọc hiểu 8 câu (Buổi 4) - Đề số 01",
+                  "items": [
+                    {
+                      "name": "DA_Thi online Rèn luyện và nâng cao kĩ năng xử lí bài Đọc hiểu 8 câu (Buổi 4) - Đề số 01.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi online Rèn luyện và nâng cao kĩ năng xử lí bài Đọc hiểu 8 câu (Buổi 4) - Đề số 01.pdf",
+                          "link": "https://drive.google.com/file/d/1ZKA1v1_Lf-pSoXkkdM59WTdt7ar3LPAS/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "thi-online-ren-luyen-va-nang-cao-ki-nang-xu-li-bai-doc-hieu-8-cau-buoi-4-de-so-01-pro-3m-2027.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "thi-online-ren-luyen-va-nang-cao-ki-nang-xu-li-bai-doc-hieu-8-cau-buoi-4-de-so-01-pro-3m-2027.pdf",
+                          "link": "https://drive.google.com/file/d/1cnVaIDikdWmp_G-f77e102v9XNgYH6xb/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "15. Thi online Rèn luyện và nâng cao kĩ năng xử lí bài Đọc hiểu 8 câu (Buổi 4) - Đề số 02",
+                  "items": [
+                    {
+                      "name": "DA_Thi online Rèn luyện và nâng cao kĩ năng xử lí bài Đọc hiểu 8 câu (Buổi 4) - Đề số 02.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi online Rèn luyện và nâng cao kĩ năng xử lí bài Đọc hiểu 8 câu (Buổi 4) - Đề số 02.pdf",
+                          "link": "https://drive.google.com/file/d/1NaQddWUddmvXnlzX6kfo9pG3EWTVqMxA/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "thi-online-ren-luyen-va-nang-cao-ki-nang-xu-li-bai-doc-hieu-8-cau-buoi-4-de-so-02-pro-3m-2027.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "thi-online-ren-luyen-va-nang-cao-ki-nang-xu-li-bai-doc-hieu-8-cau-buoi-4-de-so-02-pro-3m-2027.pdf",
+                          "link": "https://drive.google.com/file/d/1eoITujc50ovwXj1Y5zNFhwoyFontqULe/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "16. Thi online Rèn luyện và nâng cao kĩ năng xử lí bài Đọc hiểu 8 câu (Buổi 4) - Đề số 03",
+                  "items": [
+                    {
+                      "name": "DA_Thi online Rèn luyện và nâng cao kĩ năng xử lí bài Đọc hiểu 8 câu (Buổi 4) - Đề số 03.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi online Rèn luyện và nâng cao kĩ năng xử lí bài Đọc hiểu 8 câu (Buổi 4) - Đề số 03.pdf",
+                          "link": "https://drive.google.com/file/d/1kBlNgk0jtw4Ke4C6dNLedXH0mlpAfwgM/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "thi-online-ren-luyen-va-nang-cao-ki-nang-xu-li-bai-doc-hieu-8-cau-buoi-4-de-so-03-pro-3m-2027.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "thi-online-ren-luyen-va-nang-cao-ki-nang-xu-li-bai-doc-hieu-8-cau-buoi-4-de-so-03-pro-3m-2027.pdf",
+                          "link": "https://drive.google.com/file/d/1Y7Zc-T0SKrbZxCpoW6IJ8q5Csyvg8vmF/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "07. CHUYÊN ĐỀ 7_ NÂNG CAO KĨ NĂNG XỬ LÝ BÀI ĐỌC HIỂU THEO CHỦ ĐỀ TRỌNG ĐIỂM",
+              "items": [],
+              "children": [
+                {
+                  "title": "01. Nâng cao kĩ năng xử lý bài Đọc hiểu theo chủ đề trọng điểm Family and the Generation Gap",
+                  "items": [
+                    {
+                      "name": "DA_Nâng cao kĩ năng xử lý bài Đọc hiểu theo chủ đề trọng điểm Family and the Generation Gap.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Nâng cao kĩ năng xử lý bài Đọc hiểu theo chủ đề trọng điểm Family and the Generation Gap.pdf",
+                          "link": "https://drive.google.com/file/d/1dJpR_6U5hslvH3Z2o5orXsKDigDsINQh/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "nang-cao-ki-nang-xu-ly-bai-doc-hieu-theo-chu-de-trong-diem-family-and-the-generation-gap.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "nang-cao-ki-nang-xu-ly-bai-doc-hieu-theo-chu-de-trong-diem-family-and-the-generation-gap.pdf",
+                          "link": "https://drive.google.com/file/d/1y-PPOrs8c4vzbKn5aRVsyqUFNyKCkXHi/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "02. Nâng cao kĩ năng xử lý bài Đọc hiểu theo chủ đề trọng điểm Education (1)",
+                  "items": [
+                    {
+                      "name": "DA_Nâng cao kĩ năng xử lý bài Đọc hiểu theo chủ đề trọng điểm Education (1).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Nâng cao kĩ năng xử lý bài Đọc hiểu theo chủ đề trọng điểm Education (1).pdf",
+                          "link": "https://drive.google.com/file/d/16O4YEdjB4Q31DZzTPwKnC-oAAzzcFU7l/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "nang-cao-ki-nang-xu-ly-bai-doc-hieu-theo-chu-de-trong-diem-education-buoi-1.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "nang-cao-ki-nang-xu-ly-bai-doc-hieu-theo-chu-de-trong-diem-education-buoi-1.pdf",
+                          "link": "https://drive.google.com/file/d/1u3B8_g1N3jjkEmPyeyUj0ilJyH38YnEk/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "03. Nâng cao kĩ năng xử lý bài Đọc hiểu theo chủ đề trọng điểm Education (2)",
+                  "items": [
+                    {
+                      "name": "DA_Nâng cao kĩ năng xử lý bài Đọc hiểu theo chủ đề trọng điểm Education (2).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Nâng cao kĩ năng xử lý bài Đọc hiểu theo chủ đề trọng điểm Education (2).pdf",
+                          "link": "https://drive.google.com/file/d/1oCUl4sWv2B-bZqp7pupj8b-Qi3MlopXI/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "nang-cao-ki-nang-xu-ly-bai-doc-hieu-theo-chu-de-trong-diem-education-buoi-2.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "nang-cao-ki-nang-xu-ly-bai-doc-hieu-theo-chu-de-trong-diem-education-buoi-2.pdf",
+                          "link": "https://drive.google.com/file/d/1hbIx15cxcc-_T44kuBasqJb05wctIBOZ/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "04. Nâng cao kĩ năng xử lý bài Đọc hiểu theo chủ đề trọng điểm The Environment (1)",
+                  "items": [
+                    {
+                      "name": "DA_Nâng cao kĩ năng xử lý bài Đọc hiểu theo chủ đề trọng điểm The Environment (1).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Nâng cao kĩ năng xử lý bài Đọc hiểu theo chủ đề trọng điểm The Environment (1).pdf",
+                          "link": "https://drive.google.com/file/d/1S4O21EyafO0CBMux_ZKXvRE7Jqo2W62H/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "nang-cao-ki-nang-xu-ly-bai-doc-hieu-theo-chu-de-trong-diem-the-environment-buoi-1.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "nang-cao-ki-nang-xu-ly-bai-doc-hieu-theo-chu-de-trong-diem-the-environment-buoi-1.pdf",
+                          "link": "https://drive.google.com/file/d/1sZ-M8BR80EcJ_qfGLAGaRXCuVOA-1wbh/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "05. Nâng cao kĩ năng xử lý bài Đọc hiểu theo chủ đề trọng điểm The Environment (2)",
+                  "items": [
+                    {
+                      "name": "DA_Nâng cao kĩ năng xử lý bài Đọc hiểu theo chủ đề trọng điểm The Environment (2).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Nâng cao kĩ năng xử lý bài Đọc hiểu theo chủ đề trọng điểm The Environment (2).pdf",
+                          "link": "https://drive.google.com/file/d/10eqz1vIvFaxjfFdDeXqXBFLgWCXIw8N8/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "nang-cao-ki-nang-xu-ly-bai-doc-hieu-theo-chu-de-trong-diem-the-environment-buoi-2.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "nang-cao-ki-nang-xu-ly-bai-doc-hieu-theo-chu-de-trong-diem-the-environment-buoi-2.pdf",
+                          "link": "https://drive.google.com/file/d/1i-R3VvdpT_StfmfbT0v7ynsTuMVQ9RCq/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "06. Nâng cao kĩ năng xử lý bài Đọc hiểu theo chủ đề trọng điểm Work",
+                  "items": [
+                    {
+                      "name": "DA_Nâng cao kĩ năng xử lý bài Đọc hiểu theo chủ đề trọng điểm Work.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Nâng cao kĩ năng xử lý bài Đọc hiểu theo chủ đề trọng điểm Work.pdf",
+                          "link": "https://drive.google.com/file/d/1rQrbUMnNgHjcwltooN-XsAhOS1AO7aaJ/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "nang-cao-ki-nang-xu-ly-bai-doc-hieu-theo-chu-de-trong-diem-work.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "nang-cao-ki-nang-xu-ly-bai-doc-hieu-theo-chu-de-trong-diem-work.pdf",
+                          "link": "https://drive.google.com/file/d/1viiejH3Gj3PM_KoXE70_f-J198ydCBij/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "07. Nâng cao kĩ năng xử lý bài Đọc hiểu theo chủ đề trọng điểm Mass Media",
+                  "items": [
+                    {
+                      "name": "DA_Nâng cao kĩ năng xử lý bài Đọc hiểu theo chủ đề trọng điểm Mass Media.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Nâng cao kĩ năng xử lý bài Đọc hiểu theo chủ đề trọng điểm Mass Media.pdf",
+                          "link": "https://drive.google.com/file/d/16GkyygDaL27KP9kH0aL5ebhZ9EC_xSHG/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "nang-cao-ki-nang-xu-ly-bai-doc-hieu-theo-chu-de-trong-diem-mass-media.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "nang-cao-ki-nang-xu-ly-bai-doc-hieu-theo-chu-de-trong-diem-mass-media.pdf",
+                          "link": "https://drive.google.com/file/d/1rG8sGYKo3qrN8dvgaW0ngbGetemv-gX8/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "08. Nâng cao kĩ năng xử lý bài Đọc hiểu theo chủ đề trọng điểm Culture",
+                  "items": [
+                    {
+                      "name": "DA_Nâng cao kĩ năng xử lý bài Đọc hiểu theo chủ đề trọng điểm Culture.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Nâng cao kĩ năng xử lý bài Đọc hiểu theo chủ đề trọng điểm Culture.pdf",
+                          "link": "https://drive.google.com/file/d/1-mJ-bYMX9oN6WqRFvhdnp-RHawq-sJ_9/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "nang-cao-ki-nang-xu-ly-bai-doc-hieu-theo-chu-de-trong-diem-culture.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "nang-cao-ki-nang-xu-ly-bai-doc-hieu-theo-chu-de-trong-diem-culture.pdf",
+                          "link": "https://drive.google.com/file/d/1RkqAMZbw8RqC54gkpxCt7RvY_JJwFIEz/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "09. Nâng cao kĩ năng xử lý bài Đọc hiểu theo chủ đề trọng điểm Social Issues",
+                  "items": [
+                    {
+                      "name": "DA_Nâng cao kĩ năng xử lý bài Đọc hiểu theo chủ đề trọng điểm Social Issues.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Nâng cao kĩ năng xử lý bài Đọc hiểu theo chủ đề trọng điểm Social Issues.pdf",
+                          "link": "https://drive.google.com/file/d/1Dux5A6gG0QxrW2C4vuJIq7TZ8C66Kueo/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "nang-cao-ki-nang-xu-ly-bai-doc-hieu-theo-chu-de-trong-diem-social-issue.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "nang-cao-ki-nang-xu-ly-bai-doc-hieu-theo-chu-de-trong-diem-social-issue.pdf",
+                          "link": "https://drive.google.com/file/d/1r0JrUINGednwIs-8TLHDNEOCQwnzYQ3u/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "10. Nâng cao kĩ năng xử lý bài Đọc hiểu theo chủ đề trọng điểm AI and Technology",
+                  "items": [
+                    {
+                      "name": "DA_Nâng cao kĩ năng xử lý bài Đọc hiểu theo chủ đề trọng điểm AI and Technology.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Nâng cao kĩ năng xử lý bài Đọc hiểu theo chủ đề trọng điểm AI and Technology.pdf",
+                          "link": "https://drive.google.com/file/d/10rAr8flX23bExYvepYpTgDdV5xM-t8g4/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "nang-cao-ki-nang-xu-ly-bai-doc-hieu-theo-chu-de-trong-diem-ai-and-technology.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "nang-cao-ki-nang-xu-ly-bai-doc-hieu-theo-chu-de-trong-diem-ai-and-technology.pdf",
+                          "link": "https://drive.google.com/file/d/12HMYlzczjnFiwOwAAo4mV3GzDsa9BwZO/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "11. Nâng cao kĩ năng xử lý bài Đọc hiểu theo chủ đề trọng điểm Cities",
+                  "items": [
+                    {
+                      "name": "DA_Nâng cao kĩ năng xử lý bài Đọc hiểu theo chủ đề trọng điểm Cities.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Nâng cao kĩ năng xử lý bài Đọc hiểu theo chủ đề trọng điểm Cities.pdf",
+                          "link": "https://drive.google.com/file/d/1l8KYeuKTVRqkLqHrfgupMJYy9r9bH8GA/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "nang-cao-ki-nang-xu-ly-bai-doc-hieu-theo-chu-de-trong-diem-cities.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "nang-cao-ki-nang-xu-ly-bai-doc-hieu-theo-chu-de-trong-diem-cities.pdf",
+                          "link": "https://drive.google.com/file/d/1WWa1IQ7tHp55ACrwtwWKuZM_IdQJ8AvE/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "12. Nâng cao kĩ năng xử lý bài Đọc hiểu theo chủ đề trọng điểm Health",
+                  "items": [
+                    {
+                      "name": "DA_Nâng cao kĩ năng xử lý bài Đọc hiểu theo chủ đề trọng điểm Health.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Nâng cao kĩ năng xử lý bài Đọc hiểu theo chủ đề trọng điểm Health.pdf",
+                          "link": "https://drive.google.com/file/d/1fBy90r6UDPoZRDpPKA7zFfELCaDjy40-/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "nang-cao-ki-nang-xu-ly-bai-doc-hieu-theo-chu-de-trong-diem-health.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "nang-cao-ki-nang-xu-ly-bai-doc-hieu-theo-chu-de-trong-diem-health.pdf",
+                          "link": "https://drive.google.com/file/d/1_Gp83S7EqjxDL1mCmku3GN6lo53lcJp2/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "13. Nâng cao kĩ năng xử lý bài Đọc hiểu theo chủ đề trọng điểm Independence",
+                  "items": [
+                    {
+                      "name": "DA_Nâng cao kĩ năng xử lý bài Đọc hiểu theo chủ đề trọng điểm Independence.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Nâng cao kĩ năng xử lý bài Đọc hiểu theo chủ đề trọng điểm Independence.pdf",
+                          "link": "https://drive.google.com/file/d/1bSCby5vBIwNN85pBiQxSc4e2lASRl2zf/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "nang-cao-ki-nang-xu-ly-bai-doc-hieu-theo-chu-de-trong-diem-independence.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "nang-cao-ki-nang-xu-ly-bai-doc-hieu-theo-chu-de-trong-diem-independence.pdf",
+                          "link": "https://drive.google.com/file/d/1_8n811ckOgmP9__FOeFWxLd259c_n7Qa/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "14. Nâng cao kĩ năng xử lý bài Đọc hiểu theo chủ đề trọng điểm Life Stories",
+                  "items": [
+                    {
+                      "name": "DA_Nâng cao kĩ năng xử lý bài Đọc hiểu theo chủ đề trọng điểm Life Stories.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Nâng cao kĩ năng xử lý bài Đọc hiểu theo chủ đề trọng điểm Life Stories.pdf",
+                          "link": "https://drive.google.com/file/d/1x0pav8KbG61x2rmHcyXC1EN3rZy_mtPj/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "nang-cao-ki-nang-xu-ly-bai-doc-hieu-theo-chu-de-trong-diem-life-stories.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "nang-cao-ki-nang-xu-ly-bai-doc-hieu-theo-chu-de-trong-diem-life-stories.pdf",
+                          "link": "https://drive.google.com/file/d/197TrnVU5Y1iXNUEnLDBKAtRqIQfjLLwM/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "15. Nâng cao kĩ năng xử lý bài Đọc hiểu theo chủ đề trọng điểm For a Better Community",
+                  "items": [
+                    {
+                      "name": "DA_Nâng cao kĩ năng xử lý bài Đọc hiểu theo chủ đề trọng điểm For a Better Community.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Nâng cao kĩ năng xử lý bài Đọc hiểu theo chủ đề trọng điểm For a Better Community.pdf",
+                          "link": "https://drive.google.com/file/d/1B_OdoTslGr80tzNKHdT9r4s2le6FK-6u/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "nang-cao-ki-nang-xu-ly-bai-doc-hieu-theo-chu-de-trong-diem-better-community.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "nang-cao-ki-nang-xu-ly-bai-doc-hieu-theo-chu-de-trong-diem-better-community.pdf",
+                          "link": "https://drive.google.com/file/d/1tqBoiXHs1N2dl99YYodj2UQ03hfiDrtf/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "NÂNG CAO KỸ NĂNG XỬ LÝ CÁC DẠNG CÂU HỎI ĐỌC HIỂU TRONG ĐỀ THI",
+              "items": [],
+              "children": [
+                {
+                  "title": "01. Chuyên sâu Đọc điền - Đọc hiểu chủ đề The generation gap",
+                  "items": [
+                    {
+                      "name": "chude_thegenerationgap.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chude_thegenerationgap.pdf",
+                          "link": "https://drive.google.com/file/d/1m9uGnTLWfsaFNTy7c0LVwMcNORmdRFnN/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "The generation gap.mp4",
+                      "videos": [
+                        {
+                          "title": "The generation gap.mp4",
+                          "link": "https://drive.google.com/file/d/1uqAtyqImHGM0DKPZjOOVUOH2snmbVeew/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "02. Chuyên sâu Đọc điền - Đọc hiểu chủ đề Being independent",
+                  "items": [
+                    {
+                      "name": "Being independent.mp4",
+                      "videos": [
+                        {
+                          "title": "Being independent.mp4",
+                          "link": "https://drive.google.com/file/d/1EBN_CwDy9QPml7PPeplK8IhkpAxDcnVS/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "chude_beingindependent.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chude_beingindependent.pdf",
+                          "link": "https://drive.google.com/file/d/1EoscG2BrKVqTqZ82KcPoe9HI2et0soeN/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "03. Chuyên sâu Đọc điền - Đọc hiểu chủ đề Going Green",
+                  "items": [
+                    {
+                      "name": "chude_goinggreen.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chude_goinggreen.pdf",
+                          "link": "https://drive.google.com/file/d/1n4ckg-kZq6NVb6Ylw3PiGcGFDNoj5he3/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Going Green.mp4",
+                      "videos": [
+                        {
+                          "title": "Going Green.mp4",
+                          "link": "https://drive.google.com/file/d/18Sm2wWIbOKdEvv5_hhSQi6IB9HFgBNH0/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "04. Chuyên sâu Đọc điền - Đọc hiểu chủ đề Wildlife Conservation",
+                  "items": [
+                    {
+                      "name": "chude_wildlifeconservation.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chude_wildlifeconservation.pdf",
+                          "link": "https://drive.google.com/file/d/1wbvDShqwlfiW0U7F0iHtSXl3wU1G9BWw/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Chuyên sâu Đọc điền - Đọc hiểu chủ đề Wildlife Conservation.mp4",
+                      "videos": [
+                        {
+                          "title": "Chuyên sâu Đọc điền - Đọc hiểu chủ đề Wildlife Conservation.mp4",
+                          "link": "https://drive.google.com/file/d/1PQ3a6HI96u4ywnbfipGm4OJUS6-tOwHb/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "05. Chuyên sâu Đọc điền - Đọc hiểu chủ đề The World of Work",
+                  "items": [
+                    {
+                      "name": "chude_theworldofwork.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chude_theworldofwork.pdf",
+                          "link": "https://drive.google.com/file/d/1cYZ08_9CDyuAtrTjflXxt-IVOfPJ6nzj/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Chuyên sâu Đọc điền - Đọc hiểu chủ đề The World of Work.mp4",
+                      "videos": [
+                        {
+                          "title": "Chuyên sâu Đọc điền - Đọc hiểu chủ đề The World of Work.mp4",
+                          "link": "https://drive.google.com/file/d/10k4BPn-BILJBScJm8xalPza_MTvxl5QS/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "06. Chuyên sâu Đọc điền - Đọc hiểu chủ đề Artificial Intelligence",
+                  "items": [
+                    {
+                      "name": "chude_artificialintelligence.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chude_artificialintelligence.pdf",
+                          "link": "https://drive.google.com/file/d/1sZ7RjxStgQzl0M8zkUopwusO68Jqj6XM/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Chuyên sâu Đọc điền - Đọc hiểu chủ đề Artificial Intelligence.mp4",
+                      "videos": [
+                        {
+                          "title": "Chuyên sâu Đọc điền - Đọc hiểu chủ đề Artificial Intelligence.mp4",
+                          "link": "https://drive.google.com/file/d/1zPtCsqltY07DnqUpBH3OGgyGDzS3v6yO/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "07. Chuyên sâu Đọc điền - Đọc hiểu chủ đề Social Issues",
+                  "items": [
+                    {
+                      "name": "chude_socialissues.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chude_socialissues.pdf",
+                          "link": "https://drive.google.com/file/d/1yiLJNbqYfUoUcoeSvOUfditYW9Dmjozs/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Chuyên sâu Đọc điền - Đọc hiểu chủ đề Social Issues.mp4",
+                      "videos": [
+                        {
+                          "title": "Chuyên sâu Đọc điền - Đọc hiểu chủ đề Social Issues.mp4",
+                          "link": "https://drive.google.com/file/d/1AS9eAo6Tz9_LuguF7I9Q-JBn20NNUSgb/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "08. Chuyên sâu Đọc điền - Đọc hiểu chủ đề Lifelong Learning",
+                  "items": [
+                    {
+                      "name": "chude_lifelonglearning.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chude_lifelonglearning.pdf",
+                          "link": "https://drive.google.com/file/d/1-YB2Sxzrgz53COPg7u2m1okg3-z73T60/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Chuyên sâu Đọc điền - Đọc hiểu chủ đề Lifelong Learning.mp4",
+                      "videos": [
+                        {
+                          "title": "Chuyên sâu Đọc điền - Đọc hiểu chủ đề Lifelong Learning.mp4",
+                          "link": "https://drive.google.com/file/d/1kVmgR7JU99kYQ-RzCEeI7KNu1HtCC4_9/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "09. Chuyên sâu Đọc điền - Đọc hiểu chủ đề Problems and Experiences",
+                  "items": [
+                    {
+                      "name": "chude_problemsandexperiences1.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chude_problemsandexperiences1.pdf",
+                          "link": "https://drive.google.com/file/d/1lUH33VwPoP9ErVk7KLyPmyNoSRFXfOYn/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Chuyên sâu Đọc điền - Đọc hiểu chủ đề  Problems and Experiences.mp4",
+                      "videos": [
+                        {
+                          "title": "Chuyên sâu Đọc điền - Đọc hiểu chủ đề  Problems and Experiences.mp4",
+                          "link": "https://drive.google.com/file/d/1qMqwr47d6qpQOflO0gjQgYFf1SMWpbV7/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "10. Chuyên sâu Đọc điền - Đọc hiểu chủ đề Health and Lifestyles",
+                  "items": [
+                    {
+                      "name": "chude_healthandlifestyles.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chude_healthandlifestyles.pdf",
+                          "link": "https://drive.google.com/file/d/1EkNJDH403dmE3QreU8tThiOdpq2hSgps/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Chuyên sâu Đọc điền - Đọc hiểu chủ đề Health and Lifestyles.mp4",
+                      "videos": [
+                        {
+                          "title": "Chuyên sâu Đọc điền - Đọc hiểu chủ đề Health and Lifestyles.mp4",
+                          "link": "https://drive.google.com/file/d/1VcmAqLTYtqHTgWBotkhWpppVt9y3P-h0/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "11. Chuyên sâu Đọc điền - Đọc hiểu chủ đề Career Paths",
+                  "items": [
+                    {
+                      "name": "chude_careerpaths.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chude_careerpaths.pdf",
+                          "link": "https://drive.google.com/file/d/11lZOCpjy8QBOD9Nk-ven5mkKXxe0Ap82/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Chuyên sâu Đọc điền - Đọc hiểu chủ đề Career Paths.mp4",
+                      "videos": [
+                        {
+                          "title": "Chuyên sâu Đọc điền - Đọc hiểu chủ đề Career Paths.mp4",
+                          "link": "https://drive.google.com/file/d/1ifqe4WOqlxPPuQ5iKIOA5luIKNwgV_v2/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "12. Thi Online Đọc điền - Đọc hiểu chủ đề Career Paths",
+                  "items": [
+                    {
+                      "name": "DA_Thi Online Đọc điền - Đọc hiểu chủ đề Career Paths.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi Online Đọc điền - Đọc hiểu chủ đề Career Paths.pdf",
+                          "link": "https://drive.google.com/file/d/1t8M5mZXtTTm4ONKBUmqx1oBIk6HVU5lL/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "thionline_chude_careerpaths.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "thionline_chude_careerpaths.pdf",
+                          "link": "https://drive.google.com/file/d/1_CeCTiLXH519CqAepxFEu5IUSoZmvc2m/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "13. Chuyên sâu Đọc điền - Đọc hiểu chủ đề The World of Mass Media",
+                  "items": [
+                    {
+                      "name": "chude_theworldofmassmedia.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chude_theworldofmassmedia.pdf",
+                          "link": "https://drive.google.com/file/d/1_IfHUKEGZN2sp_UZUSDwhxQDbUcfMRiv/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Chuyên sâu Đọc điền - Đọc hiểu chủ đề The World of Mass Media.mp4",
+                      "videos": [
+                        {
+                          "title": "Chuyên sâu Đọc điền - Đọc hiểu chủ đề The World of Mass Media.mp4",
+                          "link": "https://drive.google.com/file/d/1B0Xl2v7Hmb_NdY5Ch3pTi9TcC4gqzy-_/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "14. Thi Online Đọc điền - Đọc hiểu chủ đề The World of Mass Media",
+                  "items": [
+                    {
+                      "name": "DA_Thi Online Đọc điền - Đọc hiểu chủ đề The World of Mass Media.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi Online Đọc điền - Đọc hiểu chủ đề The World of Mass Media.pdf",
+                          "link": "https://drive.google.com/file/d/1HB-tZPckqt5Pqp7qje44PLmqJzQYW-nw/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "thionline_chude_massmedia.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "thionline_chude_massmedia.pdf",
+                          "link": "https://drive.google.com/file/d/1A_nwWr04bpmMxFy9sP1YUmvFFJe6eoqy/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "15. Chuyên sâu Đọc điền - Đọc hiểu chủ đề Life Stories",
+                  "items": [
+                    {
+                      "name": "chude_lifestories.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chude_lifestories.pdf",
+                          "link": "https://drive.google.com/file/d/18E6jQGztaycoJqvMkr3BZu6RuRAB69V8/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Chuyên sâu Đọc điền - Đọc hiểu chủ đề Life Stories.mp4",
+                      "videos": [
+                        {
+                          "title": "Chuyên sâu Đọc điền - Đọc hiểu chủ đề Life Stories.mp4",
+                          "link": "https://drive.google.com/file/d/15g-D-7pnje4_emODCwm3cGSUGkperVaG/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "16. Thi online Đọc điền - Đọc hiểu chủ đề Life Stories",
+                  "items": [
+                    {
+                      "name": "DA_Thi online Đọc điền - Đọc hiểu chủ đề Life Stories.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi online Đọc điền - Đọc hiểu chủ đề Life Stories.pdf",
+                          "link": "https://drive.google.com/file/d/1N0SJ7EounybY_NWNCYlMmCoULZe8e5EQ/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "thionline_chude_lifestories.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "thionline_chude_lifestories.pdf",
+                          "link": "https://drive.google.com/file/d/1_bBHxpiyUssjhBiPosBk-ZGO48_fAGg-/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "17. Chuyên sâu Đọc điền - Đọc hiểu chủ đề Our Heritage",
+                  "items": [
+                    {
+                      "name": "chude_ourheritage.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "chude_ourheritage.pdf",
+                          "link": "https://drive.google.com/file/d/1e_5lS8FZKUyIc90lfC984W8ZAU8gVicE/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Chuyên sâu Đọc điền - Đọc hiểu chủ đề Our Heritage.mp4",
+                      "videos": [
+                        {
+                          "title": "Chuyên sâu Đọc điền - Đọc hiểu chủ đề Our Heritage.mp4",
+                          "link": "https://drive.google.com/file/d/11CvVDth00OfxEoM1z7W7BtsqUYyOfEL6/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "18. Thi online Đọc điền - Đọc hiểu chủ đề Our Heritage",
+                  "items": [
+                    {
+                      "name": "DA_Thi online Đọc điền - Đọc hiểu chủ đề Our Heritage.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi online Đọc điền - Đọc hiểu chủ đề Our Heritage.pdf",
+                          "link": "https://drive.google.com/file/d/1Ewr5tEcQxDEQz5BXhgR8NVMZt_u6BWZd/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "thionline_chude_ourheritage.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "thionline_chude_ourheritage.pdf",
+                          "link": "https://drive.google.com/file/d/1Ba_BXfJZWG9IaeTnme7bgmfRk5GwtMnI/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "2. PLUS 2_ CHINH PHỤC CÂU HỎI 10 ĐIỂM (2027)",
+          "items": [],
+          "children": [
+            {
+              "title": "01. CHUYÊN ĐỀ 1 KỸ NĂNG & CHIẾN THUẬT XỬ LÍ CÂU HỎI PARAPHRASING",
+              "items": [],
+              "children": [
+                {
+                  "title": "01. Chiến thuật xử lý câu hỏi paraphrasing",
+                  "items": [
+                    {
+                      "name": "Chiến thuật xử lý câu hỏi paraphrasing.mp4",
+                      "videos": [
+                        {
+                          "title": "Chiến thuật xử lý câu hỏi paraphrasing.mp4",
+                          "link": "https://drive.google.com/file/d/1BYJvVDP7PU2CJDo-wYMhg45kHmDClqW1/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "plus-2-chien-thuat-xu-ly-cau-hoi-paraphrasing.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "plus-2-chien-thuat-xu-ly-cau-hoi-paraphrasing.pdf",
+                          "link": "https://drive.google.com/file/d/18T9nHk734czVkn0Ux2_Mt7IYJuY_pG2X/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "02. Thi Online Chiến thuật xử lý câu hỏi paraphrasing (Buổi 1)",
+                  "items": [
+                    {
+                      "name": "DA_Thi Online Chiến thuật xử lý câu hỏi paraphrasing (Buổi 1).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi Online Chiến thuật xử lý câu hỏi paraphrasing (Buổi 1).pdf",
+                          "link": "https://drive.google.com/file/d/1nv-v_UHgFpNMKgDZkSdJvTndgYccszja/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "thi-online-chien-thuat-xu-ly-cau-hoi-paraphrasing-buoi-1.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "thi-online-chien-thuat-xu-ly-cau-hoi-paraphrasing-buoi-1.pdf",
+                          "link": "https://drive.google.com/file/d/1AI-4nwAJUrYTN9KSuDEJDApzBznNMuQu/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "03. Thi Online Chiến thuật xử lý câu hỏi paraphrasing (Buổi 2)",
+                  "items": [
+                    {
+                      "name": "DA_Thi Online Chiến thuật xử lý câu hỏi paraphrasing (Buổi 2).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi Online Chiến thuật xử lý câu hỏi paraphrasing (Buổi 2).pdf",
+                          "link": "https://drive.google.com/file/d/1Z8yaGW4pJacaSTqtCZWNMCrzcOHVWBec/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "thi-online-chien-thuat-xu-ly-cau-hoi-paraphrasing-buoi-2.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "thi-online-chien-thuat-xu-ly-cau-hoi-paraphrasing-buoi-2.pdf",
+                          "link": "https://drive.google.com/file/d/1bhjMeWCFUWqxFLxBNJYJa1uwaNUfgvK2/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "04. Thi Online Chiến thuật xử lý câu hỏi paraphrasing (Buổi 3)",
+                  "items": [
+                    {
+                      "name": "DA_Thi Online Chiến thuật xử lý câu hỏi paraphrasing (Buổi 3).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi Online Chiến thuật xử lý câu hỏi paraphrasing (Buổi 3).pdf",
+                          "link": "https://drive.google.com/file/d/1cgJnAv4wbxPO37B1DQcAlOqv-DTOQdK5/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "thi-online-chien-thuat-xu-ly-cau-hoi-paraphrasing-buoi-3.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "thi-online-chien-thuat-xu-ly-cau-hoi-paraphrasing-buoi-3.pdf",
+                          "link": "https://drive.google.com/file/d/1VzrjTTX82lRwyN1EylAbZabizuFqtekX/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "05. Luyện tập chuyên sâu tư duy xử lý câu hỏi paraphrasing (Buổi 1)",
+                  "items": [
+                    {
+                      "name": "Luyện tập chuyên sâu tư duy xử lý câu hỏi paraphrasing (Buổi 1).mp4",
+                      "videos": [
+                        {
+                          "title": "Luyện tập chuyên sâu tư duy xử lý câu hỏi paraphrasing (Buổi 1).mp4",
+                          "link": "https://drive.google.com/file/d/17hM2UrFrBtsUtgSu4Z5ZRzZMnzuf6H32/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "plus-2-luyen-tap-chuyen-sau-tu-duy-xu-ly-cau-hoi-paraphrasing-buoi-1.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "plus-2-luyen-tap-chuyen-sau-tu-duy-xu-ly-cau-hoi-paraphrasing-buoi-1.pdf",
+                          "link": "https://drive.google.com/file/d/1ie6rEWmPi6y0WIYtF3sB1j2waaT2j155/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "06. Luyện tập chuyên sâu tư duy xử lý câu hỏi paraphrasing (Buổi 2)",
+                  "items": [
+                    {
+                      "name": "Luyện tập chuyên sâu tư duy xử lý câu hỏi paraphrasing (Buổi 2).mp4",
+                      "videos": [
+                        {
+                          "title": "Luyện tập chuyên sâu tư duy xử lý câu hỏi paraphrasing (Buổi 2).mp4",
+                          "link": "https://drive.google.com/file/d/1YdWWp7cFbn0SgKYa5Lp_-tdQsqUEtyt4/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "plus-2-luyen-tap-chuyen-sau-tu-duy-xu-ly-cau-hoi-paraphrasing-buoi-2.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "plus-2-luyen-tap-chuyen-sau-tu-duy-xu-ly-cau-hoi-paraphrasing-buoi-2.pdf",
+                          "link": "https://drive.google.com/file/d/1M-lgUZgTG_iUsKfyA1_HQlz9M3uMHczN/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "07. Luyện tập chuyên sâu tư duy xử lý câu hỏi paraphrasing (Buổi 3)",
+                  "items": [
+                    {
+                      "name": "Luyện tập chuyên sâu tư duy xử lý câu hỏi paraphrasing (Buổi 3).mp4",
+                      "videos": [
+                        {
+                          "title": "Luyện tập chuyên sâu tư duy xử lý câu hỏi paraphrasing (Buổi 3).mp4",
+                          "link": "https://drive.google.com/file/d/1_66jOhAVr4jT83xL4NFNzItaRF1rZkw2/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "plus-2-luyen-tap-chuyen-sau-tu-duy-xu-ly-cau-hoi-paraphrasing-buoi-3.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "plus-2-luyen-tap-chuyen-sau-tu-duy-xu-ly-cau-hoi-paraphrasing-buoi-3.pdf",
+                          "link": "https://drive.google.com/file/d/1uRJ6GLnOOo9kqG1QwXnX_dgksafpMO13/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "08. Luyện tập chuyên sâu tư duy xử lý câu hỏi paraphrasing (Buổi 4)",
+                  "items": [
+                    {
+                      "name": "Luyện tập chuyên sâu tư duy xử lý câu hỏi paraphrasing (Buổi 4).mp4",
+                      "videos": [
+                        {
+                          "title": "Luyện tập chuyên sâu tư duy xử lý câu hỏi paraphrasing (Buổi 4).mp4",
+                          "link": "https://drive.google.com/file/d/1ibZQsAb_32t4Bt7SC6hyE_Wx4hAIM7MD/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "plus-2-luyen-tap-chuyen-sau-tu-duy-xu-ly-cau-hoi-paraphrasing-buoi-4.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "plus-2-luyen-tap-chuyen-sau-tu-duy-xu-ly-cau-hoi-paraphrasing-buoi-4.pdf",
+                          "link": "https://drive.google.com/file/d/1HcagSatL7iAkNPgoWoivwxFdiB25UyXW/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "02. CHUYÊN ĐỀ 2  TƯ DUY TUYẾN TÍNH (LINEAR THINKING)",
+              "items": [],
+              "children": [
+                {
+                  "title": "01. Kỹ năng tư duy tuyến tính (Linear Thinking)",
+                  "items": [
+                    {
+                      "name": "Kỹ năng tư duy tuyến tính (Linear Thinking).mp4",
+                      "videos": [
+                        {
+                          "title": "Kỹ năng tư duy tuyến tính (Linear Thinking).mp4",
+                          "link": "https://drive.google.com/file/d/1zFMnmI7Ly8btGdXoPQ-NGctuEr5hwWcP/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "plus-2-ky-nang-tu-duy-tuyen-tinh-linear-thinking.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "plus-2-ky-nang-tu-duy-tuyen-tinh-linear-thinking.pdf",
+                          "link": "https://drive.google.com/file/d/1zT3zec1yh0kuKt2oXVwzoxoCMBPNvON4/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "02. Luyện tập Ứng dụng chuyên sâu Tư duy tuyến tính (Buổi 1)",
+                  "items": [
+                    {
+                      "name": "Luyện tập Ứng dụng chuyên sâu Tư duy tuyến tính (Buổi 1).mp4",
+                      "videos": [
+                        {
+                          "title": "Luyện tập Ứng dụng chuyên sâu Tư duy tuyến tính (Buổi 1).mp4",
+                          "link": "https://drive.google.com/file/d/1iQZWxCf25IlIyGoS6pLJdjQHveYkrdVH/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "plus-2-luyen-tap-ung-dung-chuyen-sau-tu-duy-tuyen-tinh-buoi-1.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "plus-2-luyen-tap-ung-dung-chuyen-sau-tu-duy-tuyen-tinh-buoi-1.pdf",
+                          "link": "https://drive.google.com/file/d/1OpsQc8mbEv7VJtlD2IlptQocthM1_qt9/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "03. Thi Online Luyện tập Ứng dụng chuyên sâu Tư duy tuyến tính (Buổi 1)",
+                  "items": [
+                    {
+                      "name": "DA_Thi Online Luyện tập Ứng dụng chuyên sâu Tư duy tuyến tính (Buổi 1).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi Online Luyện tập Ứng dụng chuyên sâu Tư duy tuyến tính (Buổi 1).pdf",
+                          "link": "https://drive.google.com/file/d/1NYnh4RSF338gPXbpUpKdHZhh3pdwShs0/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "thi-online-luyen-tap-ung-dung-chuyen-sau-tu-duy-tuyen-tinh-buoi-1.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "thi-online-luyen-tap-ung-dung-chuyen-sau-tu-duy-tuyen-tinh-buoi-1.pdf",
+                          "link": "https://drive.google.com/file/d/17j1vxhBiSrV8IV4ocjOVdEiskYBtT7Ub/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "04. Thi Online Luyện tập Ứng dụng chuyên sâu Tư duy tuyến tính (Buổi 2)",
+                  "items": [
+                    {
+                      "name": "DA_Thi Online Luyện tập Ứng dụng chuyên sâu Tư duy tuyến tính (Buổi 2).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi Online Luyện tập Ứng dụng chuyên sâu Tư duy tuyến tính (Buổi 2).pdf",
+                          "link": "https://drive.google.com/file/d/1wxvDV11ev8p4_VZY26-afTjQlPDq-KXq/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "thi-online-luyen-tap-ung-dung-chuyen-sau-tu-duy-tuyen-tinh-buoi-2.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "thi-online-luyen-tap-ung-dung-chuyen-sau-tu-duy-tuyen-tinh-buoi-2.pdf",
+                          "link": "https://drive.google.com/file/d/1FvE-OJZJ12fU9dNtkUHGpfuzZoN21dMc/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "05. Luyện tập Ứng dụng chuyên sâu Tư duy tuyến tính (Buổi 2)",
+                  "items": [
+                    {
+                      "name": "Luyện tập Ứng dụng chuyên sâu Tư duy tuyến tính (Buổi 2).mp4",
+                      "videos": [
+                        {
+                          "title": "Luyện tập Ứng dụng chuyên sâu Tư duy tuyến tính (Buổi 2).mp4",
+                          "link": "https://drive.google.com/file/d/13r0XgcFgJV6TovEbHJvawwdft16zOCXD/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "plus-2-luya-n-ta-p-a-ng-da-ng-chuya-n-sa-u-t-duy-tuya-n-ta-nh-bua-i-2.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "plus-2-luya-n-ta-p-a-ng-da-ng-chuya-n-sa-u-t-duy-tuya-n-ta-nh-bua-i-2.pdf",
+                          "link": "https://drive.google.com/file/d/199WoKzz8bA4DC8xMxub49xP_WWwpBjRq/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "06. Thi Online Luyện tập Ứng dụng chuyên sâu Tư duy tuyến tính (Buổi 3)",
+                  "items": [
+                    {
+                      "name": "DA_Thi Online Luyện tập Ứng dụng chuyên sâu Tư duy tuyến tính (Buổi 3).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi Online Luyện tập Ứng dụng chuyên sâu Tư duy tuyến tính (Buổi 3).pdf",
+                          "link": "https://drive.google.com/file/d/1nIksraYWB1fEHzx6W2aoBqOgDn-m6SA1/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "thi-online-luyen-tap-ung-dung-chuyen-sau-tu-duy-tuyen-tinh-buoi-3.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "thi-online-luyen-tap-ung-dung-chuyen-sau-tu-duy-tuyen-tinh-buoi-3.pdf",
+                          "link": "https://drive.google.com/file/d/1HfdjCueHq98einc2TKSTt1iNtcsnHPER/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "07. Thi Online Luyện tập Ứng dụng chuyên sâu Tư duy tuyến tính (Buổi 4)",
+                  "items": [
+                    {
+                      "name": "DA_Thi Online Luyện tập Ứng dụng chuyên sâu Tư duy tuyến tính (Buổi 4).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi Online Luyện tập Ứng dụng chuyên sâu Tư duy tuyến tính (Buổi 4).pdf",
+                          "link": "https://drive.google.com/file/d/1w44MENfXjhG9vbrIjU0_mwcNQ0meNKA5/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "thi-online-luyen-tap-ung-dung-chuyen-sau-tu-duy-tuyen-tinh-buoi-4.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "thi-online-luyen-tap-ung-dung-chuyen-sau-tu-duy-tuyen-tinh-buoi-4.pdf",
+                          "link": "https://drive.google.com/file/d/1tF373Nk6z3CN20hXF_rpoLdh_C6N2Tt1/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "08. Luyện tập Ứng dụng chuyên sâu Tư duy tuyến tính (Buổi 3)",
+                  "items": [
+                    {
+                      "name": "Luyện tập Ứng dụng chuyên sâu Tư duy tuyến tính (Buổi 3).mp4",
+                      "videos": [
+                        {
+                          "title": "Luyện tập Ứng dụng chuyên sâu Tư duy tuyến tính (Buổi 3).mp4",
+                          "link": "https://drive.google.com/file/d/1X5lQB7DeSbG6YxV08TysSZTEZRZKhghM/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "plus-2-luyen-tap-ung-dung-chuyen-sau-tu-duy-tuyen-tinh-buoi-3.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "plus-2-luyen-tap-ung-dung-chuyen-sau-tu-duy-tuyen-tinh-buoi-3.pdf",
+                          "link": "https://drive.google.com/file/d/1-kpbwmKcazhISlRqphjmOrIbKdqOCPgj/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "09. Thi Online Luyện tập Ứng dụng chuyên sâu Tư duy tuyến tính (Buổi 5)",
+                  "items": [
+                    {
+                      "name": "DA_Thi Online Luyện tập Ứng dụng chuyên sâu Tư duy tuyến tính (Buổi 5).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi Online Luyện tập Ứng dụng chuyên sâu Tư duy tuyến tính (Buổi 5).pdf",
+                          "link": "https://drive.google.com/file/d/1cfWOs7Tu3nu_t39FdGoP3hEurkuDyrLG/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "thi-online-luyen-tap-ung-dung-chuyen-sau-tu-duy-tuyen-tinh-buoi-5.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "thi-online-luyen-tap-ung-dung-chuyen-sau-tu-duy-tuyen-tinh-buoi-5.pdf",
+                          "link": "https://drive.google.com/file/d/1dDaK9kRdsBChcvQltURX5UrEvGkC_SMz/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "10. Thi Online Luyện tập Ứng dụng chuyên sâu Tư duy tuyến tính (Buổi 6)",
+                  "items": [
+                    {
+                      "name": "DA_Thi Online Luyện tập Ứng dụng chuyên sâu Tư duy tuyến tính (Buổi 6).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi Online Luyện tập Ứng dụng chuyên sâu Tư duy tuyến tính (Buổi 6).pdf",
+                          "link": "https://drive.google.com/file/d/1VRkGoiFHcB12GCwrAPB8qfdAKitnT1UN/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "thi-online-luyen-tap-ung-dung-chuyen-sau-tu-duy-tuyen-tinh-buoi-6.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "thi-online-luyen-tap-ung-dung-chuyen-sau-tu-duy-tuyen-tinh-buoi-6.pdf",
+                          "link": "https://drive.google.com/file/d/1TZ-eLBklliQkr0l6iUdQCeMJpUEjnayW/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "11. Luyện tập Ứng dụng chuyên sâu Tư duy tuyến tính (Buổi 4)",
+                  "items": [
+                    {
+                      "name": "Luyện tập Ứng dụng chuyên sâu Tư duy tuyến tính (Buổi 4).mp4",
+                      "videos": [
+                        {
+                          "title": "Luyện tập Ứng dụng chuyên sâu Tư duy tuyến tính (Buổi 4).mp4",
+                          "link": "https://drive.google.com/file/d/1N6Q9NJn48yKlgqAJFzwI772KWjozJQjv/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "plus-2-luyen-tap-ung-dung-chuyen-sau-tu-duy-tuyen-tinh-buoi-4.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "plus-2-luyen-tap-ung-dung-chuyen-sau-tu-duy-tuyen-tinh-buoi-4.pdf",
+                          "link": "https://drive.google.com/file/d/1w4VaI4jkak_o7KOESuQ9Sq1DTa6rXlp_/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "12. Thi Online Luyện tập Ứng dụng chuyên sâu Tư duy tuyến tính (Đề số 07)",
+                  "items": [
+                    {
+                      "name": "DA_Thi Online Luyện tập Ứng dụng chuyên sâu Tư duy tuyến tính (Đề số 07).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi Online Luyện tập Ứng dụng chuyên sâu Tư duy tuyến tính (Đề số 07).pdf",
+                          "link": "https://drive.google.com/file/d/1u5fkZGxefbzibM3pr7q8vu_Rot_rnFho/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "thi-online-luyen-tap-ung-dung-chuyen-sau-tu-duy-tuyen-tinh-buoi-7.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "thi-online-luyen-tap-ung-dung-chuyen-sau-tu-duy-tuyen-tinh-buoi-7.pdf",
+                          "link": "https://drive.google.com/file/d/1hDQVkEy7W_LvQqPtUxIVio-wYe9xQkjb/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "13. Thi Online Luyện tập Ứng dụng chuyên sâu Tư duy tuyến tính (Đề số 08)",
+                  "items": [
+                    {
+                      "name": "DA_Thi Online Luyện tập Ứng dụng chuyên sâu Tư duy tuyến tính (Đề số 08).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi Online Luyện tập Ứng dụng chuyên sâu Tư duy tuyến tính (Đề số 08).pdf",
+                          "link": "https://drive.google.com/file/d/1gRlCgH2V3lNa3a20h3yfGLSf629Tk3af/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "thi-online-luyen-tap-ung-dung-chuyen-sau-tu-duy-tuyen-tinh-buoi-8.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "thi-online-luyen-tap-ung-dung-chuyen-sau-tu-duy-tuyen-tinh-buoi-8.pdf",
+                          "link": "https://drive.google.com/file/d/1t69aOdX66amXxIFpkbzIqCsGOLO1DqG9/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "14. Luyện tập Ứng dụng chuyên sâu Tư duy tuyến tính (Buổi 5)",
+                  "items": [
+                    {
+                      "name": "Luyện tập Ứng dụng chuyên sâu Tư duy tuyến tính (Buổi 5).mp4",
+                      "videos": [
+                        {
+                          "title": "Luyện tập Ứng dụng chuyên sâu Tư duy tuyến tính (Buổi 5).mp4",
+                          "link": "https://drive.google.com/file/d/1OFjTYVTprfBjYwbRdxIqu7NFYgYh90LX/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "plus-2-luyen-tap-ung-dung-chuyen-sau-tu-duy-tuyen-tinh-buoi-5.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "plus-2-luyen-tap-ung-dung-chuyen-sau-tu-duy-tuyen-tinh-buoi-5.pdf",
+                          "link": "https://drive.google.com/file/d/1JgAM4l4NJb8nyCb-0036gQG-a8XHbfEj/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "15. Thi Online Luyện tập Ứng dụng chuyên sâu Tư duy tuyến tính (Đề số 09)",
+                  "items": [
+                    {
+                      "name": "DA_Thi Online Luyện tập Ứng dụng chuyên sâu Tư duy tuyến tính (Đề số 09).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi Online Luyện tập Ứng dụng chuyên sâu Tư duy tuyến tính (Đề số 09).pdf",
+                          "link": "https://drive.google.com/file/d/1M57s6eCUWnyviiS0I66MsPXu_iKEcIsP/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "thi-online-luyen-tap-ung-dung-chuyen-sau-tu-duy-tuyen-tinh-buoi-9.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "thi-online-luyen-tap-ung-dung-chuyen-sau-tu-duy-tuyen-tinh-buoi-9.pdf",
+                          "link": "https://drive.google.com/file/d/1myPfdKWKGWPzkNbkGPOk2FBcuazX_5ER/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "16. Thi Online Luyện tập Ứng dụng chuyên sâu Tư duy tuyến tính (Đề số 10)",
+                  "items": [
+                    {
+                      "name": "DA_Thi Online Luyện tập Ứng dụng chuyên sâu Tư duy tuyến tính (Đề số 10).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi Online Luyện tập Ứng dụng chuyên sâu Tư duy tuyến tính (Đề số 10).pdf",
+                          "link": "https://drive.google.com/file/d/1blTbw-Qh0uMgjnQ312EcTBRXB7NKjA-M/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "thi-online-luyen-tap-ung-dung-chuyen-sau-tu-duy-tuyen-tinh-buoi-10.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "thi-online-luyen-tap-ung-dung-chuyen-sau-tu-duy-tuyen-tinh-buoi-10.pdf",
+                          "link": "https://drive.google.com/file/d/1YXrafT2GSQAwLFYH1gbB-_26xsHpAUfk/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "03. CHUYÊN ĐỀ 3 KỸ NĂNG VÀ CHIẾN THUẬT XỬ LÝ CÂU HỎI SUMMARY",
+              "items": [],
+              "children": [
+                {
+                  "title": "01. Chiến thuật xử lý câu hỏi tóm tắt nội dung",
+                  "items": [
+                    {
+                      "name": "Chiến thuật xử lý câu hỏi tóm tắt nội dung.mp4",
+                      "videos": [
+                        {
+                          "title": "Chiến thuật xử lý câu hỏi tóm tắt nội dung.mp4",
+                          "link": "https://drive.google.com/file/d/17HZlaGQ1M7we8eeLeahqFbySxXUo-IPq/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "plus-2-chien-thuat-xu-ly-cau-hoi-tom-tat-noi-dung.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "plus-2-chien-thuat-xu-ly-cau-hoi-tom-tat-noi-dung.pdf",
+                          "link": "https://drive.google.com/file/d/1wmdAuLs0f96gaoRp85CLVD8WzakLNibr/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "03. Luyện tập chuyên sâu tư duy xử lý câu hỏi summary (Buổi 2)",
+                  "items": [
+                    {
+                      "name": "Luyện tập chuyên sâu tư duy xử lý câu hỏi summary (Buổi 2).mp4",
+                      "videos": [
+                        {
+                          "title": "Luyện tập chuyên sâu tư duy xử lý câu hỏi summary (Buổi 2).mp4",
+                          "link": "https://drive.google.com/file/d/1A1vcjBuTqNZSHv0F94J2MQ94EECKkkNv/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "plus-2-luyen-tap-chuyen-sau-tu-duy-xu-ly-cau-hoi-summary-buoi-2.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "plus-2-luyen-tap-chuyen-sau-tu-duy-xu-ly-cau-hoi-summary-buoi-2.pdf",
+                          "link": "https://drive.google.com/file/d/1zlQ038ExwYfPWdp87jRWqhLoag2YXICN/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "04. Luyện tập chuyên sâu tư duy xử lý câu hỏi summary (Buổi 3)",
+                  "items": [
+                    {
+                      "name": "Luyện tập chuyên sâu tư duy xử lý câu hỏi summary (Buổi 3).mp4",
+                      "videos": [
+                        {
+                          "title": "Luyện tập chuyên sâu tư duy xử lý câu hỏi summary (Buổi 3).mp4",
+                          "link": "https://drive.google.com/file/d/1W2_EScMsVvkJj9e5nlmKATrj8jbxMvVY/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "plus-2-luyen-tap-chuyen-sau-tu-duy-xu-ly-cau-hoi-summary-buoi-3.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "plus-2-luyen-tap-chuyen-sau-tu-duy-xu-ly-cau-hoi-summary-buoi-3.pdf",
+                          "link": "https://drive.google.com/file/d/1v6DeunPrUiSgWWgFGzSSJ1spXQ0HzGJf/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "05. Luyện tập chuyên sâu tư duy xử lý câu hỏi summary (Buổi 4)",
+                  "items": [
+                    {
+                      "name": "Luyện tập chuyên sâu tư duy xử lý câu hỏi summary (Buổi 4).mp4",
+                      "videos": [
+                        {
+                          "title": "Luyện tập chuyên sâu tư duy xử lý câu hỏi summary (Buổi 4).mp4",
+                          "link": "https://drive.google.com/file/d/1kTFilo-J6_Q08h9gPenU_a7fsSimigRR/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "plus-2-luyen-tap-chuyen-sau-tu-duy-xu-ly-cau-hoi-summary-buoi-4.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "plus-2-luyen-tap-chuyen-sau-tu-duy-xu-ly-cau-hoi-summary-buoi-4.pdf",
+                          "link": "https://drive.google.com/file/d/1XnrvyJoEEwb1b7JEyavHQYrFskbX_P46/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "06. Luyện tập chuyên sâu tư duy xử lý câu hỏi summary (Buổi 5)",
+                  "items": [
+                    {
+                      "name": "Luyện tập chuyên sâu tư duy xử lý câu hỏi summary (Buổi 5).mp4",
+                      "videos": [
+                        {
+                          "title": "Luyện tập chuyên sâu tư duy xử lý câu hỏi summary (Buổi 5).mp4",
+                          "link": "https://drive.google.com/file/d/1dMhyGd6atHtptpTG59dO3sj6iXPbz0g1/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "plus-2-luyen-tap-chuyen-sau-tu-duy-xu-ly-cau-hoi-summary-buoi-5.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "plus-2-luyen-tap-chuyen-sau-tu-duy-xu-ly-cau-hoi-summary-buoi-5.pdf",
+                          "link": "https://drive.google.com/file/d/1xZ_8I0kyWFacHRJ2O0EvY199VmLAZjrC/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "07. Luyện tập chuyên sâu tư duy xử lý câu hỏi summary (Buổi 6)",
+                  "items": [
+                    {
+                      "name": "Luyện tập chuyên sâu tư duy xử lý câu hỏi summary (Buổi 6).mp4",
+                      "videos": [
+                        {
+                          "title": "Luyện tập chuyên sâu tư duy xử lý câu hỏi summary (Buổi 6).mp4",
+                          "link": "https://drive.google.com/file/d/1t5AL1eGDa1jP_yUIsTFqKQy3UnnAvZ3X/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "plus-2-luya-n-ta-p-chuya-n-sa-u-t-duy-xa-la-ca-u-ha-i-summary-bua-i-6.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "plus-2-luya-n-ta-p-chuya-n-sa-u-t-duy-xa-la-ca-u-ha-i-summary-bua-i-6.pdf",
+                          "link": "https://drive.google.com/file/d/1m1T8w8Ot5FwGdbij8zwt8Vgmj7Db7qhs/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "08. Thi Online Luyện tập chuyên sâu tư duy xử lý câu hỏi summary (Đề số 01)",
+                  "items": [
+                    {
+                      "name": "DA_Thi Online Luyện tập chuyên sâu tư duy xử lý câu hỏi summary (Đề số 01).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi Online Luyện tập chuyên sâu tư duy xử lý câu hỏi summary (Đề số 01).pdf",
+                          "link": "https://drive.google.com/file/d/1h2aWryGG9e-DcPEdYkXs7vIaukuQOEYa/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "thi-online-luyen-tap-chuyen-sau-tu-duy-xu-ly-cau-hoi-summary-de-so-01.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "thi-online-luyen-tap-chuyen-sau-tu-duy-xu-ly-cau-hoi-summary-de-so-01.pdf",
+                          "link": "https://drive.google.com/file/d/14M_2l3Rqp7CUZht0f9MyXzxaDUalnUzd/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "09. Thi Online Luyện tập chuyên sâu tư duy xử lý câu hỏi summary (Đề số 02)",
+                  "items": [
+                    {
+                      "name": "DA_Thi Online Luyện tập chuyên sâu tư duy xử lý câu hỏi summary (Đề số 02).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi Online Luyện tập chuyên sâu tư duy xử lý câu hỏi summary (Đề số 02).pdf",
+                          "link": "https://drive.google.com/file/d/16dzBl7igCyAsvDbjk9d4dcg99RCNi63J/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "thi-online-luya-n-ta-p-chuya-n-sa-u-t-duy-xa-la-ca-u-ha-i-summary-a-a-sa-02.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "thi-online-luya-n-ta-p-chuya-n-sa-u-t-duy-xa-la-ca-u-ha-i-summary-a-a-sa-02.pdf",
+                          "link": "https://drive.google.com/file/d/15Q3PPSefur9kIzf3D4pvLsIzLKFGliuF/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "10. Thi Online Luyện tập chuyên sâu tư duy xử lý câu hỏi summary (Đề số 03)",
+                  "items": [
+                    {
+                      "name": "DA_Thi Online Luyện tập chuyên sâu tư duy xử lý câu hỏi summary (Đề số 03).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi Online Luyện tập chuyên sâu tư duy xử lý câu hỏi summary (Đề số 03).pdf",
+                          "link": "https://drive.google.com/file/d/1k7vS0kLyu7rxb3z_QRtehqSJ3PpTQz__/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "thi-online-luyen-tap-chuyen-sau-tu-duy-xu-ly-cau-hoi-summary-de-so-03.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "thi-online-luyen-tap-chuyen-sau-tu-duy-xu-ly-cau-hoi-summary-de-so-03.pdf",
+                          "link": "https://drive.google.com/file/d/1NozQIieWZPMoaigMc1afgnY1-ik0PJmS/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "11. Thi Online Luyện tập chuyên sâu tư duy xử lý câu hỏi summary (Đề số 04)",
+                  "items": [
+                    {
+                      "name": "DA_Thi Online Luyện tập chuyên sâu tư duy xử lý câu hỏi summary (Đề số 04).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "DA_Thi Online Luyện tập chuyên sâu tư duy xử lý câu hỏi summary (Đề số 04).pdf",
+                          "link": "https://drive.google.com/file/d/1ODDE2581ciUI07qpQWAY7tVXxPvhsaup/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "thi-online-luyen-tap-chuyen-sau-tu-duy-xu-ly-cau-hoi-summary-de-so-04.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "thi-online-luyen-tap-chuyen-sau-tu-duy-xu-ly-cau-hoi-summary-de-so-04.pdf",
+                          "link": "https://drive.google.com/file/d/1IdqPv3YESpUVWeQXUsIKoOxeF0Rs7EJR/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "04. CHUYÊN ĐỀ 4  KỸ NĂNG & CHIẾN THUẬT XỬ LÝ CÂU HỎI SUY LUẬN",
+              "items": [],
+              "children": [
+                {
+                  "title": "01. Chiến thuật xử lý câu hỏi Suy luận",
+                  "items": [
+                    {
+                      "name": "Chiến thuật xử lý câu hỏi Suy luận.mp4",
+                      "videos": [
+                        {
+                          "title": "Chiến thuật xử lý câu hỏi Suy luận.mp4",
+                          "link": "https://drive.google.com/file/d/1WqkRBm3Y1EKtIHKWjsXDBz1C8SM3UzNP/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "plus-2-chien-thuat-xu-ly-cau-hoi-suy-luan.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "plus-2-chien-thuat-xu-ly-cau-hoi-suy-luan.pdf",
+                          "link": "https://drive.google.com/file/d/17takHkNfI5De-UJi1maeEF9VEkptaktO/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "02. Luyện tập chuyên sâu tư duy xử lý câu hỏi Suy luận (Buổi 1)",
+                  "items": [
+                    {
+                      "name": "Luyện tập chuyên sâu tư duy xử lý câu hỏi Suy luận (Buổi 1).mp4",
+                      "videos": [
+                        {
+                          "title": "Luyện tập chuyên sâu tư duy xử lý câu hỏi Suy luận (Buổi 1).mp4",
+                          "link": "https://drive.google.com/file/d/1XCrkpe-hn8YbaXiaItkTNCnoS_00qO2b/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "plus-2-luyen-tap-chuyen-sau-xu-ly-cau-hoi-suy-luan-buoi-1.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "plus-2-luyen-tap-chuyen-sau-xu-ly-cau-hoi-suy-luan-buoi-1.pdf",
+                          "link": "https://drive.google.com/file/d/1bNkjLKrWaTNhVVzWTh175Vj_1hCS6fA3/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "03. Luyện tập chuyên sâu tư duy xử lý câu hỏi Suy luận (Buổi 2)",
+                  "items": [
+                    {
+                      "name": "Luyện tập chuyên sâu tư duy xử lý câu hỏi Suy luận (Buổi 2).mp4",
+                      "videos": [
+                        {
+                          "title": "Luyện tập chuyên sâu tư duy xử lý câu hỏi Suy luận (Buổi 2).mp4",
+                          "link": "https://drive.google.com/file/d/16znS_0SKIo23NdxcT8M2BYRA751y7zaa/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "plus-2-luyen-tap-chuyen-sau-xu-ly-cau-hoi-suy-luan-buoi-2.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "plus-2-luyen-tap-chuyen-sau-xu-ly-cau-hoi-suy-luan-buoi-2.pdf",
+                          "link": "https://drive.google.com/file/d/1_4yLXALqz8N1FcQOc0Wnb0Nev9lLdSPE/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
                 }
               ]
             }

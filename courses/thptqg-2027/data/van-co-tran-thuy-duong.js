@@ -762,6 +762,22 @@ const COURSE_DATA = {
             }
           ],
           "children": []
+        },
+        {
+          "title": "Buổi 13 Cách phân tích Bổ ngang và bổ dọc tác phẩm",
+          "items": [
+            {
+              "name": "Buổi 13 Cách phân tích Bổ ngang và bổ dọc tác phẩm.mp4.mp4",
+              "videos": [
+                {
+                  "title": "Buổi 13 Cách phân tích Bổ ngang và bổ dọc tác phẩm.mp4.mp4",
+                  "link": "https://drive.google.com/file/d/1jjoUXuUiwxq09wxgyJXG_L1i3D9yyXb3/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
         }
       ]
     }

@@ -2814,6 +2814,162 @@ const COURSE_DATA = {
               ]
             },
             {
+              "title": "CHỦ ĐỀ 4_ ĐẠI CƯƠNG VỀ DÒNG ĐIỆN XOAY CHIỀU_",
+              "items": [],
+              "children": [
+                {
+                  "title": "1. Lý Thuyết",
+                  "items": [
+                    {
+                      "name": "Chủ Đề 4 - Lý Thuyết Phần 1 Nguyên Tắc Tạo Ra Dòng Điên Xoay Chiều.mp4.mp4",
+                      "videos": [
+                        {
+                          "title": "Chủ Đề 4 - Lý Thuyết Phần 1 Nguyên Tắc Tạo Ra Dòng Điên Xoay Chiều.mp4.mp4",
+                          "link": "https://drive.google.com/file/d/1N7xEvR7WGdtO87EyrBMoWpf1DJlFs5Tg/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "Lý Thuyết Chủ Đề 4_Phần 2 Máy phát điện.mp4",
+                      "videos": [
+                        {
+                          "title": "Lý Thuyết Chủ Đề 4_Phần 2 Máy phát điện.mp4",
+                          "link": "https://drive.google.com/file/d/17i4Bemf1_zhsus55EIZOMYc5CKZSzGGF/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "2. Dạng 1_ Tính Điện Áp Và Dòng Điện Xoay Chiều",
+                  "items": [
+                    {
+                      "name": "Dạng 1 Tính Điện Áp Và Cường Độ Dòng Điện Xoay Chiều_Mới.mp4Dạng 1 Tính Điện Áp Và Cường Độ Dòng Điệ.mp4",
+                      "videos": [
+                        {
+                          "title": "Dạng 1 Tính Điện Áp Và Cường Độ Dòng Điện Xoay Chiều_Mới.mp4Dạng 1 Tính Điện Áp Và Cường Độ Dòng Điệ.mp4",
+                          "link": "https://drive.google.com/file/d/1LIc6X7YlB5ZvOoVcQk208meZfP3ZzkIX/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "Dạng 1- Tính Điện Áp Và Cường Độ Dòng Điện Xoay Chiều.mp4.mp4",
+                      "videos": [
+                        {
+                          "title": "Dạng 1- Tính Điện Áp Và Cường Độ Dòng Điện Xoay Chiều.mp4.mp4",
+                          "link": "https://drive.google.com/file/d/1TAB98dtJuFK7TyVFk1uoyO17BGH1_8VM/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "Dạng 1_ Tính Điện Áp Và Dòng Điện Xoay Chiều.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "Dạng 1_ Tính Điện Áp Và Dòng Điện Xoay Chiều.pdf",
+                          "link": "https://drive.google.com/file/d/1il79KMakvB7OGC2Xd_r_D3iSqswvAW_m/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "3. Dạng 2_ Máy Phát Điện Xoay Chiều",
+                  "items": [
+                    {
+                      "name": "Dạng 2 Máy Phát Điện Xoay Chiều_Mới.mp4.mp4",
+                      "videos": [
+                        {
+                          "title": "Dạng 2 Máy Phát Điện Xoay Chiều_Mới.mp4.mp4",
+                          "link": "https://drive.google.com/file/d/1Vs4hJud-EGgbkhrVBAarDTT8PacvmRf2/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "Dạng 2_ Máy Phát Điện Xoay Chiều.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "Dạng 2_ Máy Phát Điện Xoay Chiều.pdf",
+                          "link": "https://drive.google.com/file/d/1bHktsfUGRJBiN1apW7R_C-AG3EEy-2T_/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "4. Dạng 3_ Đồ Thị Điện Áp Và Dòng Điện Xoay Chiều",
+                  "items": [
+                    {
+                      "name": "Dạng 2 Đồ Thị Dao Động Của u và i_Phần 1.mp4.mp4",
+                      "videos": [
+                        {
+                          "title": "Dạng 2 Đồ Thị Dao Động Của u và i_Phần 1.mp4.mp4",
+                          "link": "https://drive.google.com/file/d/1tctPIn2I7rqmklQQfKfq57G3QnXbzbbK/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "Dạng 2 Đồ Thị Dao Động Của u và i_Phần 2.mp4.mp4",
+                      "videos": [
+                        {
+                          "title": "Dạng 2 Đồ Thị Dao Động Của u và i_Phần 2.mp4.mp4",
+                          "link": "https://drive.google.com/file/d/1jUPxq-6ZvMQ-Inh8KV45NU0z17wDfaJs/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "Dạng 3_ Đồ Thị Điện Áp Và Dòng Điện Xoay Chiều.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "Dạng 3_ Đồ Thị Điện Áp Và Dòng Điện Xoay Chiều.pdf",
+                          "link": "https://drive.google.com/file/d/1b0hGGSQNLdudkuf4bA7OKyGVdvK6JZks/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "5. Đáp Án Sách Chuyên Đề",
+                  "items": [
+                    {
+                      "name": "Đáp Án Sách Chuyên Đề.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "Đáp Án Sách Chuyên Đề.pdf",
+                          "link": "https://drive.google.com/file/d/1lVmC4ChMKt39vIBmtlkonrYFH2Stvsk0/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Đáp Án Sách Chuyên Đề[Lời giải + Đáp án].pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "Đáp Án Sách Chuyên Đề[Lời giải + Đáp án].pdf",
+                          "link": "https://drive.google.com/file/d/1yeYlS23u_XuKf6c7V3_-aMQGCN9pKa6U/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
               "title": "File Tài Liệu Ghi Chép Chương 3",
               "items": [
                 {

@@ -138,6 +138,94 @@ const COURSE_DATA = {
             }
           ],
           "children": []
+        },
+        {
+          "title": "5. KHẢO SÁT ĐẦU NĂM CHO 2K9 LẦN 2",
+          "items": [
+            {
+              "name": "1782725360116-ban-live-de-khao-sat-ki-nang-dia-li-khoa-luyen-thi-toan-dien-2027-ngay-29-6-2026-pdf.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "1782725360116-ban-live-de-khao-sat-ki-nang-dia-li-khoa-luyen-thi-toan-dien-2027-ngay-29-6-2026-pdf.pdf",
+                  "link": "https://drive.google.com/file/d/1X9pNMJC5zhexE7_Pw8rh8O0vpLCnWEDb/view?usp=drivesdk"
+                }
+              ]
+            },
+            {
+              "name": "1782725443126-de-khao-sat-ki-nang-dia-li-khoa-luyen-thi-toan-dien-2027-ngay-29-6-2026-pdf.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "1782725443126-de-khao-sat-ki-nang-dia-li-khoa-luyen-thi-toan-dien-2027-ngay-29-6-2026-pdf.pdf",
+                  "link": "https://drive.google.com/file/d/1yZEtR8YSmLctBbmINiguDrclkOS5_-bZ/view?usp=drivesdk"
+                }
+              ]
+            },
+            {
+              "name": "LẦN 2.MP4",
+              "videos": [
+                {
+                  "title": "LẦN 2.MP4",
+                  "link": "https://drive.google.com/file/d/1DNMUNEcftO6wW-vJRiQmsIb4YeHXmRl9/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "6. KHẢO SÁT ĐẦU NĂM CHO 2K9 LẦN 3",
+          "items": [
+            {
+              "name": "1784133651987-dia-li-thay-tai-khao-sat-dau-nam-cho-2k9-ngay-15-7-2026-pdf.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "1784133651987-dia-li-thay-tai-khao-sat-dau-nam-cho-2k9-ngay-15-7-2026-pdf.pdf",
+                  "link": "https://drive.google.com/file/d/1r_i0mZTurw1nQE_AdodDZ85jyUvzXf4s/view?usp=drivesdk"
+                }
+              ]
+            },
+            {
+              "name": "LẦN 3.MP4",
+              "videos": [
+                {
+                  "title": "LẦN 3.MP4",
+                  "link": "https://drive.google.com/file/d/1oPdYtGtUFpkEpGE2oC0rO3ih7W4sYGt0/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "7. KHẢO SÁT ĐẦU NĂM CHO 2K9 LẦN 4",
+          "items": [
+            {
+              "name": "1784716943884-dia-li-thay-tai-khao-sat-dau-nam-cho-2k9-ngay-22-7-2026-pdf.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "1784716943884-dia-li-thay-tai-khao-sat-dau-nam-cho-2k9-ngay-22-7-2026-pdf.pdf",
+                  "link": "https://drive.google.com/file/d/1-35HWbncLz3DJoXGotsNjoZVfhUKR1ZC/view?usp=drivesdk"
+                }
+              ]
+            },
+            {
+              "name": "video-1785073098191.MP4",
+              "videos": [
+                {
+                  "title": "video-1785073098191.MP4",
+                  "link": "https://drive.google.com/file/d/1PvH5EJHg452AUMkR920yY4iHCGmLKIfF/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
         }
       ]
     },

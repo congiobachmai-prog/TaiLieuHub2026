@@ -1804,6 +1804,32 @@ const COURSE_DATA = {
                 }
               ],
               "children": []
+            },
+            {
+              "title": "17. Số 15. Vietnam_s Landmark Battle Against Pirated Software",
+              "items": [
+                {
+                  "name": "[Số 15. Vietnam_s Landmark Battle Against Pirated Software] – 1. File PDF.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Số 15. Vietnam_s Landmark Battle Against Pirated Software] – 1. File PDF.pdf",
+                      "link": "https://drive.google.com/file/d/1TUa-dl4vZ5itzR-qYQLEt9Ux76hcdcxi/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[Số 15. Vietnam_s Landmark Battle Against Pirated Software] – 2. Đáp án.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Số 15. Vietnam_s Landmark Battle Against Pirated Software] – 2. Đáp án.pdf",
+                      "link": "https://drive.google.com/file/d/1NRAq2bAFuvaKoWmH8LUUMIqgteestGhu/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
             }
           ]
         },
@@ -2947,6 +2973,32 @@ const COURSE_DATA = {
                       "link": "https://drive.google.com/file/d/1fJFRfFT0mbbOtmlORbzDUHn32SPLXR3a/view?usp=drivesdk"
                     }
                   ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "SGK12 – TỪ VỰNG – Thi thử online",
+              "items": [
+                {
+                  "name": "[SGK12 – TỪ VỰNG – Thi thử online] – 1. File PDF.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[SGK12 – TỪ VỰNG – Thi thử online] – 1. File PDF.pdf",
+                      "link": "https://drive.google.com/file/d/1-fPrk8aSPL0hDb3wKmAFxosxnuMqrULX/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[SGK12 – TỪ VỰNG – Thi thử online] – 3. Live.mp4",
+                  "videos": [
+                    {
+                      "title": "[SGK12 – TỪ VỰNG – Thi thử online] – 3. Live.mp4",
+                      "link": "https://drive.google.com/file/d/1bg_kN87YoI09bsqbnyTeiHR2KRYNJKdf/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
                 }
               ],
               "children": []

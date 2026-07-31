@@ -1354,6 +1354,84 @@ const COURSE_DATA = {
             }
           ],
           "children": []
+        },
+        {
+          "title": "20. Ngôn ngữ trang trọng & Ngôn ngữ thân mật_",
+          "items": [
+            {
+              "name": "Ngôn ngữ trang trọng & Ngôn ngữ thân mật .mp4.mp4",
+              "videos": [
+                {
+                  "title": "Ngôn ngữ trang trọng & Ngôn ngữ thân mật .mp4.mp4",
+                  "link": "https://drive.google.com/file/d/1LhptBDhparxmc9SL5C_Z-bbAOlUXhEkY/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "P2 ngôn ngữ trang trọng và cac dau hieu pha vo nguyen tac ngon ngu.docx",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "P2 ngôn ngữ trang trọng và cac dau hieu pha vo nguyen tac ngon ngu.docx",
+                  "link": "https://docs.google.com/document/d/1AqPSGhy9WVqfFCuEpni40HJeg0WcwCEV/edit?usp=drivesdk&ouid=100424226602753219478&rtpof=true&sd=true"
+                }
+              ]
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "21. Kỹ năng đọc hiểu văn bản thông tin",
+          "items": [
+            {
+              "name": "Kỹ năng đọc hiểu văn bản thông tin.mp4.mp4",
+              "videos": [
+                {
+                  "title": "Kỹ năng đọc hiểu văn bản thông tin.mp4.mp4",
+                  "link": "https://drive.google.com/file/d/165WiYOap17KtqzhtujB9-9J43Eif4eZI/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "van ban thong tin 1.doc",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "van ban thong tin 1.doc",
+                  "link": "https://docs.google.com/document/d/1jJTJXMDPOCB3yV3SCh3X1AS3bDa9n8b8/edit?usp=drivesdk&ouid=100424226602753219478&rtpof=true&sd=true"
+                }
+              ]
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "22. Đọc hiểu một văn bản nghị luận",
+          "items": [
+            {
+              "name": "van ban nghi luan moi nhat.doc",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "van ban nghi luan moi nhat.doc",
+                  "link": "https://docs.google.com/document/d/1DL2WR6lTMHSz2vZoiwsc4ydyjSrae-_1/edit?usp=drivesdk&ouid=100424226602753219478&rtpof=true&sd=true"
+                }
+              ]
+            },
+            {
+              "name": "Đọc hiểu một văn bản nghị luận.mp4.mp4",
+              "videos": [
+                {
+                  "title": "Đọc hiểu một văn bản nghị luận.mp4.mp4",
+                  "link": "https://drive.google.com/file/d/1uzaOUgfyacpqttMbyd6XvDk5_cUQnnUy/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
         }
       ]
     },

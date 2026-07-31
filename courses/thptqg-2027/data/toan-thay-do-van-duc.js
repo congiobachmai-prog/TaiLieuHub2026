@@ -670,6 +670,130 @@ const COURSE_DATA = {
                 }
               ],
               "children": []
+            },
+            {
+              "title": "T2-X3 Tổng ôn 86 bài toán Hàm Số",
+              "items": [
+                {
+                  "name": "Bài giảng T2-X3.mp4",
+                  "videos": [
+                    {
+                      "title": "Bài giảng T2-X3.mp4",
+                      "link": "https://drive.google.com/file/d/1iIS2jcioPLsUZ1kDc8Tc6HOFeXzJQxYU/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "Bản viết tay - T2-X3.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "Bản viết tay - T2-X3.pdf",
+                      "link": "https://drive.google.com/file/d/1LjuKTvrLgVVFaaDDpGvpulT_EopUkhG5/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "T2-X3 - Tổng ôn 86 bài toán hàm số.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "T2-X3 - Tổng ôn 86 bài toán hàm số.pdf",
+                      "link": "https://drive.google.com/file/d/1JP6cgoWUSAHtz94zEyAu8js4feBGxjPE/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "T2-X4 Luyện tập tọa độ Vecto",
+              "items": [
+                {
+                  "name": "Bài giảng - T2-X4.mp4",
+                  "videos": [
+                    {
+                      "title": "Bài giảng - T2-X4.mp4",
+                      "link": "https://drive.google.com/file/d/10FTqKofTCWWR53u2MsekWkV64cKgkgmr/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "Bản viết tay - T2-X4.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "Bản viết tay - T2-X4.pdf",
+                      "link": "https://drive.google.com/file/d/1bK6534bHPvgswW4TDHPbTuQCB1wRDsSm/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "Tài liệu - T2-X4.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "Tài liệu - T2-X4.pdf",
+                      "link": "https://drive.google.com/file/d/14XAeqkNQAt2NPJJpV0Vy73T8M6gVzkDy/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "T2-X5 Luyện tập 10 bài toán thực tế Hàm Số",
+              "items": [
+                {
+                  "name": "Tài liệu - T2-X5.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "Tài liệu - T2-X5.pdf",
+                      "link": "https://drive.google.com/file/d/1vDa2R21nScIpazPXT3PlaXxeiNUhF7cA/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "T2-X6 Đề ôn giữa HK1 Toán 12 số 01",
+              "items": [
+                {
+                  "name": "Bài giảng - T2-X6.mp4",
+                  "videos": [
+                    {
+                      "title": "Bài giảng - T2-X6.mp4",
+                      "link": "https://drive.google.com/file/d/1WNZXA6SOER7Od__lpC74Po3C1OyuOBeO/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "Bản viết tay - T2-X6.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "Bản viết tay - T2-X6.pdf",
+                      "link": "https://drive.google.com/file/d/1m1zz1dVZKHJWM2XO1iwVUdUbYyBAdzHx/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "Đề thi - T2-X6.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "Đề thi - T2-X6.pdf",
+                      "link": "https://drive.google.com/file/d/1bjQJvJTV2TucPZofukJBWLhT7JHqyMjE/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
             }
           ]
         }
@@ -2143,6 +2267,48 @@ const COURSE_DATA = {
           ]
         },
         {
+          "title": "10. EX - LUYỆN ĐỀ",
+          "items": [],
+          "children": [
+            {
+              "title": "EX1 - Luyện Đề thi HSG TP Hà Nội năm 2025-2026 (Bảng A)",
+              "items": [
+                {
+                  "name": "Bài giảng - EX1.mp4",
+                  "videos": [
+                    {
+                      "title": "Bài giảng - EX1.mp4",
+                      "link": "https://drive.google.com/file/d/1hbTxSUNhG1PLuWT4U4FS7mDzYvMK135Z/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "Bản viết tay - EX1.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "Bản viết tay - EX1.pdf",
+                      "link": "https://drive.google.com/file/d/1BxU3K56OatNmyvK1p-P4OKuQoTDq9hg9/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "EX1 -File đề.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "EX1 -File đề.pdf",
+                      "link": "https://drive.google.com/file/d/1UBvQO6Nwn98q1Rm0IikiGgIZDY07nPiU/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
           "title": "CHƯƠNG C1 - HÀM SỐ",
           "items": [],
           "children": [
@@ -2187,15 +2353,244 @@ const COURSE_DATA = {
                 }
               ],
               "children": []
+            },
+            {
+              "title": "EC2 - Tính đơn điệu của hàm số có tham số",
+              "items": [
+                {
+                  "name": "Bản viết tay - EC2.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "Bản viết tay - EC2.pdf",
+                      "link": "https://drive.google.com/file/d/18tJGfQ7-LnmsV4MJG3CMplmB9VgBf47t/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "EC2 - Bản cách dòng.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "EC2 - Bản cách dòng.pdf",
+                      "link": "https://drive.google.com/file/d/1DLfuCWDhMWiCx1gYTxxRwQphX8BXZ4uz/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "EC2 - Phần 1 - Lý thuyết + ví dụ.mp4",
+                  "videos": [
+                    {
+                      "title": "EC2 - Phần 1 - Lý thuyết + ví dụ.mp4",
+                      "link": "https://drive.google.com/file/d/1wthC5-LKylvYjLZwUyLEMxlc6dfE6_Nq/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "EC2 - Phần 2 - Câu 27-36.mp4",
+                  "videos": [
+                    {
+                      "title": "EC2 - Phần 2 - Câu 27-36.mp4",
+                      "link": "https://drive.google.com/file/d/1ql3WsziKnppAREEVKNFUDnATC9eeQNPl/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "EC2 - Phần 2.mp4",
+                  "videos": [
+                    {
+                      "title": "EC2 - Phần 2.mp4",
+                      "link": "https://drive.google.com/file/d/1IqPsaVB76PDHEQUa3PSMqnal3ZsnsG7k/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "Kĩ năng EC2 - Tính nhanh đạo hàm hàm phân thức.mp4",
+                  "videos": [
+                    {
+                      "title": "Kĩ năng EC2 - Tính nhanh đạo hàm hàm phân thức.mp4",
+                      "link": "https://drive.google.com/file/d/1LCchsZ3mTXMZH2gX6ZqgHogBZ0cNKoE1/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "Tài liệu - EC2 - Bản không cách dòng.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "Tài liệu - EC2 - Bản không cách dòng.pdf",
+                      "link": "https://drive.google.com/file/d/1Taj-MxM4uyKHrqnCezvy4Z6u4zpbpJJu/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "EC3 - Min Max hàm số trong kỳ thi Đánh Giá Năng Lực",
+              "items": [
+                {
+                  "name": "Bản viết tay - EC3.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "Bản viết tay - EC3.pdf",
+                      "link": "https://drive.google.com/file/d/1tkjYfHUy52JGfyIhfcL_85N-M_ctU1YL/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "EC3 - Min Max hàm số trong kì thi ĐGNL - File cách dòng.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "EC3 - Min Max hàm số trong kì thi ĐGNL - File cách dòng.pdf",
+                      "link": "https://drive.google.com/file/d/1Qs4tzEW2q9yz-4DQvRvfXOGBk5YLlhZY/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "EC3 - Min Max hàm số trong kì thi ĐGNL - File thường.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "EC3 - Min Max hàm số trong kì thi ĐGNL - File thường.pdf",
+                      "link": "https://drive.google.com/file/d/1mZ2c1LmgeTGNKWT4GYyQIwImx9Qv48-t/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "EC3 - Phần 1 - Câu 1-20.mp4",
+                  "videos": [
+                    {
+                      "title": "EC3 - Phần 1 - Câu 1-20.mp4",
+                      "link": "https://drive.google.com/file/d/126z5OpAMwKkipLnWsUWr-yToKtyS-eHA/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "EC3 - Phần 2 - Câu 21-36.mp4",
+                  "videos": [
+                    {
+                      "title": "EC3 - Phần 2 - Câu 21-36.mp4",
+                      "link": "https://drive.google.com/file/d/1cMU4CwS_2IzyamFFCeJt3auh22WbnaZF/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "EC4 - Tương giao đồ thị",
+              "items": [
+                {
+                  "name": "Bản viết tay - EC4.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "Bản viết tay - EC4.pdf",
+                      "link": "https://drive.google.com/file/d/1f6iCx2fISm1dWYM79wS3P5yT7pPmR-rY/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "EC4 - Phần 1 - Câu 1-27.mp4",
+                  "videos": [
+                    {
+                      "title": "EC4 - Phần 1 - Câu 1-27.mp4",
+                      "link": "https://drive.google.com/file/d/1JSa4weGTgtVEWqfwUZ6cwd7zV-Kp2EpN/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "EC4 - Phần 2 - Câu 28-40.mp4",
+                  "videos": [
+                    {
+                      "title": "EC4 - Phần 2 - Câu 28-40.mp4",
+                      "link": "https://drive.google.com/file/d/1TUuKsYVvqQoWWfPuOygy-ByRrVhyHBvz/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "EC4 - Tương giao đồ thị - File cách dòng.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "EC4 - Tương giao đồ thị - File cách dòng.pdf",
+                      "link": "https://drive.google.com/file/d/1-5Poa4okULbpFPZSK21vyZhD_pJlO7f6/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "EC4 - Tương giao đồ thị - File thường.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "EC4 - Tương giao đồ thị - File thường.pdf",
+                      "link": "https://drive.google.com/file/d/10cPIfeM-K44R5laaseIFOOSTXxt2vvsz/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "EC5 - HÀM HỢP VÀ PHƯƠNG PHÁP GHÉP TRỤC",
+              "items": [
+                {
+                  "name": "Bản viết tay - EC5 - Phương pháp ghép trục - Phần 1.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "Bản viết tay - EC5 - Phương pháp ghép trục - Phần 1.pdf",
+                      "link": "https://drive.google.com/file/d/1EwNd5wx_mf-KuoIzPbX5lNIN0thJVWmU/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "Phần 1 - Lý thuyết + ví dụ - EC5.mp4",
+                  "videos": [
+                    {
+                      "title": "Phần 1 - Lý thuyết + ví dụ - EC5.mp4",
+                      "link": "https://drive.google.com/file/d/19D7Y62t0Kh41858TtpfO0REE_-la182H/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "Tài liệu - EC5 - File cách dòng.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "Tài liệu - EC5 - File cách dòng.pdf",
+                      "link": "https://drive.google.com/file/d/1a8q7fzy5Qo2hMPm0_w0I-GJT-mO_k-MM/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "Tài liệu - EC5 - File thường.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "Tài liệu - EC5 - File thường.pdf",
+                      "link": "https://drive.google.com/file/d/13SBHqM4FRzzuBkFmvVrPioN0I6JSwk7t/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
             }
           ]
         }
       ]
-    },
-    {
-      "title": "3. KHÓA NS THỰC CHIẾN LUYỆN ĐỀ VÀ TỔNG ÔN TRỌNG ĐIỂM",
-      "items": [],
-      "children": []
     },
     {
       "title": "Z. EBOOK SÁCH KÈM KHÓA HỌC",

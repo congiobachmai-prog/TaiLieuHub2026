@@ -4708,6 +4708,728 @@ const COURSE_DATA = {
               "children": []
             }
           ]
+        },
+        {
+          "title": "4. TRỌNG TÂM LÍ THUYẾT TRUNG HỌC PHỔ THÔNG MÔN SINH HỌC",
+          "items": [],
+          "children": [
+            {
+              "title": "1. CHƯƠNG 1 – CƠ SỞ CỦA SỰ DI TRUYỀN VÀ BIẾN DỊ",
+              "items": [
+                {
+                  "name": "CHƯƠNG 1 – CƠ SỞ CỦA SỰ DI TRUYỀN VÀ BIẾN DỊ – [Tài liệu] 8. Cơ sở của sự di truyền và biến dị – Đề luyện tập số 1.pdf.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "CHƯƠNG 1 – CƠ SỞ CỦA SỰ DI TRUYỀN VÀ BIẾN DỊ – [Tài liệu] 8. Cơ sở của sự di truyền và biến dị – Đề luyện tập số 1.pdf.pdf",
+                      "link": "https://drive.google.com/file/d/1Spa_s0rninv4AUsu4t10ux9lrkrxAqYb/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "CHƯƠNG 1 – CƠ SỞ CỦA SỰ DI TRUYỀN VÀ BIẾN DỊ – [Tài liệu] 9. Cơ sở của sự di truyền và biến dị – Đề luyện tập số 2.pdf.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "CHƯƠNG 1 – CƠ SỞ CỦA SỰ DI TRUYỀN VÀ BIẾN DỊ – [Tài liệu] 9. Cơ sở của sự di truyền và biến dị – Đề luyện tập số 2.pdf.pdf",
+                      "link": "https://drive.google.com/file/d/1b7pphiNFWxCjiOke_AWsOphB2QUo8biu/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "CHƯƠNG 1 – CƠ SỞ CỦA SỰ DI TRUYỀN VÀ BIẾN DỊ – [Tài liệu] 10. Cơ sở của sự di truyền và biến dị – Đề luyện tập số 3.pdf.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "CHƯƠNG 1 – CƠ SỞ CỦA SỰ DI TRUYỀN VÀ BIẾN DỊ – [Tài liệu] 10. Cơ sở của sự di truyền và biến dị – Đề luyện tập số 3.pdf.pdf",
+                      "link": "https://drive.google.com/file/d/1kajXGVFdznsVjo_6rfgmzdRd9dZePCc6/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "CHƯƠNG 1 – CƠ SỞ CỦA SỰ DI TRUYỀN VÀ BIẾN DỊ – [Tài liệu] 11. Cơ sở của sự di truyền và biến dị – Đề luyện tập số 4.pdf.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "CHƯƠNG 1 – CƠ SỞ CỦA SỰ DI TRUYỀN VÀ BIẾN DỊ – [Tài liệu] 11. Cơ sở của sự di truyền và biến dị – Đề luyện tập số 4.pdf.pdf",
+                      "link": "https://drive.google.com/file/d/1kfsMW3Zs3rPuJJq5rvDC5gZJHmp7si_u/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "CHƯƠNG 1 – CƠ SỞ CỦA SỰ DI TRUYỀN VÀ BIẾN DỊ – [Tài liệu] 12. Cơ sở của sự di truyền và biến dị – Đề luyện tập số 5.pdf.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "CHƯƠNG 1 – CƠ SỞ CỦA SỰ DI TRUYỀN VÀ BIẾN DỊ – [Tài liệu] 12. Cơ sở của sự di truyền và biến dị – Đề luyện tập số 5.pdf.pdf",
+                      "link": "https://drive.google.com/file/d/1Ow3Cpq5fHXfQXznFuqYjWpefb5NZg5Bl/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "CHƯƠNG 1 – CƠ SỞ CỦA SỰ DI TRUYỀN VÀ BIẾN DỊ – [Video bài giảng] 1. Gene, mã di truyền.mp4",
+                  "videos": [
+                    {
+                      "title": "CHƯƠNG 1 – CƠ SỞ CỦA SỰ DI TRUYỀN VÀ BIẾN DỊ – [Video bài giảng] 1. Gene, mã di truyền.mp4",
+                      "link": "https://drive.google.com/file/d/13PA7ZNeUitQpYbO26MLSpgFKAZMRC0GO/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "CHƯƠNG 1 – CƠ SỞ CỦA SỰ DI TRUYỀN VÀ BIẾN DỊ – [Video bài giảng] 2. Quá trình nhân đôi DNA.mp4",
+                  "videos": [
+                    {
+                      "title": "CHƯƠNG 1 – CƠ SỞ CỦA SỰ DI TRUYỀN VÀ BIẾN DỊ – [Video bài giảng] 2. Quá trình nhân đôi DNA.mp4",
+                      "link": "https://drive.google.com/file/d/1rnA7OOX4q2T7Xa2glh_cWyTDQxOE5NMh/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "CHƯƠNG 1 – CƠ SỞ CỦA SỰ DI TRUYỀN VÀ BIẾN DỊ – [Video bài giảng] 3. Phiên mã và dịch mã.mp4",
+                  "videos": [
+                    {
+                      "title": "CHƯƠNG 1 – CƠ SỞ CỦA SỰ DI TRUYỀN VÀ BIẾN DỊ – [Video bài giảng] 3. Phiên mã và dịch mã.mp4",
+                      "link": "https://drive.google.com/file/d/1bgqyBp8s4dWYFezm76zl9NLcHkxJq22s/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "CHƯƠNG 1 – CƠ SỞ CỦA SỰ DI TRUYỀN VÀ BIẾN DỊ – [Video bài giảng] 4. Điều hoà hoạt động gene.mp4",
+                  "videos": [
+                    {
+                      "title": "CHƯƠNG 1 – CƠ SỞ CỦA SỰ DI TRUYỀN VÀ BIẾN DỊ – [Video bài giảng] 4. Điều hoà hoạt động gene.mp4",
+                      "link": "https://drive.google.com/file/d/1PmyAYrq2F5J83jkebhe2CFIqGrym2akm/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "CHƯƠNG 1 – CƠ SỞ CỦA SỰ DI TRUYỀN VÀ BIẾN DỊ – [Video bài giảng] 5. Đột biến gene.mp4",
+                  "videos": [
+                    {
+                      "title": "CHƯƠNG 1 – CƠ SỞ CỦA SỰ DI TRUYỀN VÀ BIẾN DỊ – [Video bài giảng] 5. Đột biến gene.mp4",
+                      "link": "https://drive.google.com/file/d/1olwaJwombHkUga62GTBPuADjFetFo9Br/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "CHƯƠNG 1 – CƠ SỞ CỦA SỰ DI TRUYỀN VÀ BIẾN DỊ – [Video bài giảng] 6. Nhiễm sắc thể và đột biến cấu trúc nhiễm sắc thể.mp4",
+                  "videos": [
+                    {
+                      "title": "CHƯƠNG 1 – CƠ SỞ CỦA SỰ DI TRUYỀN VÀ BIẾN DỊ – [Video bài giảng] 6. Nhiễm sắc thể và đột biến cấu trúc nhiễm sắc thể.mp4",
+                      "link": "https://drive.google.com/file/d/1Kb2SUv7RLvE7W1k99cnMcEqdrN5cDUWX/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "CHƯƠNG 1 – CƠ SỞ CỦA SỰ DI TRUYỀN VÀ BIẾN DỊ – [Video bài giảng] 7. Chu kì tế bào và phân bào.mp4",
+                  "videos": [
+                    {
+                      "title": "CHƯƠNG 1 – CƠ SỞ CỦA SỰ DI TRUYỀN VÀ BIẾN DỊ – [Video bài giảng] 7. Chu kì tế bào và phân bào.mp4",
+                      "link": "https://drive.google.com/file/d/1zkqYPdQvhR13fgQxUZwHzkCoYSRvxoAw/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "2. CHƯƠNG 2 - TÍNH QUY LUẬT CỦA HIỆN TƯỢNG DI TRUYỀN",
+              "items": [
+                {
+                  "name": "CHƯƠNG 2 – TÍNH QUY LUẬT CỦA HIỆN TƯỢNG DI TRUYỀN – [Tài liệu] 8. Tính quy luật của hiện tượng di truyền – Đề luyện tập số 1.pdf.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "CHƯƠNG 2 – TÍNH QUY LUẬT CỦA HIỆN TƯỢNG DI TRUYỀN – [Tài liệu] 8. Tính quy luật của hiện tượng di truyền – Đề luyện tập số 1.pdf.pdf",
+                      "link": "https://drive.google.com/file/d/1j9E1xKyOjyPiVzqhgdynE7rZS_iRXj6z/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "CHƯƠNG 2 – TÍNH QUY LUẬT CỦA HIỆN TƯỢNG DI TRUYỀN – [Tài liệu] 9. Tính quy luật của hiện tượng di truyền – Đề luyện tập số 2.pdf.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "CHƯƠNG 2 – TÍNH QUY LUẬT CỦA HIỆN TƯỢNG DI TRUYỀN – [Tài liệu] 9. Tính quy luật của hiện tượng di truyền – Đề luyện tập số 2.pdf.pdf",
+                      "link": "https://drive.google.com/file/d/1g625LXyE7jsasbnpBvWv4ePqeFg0-H0U/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "CHƯƠNG 2 – TÍNH QUY LUẬT CỦA HIỆN TƯỢNG DI TRUYỀN – [Tài liệu] 10. Tính quy luật của hiện tượng di truyền – Đề luyện tập số 3.pdf.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "CHƯƠNG 2 – TÍNH QUY LUẬT CỦA HIỆN TƯỢNG DI TRUYỀN – [Tài liệu] 10. Tính quy luật của hiện tượng di truyền – Đề luyện tập số 3.pdf.pdf",
+                      "link": "https://drive.google.com/file/d/19Pbedoel47wMXCR_YUPQIH4YFbmZMmqH/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "CHƯƠNG 2 – TÍNH QUY LUẬT CỦA HIỆN TƯỢNG DI TRUYỀN – [Tài liệu] 11. Tính quy luật của hiện tượng di truyền – Đề luyện tập số 4.pd.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "CHƯƠNG 2 – TÍNH QUY LUẬT CỦA HIỆN TƯỢNG DI TRUYỀN – [Tài liệu] 11. Tính quy luật của hiện tượng di truyền – Đề luyện tập số 4.pd.pdf",
+                      "link": "https://drive.google.com/file/d/1WaMJIb-vj6y_3XHBYPLmBFEIlhDhJzoe/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "CHƯƠNG 2 – TÍNH QUY LUẬT CỦA HIỆN TƯỢNG DI TRUYỀN – [Tài liệu] 12. Tính quy luật của hiện tượng di truyền – Đề luyện tập số 5.pd.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "CHƯƠNG 2 – TÍNH QUY LUẬT CỦA HIỆN TƯỢNG DI TRUYỀN – [Tài liệu] 12. Tính quy luật của hiện tượng di truyền – Đề luyện tập số 5.pd.pdf",
+                      "link": "https://drive.google.com/file/d/17x8C8Fw50jYuQJWXkFds5E6YsgSNMcs3/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "CHƯƠNG 2 – TÍNH QUY LUẬT CỦA HIỆN TƯỢNG DI TRUYỀN – [Video bài giảng] 1. Học thuyết Mendel và quy luật phân ly.mp4",
+                  "videos": [
+                    {
+                      "title": "CHƯƠNG 2 – TÍNH QUY LUẬT CỦA HIỆN TƯỢNG DI TRUYỀN – [Video bài giảng] 1. Học thuyết Mendel và quy luật phân ly.mp4",
+                      "link": "https://drive.google.com/file/d/1MXXzRWMaUFpxQTVAlQYy_gnEuHM89-O8/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "CHƯƠNG 2 – TÍNH QUY LUẬT CỦA HIỆN TƯỢNG DI TRUYỀN – [Video bài giảng] 2. Quy luật phân ly độc lập.mp4",
+                  "videos": [
+                    {
+                      "title": "CHƯƠNG 2 – TÍNH QUY LUẬT CỦA HIỆN TƯỢNG DI TRUYỀN – [Video bài giảng] 2. Quy luật phân ly độc lập.mp4",
+                      "link": "https://drive.google.com/file/d/1VGx0ti1nDi0XtkEFSvx85vt-Xbs0v922/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "CHƯƠNG 2 – TÍNH QUY LUẬT CỦA HIỆN TƯỢNG DI TRUYỀN – [Video bài giảng] 3. Tương tác gene và tác động đa hiệu của gene.mp4",
+                  "videos": [
+                    {
+                      "title": "CHƯƠNG 2 – TÍNH QUY LUẬT CỦA HIỆN TƯỢNG DI TRUYỀN – [Video bài giảng] 3. Tương tác gene và tác động đa hiệu của gene.mp4",
+                      "link": "https://drive.google.com/file/d/1sOa2iKEG4-JIsFe512P-vcFfTDpwrrd0/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "CHƯƠNG 2 – TÍNH QUY LUẬT CỦA HIỆN TƯỢNG DI TRUYỀN – [Video bài giảng] 4. Liên kết gene và hoán vị gene.mp4",
+                  "videos": [
+                    {
+                      "title": "CHƯƠNG 2 – TÍNH QUY LUẬT CỦA HIỆN TƯỢNG DI TRUYỀN – [Video bài giảng] 4. Liên kết gene và hoán vị gene.mp4",
+                      "link": "https://drive.google.com/file/d/1Csxib8HM71IFWtp9Pxk2ovstlkY1J-5E/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "CHƯƠNG 2 – TÍNH QUY LUẬT CỦA HIỆN TƯỢNG DI TRUYỀN – [Video bài giảng] 5. Di truyền liên kết với giới tính.mp4",
+                  "videos": [
+                    {
+                      "title": "CHƯƠNG 2 – TÍNH QUY LUẬT CỦA HIỆN TƯỢNG DI TRUYỀN – [Video bài giảng] 5. Di truyền liên kết với giới tính.mp4",
+                      "link": "https://drive.google.com/file/d/14kBV0kumNo-aUtkNyptp6fuhC-fK29by/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "CHƯƠNG 2 – TÍNH QUY LUẬT CỦA HIỆN TƯỢNG DI TRUYỀN – [Video bài giảng] 6. Di truyền ngoài nhân.mp4",
+                  "videos": [
+                    {
+                      "title": "CHƯƠNG 2 – TÍNH QUY LUẬT CỦA HIỆN TƯỢNG DI TRUYỀN – [Video bài giảng] 6. Di truyền ngoài nhân.mp4",
+                      "link": "https://drive.google.com/file/d/1k8OAm9BWPZnqpvAk2n3hL1HINZF2ppzF/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "CHƯƠNG 2 – TÍNH QUY LUẬT CỦA HIỆN TƯỢNG DI TRUYỀN – [Video bài giảng] 7. Ảnh hưởng của môi trường lên sự biểu hiện của gene.mp4",
+                  "videos": [
+                    {
+                      "title": "CHƯƠNG 2 – TÍNH QUY LUẬT CỦA HIỆN TƯỢNG DI TRUYỀN – [Video bài giảng] 7. Ảnh hưởng của môi trường lên sự biểu hiện của gene.mp4",
+                      "link": "https://drive.google.com/file/d/1uJGC1XPWyMgW_iQJc4ogxQ4Zw_wk9j2s/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "3. CHƯƠNG 3 - DI TRUYỀN HỌC QUẦN THỂ VÀ DI TRUYỀN",
+              "items": [
+                {
+                  "name": "CHƯƠNG 3 – DI TRUYỀN HỌC QUẦN THỂ VÀ DI TRUYỀN NGƯỜI – [Tài liệu] 4. Di truyền học quần thể và di truyền người – Đề luyện tập số.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "CHƯƠNG 3 – DI TRUYỀN HỌC QUẦN THỂ VÀ DI TRUYỀN NGƯỜI – [Tài liệu] 4. Di truyền học quần thể và di truyền người – Đề luyện tập số.pdf",
+                      "link": "https://drive.google.com/file/d/1Xzi5eJpd_Nsohj7nbm60AsEZ6RxnxKJ8/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "CHƯƠNG 3 – DI TRUYỀN HỌC QUẦN THỂ VÀ DI TRUYỀN NGƯỜI – [Tài liệu] 5. Di truyền học quần thể và di truyền người – Đề luyện tập số.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "CHƯƠNG 3 – DI TRUYỀN HỌC QUẦN THỂ VÀ DI TRUYỀN NGƯỜI – [Tài liệu] 5. Di truyền học quần thể và di truyền người – Đề luyện tập số.pdf",
+                      "link": "https://drive.google.com/file/d/1ELDSpdtrqjimk7t7j05RROrbssJjKqSm/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "CHƯƠNG 3 – DI TRUYỀN HỌC QUẦN THỂ VÀ DI TRUYỀN NGƯỜI – [Tài liệu] 6. Di truyền học quần thể và di truyền người – Đề luyện tập số.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "CHƯƠNG 3 – DI TRUYỀN HỌC QUẦN THỂ VÀ DI TRUYỀN NGƯỜI – [Tài liệu] 6. Di truyền học quần thể và di truyền người – Đề luyện tập số.pdf",
+                      "link": "https://drive.google.com/file/d/1iJYnAq2N3inTjCyKv57gHa7P7O01on2_/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "CHƯƠNG 3 – DI TRUYỀN HỌC QUẦN THỂ VÀ DI TRUYỀN NGƯỜI – [Tài liệu] 7. Di truyền học quần thể và di truyền người – Đề luyện tập số.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "CHƯƠNG 3 – DI TRUYỀN HỌC QUẦN THỂ VÀ DI TRUYỀN NGƯỜI – [Tài liệu] 7. Di truyền học quần thể và di truyền người – Đề luyện tập số.pdf",
+                      "link": "https://drive.google.com/file/d/1oBgUGuraPKX2T2nbek5aHSZ8e5eFLP8F/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "CHƯƠNG 3 – DI TRUYỀN HỌC QUẦN THỂ VÀ DI TRUYỀN NGƯỜI – [Tài liệu] 8. Di truyền học quần thể và di truyền người – Đề luyện tập số.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "CHƯƠNG 3 – DI TRUYỀN HỌC QUẦN THỂ VÀ DI TRUYỀN NGƯỜI – [Tài liệu] 8. Di truyền học quần thể và di truyền người – Đề luyện tập số.pdf",
+                      "link": "https://drive.google.com/file/d/1AfGJNGMA88ZoEa9WOaIBIayx3WvgamEn/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "CHƯƠNG 3 – DI TRUYỀN HỌC QUẦN THỂ VÀ DI TRUYỀN NGƯỜI – [Video bài giảng] 1. Cấu trúc di truyền của quần thể tự thụ phấn và giao .mp4",
+                  "videos": [
+                    {
+                      "title": "CHƯƠNG 3 – DI TRUYỀN HỌC QUẦN THỂ VÀ DI TRUYỀN NGƯỜI – [Video bài giảng] 1. Cấu trúc di truyền của quần thể tự thụ phấn và giao .mp4",
+                      "link": "https://drive.google.com/file/d/1x5P57lg58MzA_FTLqz60Gj29Gg5MB9WP/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "CHƯƠNG 3 – DI TRUYỀN HỌC QUẦN THỂ VÀ DI TRUYỀN NGƯỜI – [Video bài giảng] 2. Cấu trúc di truyền của quần thể ngẫu phối.mp4",
+                  "videos": [
+                    {
+                      "title": "CHƯƠNG 3 – DI TRUYỀN HỌC QUẦN THỂ VÀ DI TRUYỀN NGƯỜI – [Video bài giảng] 2. Cấu trúc di truyền của quần thể ngẫu phối.mp4",
+                      "link": "https://drive.google.com/file/d/1hXsdNIhQcQL_mOmbQJVmQC-GQmjRwOI6/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "CHƯƠNG 3 – DI TRUYỀN HỌC QUẦN THỂ VÀ DI TRUYỀN NGƯỜI – [Video bài giảng] 3. Di truyền học người.mp4",
+                  "videos": [
+                    {
+                      "title": "CHƯƠNG 3 – DI TRUYỀN HỌC QUẦN THỂ VÀ DI TRUYỀN NGƯỜI – [Video bài giảng] 3. Di truyền học người.mp4",
+                      "link": "https://drive.google.com/file/d/1PIpWB1Vb5RgloRVXcR2rKsJvVAntvusZ/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "4. CHƯƠNG 4. ỨNG DỤNG DI TRUYỀN HỌC",
+              "items": [
+                {
+                  "name": "CHƯƠNG 4. ỨNG DỤNG DI TRUYỀN HỌC – 6. Ứng dụng di truyền học – Đề luyện tập số 1.pdf.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "CHƯƠNG 4. ỨNG DỤNG DI TRUYỀN HỌC – 6. Ứng dụng di truyền học – Đề luyện tập số 1.pdf.pdf",
+                      "link": "https://drive.google.com/file/d/1kogo3W0DzZLc8JoPoZscVVC5hQUQ2ZCh/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "CHƯƠNG 4. ỨNG DỤNG DI TRUYỀN HỌC – 7. Ứng dụng di truyền học – Đề luyện tập số 2.pdf.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "CHƯƠNG 4. ỨNG DỤNG DI TRUYỀN HỌC – 7. Ứng dụng di truyền học – Đề luyện tập số 2.pdf.pdf",
+                      "link": "https://drive.google.com/file/d/1i8ybuv4z_X-YfweHy-23sAnejUkIGV37/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "CHƯƠNG 4. ỨNG DỤNG DI TRUYỀN HỌC – 8. Ứng dụng di truyền học – Đề luyện tập số 3.pdf.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "CHƯƠNG 4. ỨNG DỤNG DI TRUYỀN HỌC – 8. Ứng dụng di truyền học – Đề luyện tập số 3.pdf.pdf",
+                      "link": "https://drive.google.com/file/d/1UbZa_7P6F8K7w_GkyHrxjsqlQh0CtnX-/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "CHƯƠNG 4. ỨNG DỤNG DI TRUYỀN HỌC – 9. Ứng dụng di truyền học – Đề luyện tập số 4.pdf.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "CHƯƠNG 4. ỨNG DỤNG DI TRUYỀN HỌC – 9. Ứng dụng di truyền học – Đề luyện tập số 4.pdf.pdf",
+                      "link": "https://drive.google.com/file/d/1dDxnXH1aIeBU18DeXug-kUrWXNxShacZ/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "CHƯƠNG 4. ỨNG DỤNG DI TRUYỀN HỌC – 10. Ứng dụng di truyền học – Đề luyện tập số 5.pdf.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "CHƯƠNG 4. ỨNG DỤNG DI TRUYỀN HỌC – 10. Ứng dụng di truyền học – Đề luyện tập số 5.pdf.pdf",
+                      "link": "https://drive.google.com/file/d/1tQU07t5gCI04lN_ePRa-64nI48EdjV_t/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "CHƯƠNG 4. ỨNG DỤNG DI TRUYỀN HỌC – [Video bài giảng] 1. Tạo giống mới nhờ công nghệ gene.mp4",
+                  "videos": [
+                    {
+                      "title": "CHƯƠNG 4. ỨNG DỤNG DI TRUYỀN HỌC – [Video bài giảng] 1. Tạo giống mới nhờ công nghệ gene.mp4",
+                      "link": "https://drive.google.com/file/d/1HEWuKx7LbyfKZsZGMpDQ4htRDVGmuX5E/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "CHƯƠNG 4. ỨNG DỤNG DI TRUYỀN HỌC – [Video bài giảng] 2. Chọn giống vật nuôi cây trồng dựa trên nguồn biến dị tổ hợp.mp4",
+                  "videos": [
+                    {
+                      "title": "CHƯƠNG 4. ỨNG DỤNG DI TRUYỀN HỌC – [Video bài giảng] 2. Chọn giống vật nuôi cây trồng dựa trên nguồn biến dị tổ hợp.mp4",
+                      "link": "https://drive.google.com/file/d/1jaRE3cW7a2w3LGVhVamjRjsbsDdRylvT/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "CHƯƠNG 4. ỨNG DỤNG DI TRUYỀN HỌC – [Video bài giảng] 3. Tạo giống mới bằng phương pháp gây đột biến và công nghệ tế bào.mp4",
+                  "videos": [
+                    {
+                      "title": "CHƯƠNG 4. ỨNG DỤNG DI TRUYỀN HỌC – [Video bài giảng] 3. Tạo giống mới bằng phương pháp gây đột biến và công nghệ tế bào.mp4",
+                      "link": "https://drive.google.com/file/d/1qqXAybF0gmpbwtsRk87RHDtG8byOx4Gx/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "CHƯƠNG 4. ỨNG DỤNG DI TRUYỀN HỌC – [Video bài giảng] 4. Di truyền y học.mp4",
+                  "videos": [
+                    {
+                      "title": "CHƯƠNG 4. ỨNG DỤNG DI TRUYỀN HỌC – [Video bài giảng] 4. Di truyền y học.mp4",
+                      "link": "https://drive.google.com/file/d/1-dhnfln7KmAaJhqmGdCaqushZkZ8eSel/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "CHƯƠNG 4. ỨNG DỤNG DI TRUYỀN HỌC – [Video bài giảng] 5. Bảo vệ vốn gene của loài người và một số vấn đề xã hội của di truyền học.mp4",
+                  "videos": [
+                    {
+                      "title": "CHƯƠNG 4. ỨNG DỤNG DI TRUYỀN HỌC – [Video bài giảng] 5. Bảo vệ vốn gene của loài người và một số vấn đề xã hội của di truyền học.mp4",
+                      "link": "https://drive.google.com/file/d/1Z25gDY4xTVeAMEz2XhkI99dzrrTmYKSz/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "5. CHƯƠNG 5. TIẾN HOÁ",
+              "items": [
+                {
+                  "name": "CHƯƠNG 5. TIẾN HOÁ – 7. Tiến hoá – Đề luyện tập số 1.pdf.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "CHƯƠNG 5. TIẾN HOÁ – 7. Tiến hoá – Đề luyện tập số 1.pdf.pdf",
+                      "link": "https://drive.google.com/file/d/1O6XWuWxr3V7P5-M_U_e2MKpmEF7nw_XL/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "CHƯƠNG 5. TIẾN HOÁ – 8. Tiến hoá – Đề luyện tập số 2.pdf.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "CHƯƠNG 5. TIẾN HOÁ – 8. Tiến hoá – Đề luyện tập số 2.pdf.pdf",
+                      "link": "https://drive.google.com/file/d/1He5qmoSy52GuR4sp7VSFYsa6iIDVtTiz/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "CHƯƠNG 5. TIẾN HOÁ – 9. Tiến hoá – Đề luyện tập số 3.pdf.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "CHƯƠNG 5. TIẾN HOÁ – 9. Tiến hoá – Đề luyện tập số 3.pdf.pdf",
+                      "link": "https://drive.google.com/file/d/1nQiViT0fcd6Zt2govan92zVg__Ah8Mu8/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "CHƯƠNG 5. TIẾN HOÁ – 10. Tiến hoá – Đề luyện tập số 4.pdf.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "CHƯƠNG 5. TIẾN HOÁ – 10. Tiến hoá – Đề luyện tập số 4.pdf.pdf",
+                      "link": "https://drive.google.com/file/d/1jlymfhwdoHzsU7iMyyG555hYaVj1F4Ny/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "CHƯƠNG 5. TIẾN HOÁ – 11. Tiến hoá – Đề luyện tập số 5.pdf.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "CHƯƠNG 5. TIẾN HOÁ – 11. Tiến hoá – Đề luyện tập số 5.pdf.pdf",
+                      "link": "https://drive.google.com/file/d/1uRcX_fof0sxUlNufTzX_I9IjMYAhKD9T/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "CHƯƠNG 5. TIẾN HOÁ – [Video bài giảng] 1. Bằng chứng và cơ chế tiến hoá.mp4",
+                  "videos": [
+                    {
+                      "title": "CHƯƠNG 5. TIẾN HOÁ – [Video bài giảng] 1. Bằng chứng và cơ chế tiến hoá.mp4",
+                      "link": "https://drive.google.com/file/d/1_eHhKegv88TCCIxYwTfn6KeAGaoLK0nF/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "CHƯƠNG 5. TIẾN HOÁ – [Video bài giảng] 2. Học thuyết Darwin.mp4",
+                  "videos": [
+                    {
+                      "title": "CHƯƠNG 5. TIẾN HOÁ – [Video bài giảng] 2. Học thuyết Darwin.mp4",
+                      "link": "https://drive.google.com/file/d/1Kd8JHNB_AZWfJjBF300bYs40GdwiHxZ4/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "CHƯƠNG 5. TIẾN HOÁ – [Video bài giảng] 3. Học thuyết tiến hoá tổng hợp hiện đại.mp4",
+                  "videos": [
+                    {
+                      "title": "CHƯƠNG 5. TIẾN HOÁ – [Video bài giảng] 3. Học thuyết tiến hoá tổng hợp hiện đại.mp4",
+                      "link": "https://drive.google.com/file/d/1yQtTwczagIap-7TSc5jrwDSs98F6s59y/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "CHƯƠNG 5. TIẾN HOÁ – [Video bài giảng] 4. Loài và quá trình hình thành loài.mp4",
+                  "videos": [
+                    {
+                      "title": "CHƯƠNG 5. TIẾN HOÁ – [Video bài giảng] 4. Loài và quá trình hình thành loài.mp4",
+                      "link": "https://drive.google.com/file/d/1sH7rFs9-M7Ca4HeDudTLBU27TmCmpoI-/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "CHƯƠNG 5. TIẾN HOÁ – [Video bài giảng] 5. Nguồn gốc và sự phát sinh sự sống qua các đại địa chất.mp4",
+                  "videos": [
+                    {
+                      "title": "CHƯƠNG 5. TIẾN HOÁ – [Video bài giảng] 5. Nguồn gốc và sự phát sinh sự sống qua các đại địa chất.mp4",
+                      "link": "https://drive.google.com/file/d/1NngdNXXVl43IKs7zYGw7laHxhFYofNts/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "CHƯƠNG 5. TIẾN HOÁ – [Video bài giảng] 6. Sự phát sinh loài người.mp4",
+                  "videos": [
+                    {
+                      "title": "CHƯƠNG 5. TIẾN HOÁ – [Video bài giảng] 6. Sự phát sinh loài người.mp4",
+                      "link": "https://drive.google.com/file/d/1g1IVk_i-QXu5A4aJobvPSQVsuK3nqz7c/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "6. CHƯƠNG 6. SINH THÁI HỌC",
+              "items": [
+                {
+                  "name": "CHƯƠNG 6. SINH THÁI HỌC – 11. Sinh thái học – Đề luyện tập số 1.pdf.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "CHƯƠNG 6. SINH THÁI HỌC – 11. Sinh thái học – Đề luyện tập số 1.pdf.pdf",
+                      "link": "https://drive.google.com/file/d/1SAV3zW90Cah1nkhtw3FVy6xQ-2f9yOHS/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "CHƯƠNG 6. SINH THÁI HỌC – 12. Sinh thái học – Đề luyện tập số 2.pdf.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "CHƯƠNG 6. SINH THÁI HỌC – 12. Sinh thái học – Đề luyện tập số 2.pdf.pdf",
+                      "link": "https://drive.google.com/file/d/1sdpvX6d2W_i1ENXZsUS4jsDHgXzrIPeF/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "CHƯƠNG 6. SINH THÁI HỌC – 13. Sinh thái học – Đề luyện tập số 3.pdf.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "CHƯƠNG 6. SINH THÁI HỌC – 13. Sinh thái học – Đề luyện tập số 3.pdf.pdf",
+                      "link": "https://drive.google.com/file/d/1yKstuNCngwc4iXm2WpmqwVzQ-nBiCOfU/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "CHƯƠNG 6. SINH THÁI HỌC – 14. Sinh thái học – Đề luyện tập số 4.pdf.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "CHƯƠNG 6. SINH THÁI HỌC – 14. Sinh thái học – Đề luyện tập số 4.pdf.pdf",
+                      "link": "https://drive.google.com/file/d/1lnGij2PjoUk_e1PJPEgzxqaDFsle11xb/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "CHƯƠNG 6. SINH THÁI HỌC – 15. Sinh thái học – Đề luyện tập số 5.pdf.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "CHƯƠNG 6. SINH THÁI HỌC – 15. Sinh thái học – Đề luyện tập số 5.pdf.pdf",
+                      "link": "https://drive.google.com/file/d/13CjYNUqlwwWeRe7uErfmV12IJg1N8KQ0/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "CHƯƠNG 6. SINH THÁI HỌC – [Video bài giảng] 1. Môi trường sống và các nhân tố sinh thái.mp4",
+                  "videos": [
+                    {
+                      "title": "CHƯƠNG 6. SINH THÁI HỌC – [Video bài giảng] 1. Môi trường sống và các nhân tố sinh thái.mp4",
+                      "link": "https://drive.google.com/file/d/14vSEnmcQej1yaMUh0cMUtO0PGc5huhPQ/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "CHƯƠNG 6. SINH THÁI HỌC – [Video bài giảng] 2. Quần thể sinh vật và các mối quan hệ giữa các cá thể trong quần thể.mp4",
+                  "videos": [
+                    {
+                      "title": "CHƯƠNG 6. SINH THÁI HỌC – [Video bài giảng] 2. Quần thể sinh vật và các mối quan hệ giữa các cá thể trong quần thể.mp4",
+                      "link": "https://drive.google.com/file/d/1jvLhp5vpL89NOD4Skfr7yNvmmssZE-1V/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "CHƯƠNG 6. SINH THÁI HỌC – [Video bài giảng] 3. Các đặc trưng cơ bản của quần thể sinh vật.mp4",
+                  "videos": [
+                    {
+                      "title": "CHƯƠNG 6. SINH THÁI HỌC – [Video bài giảng] 3. Các đặc trưng cơ bản của quần thể sinh vật.mp4",
+                      "link": "https://drive.google.com/file/d/1vsmxgHA4rkB7O66fJK-El_C16q1KLdZQ/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "CHƯƠNG 6. SINH THÁI HỌC – [Video bài giảng] 4. Biến động số lượng cá thể của quần thể sinh vật.mp4",
+                  "videos": [
+                    {
+                      "title": "CHƯƠNG 6. SINH THÁI HỌC – [Video bài giảng] 4. Biến động số lượng cá thể của quần thể sinh vật.mp4",
+                      "link": "https://drive.google.com/file/d/1FnaOmEyaDFu9fLCqSu8gQj9mgzFKSXBa/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "CHƯƠNG 6. SINH THÁI HỌC – [Video bài giảng] 5. Quần xã sinh vật và các đặc trưng cơ bản.mp4",
+                  "videos": [
+                    {
+                      "title": "CHƯƠNG 6. SINH THÁI HỌC – [Video bài giảng] 5. Quần xã sinh vật và các đặc trưng cơ bản.mp4",
+                      "link": "https://drive.google.com/file/d/1lOVREtRLRPupFyTKKvUwYV7WHTI5kaQD/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "CHƯƠNG 6. SINH THÁI HỌC – [Video bài giảng] 6. Diễn thế sinh thái.mp4",
+                  "videos": [
+                    {
+                      "title": "CHƯƠNG 6. SINH THÁI HỌC – [Video bài giảng] 6. Diễn thế sinh thái.mp4",
+                      "link": "https://drive.google.com/file/d/1aCmjivhUQ9Hk6bf_k89XLkS3OanDLnVa/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "CHƯƠNG 6. SINH THÁI HỌC – [Video bài giảng] 7. Hệ sinh thái và dòng năng lượng trong hệ sinh thái.mp4",
+                  "videos": [
+                    {
+                      "title": "CHƯƠNG 6. SINH THÁI HỌC – [Video bài giảng] 7. Hệ sinh thái và dòng năng lượng trong hệ sinh thái.mp4",
+                      "link": "https://drive.google.com/file/d/14MCSNofa1PnYzSOibfkokYibdzI7F0dF/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "CHƯƠNG 6. SINH THÁI HỌC – [Video bài giảng] 8. Trao đổi vật chất trong hệ sinh thái.mp4",
+                  "videos": [
+                    {
+                      "title": "CHƯƠNG 6. SINH THÁI HỌC – [Video bài giảng] 8. Trao đổi vật chất trong hệ sinh thái.mp4",
+                      "link": "https://drive.google.com/file/d/13iElMUNKyFPuKThm2AIk0OGPV_pEqlmj/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "CHƯƠNG 6. SINH THÁI HỌC – [Video bài giảng] 9. Chu trình sinh địa hoá và sinh quyển.mp4",
+                  "videos": [
+                    {
+                      "title": "CHƯƠNG 6. SINH THÁI HỌC – [Video bài giảng] 9. Chu trình sinh địa hoá và sinh quyển.mp4",
+                      "link": "https://drive.google.com/file/d/1uhlNnIm7OsdFMd8eGR14YemX9Z7P_faE/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "CHƯƠNG 6. SINH THÁI HỌC – [Video bài giảng] 10. Sinh thái học bảo tồn và phát triển bền vững.mp4",
+                  "videos": [
+                    {
+                      "title": "CHƯƠNG 6. SINH THÁI HỌC – [Video bài giảng] 10. Sinh thái học bảo tồn và phát triển bền vững.mp4",
+                      "link": "https://drive.google.com/file/d/1rK3UUjqA-FJsDoSQluCQv-dTmCUq0QvM/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            }
+          ]
         }
       ]
     }

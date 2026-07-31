@@ -256,7 +256,7 @@ const COURSE_DATA = {
               "items": [],
               "children": [
                 {
-                  "title": "1.BÀI 8 CHUYỂN DỊCH CƠ CẤU KINH TẾ",
+                  "title": "1. Bài 8 Chuyến dịch cơ cấu kinh tế",
                   "items": [
                     {
                       "name": "BÀI 8 CHUYỂN DỊCH CƠ CẤU KINH TẾ.mp4.mp4",
@@ -594,10 +594,218 @@ const COURSE_DATA = {
                     }
                   ],
                   "children": []
+                },
+                {
+                  "title": "Bài 18",
+                  "items": [
+                    {
+                      "name": "Bài 18 Trung du và miền núi phía Bắc.mp4.mp4",
+                      "videos": [
+                        {
+                          "title": "Bài 18 Trung du và miền núi phía Bắc.mp4.mp4",
+                          "link": "https://drive.google.com/file/d/1-bA9t-sigobM3J1wCSXfiKsjHWptSHgy/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "bài 19",
+                  "items": [
+                    {
+                      "name": "Bài 19 Đồng bằng sông Hồng.mp4.mp4",
+                      "videos": [
+                        {
+                          "title": "Bài 19 Đồng bằng sông Hồng.mp4.mp4",
+                          "link": "https://drive.google.com/file/d/1NUM7YQmgtzVxytclhBuz8advWokaA9nG/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "bài 20",
+                  "items": [
+                    {
+                      "name": "Bài 20 Bắc Trung Bộ.mp4.mp4",
+                      "videos": [
+                        {
+                          "title": "Bài 20 Bắc Trung Bộ.mp4.mp4",
+                          "link": "https://drive.google.com/file/d/1aSHBnSVFTe1G1y2tc3_7a6-yljC7CdQ_/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "bài 21 p1",
+                  "items": [
+                    {
+                      "name": "Bài 21 Nam Trung Bộ Duyên hải Nam Trung Bộ và Tây Nguyên.mp4.mp4",
+                      "videos": [
+                        {
+                          "title": "Bài 21 Nam Trung Bộ Duyên hải Nam Trung Bộ và Tây Nguyên.mp4.mp4",
+                          "link": "https://drive.google.com/file/d/1jnshwDECPDEQoMbOCOFD9a9P_XWCFag0/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "bài 21 p2",
+                  "items": [
+                    {
+                      "name": "Bài 21 - P2 Nam Trung Bộ.mp4.mp4",
+                      "videos": [
+                        {
+                          "title": "Bài 21 - P2 Nam Trung Bộ.mp4.mp4",
+                          "link": "https://drive.google.com/file/d/1wXnyuCZnC6yjbW-j_dVEgl_aCjFVX0vD/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "bài 22",
+                  "items": [
+                    {
+                      "name": "Bài 22 Đông Nam Bộ.mp4.mp4",
+                      "videos": [
+                        {
+                          "title": "Bài 22 Đông Nam Bộ.mp4.mp4",
+                          "link": "https://drive.google.com/file/d/1UA9LDo489lPN7HPJNkqo9gJB4fa19CGp/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "bài 23",
+                  "items": [
+                    {
+                      "name": "Bài 23 Đồng bằng sông Cửu Long.mp4.mp4",
+                      "videos": [
+                        {
+                          "title": "Bài 23 Đồng bằng sông Cửu Long.mp4.mp4",
+                          "link": "https://drive.google.com/file/d/1fF3JGIrKYLyz4orn5605rNgMhoqcdkUi/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "bài 24",
+                  "items": [
+                    {
+                      "name": "Bài 24 Biển Đông và các đảo, quần đảo.mp4.mp4",
+                      "videos": [
+                        {
+                          "title": "Bài 24 Biển Đông và các đảo, quần đảo.mp4.mp4",
+                          "link": "https://drive.google.com/file/d/1S6_YgjXmL0oIlVbRFpW0skD_5mk99kaf/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
                 }
               ]
             }
           ]
+        }
+      ]
+    },
+    {
+      "title": "2.CHẶNG 2: LIVE C - CHUYÊN ĐỀ CHUYÊN SÂU - Cô Mai Anh",
+      "items": [],
+      "children": [
+        {
+          "title": "0. HƯỚNG DẪN HỌC",
+          "items": [],
+          "children": [
+            {
+              "title": "Hướng dẫn học khóa Live C",
+              "items": [
+                {
+                  "name": "Hướng dẫn học khóa Live C.mp4.mp4",
+                  "videos": [
+                    {
+                      "title": "Hướng dẫn học khóa Live C.mp4.mp4",
+                      "link": "https://drive.google.com/file/d/18HmRRdiboaMm4HJC2GAh2w7Gm30_d1ar/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "1. Bài 1 Trả lời ngắn, tính toán, biểu đồ, bảng số liệu",
+          "items": [
+            {
+              "name": "Bài 1 Trả lời ngắn, tính toán, biểu đồ, bảng số liệu.mp4.mp4",
+              "videos": [
+                {
+                  "title": "Bài 1 Trả lời ngắn, tính toán, biểu đồ, bảng số liệu.mp4.mp4",
+                  "link": "https://drive.google.com/file/d/1eTF6AtGgF4f4_tbZrqjzGDqDymyodWss/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "2. Bài tập 1 (Phần 1 của Ebook)",
+          "items": [
+            {
+              "name": "FINAL EBOOK NHẬP MÔN KĨ NĂNG ĐỊA LÍ.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "FINAL EBOOK NHẬP MÔN KĨ NĂNG ĐỊA LÍ.pdf",
+                  "link": "https://drive.google.com/file/d/1Lbp6U5rXdtARWV2mX_i0V2jqAyDl8TlT/view?usp=drivesdk"
+                }
+              ]
+            },
+            {
+              "name": "Video chữa Bài tập 1 - P1.mp4.mp4",
+              "videos": [
+                {
+                  "title": "Video chữa Bài tập 1 - P1.mp4.mp4",
+                  "link": "https://drive.google.com/file/d/1h3A3Fpr37SVHtk3QbdaUV1raUAv62c9G/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "Video chữa Bài tập 1 - P2.mp4.mp4",
+              "videos": [
+                {
+                  "title": "Video chữa Bài tập 1 - P2.mp4.mp4",
+                  "link": "https://drive.google.com/file/d/1TwGNmRvo01SWGAKID7oEbq68HGl7e3L1/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
         }
       ]
     }

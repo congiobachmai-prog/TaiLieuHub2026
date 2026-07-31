@@ -1976,6 +1976,54 @@ const COURSE_DATA = {
           ]
         },
         {
+          "title": "PHÒNG TỔ CHỨC THI KSCL ĐỊNH KỲ TRÊN WEB",
+          "items": [],
+          "children": [
+            {
+              "title": "THI KSCL - ĐỊNH KỲ - LẦN 2 (WEB)",
+              "items": [],
+              "children": [
+                {
+                  "title": "FILE",
+                  "items": [
+                    {
+                      "name": "THI KSCL - ĐỊNH KỲ - LẦN 2 (WEB).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "THI KSCL - ĐỊNH KỲ - LẦN 2 (WEB).pdf",
+                          "link": "https://drive.google.com/file/d/1P-XUvZ1Kh11OqklftxuRE-ROhAb8_Wx9/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "ĐÁP ÁN THI KSCL - ĐỊNH KỲ - LẦN 2 (WEB).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "ĐÁP ÁN THI KSCL - ĐỊNH KỲ - LẦN 2 (WEB).pdf",
+                          "link": "https://drive.google.com/file/d/1B_yfONhuA1mOjFL33ouUY_mmxFQ7hUNj/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "ĐỀ THI - NAPSCHOOL - KSCL - 2K9XPS - LỚP 12 - LẦN 2.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "ĐỀ THI - NAPSCHOOL - KSCL - 2K9XPS - LỚP 12 - LẦN 2.pdf",
+                          "link": "https://drive.google.com/file/d/1sEUrD96yx53XSBIJwOoonJBBZDXETwUy/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
           "title": "ÔN TẬP CHƯƠNG 2 CARBOHYDRATE",
           "items": [],
           "children": [
@@ -2030,6 +2078,55 @@ const COURSE_DATA = {
                 }
               ],
               "children": []
+            }
+          ]
+        },
+        {
+          "title": "ÔN TẬP CHƯƠNG 3 NITROGEN",
+          "items": [],
+          "children": [
+            {
+              "title": "1. Ôn tập tổng hợp Hợp chất chứa Nitrogen",
+              "items": [
+                {
+                  "name": "1. Ôn tập tổng hợp Hợp chất chứa Nitrogen.mp4",
+                  "videos": [
+                    {
+                      "title": "1. Ôn tập tổng hợp Hợp chất chứa Nitrogen.mp4",
+                      "link": "https://drive.google.com/file/d/17KfPcZz8v-cDj0WtSy5wQUEnGHG2HUAl/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": [
+                {
+                  "title": "FILE",
+                  "items": [
+                    {
+                      "name": "1. [TÀI LIỆU] Ôn tập Chương 3 - Tổng ôn và Luyện tập về Hợp chất chứa Nitrogen.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "1. [TÀI LIỆU] Ôn tập Chương 3 - Tổng ôn và Luyện tập về Hợp chất chứa Nitrogen.pdf",
+                          "link": "https://drive.google.com/file/d/1hhJsH7j-U7fhhLItX5ji0WR91qrXfI4W/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "1. [VIẾT TAY] Ôn tập Chương 3 - Tổng ôn và Luyện tập về Hợp chất chứa Nitrogen.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "1. [VIẾT TAY] Ôn tập Chương 3 - Tổng ôn và Luyện tập về Hợp chất chứa Nitrogen.pdf",
+                          "link": "https://drive.google.com/file/d/1hsRp0umbpbbIYmUAeQNmwNXClkdTM_eX/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                }
+              ]
             }
           ]
         }

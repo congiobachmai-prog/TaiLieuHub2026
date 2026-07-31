@@ -1308,6 +1308,186 @@ const COURSE_DATA = {
                 }
               ],
               "children": []
+            },
+            {
+              "title": "36. BÀI TẬP ĐÚNG SAI ESTER-CHẤT BÉO-CHẤT GIẶT RỬA PHẦN 2",
+              "items": [
+                {
+                  "name": "(Tờ 4.2) BÀI TẬP PHÁT BIỂU ĐÚNG-SAI CHỦ ĐỀ ESTER-LIPID-XÀ PHÒNG-CHẤT GIẶT RỬA-PHẦN 2-VIẾT TAY.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "(Tờ 4.2) BÀI TẬP PHÁT BIỂU ĐÚNG-SAI CHỦ ĐỀ ESTER-LIPID-XÀ PHÒNG-CHẤT GIẶT RỬA-PHẦN 2-VIẾT TAY.pdf",
+                      "link": "https://drive.google.com/file/d/1uIS0hmmAQ2VxiOXwnDiOlVsjDhk4qibw/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "(Tờ 4.2) BÀI TẬP PHÁT BIỂU ĐÚNG-SAI CHỦ ĐỀ ESTER-LIPID-XÀ PHÒNG-CHẤT GIẶT RỬA-PHẦN 2-ĐỀ.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "(Tờ 4.2) BÀI TẬP PHÁT BIỂU ĐÚNG-SAI CHỦ ĐỀ ESTER-LIPID-XÀ PHÒNG-CHẤT GIẶT RỬA-PHẦN 2-ĐỀ.pdf",
+                      "link": "https://drive.google.com/file/d/14t3E_cD_h8WidaFs8BIQqYj7I-KpWR1y/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[LIVE] BÀI TẬP ĐÚNG SAI ESTER-LIPID SỐ 02.mp4",
+                  "videos": [
+                    {
+                      "title": "[LIVE] BÀI TẬP ĐÚNG SAI ESTER-LIPID SỐ 02.mp4",
+                      "link": "https://drive.google.com/file/d/1qEMiljh8J-LPBAMrvKVV4ea-kq3WDPsa/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "37. ĐỀ TỔNG KIỂM TRA HÓA HỮU CƠ SỐ 02",
+              "items": [
+                {
+                  "name": "[LIVE] CHỮA ĐỀ TỔNG KIỂM TRA LẦN 2-2K9.mp4",
+                  "videos": [
+                    {
+                      "title": "[LIVE] CHỮA ĐỀ TỔNG KIỂM TRA LẦN 2-2K9.mp4",
+                      "link": "https://drive.google.com/file/d/1Z9_AAFx4ahx1FUMpq92mwrEG3O9rVsS0/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "ĐỀ TỔNG KIỂM TRA HÓA HỮU CƠ 2K9 LẦN 2-VIẾT TAY.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "ĐỀ TỔNG KIỂM TRA HÓA HỮU CƠ 2K9 LẦN 2-VIẾT TAY.pdf",
+                      "link": "https://drive.google.com/file/d/1ccj4r7E2_qufMelfME7RgiOcs4NQUeab/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "ĐỀ TỔNG KIỂM TRA HÓA HỮU CƠ 2K9 LẦN 2-ĐỀ.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "ĐỀ TỔNG KIỂM TRA HÓA HỮU CƠ 2K9 LẦN 2-ĐỀ.pdf",
+                      "link": "https://drive.google.com/file/d/1UWLIn_D624mnzl1x0pvfAfggOB8W2PAv/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "38. BÀI TẬP ĐÚNG SAI ESTER-CHẤT BÉO-CHẤT GIẶT RỬA PHẦN 3",
+              "items": [
+                {
+                  "name": "(TỜ (4.3) BÀI TẬP PHÁT BIỂU ĐÚNG SAI-ĐÁP ÁN NHANH CHỦ ĐỀ ESTER-LIPID-VIẾT TAY.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "(TỜ (4.3) BÀI TẬP PHÁT BIỂU ĐÚNG SAI-ĐÁP ÁN NHANH CHỦ ĐỀ ESTER-LIPID-VIẾT TAY.pdf",
+                      "link": "https://drive.google.com/file/d/1KrPWCi1WBxJ3dDOpO3Tq7R6VrSYco92M/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "(TỜ (4.3) BÀI TẬP PHÁT BIỂU ĐÚNG SAI-ĐÁP ÁN NHANH CHỦ ĐỀ ESTER-LIPID-ĐỀ.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "(TỜ (4.3) BÀI TẬP PHÁT BIỂU ĐÚNG SAI-ĐÁP ÁN NHANH CHỦ ĐỀ ESTER-LIPID-ĐỀ.pdf",
+                      "link": "https://drive.google.com/file/d/1_IBsml1byfRovH8qMU_fLi0D2L31_npi/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "BUỔI 35-BÀI TẬP ĐÚNG SAI-ĐIỀN ĐÁP ÁN NHANH CHỦ ĐỀ ESTER-LIPID-CHẤT GIẶT RỬA PHẦN 3.mp4",
+                  "videos": [
+                    {
+                      "title": "BUỔI 35-BÀI TẬP ĐÚNG SAI-ĐIỀN ĐÁP ÁN NHANH CHỦ ĐỀ ESTER-LIPID-CHẤT GIẶT RỬA PHẦN 3.mp4",
+                      "link": "https://drive.google.com/file/d/1-71XafuS9YHwD7DUyxs7uDg3qv-z9yTU/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "39. ĐỀ TỔNG KIỂM TRA HÓA HỮU CƠ SỐ 03",
+              "items": [
+                {
+                  "name": "ĐỀ TỔNG KIỂM TRA HÓA 12-2K9 LẦN 3 (TRẢ LỜI NGẮN).mp4",
+                  "videos": [
+                    {
+                      "title": "ĐỀ TỔNG KIỂM TRA HÓA 12-2K9 LẦN 3 (TRẢ LỜI NGẮN).mp4",
+                      "link": "https://drive.google.com/file/d/1PML71RrloVl9t7rZ5vDrE_fLE3RvRCJW/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "ĐỀ TỔNG KIỂM TRA HÓA HỮU CƠ 2K9 LẦN 3-VIẾT TAY.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "ĐỀ TỔNG KIỂM TRA HÓA HỮU CƠ 2K9 LẦN 3-VIẾT TAY.pdf",
+                      "link": "https://drive.google.com/file/d/1_mJ5t6JpLwlKqO94C71PJcV5-XWgEyeT/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "ĐỀ TỔNG KIỂM TRA HÓA HỮU CƠ 2K9 LẦN 3-ĐỀ.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "ĐỀ TỔNG KIỂM TRA HÓA HỮU CƠ 2K9 LẦN 3-ĐỀ.pdf",
+                      "link": "https://drive.google.com/file/d/1SEAEmTgrsFz157t9S1wxrtpdoWXafzKP/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "40. 100 CÂU HỎI CHUYÊN BIỆT VỀ ESTER SỐ 03",
+              "items": [
+                {
+                  "name": "(TỜ 2.3) 100 CÂU LÝ THUYẾT CHUYÊN BIỆT VỀ ESTER-LIPID SỐ 03-VIẾT TAY.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "(TỜ 2.3) 100 CÂU LÝ THUYẾT CHUYÊN BIỆT VỀ ESTER-LIPID SỐ 03-VIẾT TAY.pdf",
+                      "link": "https://drive.google.com/file/d/1l7GGPs6QisREcT4NVxzRdQoSMknfNOoo/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "(TỜ 2.3) 100 CÂU LÝ THUYẾT CHUYÊN BIỆT VỀ ESTER-LIPID SỐ 03-ĐỀ.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "(TỜ 2.3) 100 CÂU LÝ THUYẾT CHUYÊN BIỆT VỀ ESTER-LIPID SỐ 03-ĐỀ.pdf",
+                      "link": "https://drive.google.com/file/d/1iW_Hx5GS_-uF8frxzqkZcI9PgOAVkBiL/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[LIVE] 100 CÂU HỎI CHUYÊN BIỆT VỀ ESTER LIPID SỐ 03.mp4",
+                  "videos": [
+                    {
+                      "title": "[LIVE] 100 CÂU HỎI CHUYÊN BIỆT VỀ ESTER LIPID SỐ 03.mp4",
+                      "link": "https://drive.google.com/file/d/1kLeYVKbHmrb8YzpUWf1UK3mXWTc-Z4-k/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
             }
           ]
         },
@@ -1834,6 +2014,402 @@ const COURSE_DATA = {
                 }
               ],
               "children": []
+            },
+            {
+              "title": "16. HỌC LẠI TỪ ĐẦU BUỔI 1-GLUCOSE VÀ FRUCTOSE",
+              "items": [
+                {
+                  "name": "[LIVE] HLTĐ-CHƯƠNG 2-GLUCOSE VÀ FRUCTOSE.mp4",
+                  "videos": [
+                    {
+                      "title": "[LIVE] HLTĐ-CHƯƠNG 2-GLUCOSE VÀ FRUCTOSE.mp4",
+                      "link": "https://drive.google.com/file/d/1yqF9wppx_OhvVuq8-6YlNN8MtRpCHjW3/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "CHƯƠNG 2-CARBOHYDRATE (BUỔI 1-HLTĐ)-VIẾT TAY.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "CHƯƠNG 2-CARBOHYDRATE (BUỔI 1-HLTĐ)-VIẾT TAY.pdf",
+                      "link": "https://drive.google.com/file/d/1YPODXi2PwTa--bXjBrAJOlswVOIm-4sK/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "CHƯƠNG 2-CARBOHYDRATE (BUỔI 1-HLTĐ)-ĐỀ.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "CHƯƠNG 2-CARBOHYDRATE (BUỔI 1-HLTĐ)-ĐỀ.pdf",
+                      "link": "https://drive.google.com/file/d/1w_fAQBZBqsems6LFoUCErS4nL3tVVz2O/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "17. Dạng toán chương 2-DẠNG TOÁN PHẢN ỨNG TRÁNG BẠC",
+              "items": [
+                {
+                  "name": "(TỜ 4.1) HÓA 12-CHƯƠNG 2-DẠNG TOÁN PHẢN ỨNG TRÁNG BẠC-ĐỀ.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "(TỜ 4.1) HÓA 12-CHƯƠNG 2-DẠNG TOÁN PHẢN ỨNG TRÁNG BẠC-ĐỀ.pdf",
+                      "link": "https://drive.google.com/file/d/1CJfFPN-OgxS8Cw843qSWhjz8KcaBOdH_/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "HÓA 12-CHƯƠNG 2-BÀI TOÁN PHẢN ỨNG TRÁNG BẠC CỦA GLUCOSE-FRUCTOSE.mp4",
+                  "videos": [
+                    {
+                      "title": "HÓA 12-CHƯƠNG 2-BÀI TOÁN PHẢN ỨNG TRÁNG BẠC CỦA GLUCOSE-FRUCTOSE.mp4",
+                      "link": "https://drive.google.com/file/d/1DNdmz3HRiQ5-hFIDgDfp6gTiMyBcoHD6/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "HÓA 12-CHƯƠNG 2-DẠNG TOÁN PHẢN ỨNG TRÁNG BẠC-VIẾT TAY.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "HÓA 12-CHƯƠNG 2-DẠNG TOÁN PHẢN ỨNG TRÁNG BẠC-VIẾT TAY.pdf",
+                      "link": "https://drive.google.com/file/d/12_qZfHMpxGjZ_GdTB-QHkb4hv0LjvN-r/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "18. Dạng toán chương 2-DẠNG TOÁN PHẢN ỨNG LÊN MEN GLUCOSE",
+              "items": [
+                {
+                  "name": "(TỜ 4.2) HÓA 12-CHƯƠNG 2-DẠNG TOÁN PHẢN ỨNG LÊN MEN GLUCOSE-ĐỀ.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "(TỜ 4.2) HÓA 12-CHƯƠNG 2-DẠNG TOÁN PHẢN ỨNG LÊN MEN GLUCOSE-ĐỀ.pdf",
+                      "link": "https://drive.google.com/file/d/1soqhGv9aOaBumBanN81QBfUnuuhwLYLz/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "HÓA 12-CHƯƠNG 2-BÀI TOÁN PHẢN ỨNG LÊN MEN CỦA GLUCOSE.mp4",
+                  "videos": [
+                    {
+                      "title": "HÓA 12-CHƯƠNG 2-BÀI TOÁN PHẢN ỨNG LÊN MEN CỦA GLUCOSE.mp4",
+                      "link": "https://drive.google.com/file/d/1niEuNZ5bZeMB9icvUC2RgI7aULBGSlvl/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "HÓA 12-CHƯƠNG 2-DẠNG TOÁN PHẢN ỨNG LÊN MEN GLUCOSE-VIẾT TAY.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "HÓA 12-CHƯƠNG 2-DẠNG TOÁN PHẢN ỨNG LÊN MEN GLUCOSE-VIẾT TAY.pdf",
+                      "link": "https://drive.google.com/file/d/1cKz06BkPnMnYZyCCAcsQSrWf9ndHqAaI/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "19. Dạng toán chương 2-BÀI TOÁN VẬN DỤNG CAO CARBOHYDRATE",
+              "items": [
+                {
+                  "name": "(TỜ 4.3) HÓA 12-CHƯƠNG 2-BÀI TOÁN VẬN DỤNG CAO CARBOHYDRATE-ĐỀ.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "(TỜ 4.3) HÓA 12-CHƯƠNG 2-BÀI TOÁN VẬN DỤNG CAO CARBOHYDRATE-ĐỀ.pdf",
+                      "link": "https://drive.google.com/file/d/14_e1of1wHOxLAkzIObAIk0kGO4jAax37/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "BÀI TOÁN VẬN DỤNG CAO CARBOHYDRATE-VIẾT TAY.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "BÀI TOÁN VẬN DỤNG CAO CARBOHYDRATE-VIẾT TAY.pdf",
+                      "link": "https://drive.google.com/file/d/1ki6gbuvPs-m3ipITRoyrEWnX7TSsOTBS/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "HÓA 12-CHƯƠNG 2-BÀI TOÁN VẬN DỤNG CAO CARBOHYDRATE.mp4",
+                  "videos": [
+                    {
+                      "title": "HÓA 12-CHƯƠNG 2-BÀI TOÁN VẬN DỤNG CAO CARBOHYDRATE.mp4",
+                      "link": "https://drive.google.com/file/d/17coTFOhm4L-jotER-PZzE5AjVNZJuuu1/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "20. HỌC LẠI TỪ ĐẦU BUỔI 2-SACCHAROSE VÀ MALTOSE",
+              "items": [
+                {
+                  "name": "[LIVE] HLTĐ CHƯƠNG 2-CHỦ ĐỀ SACCHAROSE VÀ MALTOSE.mp4",
+                  "videos": [
+                    {
+                      "title": "[LIVE] HLTĐ CHƯƠNG 2-CHỦ ĐỀ SACCHAROSE VÀ MALTOSE.mp4",
+                      "link": "https://drive.google.com/file/d/16A4OxNfe-UIkT72DB1862mpOkpUpR7iC/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "CHƯƠNG 2-CARBOHYDRATE (BUỔI 2-HLTĐ)-VIẾT TAY.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "CHƯƠNG 2-CARBOHYDRATE (BUỔI 2-HLTĐ)-VIẾT TAY.pdf",
+                      "link": "https://drive.google.com/file/d/1ZmnDJo6A_y59h0EcuwZNz4PazkWUrarV/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "CHƯƠNG 2-CARBOHYDRATE (BUỔI 2-HLTĐ)-ĐỀ.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "CHƯƠNG 2-CARBOHYDRATE (BUỔI 2-HLTĐ)-ĐỀ.pdf",
+                      "link": "https://drive.google.com/file/d/1k6KWs-pO_NWbvuG8hMyovASp-02rGjdV/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "21. HỌC LẠI TỪ ĐẦU BUỔI 3-TINH BỘT VÀ CELLULOSE",
+              "items": [
+                {
+                  "name": "[LIVE] HLTĐ CHƯƠNG 3-CHỮA BÀI TẬP TINH BỘT VÀ CELLULOSE.mp4",
+                  "videos": [
+                    {
+                      "title": "[LIVE] HLTĐ CHƯƠNG 3-CHỮA BÀI TẬP TINH BỘT VÀ CELLULOSE.mp4",
+                      "link": "https://drive.google.com/file/d/1T1gd6NZo-glBwWzxSRUv1uswH05izxzr/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "CHƯƠNG 2-CARBOHYDRATE (BUỔI 3-HLTĐ)-VIẾT TAY.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "CHƯƠNG 2-CARBOHYDRATE (BUỔI 3-HLTĐ)-VIẾT TAY.pdf",
+                      "link": "https://drive.google.com/file/d/1JsGB65T4aM-nfsxQPjDvnYvO2s9ETfgK/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "CHƯƠNG 2-CARBOHYDRATE (BUỔI 3-HLTĐ)-ĐỀ.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "CHƯƠNG 2-CARBOHYDRATE (BUỔI 3-HLTĐ)-ĐỀ.pdf",
+                      "link": "https://drive.google.com/file/d/1xs-NCCPl9CcXYZp_WmuByEFBD0Z-xtg8/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "22. 68 CÂU LÝ THUYẾT CHUYÊN BIỆT VỀ CARBOHYDRATE-PHẦN 1",
+              "items": [
+                {
+                  "name": "68 CÂU LÝ THUYẾT CHUYÊN BIỆT VỀ CARBOHYDRATE-PHẦN 1-VIẾT TAY.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "68 CÂU LÝ THUYẾT CHUYÊN BIỆT VỀ CARBOHYDRATE-PHẦN 1-VIẾT TAY.pdf",
+                      "link": "https://drive.google.com/file/d/1_4-lW0gcKUh2bpKMKzQV6pdyrsk7nXm-/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "(TỜ 6.1) 68 CÂU LÝ THUYẾT CHUYÊN BIỆT VỀ CARBOHYDRATE-PHẦN 1-ĐỀ.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "(TỜ 6.1) 68 CÂU LÝ THUYẾT CHUYÊN BIỆT VỀ CARBOHYDRATE-PHẦN 1-ĐỀ.pdf",
+                      "link": "https://drive.google.com/file/d/1prOhFjVAoZlr1_3VSU-Is4FauudkcfYH/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[LIVE] 68 CÂU LÝ THUYẾT CHUYÊN BIỆT VỀ CARBOHYDRATE SỐ 01.mp4",
+                  "videos": [
+                    {
+                      "title": "[LIVE] 68 CÂU LÝ THUYẾT CHUYÊN BIỆT VỀ CARBOHYDRATE SỐ 01.mp4",
+                      "link": "https://drive.google.com/file/d/1rADRyLxmQeJjdW4FuebBXlPF3ruWuNr1/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "23. 68 CÂU LÝ THUYẾT CHUYÊN BIỆT VỀ CARBOHYDRATE-PHẦN 2",
+              "items": [
+                {
+                  "name": "68 CÂU LÝ THUYẾT CHUYÊN BIỆT VỀ CARBOHYDRATE-PHẦN 2-VIẾT TAY.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "68 CÂU LÝ THUYẾT CHUYÊN BIỆT VỀ CARBOHYDRATE-PHẦN 2-VIẾT TAY.pdf",
+                      "link": "https://drive.google.com/file/d/1YLXdTmBveyJQumkvBmmFxUkWwLMK78Wn/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "(TỜ 6.2) 68 CÂU LÝ THUYẾT CHUYÊN BIỆT VỀ CARBOHYDRATE-PHẦN 2-ĐỀ.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "(TỜ 6.2) 68 CÂU LÝ THUYẾT CHUYÊN BIỆT VỀ CARBOHYDRATE-PHẦN 2-ĐỀ.pdf",
+                      "link": "https://drive.google.com/file/d/1dne8yzBJzoXFUFcWa1HMNbcTtQcFPA8l/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[LIVE] 68 CÂU LÝ THUYẾT CHUYÊN BIỆT VỀ CARBOHYDRTAE PHẦN 2.mp4",
+                  "videos": [
+                    {
+                      "title": "[LIVE] 68 CÂU LÝ THUYẾT CHUYÊN BIỆT VỀ CARBOHYDRTAE PHẦN 2.mp4",
+                      "link": "https://drive.google.com/file/d/13qk9-KQJM3qfBe70sMSWPHYJoo6hXrFF/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "24. ĐỀ LUYỆN TẬP ESTER-CARBOHYDRATE",
+              "items": [
+                {
+                  "name": "[LIVE BỔ SUNG] CHỮA ĐỀ LUYỆN TẬP CHƯƠNG 1 VÀ 2.mp4",
+                  "videos": [
+                    {
+                      "title": "[LIVE BỔ SUNG] CHỮA ĐỀ LUYỆN TẬP CHƯƠNG 1 VÀ 2.mp4",
+                      "link": "https://drive.google.com/file/d/1OlM1cxrbL-om9lzv697fpK01PSjWGLUu/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "ĐỀ LUYỆN TẬP ESTER-CARBOHYDRATE-VIẾT TAY.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "ĐỀ LUYỆN TẬP ESTER-CARBOHYDRATE-VIẾT TAY.pdf",
+                      "link": "https://drive.google.com/file/d/1_5Df-i-D8EgYb_mz-Ws8tkTTLJkX5coc/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "ĐỀ LUYỆN TẬP ESTER-CARBOHYDRATE-ĐỀ.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "ĐỀ LUYỆN TẬP ESTER-CARBOHYDRATE-ĐỀ.pdf",
+                      "link": "https://drive.google.com/file/d/1PZP5cWGXm2vD2EXPS1jDx3PbPE3b5luw/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "25. SÁCH BÀI TẬP BỘ KNTT-CHƯƠNG 2",
+              "items": [
+                {
+                  "name": "(TỜ SÁCH BÀI TẬP-KNTT) Chương II - BT Hoá 12 - KNTT-ĐÁP ÁN VIẾT TAY.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "(TỜ SÁCH BÀI TẬP-KNTT) Chương II - BT Hoá 12 - KNTT-ĐÁP ÁN VIẾT TAY.pdf",
+                      "link": "https://drive.google.com/file/d/13oPsyjCSG2QXvoxHnNcHTAYQLh3gJYri/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "(TỜ SÁCH BÀI TẬP-KNTT) Chương II - BT Hoá 12 - KNTT.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "(TỜ SÁCH BÀI TẬP-KNTT) Chương II - BT Hoá 12 - KNTT.pdf",
+                      "link": "https://drive.google.com/file/d/1nI30T7bi-wNO8J3jB2g90nrwHZsmhcPJ/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "BUỔI 20-Hóa 12-CHƯƠNG 2-SÁCH BÀI TẬP-KẾT NỐI TRI THỨC.mp4",
+                  "videos": [
+                    {
+                      "title": "BUỔI 20-Hóa 12-CHƯƠNG 2-SÁCH BÀI TẬP-KẾT NỐI TRI THỨC.mp4",
+                      "link": "https://drive.google.com/file/d/1HhG8HRaGZ__ARtwD9XEhTrqe7Bz7w99J/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "25. ĐỀ TỔNG KIỂM TRA HÓA HỮU CƠ LẦN 4",
+              "items": [
+                {
+                  "name": "[LIVE] CHỮA ĐỀ TỔNG KIỂM TRA LẦN 4.mp4",
+                  "videos": [
+                    {
+                      "title": "[LIVE] CHỮA ĐỀ TỔNG KIỂM TRA LẦN 4.mp4",
+                      "link": "https://drive.google.com/file/d/1W3PSHSvPQvcWF9PbXnQcedOMfDbSBqUo/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "ĐỀ TỔNG KIỂM TRA HÓA HỮU CƠ 2K9 LẦN 4-VIẾT TAY (1).pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "ĐỀ TỔNG KIỂM TRA HÓA HỮU CƠ 2K9 LẦN 4-VIẾT TAY (1).pdf",
+                      "link": "https://drive.google.com/file/d/1aEL9SxzWHyA-Ou2_kTamZLXgla00BLxV/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "ĐỀ TỔNG KIỂM TRA HÓA HỮU CƠ 2K9 LẦN 4-ĐỀ.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "ĐỀ TỔNG KIỂM TRA HÓA HỮU CƠ 2K9 LẦN 4-ĐỀ.pdf",
+                      "link": "https://drive.google.com/file/d/15XRH1u-1hcrGGF8w9GUCviUfBkjs8XNM/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
             }
           ]
         },
@@ -2088,6 +2664,42 @@ const COURSE_DATA = {
                 }
               ],
               "children": []
+            },
+            {
+              "title": "9. BÀI TẬP ĐÚNG SAI CHƯƠNG 3 SỐ 01",
+              "items": [
+                {
+                  "name": "(TỜ 3.1) BÀI TẬP ĐÚNG-SAI-CHỦ ĐỀ HỢP CHẤT HỮU CƠ CHỨA NITROGEN (SỐ 01)-VIẾT TAY.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "(TỜ 3.1) BÀI TẬP ĐÚNG-SAI-CHỦ ĐỀ HỢP CHẤT HỮU CƠ CHỨA NITROGEN (SỐ 01)-VIẾT TAY.pdf",
+                      "link": "https://drive.google.com/file/d/1owOA8mZHdY1bd02V0lxf6R8Biylnp49J/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "(TỜ 3.1) BÀI TẬP ĐÚNG-SAI-CHỦ ĐỀ HỢP CHẤT HỮU CƠ CHỨA NITROGEN (SỐ 01)-ĐỀ.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "(TỜ 3.1) BÀI TẬP ĐÚNG-SAI-CHỦ ĐỀ HỢP CHẤT HỮU CƠ CHỨA NITROGEN (SỐ 01)-ĐỀ.pdf",
+                      "link": "https://drive.google.com/file/d/1_hR3tESBKPCq75IiY_bBJYs76TcAKZNP/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[LIVE] BÀI TẬP ĐÚNG SAI HỢP CHẤT CỦA NITROGEN SỐ 01.mp4",
+                  "videos": [
+                    {
+                      "title": "[LIVE] BÀI TẬP ĐÚNG SAI HỢP CHẤT CỦA NITROGEN SỐ 01.mp4",
+                      "link": "https://drive.google.com/file/d/1KZZFiVG89xxLEd4Sz6b6gBX_CWGxhT-s/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
             }
           ]
         },
@@ -2115,6 +2727,68 @@ const COURSE_DATA = {
                     {
                       "title": "CHƯƠNG 4-POLYMER-FULL LÝ THUYẾT VIẾT TAY.pdf",
                       "link": "https://drive.google.com/file/d/1p11-VJYhpMDka-166mJ-YU2yLDCyYUc1/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "2. CHỮA BT CHUYÊN ĐỀ 1-ĐẠI CƯƠNG VỀ POLYMER (SÁCH HTCPHHC)",
+              "items": [
+                {
+                  "name": "(TỜ 01-SÁCH HTCPHHC) CHƯƠNG 4-POLYMER-ĐỀ.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "(TỜ 01-SÁCH HTCPHHC) CHƯƠNG 4-POLYMER-ĐỀ.pdf",
+                      "link": "https://drive.google.com/file/d/1AVvvt5AAZ2q7iOTAI3313rbBnJFJD5QZ/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[LIVE] CHỮA BÀI TẬP CHUYÊN ĐỀ 1-ĐẠI CƯƠNG POLYMER (Sách HTCPHHC).mp4",
+                  "videos": [
+                    {
+                      "title": "[LIVE] CHỮA BÀI TẬP CHUYÊN ĐỀ 1-ĐẠI CƯƠNG POLYMER (Sách HTCPHHC).mp4",
+                      "link": "https://drive.google.com/file/d/1taULLtkPHEzbK1VBXLo4-YCZ5eQFcQw8/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "CHUYÊN ĐỀ 1-(TỜ 01-SÁCH HTCPHHC) CHƯƠNG 4-POLYMER-VIẾT TAY.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "CHUYÊN ĐỀ 1-(TỜ 01-SÁCH HTCPHHC) CHƯƠNG 4-POLYMER-VIẾT TAY.pdf",
+                      "link": "https://drive.google.com/file/d/1ASGu56V8sjO75MNHViO-8tTo82cg_gXJ/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "3. CHỮA BT CHUYÊN ĐỀ 2-VẬT LIỆU POLYMER (SÁCH HTCPHHC)",
+              "items": [
+                {
+                  "name": "[LIVE] CHỮA BÀI TẬP CHUYÊN ĐỀ 2-VẬT LIỆU POLYMER.mp4",
+                  "videos": [
+                    {
+                      "title": "[LIVE] CHỮA BÀI TẬP CHUYÊN ĐỀ 2-VẬT LIỆU POLYMER.mp4",
+                      "link": "https://drive.google.com/file/d/1JoeaFuwPHHeI0b276TquwQI-vBx9pgjE/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "CHUYÊN ĐỀ 2-(TỜ 01-SÁCH HTCPHHC) CHƯƠNG 4-POLYMER-VIẾT TAY.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "CHUYÊN ĐỀ 2-(TỜ 01-SÁCH HTCPHHC) CHƯƠNG 4-POLYMER-VIẾT TAY.pdf",
+                      "link": "https://drive.google.com/file/d/1qjSWxJ017kRTpwqUcb3LutR6XW6bjmNw/view?usp=drivesdk"
                     }
                   ]
                 }

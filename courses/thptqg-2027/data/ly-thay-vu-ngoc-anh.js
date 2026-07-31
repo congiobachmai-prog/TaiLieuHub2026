@@ -2,7 +2,7 @@ const COURSE_DATA = {
   "title": "LÝ THẦY VŨ NGỌC ANH MAPSTUDY 2K9 - XPS Vật lý 12 Khoá IMOE 2027",
   "tree": [
     {
-      "title": "1.1 LIVE I (ĐỢT 2) CHUYÊN ĐỀ CƠ BẢN",
+      "title": "1.1.LIVE I (ĐỢT 2) CHUYÊN ĐỀ CƠ BẢN",
       "items": [],
       "children": [
         {
@@ -504,6 +504,32 @@ const COURSE_DATA = {
                 }
               ],
               "children": []
+            },
+            {
+              "title": "12. Tổng ôn – Thí nghiệm vật lí nhiệt – Câu hỏi đúng sai",
+              "items": [
+                {
+                  "name": "[Tổng ôn – Thí nghiệm vật lí nhiệt – Câu hỏi đúng sai] – 1. Tổng ôn – Thí nghiệm vật lí nhiệt – Câu hỏi đúng sai.mp4",
+                  "videos": [
+                    {
+                      "title": "[Tổng ôn – Thí nghiệm vật lí nhiệt – Câu hỏi đúng sai] – 1. Tổng ôn – Thí nghiệm vật lí nhiệt – Câu hỏi đúng sai.mp4",
+                      "link": "https://drive.google.com/file/d/1v_jrp6Ln2-kQNyCl0XkXmQpeNnCMjem7/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "[Tổng ôn – Thí nghiệm vật lí nhiệt – Câu hỏi đúng sai] – 2. Tài liệu – Tổng ôn thí nghiệm vật lí nhiệt – Câu hỏi đúng sai.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Tổng ôn – Thí nghiệm vật lí nhiệt – Câu hỏi đúng sai] – 2. Tài liệu – Tổng ôn thí nghiệm vật lí nhiệt – Câu hỏi đúng sai.pdf",
+                      "link": "https://drive.google.com/file/d/1v76fSulFMXTj0RWzynZRnh1wErkVIVQb/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
             }
           ]
         },
@@ -612,13 +638,79 @@ const COURSE_DATA = {
                 }
               ],
               "children": []
+            },
+            {
+              "title": "3. 0203 – Định luật Boyle về quá trình đẳng nhiệt",
+              "items": [
+                {
+                  "name": "[0203] – 1. Mở đầu.mp4",
+                  "videos": [
+                    {
+                      "title": "[0203] – 1. Mở đầu.mp4",
+                      "link": "https://drive.google.com/file/d/1Hgsgz7DS_HTpGm39Ij18dwdgwD4BJD3L/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "[0203] – 2. Định luật boyle.mp4",
+                  "videos": [
+                    {
+                      "title": "[0203] – 2. Định luật boyle.mp4",
+                      "link": "https://drive.google.com/file/d/1-hlp4cLGOinL1-MMrdsuiS_-rbd1ddA1/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "[0203] – 3. Đồ thị.mp4",
+                  "videos": [
+                    {
+                      "title": "[0203] – 3. Đồ thị.mp4",
+                      "link": "https://drive.google.com/file/d/1wqn51U5AI4aG7-6BLzIIVK7ALs57Ns-m/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "[0203] – 4. Nội năng KLT trong quá trình đẳng nhiệt.mp4",
+                  "videos": [
+                    {
+                      "title": "[0203] – 4. Nội năng KLT trong quá trình đẳng nhiệt.mp4",
+                      "link": "https://drive.google.com/file/d/1ebi29vUpDSENjOau2lnDqugdiRl_usR1/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "[0203] – 5. Thí nghiệm kiểm chứng.mp4",
+                  "videos": [
+                    {
+                      "title": "[0203] – 5. Thí nghiệm kiểm chứng.mp4",
+                      "link": "https://drive.google.com/file/d/1CvUct3ebtuLUtiA3sDPxFsXOJSWvFKWP/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "Chữa bài tập 0203 - Định luật Boyle về quá trình đẳng nhiệt.mp4",
+                  "videos": [
+                    {
+                      "title": "Chữa bài tập 0203 - Định luật Boyle về quá trình đẳng nhiệt.mp4",
+                      "link": "https://drive.google.com/file/d/1wl1LiAfQDD62SXbmLctsD7zapa_qt2LA/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
             }
           ]
         }
       ]
     },
     {
-      "title": "1.2 LIVE I (ĐỢT 3) CHUYÊN ĐỀ CƠ BẢN",
+      "title": "1.2. LIVE I (ĐỢT 3) CHUYÊN ĐỀ CƠ BẢN",
       "items": [],
       "children": [
         {
@@ -696,6 +788,32 @@ const COURSE_DATA = {
                     {
                       "title": "[0101] – 1. Video lí thuyết – Cấu trúc của chất.mp4",
                       "link": "https://drive.google.com/file/d/1CcuhoASAk1pXTu6GXGvn17ZDnYJddR-I/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "4. 0102 - Sự chuyển thể của chất",
+              "items": [
+                {
+                  "name": "0102 - Su chuyen the cua chat.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "0102 - Su chuyen the cua chat.pdf",
+                      "link": "https://drive.google.com/file/d/1JrXwCy-nSrW_bUTu7bujaH3dW3Bbys01/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "0102 - Sự chuyển thể của chất.mp4",
+                  "videos": [
+                    {
+                      "title": "0102 - Sự chuyển thể của chất.mp4",
+                      "link": "https://drive.google.com/file/d/11lvH2o1QszhZJwYEhlgDk7UBhRjT2aPK/view?usp=drivesdk"
                     }
                   ],
                   "pdfs": []
@@ -2558,6 +2676,88 @@ const COURSE_DATA = {
           ]
         },
         {
+          "title": "3. CHƯƠNG 3_ TỪ TRƯỜNG - ĐỢT 1_",
+          "items": [],
+          "children": [
+            {
+              "title": "1. Bài 0301 – Từ trường",
+              "items": [
+                {
+                  "name": "[0301] – 1. Tài liệu – 0301 – Từ trường.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[0301] – 1. Tài liệu – 0301 – Từ trường.pdf",
+                      "link": "https://drive.google.com/file/d/1xf4uEbtod8r44i0lXYelyF3J3h-5CK5y/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[0301] – 1. Video lí thuyết – Từ trường.mp4",
+                  "videos": [
+                    {
+                      "title": "[0301] – 1. Video lí thuyết – Từ trường.mp4",
+                      "link": "https://drive.google.com/file/d/1wUYsACrO5xhEC-iGh577mbWIhxX64nem/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "[0301] – 2. Video lí thuyết – Tương tác từ.mp4",
+                  "videos": [
+                    {
+                      "title": "[0301] – 2. Video lí thuyết – Tương tác từ.mp4",
+                      "link": "https://drive.google.com/file/d/1jlwnAGgpM9x0w-eneieD9Tpvv47fxCUl/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "[0301] – 3. Video lí thuyết – Đường sức từ.mp4",
+                  "videos": [
+                    {
+                      "title": "[0301] – 3. Video lí thuyết – Đường sức từ.mp4",
+                      "link": "https://drive.google.com/file/d/1LfCIgRpg9WGB6AaJqiRevbeo54ZgOeQT/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "[0301] – 4. Video chữa chi tiết – Ví dụ minh họa.mp4",
+                  "videos": [
+                    {
+                      "title": "[0301] – 4. Video chữa chi tiết – Ví dụ minh họa.mp4",
+                      "link": "https://drive.google.com/file/d/1Yt682e_96qxCK-VG1YZV9ZotkRGcUAsx/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "[0301] – 5. Video chữa chi tiết – Bài thi online.mp4",
+                  "videos": [
+                    {
+                      "title": "[0301] – 5. Video chữa chi tiết – Bài thi online.mp4",
+                      "link": "https://drive.google.com/file/d/1qp1C8mhnXwZ35lYzZ7ui55Y6GugZB-le/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "[0301] – 6. Video chữa chi tiết – Bài tập về nhà.mp4",
+                  "videos": [
+                    {
+                      "title": "[0301] – 6. Video chữa chi tiết – Bài tập về nhà.mp4",
+                      "link": "https://drive.google.com/file/d/1J92pkMkpUabfP9ZcWV6uNmQ0IBLWDjDk/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
           "title": "z.1 ĐỀ TỔNG ÔN VÀ KIỂM TRA CÁC CHƯƠNG_",
           "items": [],
           "children": [
@@ -3064,6 +3264,188 @@ const COURSE_DATA = {
                 }
               ],
               "children": []
+            },
+            {
+              "title": "20. Đề kiểm tra toàn diện chương 1 – Đề số 3",
+              "items": [
+                {
+                  "name": "[Đề số 3] – 01. [Tài liệu] Đề kiểm tra toàn diện chương 1 – Đề số 3.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Đề số 3] – 01. [Tài liệu] Đề kiểm tra toàn diện chương 1 – Đề số 3.pdf",
+                      "link": "https://drive.google.com/file/d/1RBeiOUStYFXEssiLVMUNpQc8eemLSCWp/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[Đề số 3] – 02. [Video] LIVE chữa – Đề kiểm tra toàn diện chương 1 – Đề số 3.mp4",
+                  "videos": [
+                    {
+                      "title": "[Đề số 3] – 02. [Video] LIVE chữa – Đề kiểm tra toàn diện chương 1 – Đề số 3.mp4",
+                      "link": "https://drive.google.com/file/d/14iwNRCBWS5NyTEj5wO0iw9JhNCbhOpo4/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "21. Đề kiểm tra toàn diện chương 1 – Đề số 4",
+              "items": [
+                {
+                  "name": "[Đề số 4] – 01. [Tài liệu] Đề kiểm tra toàn diện chương 1 – Đề số 4.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Đề số 4] – 01. [Tài liệu] Đề kiểm tra toàn diện chương 1 – Đề số 4.pdf",
+                      "link": "https://drive.google.com/file/d/18sPr2gCPhhGk7-Q1JQv7vatTXmklDhAR/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[Đề số 4] – 02. [Video] LIVE chữa – Đề kiểm tra toàn diện chương 1 – Đề số 4.mp4",
+                  "videos": [
+                    {
+                      "title": "[Đề số 4] – 02. [Video] LIVE chữa – Đề kiểm tra toàn diện chương 1 – Đề số 4.mp4",
+                      "link": "https://drive.google.com/file/d/1W9VUIOUtBKZ5V5uysxFSwDMLPlxMV1Q4/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "22. Đề kiểm tra toàn diện chương 2 – Đề số 4",
+              "items": [
+                {
+                  "name": "[Đề số 4] – 01. [Tài liệu] Đề kiểm tra toàn diện chương 2 – Đề số 4.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Đề số 4] – 01. [Tài liệu] Đề kiểm tra toàn diện chương 2 – Đề số 4.pdf",
+                      "link": "https://drive.google.com/file/d/1FruakttKaszZDNsb9DYidIkZ83lsze13/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[Đề số 4] – 02. [Video] LIVE chữa – Đề kiểm tra toàn diện chương 2 – Đề số 4.mp4",
+                  "videos": [
+                    {
+                      "title": "[Đề số 4] – 02. [Video] LIVE chữa – Đề kiểm tra toàn diện chương 2 – Đề số 4.mp4",
+                      "link": "https://drive.google.com/file/d/1jd_wNV__Ursfu2864IL5_eyqV4wFareE/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "23. Đề tổng ôn – Vật Lí Nhiệt – Đề số 13",
+              "items": [
+                {
+                  "name": "[Đề tổng ôn – Vật Lí Nhiệt – Đề số 13] – 1. Tài liệu.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Đề tổng ôn – Vật Lí Nhiệt – Đề số 13] – 1. Tài liệu.pdf",
+                      "link": "https://drive.google.com/file/d/1_K6ZcyfptqNSCKG9RwlHtkeIjApww2jz/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[Đề tổng ôn – Vật Lí Nhiệt – Đề số 13] – 2. LIVE chữa.mp4",
+                  "videos": [
+                    {
+                      "title": "[Đề tổng ôn – Vật Lí Nhiệt – Đề số 13] – 2. LIVE chữa.mp4",
+                      "link": "https://drive.google.com/file/d/1P-7otnBb3Yz-Hvwdyg59sg861J2im0Cc/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "24. Đề tổng ôn – Vật Lí Nhiệt – Đề số 14",
+              "items": [
+                {
+                  "name": "[Đề tổng ôn – Vật Lí Nhiệt – Đề số 14] – 1. Tài liệu.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Đề tổng ôn – Vật Lí Nhiệt – Đề số 14] – 1. Tài liệu.pdf",
+                      "link": "https://drive.google.com/file/d/18v-Y-y-Bi75T7I_sp80y5IsckgS4iQTa/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[Đề tổng ôn – Vật Lí Nhiệt – Đề số 14] – 2. LIVE chữa.mp4",
+                  "videos": [
+                    {
+                      "title": "[Đề tổng ôn – Vật Lí Nhiệt – Đề số 14] – 2. LIVE chữa.mp4",
+                      "link": "https://drive.google.com/file/d/1bZWaMp9dUENbFV88f_YkbJrC3JWaZmJF/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "25. Đề tổng ôn – Vật Lí Nhiệt – Đề số 15",
+              "items": [
+                {
+                  "name": "[Đề tổng ôn – Vật Lí Nhiệt – Đề số 15] – 1. Tài liệu.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Đề tổng ôn – Vật Lí Nhiệt – Đề số 15] – 1. Tài liệu.pdf",
+                      "link": "https://drive.google.com/file/d/1LcvIZ1Hsuazl9_EI-Jstjz4xpw-byC2t/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[Đề tổng ôn – Vật Lí Nhiệt – Đề số 15] – 2. LIVE chữa.mp4",
+                  "videos": [
+                    {
+                      "title": "[Đề tổng ôn – Vật Lí Nhiệt – Đề số 15] – 2. LIVE chữa.mp4",
+                      "link": "https://drive.google.com/file/d/1KWAm8VeYH4sY8UTtazVsU0X-ZWgu21Xf/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "26. Đề kiểm tra toàn diện lí thuyết – Vật Lí Nhiệt – Đề số 3",
+              "items": [
+                {
+                  "name": "[Đề kiểm tra toàn diện lí thuyết – Vật Lí Nhiệt – Đề số 3] – 1. Tài liệu.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Đề kiểm tra toàn diện lí thuyết – Vật Lí Nhiệt – Đề số 3] – 1. Tài liệu.pdf",
+                      "link": "https://drive.google.com/file/d/1SzHScmhLVrz7k7r4hIuF9QQ22VCnnpQq/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[Đề kiểm tra toàn diện lí thuyết – Vật Lí Nhiệt – Đề số 3] – 2. LIVE chữa.mp4",
+                  "videos": [
+                    {
+                      "title": "[Đề kiểm tra toàn diện lí thuyết – Vật Lí Nhiệt – Đề số 3] – 2. LIVE chữa.mp4",
+                      "link": "https://drive.google.com/file/d/1foxajFtCNIRy2xXcd2gJjhxn3NLe7tf-/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
             }
           ]
         },
@@ -3108,6 +3490,60 @@ const COURSE_DATA = {
               "children": []
             }
           ]
+        }
+      ]
+    },
+    {
+      "title": "2.LIVE M LUYỆN NÂNG CAO VÀ MÔ HÌNH THỰC TẾ",
+      "items": [],
+      "children": [
+        {
+          "title": "1. 00 – Mục tiêu của khóa nghiên cứu vật lí",
+          "items": [
+            {
+              "name": "[00] – 1. 00 – Mục tiêu của khóa nghiên cứu vật lí.mp4",
+              "videos": [
+                {
+                  "title": "[00] – 1. 00 – Mục tiêu của khóa nghiên cứu vật lí.mp4",
+                  "link": "https://drive.google.com/file/d/1W_L2egiS2TNUoXySJBus3CPTt7LH7O8e/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "2. 01 – Năng lực tìm hiểu thế giới tự nhiên dưới góc độ vật lí",
+          "items": [
+            {
+              "name": "[01] – 1. 01 – Năng lực tìm hiểu thế giới tự nhiên dưới góc độ vật lí.mp4",
+              "videos": [
+                {
+                  "title": "[01] – 1. 01 – Năng lực tìm hiểu thế giới tự nhiên dưới góc độ vật lí.mp4",
+                  "link": "https://drive.google.com/file/d/1CkXvn8vfdeqxqLkmkpXfzFHcwmjNKugJ/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "3. 02 - Lịch sử tiến trình tìm hiểu vật lí",
+          "items": [
+            {
+              "name": "--02 - Lịch sử tiến trình tìm hiểu vật lí--  Video bài giảng   (Thầy đăng lại, không biết tại sao bài giảng tối qua bị FB xóa mất.)..mp4",
+              "videos": [
+                {
+                  "title": "--02 - Lịch sử tiến trình tìm hiểu vật lí--  Video bài giảng   (Thầy đăng lại, không biết tại sao bài giảng tối qua bị FB xóa mất.)..mp4",
+                  "link": "https://drive.google.com/file/d/16xiItNtvxy8_08DDnCguy3vZLmc4kVGt/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
         }
       ]
     },
