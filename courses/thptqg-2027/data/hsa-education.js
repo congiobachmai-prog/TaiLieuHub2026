@@ -6,6 +6,68 @@ const COURSE_DATA = {
       "items": [],
       "children": [
         {
+          "title": "HỌP PHỤ HUYNH VÀ KHAI GIẢNG HS",
+          "items": [],
+          "children": [
+            {
+              "title": "TÀI LIỆU SÁCH TỔNG ÔN LTHUYET TRỌNG TÂM",
+              "items": [
+                {
+                  "name": "TONG ON DANH GIA NANG LUC TOAN HOC (OK).pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "TONG ON DANH GIA NANG LUC TOAN HOC (OK).pdf",
+                      "link": "https://drive.google.com/file/d/1-GxyyqfzkK7-9ryujBMDh-EGNP61zXHf/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "TONG ON KHXH (6-11-2025).pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "TONG ON KHXH (6-11-2025).pdf",
+                      "link": "https://drive.google.com/file/d/1nzdi6Nzx5sw40h4J_sDZo4fvdWbscCJ1/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "TONG ON THPT-KHTN (22-9-2025) (1).pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "TONG ON THPT-KHTN (22-9-2025) (1).pdf",
+                      "link": "https://drive.google.com/file/d/1O9cJ2Isdt-0iV_9t3nBhcEAP-zm6yT8F/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "TONG ON THPT-VAN HOC VA NGON NGU (24-9-2025) (1).pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "TONG ON THPT-VAN HOC VA NGON NGU (24-9-2025) (1).pdf",
+                      "link": "https://drive.google.com/file/d/1iGeAvCTbEM-SUgcx7m8nQX_qQED4YKEG/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "TONG ON TIENG ANH (22-9-2025) (1).pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "TONG ON TIENG ANH (22-9-2025) (1).pdf",
+                      "link": "https://drive.google.com/file/d/1_gkA94WH6NFszgUawaoFMq7RDw32r3w6/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
           "title": "PHẦN I. TOÁN HỌC - XỬ LÝ SỐ LIỆU",
           "items": [],
           "children": [
@@ -3402,6 +3464,356 @@ const COURSE_DATA = {
                     }
                   ],
                   "children": []
+                },
+                {
+                  "title": "B11. HSA. 2K9. Toán đại 12 (Thầy Thắng). LT - TIỆM CẬN",
+                  "items": [
+                    {
+                      "name": "6c49ed2f-b308-422c-9d2f-28897f00e1e6_B11 + B12. HSA. 2K9. Toán đại 12 (Thầy Thắng). BT - TIỆM CẬN.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "6c49ed2f-b308-422c-9d2f-28897f00e1e6_B11 + B12. HSA. 2K9. Toán đại 12 (Thầy Thắng). BT - TIỆM CẬN.pdf",
+                          "link": "https://drive.google.com/file/d/11RDtlG2pkBAbl4Va6XC7c-8qWsH0ivxW/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "14b466be-32b6-463d-bb58-a9032a70ce79_B11 + B12. HSA. 2K9. Toán đại 12 (Thầy Thắng). LT - TIỆM CẬN.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "14b466be-32b6-463d-bb58-a9032a70ce79_B11 + B12. HSA. 2K9. Toán đại 12 (Thầy Thắng). LT - TIỆM CẬN.pdf",
+                          "link": "https://drive.google.com/file/d/1nhuvKiUNwz9UwyqsiAs8cNE_6LrNiY09/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "15efabf5-df6d-4dec-9a62-0702c757bd17_B11 + B12. HSA. 2K9. Toán đại 12 (Thầy Thắng). LT (FILE CÁCH) - TIỆM CẬN.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "15efabf5-df6d-4dec-9a62-0702c757bd17_B11 + B12. HSA. 2K9. Toán đại 12 (Thầy Thắng). LT (FILE CÁCH) - TIỆM CẬN.pdf",
+                          "link": "https://drive.google.com/file/d/16WYtTwf3DihAJx0u2GhOLR-Zx22_ckXg/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "1682e0dc-06de-4cc7-88c3-5a514d2050e6_B11 + B12. HSA. 2K9. Toán đại 12 (Thầy Thắng). LT(ĐA) - TIỆM CẬN.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "1682e0dc-06de-4cc7-88c3-5a514d2050e6_B11 + B12. HSA. 2K9. Toán đại 12 (Thầy Thắng). LT(ĐA) - TIỆM CẬN.pdf",
+                          "link": "https://drive.google.com/file/d/1TpWLntz37qOZ30nwE5OzVdB0wYpeBKWr/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "B11. HSA. 2K9. Toán đại 12 (Thầy Thắng). LT - TIỆM CẬN.mp4.mp4",
+                      "videos": [
+                        {
+                          "title": "B11. HSA. 2K9. Toán đại 12 (Thầy Thắng). LT - TIỆM CẬN.mp4.mp4",
+                          "link": "https://drive.google.com/file/d/1tUcaWGeBMqdKDhi6CrYLmLdJfC3PMRTc/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "b33bfcb9-4fdb-47b2-ab5c-fdee872e4acb_VIẾT TAY B11 (Buổi 1) TH01. LT (FILE CÁCH) - TIỆM CẬN.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "b33bfcb9-4fdb-47b2-ab5c-fdee872e4acb_VIẾT TAY B11 (Buổi 1) TH01. LT (FILE CÁCH) - TIỆM CẬN.pdf",
+                          "link": "https://drive.google.com/file/d/1pq1ifQc95ryYZfuvscL92JWFo51BDrwW/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "f8812a0b-9229-4146-a395-cc7524e97286_B11 + B12. HSA. 2K9. Toán đại 12 (Thầy Thắng). BT(ĐA) - TIỆM CẬN.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "f8812a0b-9229-4146-a395-cc7524e97286_B11 + B12. HSA. 2K9. Toán đại 12 (Thầy Thắng). BT(ĐA) - TIỆM CẬN.pdf",
+                          "link": "https://drive.google.com/file/d/1pWoow_p_Kjw_iXT266kcbl92I-ARAMHW/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "B12. HSA. 2K9. Toán đại 12 (Thầy Thắng). LT - TIỆM CẬN (TT)",
+                  "items": [
+                    {
+                      "name": "6c49ed2f-b308-422c-9d2f-28897f00e1e6_B11 + B12. HSA. 2K9. Toán đại 12 (Thầy Thắng). BT - TIỆM CẬN.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "6c49ed2f-b308-422c-9d2f-28897f00e1e6_B11 + B12. HSA. 2K9. Toán đại 12 (Thầy Thắng). BT - TIỆM CẬN.pdf",
+                          "link": "https://drive.google.com/file/d/1fYF8KVWTTkBV2dsmQHJa2ZZwkl1YOcQR/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "14b466be-32b6-463d-bb58-a9032a70ce79_B11 + B12. HSA. 2K9. Toán đại 12 (Thầy Thắng). LT - TIỆM CẬN.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "14b466be-32b6-463d-bb58-a9032a70ce79_B11 + B12. HSA. 2K9. Toán đại 12 (Thầy Thắng). LT - TIỆM CẬN.pdf",
+                          "link": "https://drive.google.com/file/d/1eUp4CMu8bDLK2J8dW_pfK3pJYivVmEnN/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "15efabf5-df6d-4dec-9a62-0702c757bd17_B11 + B12. HSA. 2K9. Toán đại 12 (Thầy Thắng). LT (FILE CÁCH) - TIỆM CẬN.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "15efabf5-df6d-4dec-9a62-0702c757bd17_B11 + B12. HSA. 2K9. Toán đại 12 (Thầy Thắng). LT (FILE CÁCH) - TIỆM CẬN.pdf",
+                          "link": "https://drive.google.com/file/d/1avgCN5VRdBGqzUlxpk25w7_uX9RogNcJ/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "1682e0dc-06de-4cc7-88c3-5a514d2050e6_B11 + B12. HSA. 2K9. Toán đại 12 (Thầy Thắng). LT(ĐA) - TIỆM CẬN.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "1682e0dc-06de-4cc7-88c3-5a514d2050e6_B11 + B12. HSA. 2K9. Toán đại 12 (Thầy Thắng). LT(ĐA) - TIỆM CẬN.pdf",
+                          "link": "https://drive.google.com/file/d/14_oIOVaOne9faekiIDTv3_ldJfjCYzLl/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "B12.HSA.2K9. Toán đại (Thầy Thắng) LT - TIỆM CẬN (TIẾP).mp4.mp4",
+                      "videos": [
+                        {
+                          "title": "B12.HSA.2K9. Toán đại (Thầy Thắng) LT - TIỆM CẬN (TIẾP).mp4.mp4",
+                          "link": "https://drive.google.com/file/d/12CdsA95Rld1-_DBsxk0xgXwbCN40-sQr/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "f8812a0b-9229-4146-a395-cc7524e97286_B11 + B12. HSA. 2K9. Toán đại 12 (Thầy Thắng). BT(ĐA) - TIỆM CẬN.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "f8812a0b-9229-4146-a395-cc7524e97286_B11 + B12. HSA. 2K9. Toán đại 12 (Thầy Thắng). BT(ĐA) - TIỆM CẬN.pdf",
+                          "link": "https://drive.google.com/file/d/1UDL6UL2mrd60826nsXODdsA9JX89SRaK/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "B13. HSA. 2K9. Toán đại 12 (Thầy Thắng). LT - ỨNG DỤNG HÀM SỐ VÀO BÀI TOÁN THỰC TẾ",
+                  "items": [
+                    {
+                      "name": "6ac55034-1162-48f7-896d-813aa0484acb_B13. PT01. HSA. 2K8. Toán đại 12 (Thầy Thắng). LT(ĐA) - ỨNG DỤNG HÀM SỐ VÀO BÀI TOÁN THỰC TẾ.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "6ac55034-1162-48f7-896d-813aa0484acb_B13. PT01. HSA. 2K8. Toán đại 12 (Thầy Thắng). LT(ĐA) - ỨNG DỤNG HÀM SỐ VÀO BÀI TOÁN THỰC TẾ.pdf",
+                          "link": "https://drive.google.com/file/d/1baoIvJH8C6ujLBUOdZwOZuyQncR0X8Og/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "16e1540b-d90e-4177-893c-78a054502784_VIẾT TAY B13. TH01. HSA. 2K9. Toán đại 12 (Thầy Thắng). LT (FILE CÁCH) - ỨNG DỤNG HÀM SỐ VÀO BÀI TOÁN THỰC TẾ.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "16e1540b-d90e-4177-893c-78a054502784_VIẾT TAY B13. TH01. HSA. 2K9. Toán đại 12 (Thầy Thắng). LT (FILE CÁCH) - ỨNG DỤNG HÀM SỐ VÀO BÀI TOÁN THỰC TẾ.pdf",
+                          "link": "https://drive.google.com/file/d/1QoXQo_GJIhfM2rBBmmdTrbeeN1ZMLl33/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "20e477ed-6bc4-47a4-8234-02c378084a7c_B13. PT01. HSA. 2K8. Toán đại 12 (Thầy Thắng). LT (FILE CÁCH) - ỨNG DỤNG HÀM SỐ VÀO BÀI TOÁN THỰC TẾ.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "20e477ed-6bc4-47a4-8234-02c378084a7c_B13. PT01. HSA. 2K8. Toán đại 12 (Thầy Thắng). LT (FILE CÁCH) - ỨNG DỤNG HÀM SỐ VÀO BÀI TOÁN THỰC TẾ.pdf",
+                          "link": "https://drive.google.com/file/d/1C3vxoBloa2Gj770RTWOkgAKee6QsAYpf/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "01760862-d51f-48f2-a748-e1f3f23a0a24_B13. PT01. HSA. 2K8. Toán đại 12 (Thầy Thắng). BT(ĐA) - ỨNG DỤNG HÀM SỐ VÀO BÀI TOÁN THỰC TẾ.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "01760862-d51f-48f2-a748-e1f3f23a0a24_B13. PT01. HSA. 2K8. Toán đại 12 (Thầy Thắng). BT(ĐA) - ỨNG DỤNG HÀM SỐ VÀO BÀI TOÁN THỰC TẾ.pdf",
+                          "link": "https://drive.google.com/file/d/12E94m77_6_iP6j8m__rdz33V7Mzrj5PO/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "af8be91d-d7b4-421e-b3c6-6e5f34a2ac89_B13. PT01. HSA. 2K8. Toán đại 12 (Thầy Thắng). BT -  DỤNG HÀM SỐ VÀO BÀI TOÁN THỰC TẾ.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "af8be91d-d7b4-421e-b3c6-6e5f34a2ac89_B13. PT01. HSA. 2K8. Toán đại 12 (Thầy Thắng). BT -  DỤNG HÀM SỐ VÀO BÀI TOÁN THỰC TẾ.pdf",
+                          "link": "https://drive.google.com/file/d/1xjq275n-WVZ82Im4pcANcjJ-NPjCTVYC/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "B13. HSA. 2K9. Toán đại 12 (Thầy Thắng). LT - ỨNG DỤNG HÀM SỐ VÀO BÀI TOÁN THỰC TẾ.mp4.mp4",
+                      "videos": [
+                        {
+                          "title": "B13. HSA. 2K9. Toán đại 12 (Thầy Thắng). LT - ỨNG DỤNG HÀM SỐ VÀO BÀI TOÁN THỰC TẾ.mp4.mp4",
+                          "link": "https://drive.google.com/file/d/1XU0r2G-SFKv8-nQt-JU4hdBRfM9SSiZ1/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "d704c3f1-30ea-4aef-9d48-cac39ef30301_B13. PT01. HSA. 2K8. Toán đại 12 (Thầy Thắng). LT - ỨNG DỤNG HÀM SỐ VÀO BÀI TOÁN THỰC TẾ.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "d704c3f1-30ea-4aef-9d48-cac39ef30301_B13. PT01. HSA. 2K8. Toán đại 12 (Thầy Thắng). LT - ỨNG DỤNG HÀM SỐ VÀO BÀI TOÁN THỰC TẾ.pdf",
+                          "link": "https://drive.google.com/file/d/1qFmgZ_-z8TkkxePlDRHtKTqE2y0YnJhE/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "B14. HSA. 2K9. Toán đại 12 (Thầy Thắng). LT - NGUYÊN HÀM HÀM SỐ CƠ BẢN",
+                  "items": [
+                    {
+                      "name": "7a9e6b25-8f4c-486a-8a4d-ae4d9b820000_B14. HSA. 2K9. Toán đại 12 (Thầy Thắng). BT(ĐA) - NGUYÊN HÀM HÀM SỐ CƠ BẢN.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "7a9e6b25-8f4c-486a-8a4d-ae4d9b820000_B14. HSA. 2K9. Toán đại 12 (Thầy Thắng). BT(ĐA) - NGUYÊN HÀM HÀM SỐ CƠ BẢN.pdf",
+                          "link": "https://drive.google.com/file/d/1a5nI_GzydDwnFf4jEpzXCkD-bR7TcMb3/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "410da2bc-bd06-45e4-ab07-01b2622bb53a_VIẾT TAY B14. HSA 01. 2K9. Toán đại 12 (Thầy Thắng). LT (File cách) - NGUYÊN HÀM HÀM SỐ CƠ BẢN.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "410da2bc-bd06-45e4-ab07-01b2622bb53a_VIẾT TAY B14. HSA 01. 2K9. Toán đại 12 (Thầy Thắng). LT (File cách) - NGUYÊN HÀM HÀM SỐ CƠ BẢN.pdf",
+                          "link": "https://drive.google.com/file/d/1vYUkU3YY7U1kSxoh0qLvB0qCxBl23rKG/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "112307f1-4d91-4915-acfb-578911363cf1_B14.HSA. 2K9. Toán đại 12 (Thầy Thắng). LT - NGUYÊN HÀM HÀM SỐ CƠ BẢN.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "112307f1-4d91-4915-acfb-578911363cf1_B14.HSA. 2K9. Toán đại 12 (Thầy Thắng). LT - NGUYÊN HÀM HÀM SỐ CƠ BẢN.pdf",
+                          "link": "https://drive.google.com/file/d/1o86zdps7brPuCKRNtlqD8k3V-O3sHUye/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "a306780e-27c3-466d-acc4-aa95ee369ebe_B14.HSA. 2K9. Toán đại 12 (Thầy Thắng). BT - NGUYÊN HÀM HÀM SỐ CƠ BẢN.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "a306780e-27c3-466d-acc4-aa95ee369ebe_B14.HSA. 2K9. Toán đại 12 (Thầy Thắng). BT - NGUYÊN HÀM HÀM SỐ CƠ BẢN.pdf",
+                          "link": "https://drive.google.com/file/d/117iCWq4tiWEsBJew2252A1DEsObxav15/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "B14.HSA.2K9. Toán đại (Thầy Thắng) LT - NGUYÊN HÀM HÀM SỐ CƠ BẢN.mp4",
+                      "videos": [
+                        {
+                          "title": "B14.HSA.2K9. Toán đại (Thầy Thắng) LT - NGUYÊN HÀM HÀM SỐ CƠ BẢN.mp4",
+                          "link": "https://drive.google.com/file/d/1wwiLHgNTGRxokI3U4eVBQY484eQ3EEkG/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "e2cdca23-f03f-4e4c-98fd-a15e2f222586_B14. HSA. 2K9. Toán đại 12 (Thầy Thắng). LT(ĐA) - NGUYÊN HÀM HÀM SỐ CƠ BẢN.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "e2cdca23-f03f-4e4c-98fd-a15e2f222586_B14. HSA. 2K9. Toán đại 12 (Thầy Thắng). LT(ĐA) - NGUYÊN HÀM HÀM SỐ CƠ BẢN.pdf",
+                          "link": "https://drive.google.com/file/d/1FWd2B7jokuc6botA9l-AQqGoIgmnX2QH/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "e521249c-946a-48a9-aa7f-0bf265d24317_B14. HSA. 2K9. Toán đại 12 (Thầy Thắng). LT (File cách) - NGUYÊN HÀM HÀM SỐ CƠ BẢN.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "e521249c-946a-48a9-aa7f-0bf265d24317_B14. HSA. 2K9. Toán đại 12 (Thầy Thắng). LT (File cách) - NGUYÊN HÀM HÀM SỐ CƠ BẢN.pdf",
+                          "link": "https://drive.google.com/file/d/1xO-yUc9MXht78hkwAxVhZuWK1t9Il_yx/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "B15. HSA. 2K9. Toán đại 12 (Thầy Thắng). LT - TÍCH PHÂN",
+                  "items": [
+                    {
+                      "name": "5bb2c719-cf56-40cd-8856-02d04c169cdf_B15. TH01. HSA. 2K9. Toán đại 12 (Thầy Thắng). BT - TÍCH PHÂN.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "5bb2c719-cf56-40cd-8856-02d04c169cdf_B15. TH01. HSA. 2K9. Toán đại 12 (Thầy Thắng). BT - TÍCH PHÂN.pdf",
+                          "link": "https://drive.google.com/file/d/1UGuwoUpFF2iHcPBND-UkBzASUXs0BvV0/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "34e0a56d-4a81-45ea-9b82-b66f36568151_B15. TH01. HSA. 2K9. Toán đại 12 (Thầy Thắng). LT (FILE CÁCH) - TÍCH PHÂN.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "34e0a56d-4a81-45ea-9b82-b66f36568151_B15. TH01. HSA. 2K9. Toán đại 12 (Thầy Thắng). LT (FILE CÁCH) - TÍCH PHÂN.pdf",
+                          "link": "https://drive.google.com/file/d/1wsZ6OydFwuEPG4fHmLFaDb0ZqEzMDWQw/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "079e225b-65ee-4078-a49b-7eed9f3fe5db_B15. TH01. HSA. 2K9. Toán đại 12 (Thầy Thắng). LT - TÍCH PHÂN.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "079e225b-65ee-4078-a49b-7eed9f3fe5db_B15. TH01. HSA. 2K9. Toán đại 12 (Thầy Thắng). LT - TÍCH PHÂN.pdf",
+                          "link": "https://drive.google.com/file/d/1ANtZeZPJzemCrp6p5I5XRlSyd6eNYMGe/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "424c2063-f001-4848-b538-eaf2fa98bd98_B15. TH01. HSA. 2K9. Toán đại 12 (Thầy Thắng). BT(ĐA) - TÍCH PHÂN.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "424c2063-f001-4848-b538-eaf2fa98bd98_B15. TH01. HSA. 2K9. Toán đại 12 (Thầy Thắng). BT(ĐA) - TÍCH PHÂN.pdf",
+                          "link": "https://drive.google.com/file/d/1TH9izZ4BZrlfqhPVaE2X9vB2FqBaXgY7/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "B15. HSA. 2K9. Toán đại 12 (Thầy Thắng). LT - TÍCH PHÂN.mp4",
+                      "videos": [
+                        {
+                          "title": "B15. HSA. 2K9. Toán đại 12 (Thầy Thắng). LT - TÍCH PHÂN.mp4",
+                          "link": "https://drive.google.com/file/d/1lkzGqGmoHryrbeWWNkhvwMOAHlMFRX_Y/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
                 }
               ]
             },
@@ -4055,6 +4467,194 @@ const COURSE_DATA = {
                           "link": "https://drive.google.com/file/d/1yfBh9moZCNLJ1we3545X9iwl3-WCzrEC/view?usp=drivesdk"
                         }
                       ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "BUỔI 11. HSA. TOÁN HÌNH (CÔ TRINH) - LT - PHƯƠNG TRÌNH MẶT CẦU PHẦN 1",
+                  "items": [
+                    {
+                      "name": "3bc3245d-e1f0-4481-97e4-ca72bc7d2a4b_HSA_HÌNH 11_LT_PHƯƠNG TRÌNH MẶT CẦU PHẦN 1.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "3bc3245d-e1f0-4481-97e4-ca72bc7d2a4b_HSA_HÌNH 11_LT_PHƯƠNG TRÌNH MẶT CẦU PHẦN 1.pdf",
+                          "link": "https://drive.google.com/file/d/1WVHV_N5iNLP_vJCsPG95O-p3WhmHaN9I/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "75c950b3-09bd-49b6-845c-8e5b7286fbe3_HSA_ HÌNH 11_bút đỏ_PHƯƠNG TRÌNH MẶT CẦU PHẦN 1.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "75c950b3-09bd-49b6-845c-8e5b7286fbe3_HSA_ HÌNH 11_bút đỏ_PHƯƠNG TRÌNH MẶT CẦU PHẦN 1.pdf",
+                          "link": "https://drive.google.com/file/d/1y0_mzosHyl0Xjuqp5dkeMlC5tR-_sxeX/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "921addfa-3289-41f2-a450-292efcfbac32_HSA_HÌNH 11_LT(không dòng chấm)_PHƯƠNG TRÌNH MẶT CẦU PHẦN 1.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "921addfa-3289-41f2-a450-292efcfbac32_HSA_HÌNH 11_LT(không dòng chấm)_PHƯƠNG TRÌNH MẶT CẦU PHẦN 1.pdf",
+                          "link": "https://drive.google.com/file/d/1wdZYA868z0omtEXzNGUoqCJsDhbrUslE/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "BUỔI 11. HSA. TOÁN HÌNH (CÔ TRINH) - LT - PHƯƠNG TRÌNH MẶT CẦU PHẦN 1.mp4",
+                      "videos": [
+                        {
+                          "title": "BUỔI 11. HSA. TOÁN HÌNH (CÔ TRINH) - LT - PHƯƠNG TRÌNH MẶT CẦU PHẦN 1.mp4",
+                          "link": "https://drive.google.com/file/d/1ET9RuGuexjylVF1PohAPzhfn8CYs_7d-/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "ccc22617-1e10-47ca-9c14-47785a662eb2_HSA_ HÌNH 11_BT_PHƯƠNG TRÌNH MẶT CẦU PHẦN 1.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "ccc22617-1e10-47ca-9c14-47785a662eb2_HSA_ HÌNH 11_BT_PHƯƠNG TRÌNH MẶT CẦU PHẦN 1.pdf",
+                          "link": "https://drive.google.com/file/d/1vSOalsyXqBfxZsE_S6WqX8cbPOm5pa5v/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "f5e00cff-2dba-4988-838a-b589140f4424_HSA_HÌNH 11_ĐABT_PHƯƠNG TRÌNH MẶT CẦU PHẦN 1.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "f5e00cff-2dba-4988-838a-b589140f4424_HSA_HÌNH 11_ĐABT_PHƯƠNG TRÌNH MẶT CẦU PHẦN 1.pdf",
+                          "link": "https://drive.google.com/file/d/1oB7CZ1NqsE3akOm63y8HBkUtEKkLIZSj/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "BUỔI 12. HSA. TOÁN HÌNH (CÔ TRINH) - LT - PHƯƠNG TRÌNH MẶT CẦU PHẦN 2",
+                  "items": [
+                    {
+                      "name": "403a24e4-65c1-4ff7-a5f1-a911f6390864_HSA_HÌNH 12_LT_PHƯƠNG TRÌNH MẶT CẦU PHẦN 2.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "403a24e4-65c1-4ff7-a5f1-a911f6390864_HSA_HÌNH 12_LT_PHƯƠNG TRÌNH MẶT CẦU PHẦN 2.pdf",
+                          "link": "https://drive.google.com/file/d/1zdGxccuQa1MP7PzJQaMRVcAok5oaqnzE/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "785f0c5a-541b-4d16-8e48-ef61a2721022_HSA_HÌNH 12_ĐABT_PHƯƠNG TRÌNH MẶT CẦU PHẦN 2.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "785f0c5a-541b-4d16-8e48-ef61a2721022_HSA_HÌNH 12_ĐABT_PHƯƠNG TRÌNH MẶT CẦU PHẦN 2.pdf",
+                          "link": "https://drive.google.com/file/d/169oDJKM453Csc0FqiYmgZ9VjNEbsiQd-/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "111475e4-9f27-4a7d-8620-d3436446f1aa_HSA_HÌNH 12_LT (Không dòng chấm)_PHƯƠNG TRÌNH MẶT CẦU PHẦN 2.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "111475e4-9f27-4a7d-8620-d3436446f1aa_HSA_HÌNH 12_LT (Không dòng chấm)_PHƯƠNG TRÌNH MẶT CẦU PHẦN 2.pdf",
+                          "link": "https://drive.google.com/file/d/1CPaR-uJFg-1HXWo4tbjNw3jQgAGaixcl/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "847191ba-9546-427b-9b9b-0d636e16e7be_HSA_HÌNH 12_bút đỏ_PHƯƠNG TRÌNH MẶT CẦU PHẦN 2.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "847191ba-9546-427b-9b9b-0d636e16e7be_HSA_HÌNH 12_bút đỏ_PHƯƠNG TRÌNH MẶT CẦU PHẦN 2.pdf",
+                          "link": "https://drive.google.com/file/d/1IlNLqWphcd8rRw4ZTYqHK47aP1DY803g/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "BUỔI 12. HSA. TOÁN HÌNH (CÔ TRINH) - LT - PHƯƠNG TRÌNH MẶT CẦU PHẦN 2.mp4",
+                      "videos": [
+                        {
+                          "title": "BUỔI 12. HSA. TOÁN HÌNH (CÔ TRINH) - LT - PHƯƠNG TRÌNH MẶT CẦU PHẦN 2.mp4",
+                          "link": "https://drive.google.com/file/d/1rGwfQQ5WP6yxrfAZy8-HhSfFgwSBy3FK/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "ecb5da9a-179f-4bea-9b8c-d540eea3f0ed_HSA_HÌNH 12_BT_PHƯƠNG TRÌNH MẶT CẦU PHẦN 2.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "ecb5da9a-179f-4bea-9b8c-d540eea3f0ed_HSA_HÌNH 12_BT_PHƯƠNG TRÌNH MẶT CẦU PHẦN 2.pdf",
+                          "link": "https://drive.google.com/file/d/16EADRn9tWXDYb4YlOPMV5UuOfJdpPvCj/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "BUỔI 13. HSA. TOÁN HÌNH (CÔ TRINH) - LT - CÁC BÀI TOÁN CÓ YẾU TỐ THỰC TẾ LIÊN QUAN ĐẾN ĐT, MP, MC",
+                  "items": [
+                    {
+                      "name": "1b4f57c8-4564-40cf-8d33-641d4543c92a_HSA_HÌNH 13_LT(khongdongcham)_Các bài toán có yếu tố thực tế liên quan đến ĐT, MP, MC.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "1b4f57c8-4564-40cf-8d33-641d4543c92a_HSA_HÌNH 13_LT(khongdongcham)_Các bài toán có yếu tố thực tế liên quan đến ĐT, MP, MC.pdf",
+                          "link": "https://drive.google.com/file/d/12zFB5CeElXrK4EDpUQ7pOr3Ev6VWMGnM/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "08b8952b-f6ca-4088-aa22-1ab201c45956_HSA_HÌNH 13_LT_Các bài toán có yếu tố thực tế liên quan đến ĐT, MP, MC.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "08b8952b-f6ca-4088-aa22-1ab201c45956_HSA_HÌNH 13_LT_Các bài toán có yếu tố thực tế liên quan đến ĐT, MP, MC.pdf",
+                          "link": "https://drive.google.com/file/d/1fXKAuqZ5Jm5hd1qJgNRoh-_gmKKfT-8Z/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "94b7a2d4-e0cb-4c10-a308-c5af84b88b37_HSA_HÌNH 13_BT_Các bài toán có yếu tố thực tế liên quan đến ĐT, MP, MC.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "94b7a2d4-e0cb-4c10-a308-c5af84b88b37_HSA_HÌNH 13_BT_Các bài toán có yếu tố thực tế liên quan đến ĐT, MP, MC.pdf",
+                          "link": "https://drive.google.com/file/d/1xT-Vp9wR-FNj-oLOZSHMGXfi1AW0-2n5/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "898e4a0a-60db-47be-a9cf-407473221026_HSA_HÌNH 13_ĐABT_Các bài toán có yếu tố thực tế liên quan đến ĐT, MP, MC.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "898e4a0a-60db-47be-a9cf-407473221026_HSA_HÌNH 13_ĐABT_Các bài toán có yếu tố thực tế liên quan đến ĐT, MP, MC.pdf",
+                          "link": "https://drive.google.com/file/d/1BVHv9dgcTXYUmMvffqWcIw-88ctBc_xc/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "BUỔI 13. HSA. TOÁN HÌNH (CÔ TRINH) - LT - CÁC BÀI TOÁN CÓ YẾU TỐ THỰC TẾ LIÊN QUAN ĐẾN ĐT, MP, MC.mp4",
+                      "videos": [
+                        {
+                          "title": "BUỔI 13. HSA. TOÁN HÌNH (CÔ TRINH) - LT - CÁC BÀI TOÁN CÓ YẾU TỐ THỰC TẾ LIÊN QUAN ĐẾN ĐT, MP, MC.mp4",
+                          "link": "https://drive.google.com/file/d/1NZxFbVxsAIRO7zodUxcbSk3KWejKFqgk/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
                     }
                   ],
                   "children": []
@@ -4948,6 +5548,186 @@ const COURSE_DATA = {
                         {
                           "title": "HSA.2K9. Tư. duy định tính (Thầy Linh) Chuyên đề Truyện (Tiếp 1).mp4",
                           "link": "https://drive.google.com/file/d/1s9hoYksTt8lb6HGdf2nI-oBVG5nlVYb6/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "B7-9.HSA.2K9. Tư duy định tính (Thầy Linh) Chuyên đề Truyện",
+                  "items": [
+                    {
+                      "name": "2cfa96dc-6c47-4e5d-9db8-fd2d45c333f0_TH01.2K9. Tư duy định tính (Thầy Linh) Chuyên đề Truyện.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "2cfa96dc-6c47-4e5d-9db8-fd2d45c333f0_TH01.2K9. Tư duy định tính (Thầy Linh) Chuyên đề Truyện.pdf",
+                          "link": "https://drive.google.com/file/d/1gx91njJezVFWnsoDcK7r7emOJMgfLrjs/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "HSA.2K9. Tư duy định tính (Thầy Linh) Chuyên đề Truyện (Tiếp).mp4",
+                      "videos": [
+                        {
+                          "title": "HSA.2K9. Tư duy định tính (Thầy Linh) Chuyên đề Truyện (Tiếp).mp4",
+                          "link": "https://drive.google.com/file/d/1k34quPifdwM7ABcxAyL_u0b5VMgVzKM4/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "HSA.2K9. Tư duy định tính (Thầy Linh) Chuyên đề Truyện.mp4",
+                      "videos": [
+                        {
+                          "title": "HSA.2K9. Tư duy định tính (Thầy Linh) Chuyên đề Truyện.mp4",
+                          "link": "https://drive.google.com/file/d/1xb1-Yrpp4t9zvKe5YiEEKet1HZSFIQ4Y/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "HSA.2K9. Tư. duy định tính (Thầy Linh) Chuyên đề Truyện (Tiếp 1).mp4",
+                      "videos": [
+                        {
+                          "title": "HSA.2K9. Tư. duy định tính (Thầy Linh) Chuyên đề Truyện (Tiếp 1).mp4",
+                          "link": "https://drive.google.com/file/d/1o7ZLPJRUssJL_IaDh6F1BVH2eso9f8PV/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "B10-HSA.2K9. Tư duy định tính (Thầy Linh) Đề kiểm tra định kì",
+                  "items": [
+                    {
+                      "name": "e752f57b-cd32-43c6-9148-2ccde3bce9c3_TH01.2K9. Tư duy định tính (Thầy Linh) Đề kiểm tra định kì.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "e752f57b-cd32-43c6-9148-2ccde3bce9c3_TH01.2K9. Tư duy định tính (Thầy Linh) Đề kiểm tra định kì.pdf",
+                          "link": "https://drive.google.com/file/d/11wAIOGRK8CYXhLHGYedlO85Tze3Pw1xI/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "HSA.2K9. Tư duy định tính (Thầy Linh) Đề kiểm tra định kì.mp4.mp4",
+                      "videos": [
+                        {
+                          "title": "HSA.2K9. Tư duy định tính (Thầy Linh) Đề kiểm tra định kì.mp4.mp4",
+                          "link": "https://drive.google.com/file/d/1C5UvnEUnjMGFHJA2Q7-YpHW7JVDCXnV-/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "B11-12.HSA.2K9. Tư duy định tính (Thầy Linh) Chuyên đề Kí",
+                  "items": [
+                    {
+                      "name": "30f4fb4b-2d1f-4b92-91f3-a112096a163c_CHUYÊN ĐỀ KÍ.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "30f4fb4b-2d1f-4b92-91f3-a112096a163c_CHUYÊN ĐỀ KÍ.pdf",
+                          "link": "https://drive.google.com/file/d/1wAkA6exHoD9uWXtsAtEF20Thq-m5f3CC/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "HSA.2K9. Định tính (Thầy Linh) LT - KÍ VÀ TRUYỆN KÍ.mp4",
+                      "videos": [
+                        {
+                          "title": "HSA.2K9. Định tính (Thầy Linh) LT - KÍ VÀ TRUYỆN KÍ.mp4",
+                          "link": "https://drive.google.com/file/d/1N9BwogyQVje7DrviyKPMsO64PD6idbKn/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "HSA.2K9.Tư duy định tính (Thầy Linh) LT - Chuyên đề Kí.mp4.mp4",
+                      "videos": [
+                        {
+                          "title": "HSA.2K9.Tư duy định tính (Thầy Linh) LT - Chuyên đề Kí.mp4.mp4",
+                          "link": "https://drive.google.com/file/d/1kwV_H7pG3oI9Ce2HJwrLa9-QEAHm0yEL/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "B13.HSA.2K9. Tư duy định tính (Thầy Linh) Luyện tập từ vựng",
+                  "items": [
+                    {
+                      "name": "a423a5c0-3573-4cc0-9aa9-4dfd5ac53b78_HSA.2K9. VĂN HỌC (THẦY LINH). Luyện tập Từ vựng.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "a423a5c0-3573-4cc0-9aa9-4dfd5ac53b78_HSA.2K9. VĂN HỌC (THẦY LINH). Luyện tập Từ vựng.pdf",
+                          "link": "https://drive.google.com/file/d/1IRZfT998s3OjG8DjDLcLoQnDOBphI8F0/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "HSA.2K9.Định tính (Thầy Linh) Luyện tập từ vựng.mp4",
+                      "videos": [
+                        {
+                          "title": "HSA.2K9.Định tính (Thầy Linh) Luyện tập từ vựng.mp4",
+                          "link": "https://drive.google.com/file/d/11AF_UTWE9EdDNGCoIcbFoOQkkLJNdJl9/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "B14-16.HSA.2K9. Tư duy định tính (Thầy Linh) Văn bản thông tin",
+                  "items": [
+                    {
+                      "name": "6dc15303-d334-46c3-a0b7-9a6eb5f32d12_HSA.2K9. VĂN HỌC (THẦY LINH). Văn bản thông tin.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "6dc15303-d334-46c3-a0b7-9a6eb5f32d12_HSA.2K9. VĂN HỌC (THẦY LINH). Văn bản thông tin.pdf",
+                          "link": "https://drive.google.com/file/d/1jHBDxRDmV_jXsQF67Ym5hZb1ak6F2Vqa/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "B15.HSA.2K9. Tư duy định tính (Thầy Linh) Văn bản thông tin (Tiếp).mp4",
+                      "videos": [
+                        {
+                          "title": "B15.HSA.2K9. Tư duy định tính (Thầy Linh) Văn bản thông tin (Tiếp).mp4",
+                          "link": "https://drive.google.com/file/d/1sCVEPF69b8H1fdFvcXaBdDJupKznZDJU/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "B16.HSA.2K9. Tư duy định tính (Thầy Linh) Văn bản thông tin (Tiếp).mp4",
+                      "videos": [
+                        {
+                          "title": "B16.HSA.2K9. Tư duy định tính (Thầy Linh) Văn bản thông tin (Tiếp).mp4",
+                          "link": "https://drive.google.com/file/d/1JewKQsglprAONg6QUkLbDvC1W3xrAAdD/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "HSA.2K9.Định tính (Thầy Linh) LT - VĂN BẢN THÔNG TIN.mp4",
+                      "videos": [
+                        {
+                          "title": "HSA.2K9.Định tính (Thầy Linh) LT - VĂN BẢN THÔNG TIN.mp4",
+                          "link": "https://drive.google.com/file/d/1QtgNgbdzCNJnLOwSBgPbwnxqoHfSVwej/view?usp=drivesdk"
                         }
                       ],
                       "pdfs": []
@@ -6166,6 +6946,202 @@ const COURSE_DATA = {
                     }
                   ],
                   "children": []
+                },
+                {
+                  "title": "Buổi 11 - MỆNH ĐỀ QUAN HỆ (TIẾP)",
+                  "items": [
+                    {
+                      "name": "82f99dd1-9b6f-4203-a97a-ec656812302e_VOCAB U7.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "82f99dd1-9b6f-4203-a97a-ec656812302e_VOCAB U7.pdf",
+                          "link": "https://drive.google.com/file/d/1LH38-I45N0XVTVbcG__5q9AkIX1h-b3Y/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "61670a7c-01d3-4227-8f7b-2901b0beaa8d_HOMEWORK BUỔI 11 HSA TH01.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "61670a7c-01d3-4227-8f7b-2901b0beaa8d_HOMEWORK BUỔI 11 HSA TH01.pdf",
+                          "link": "https://drive.google.com/file/d/1BuDx4asAs8An4e4Zhjzo2BIRd9Tb2Avc/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "B11.HSA.2K9.Tiếng Anh (Thầy Đức) LT- MỆNH ĐỀ QUAN HỆ (TIẾP).mp4.mp4",
+                      "videos": [
+                        {
+                          "title": "B11.HSA.2K9.Tiếng Anh (Thầy Đức) LT- MỆNH ĐỀ QUAN HỆ (TIẾP).mp4.mp4",
+                          "link": "https://drive.google.com/file/d/12frOD6h2_o6icEugrrGY0RHehpIieBUe/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "bc573260-d8f9-46ff-94b2-875a3f4100ab_BUỔI 11 TH01.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "bc573260-d8f9-46ff-94b2-875a3f4100ab_BUỔI 11 TH01.pdf",
+                          "link": "https://drive.google.com/file/d/1bUxFp4lZkQOMEbOPBGGjGnTdz317r9Mx/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "Buổi 12 - MỆNH ĐỀ QUAN HỆ (TIẾP)",
+                  "items": [
+                    {
+                      "name": "539f34bf-7a24-4e64-9222-4ee0e73cac6e_HW BUỔI 12 TH01.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "539f34bf-7a24-4e64-9222-4ee0e73cac6e_HW BUỔI 12 TH01.pdf",
+                          "link": "https://drive.google.com/file/d/1JGC-cIWWRSE7fW0dEo86RPHCKs-k2dJo/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "ba8f82a5-07ef-4208-8db7-1205449880a8_BUỔI 12 TH01.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "ba8f82a5-07ef-4208-8db7-1205449880a8_BUỔI 12 TH01.pdf",
+                          "link": "https://drive.google.com/file/d/1vl4WMoCDVZtJREIDTEpWpYl-NH2wnyrq/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Buổi 12 - MỆNH ĐỀ QUAN HỆ (TIẾP).mp4.mp4",
+                      "videos": [
+                        {
+                          "title": "Buổi 12 - MỆNH ĐỀ QUAN HỆ (TIẾP).mp4.mp4",
+                          "link": "https://drive.google.com/file/d/1U2aHYO8u7vGrfVHYM-LvXf3LYh0jN60Y/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "Buổi 13_ MỆNH ĐỀ TRẠNG NGỮ",
+                  "items": [
+                    {
+                      "name": "764f9d8a-b34a-4eb9-96b3-fdaa891c333a_HW BUỔI 13 TH01.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "764f9d8a-b34a-4eb9-96b3-fdaa891c333a_HW BUỔI 13 TH01.pdf",
+                          "link": "https://drive.google.com/file/d/1yos6NYrNAgdHxV-BteJdgDIePuCPgm9R/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "2148d9e4-3bdd-491a-8e5e-8a21155fae02_BUỔI 13 TH01.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "2148d9e4-3bdd-491a-8e5e-8a21155fae02_BUỔI 13 TH01.pdf",
+                          "link": "https://drive.google.com/file/d/1g88QASLgEWXw1rDXGvuCtg10CfqApw2B/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Buổi 13- MỆNH ĐỀ TRẠNG NGỮ.mp4",
+                      "videos": [
+                        {
+                          "title": "Buổi 13- MỆNH ĐỀ TRẠNG NGỮ.mp4",
+                          "link": "https://drive.google.com/file/d/1C2tnujbGdMCKjtSnx_W2ugDHF4Amln8w/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "Buổi 14 - MỆNH ĐỀ TRẠNG NGỮ (TIẾP 2)",
+                  "items": [
+                    {
+                      "name": "24837524-9ab3-4942-8b1c-3db58d47542d_BUỔI 14 TH01.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "24837524-9ab3-4942-8b1c-3db58d47542d_BUỔI 14 TH01.pdf",
+                          "link": "https://drive.google.com/file/d/1aKzijE2WZp6wgmjxYeZN_pArcWTukHzq/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "BUỔI 14 - MỆNH ĐỀ TRẠNG NGỮ (TIẾP 2).mp4",
+                      "videos": [
+                        {
+                          "title": "BUỔI 14 - MỆNH ĐỀ TRẠNG NGỮ (TIẾP 2).mp4",
+                          "link": "https://drive.google.com/file/d/1_BTUiN248AKyW1Pq5yOotuaU_aS8cWWV/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "Buổi 15 - MỆNH ĐỀ TRẠNG NGỮ (TIẾP 2)",
+                  "items": [
+                    {
+                      "name": "5fb7a78b-7efd-498e-b9fa-a1a06ca08fa0_BUỔI 15 TH01.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "5fb7a78b-7efd-498e-b9fa-a1a06ca08fa0_BUỔI 15 TH01.pdf",
+                          "link": "https://drive.google.com/file/d/1wlozZY-BRVSetEY1ZXdrUs4QEDDLtxiM/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "HSA.2K9.Tiếng Anh (thầy Đức) Mệnh đề trạng ngữ (Tiếp 2).mp4",
+                      "videos": [
+                        {
+                          "title": "HSA.2K9.Tiếng Anh (thầy Đức) Mệnh đề trạng ngữ (Tiếp 2).mp4",
+                          "link": "https://drive.google.com/file/d/1s9GwXQgLOwKGcqrCAsmgvWuSO2HqeYgV/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "Buổi 16 - CÂU TƯỜNG THUẬT (TIẾP 3)",
+                  "items": [
+                    {
+                      "name": "f89731a4-0add-4a65-a5e3-5f559879cd6b_BUỔI 16  TH01.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "f89731a4-0add-4a65-a5e3-5f559879cd6b_BUỔI 16  TH01.pdf",
+                          "link": "https://drive.google.com/file/d/1d1OTkpQu2YQbYwXWjB_9Xel9FKP6MgTe/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "HSA.2K9. Tiếng Anh (thầy Đức) - CÂU TƯỜNG THUẬT (TIẾP)_2.mp4",
+                      "videos": [
+                        {
+                          "title": "HSA.2K9. Tiếng Anh (thầy Đức) - CÂU TƯỜNG THUẬT (TIẾP)_2.mp4",
+                          "link": "https://drive.google.com/file/d/1dBFGN0ljjBq427bLRP_T2RDrJ0ZKQDvI/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
                 }
               ]
             }
@@ -6522,6 +7498,156 @@ const COURSE_DATA = {
                         }
                       ],
                       "children": []
+                    },
+                    {
+                      "title": "B11-NT01.HSA.2K9. VẬT LÝ 11 (THẦY ĐƯỢC) - CHƯƠNG 4_ CƯỜNG ĐỘ DÒNG ĐIỆN",
+                      "items": [
+                        {
+                          "name": "B11-NT01.HSA.2K9. VẬT LÝ 11 (THẦY ĐƯỢC) - CHƯƠNG 4 CƯỜNG ĐỘ DÒNG ĐIỆN.mp4",
+                          "videos": [
+                            {
+                              "title": "B11-NT01.HSA.2K9. VẬT LÝ 11 (THẦY ĐƯỢC) - CHƯƠNG 4 CƯỜNG ĐỘ DÒNG ĐIỆN.mp4",
+                              "link": "https://drive.google.com/file/d/1q0COm3y3crZilKs4Hip41BMYqOK1atI2/view?usp=drivesdk"
+                            }
+                          ],
+                          "pdfs": []
+                        },
+                        {
+                          "name": "c29aed7f-88bf-404f-9033-7bd5f2dbcda7_B11-NT01.HSA.2K9.VẬT LÝ 11 (THẦY ĐƯỢC) _ VIETTAY CƯỜNG ĐỘ DÒNG ĐIỆN (1).pdf",
+                          "videos": [],
+                          "pdfs": [
+                            {
+                              "title": "c29aed7f-88bf-404f-9033-7bd5f2dbcda7_B11-NT01.HSA.2K9.VẬT LÝ 11 (THẦY ĐƯỢC) _ VIETTAY CƯỜNG ĐỘ DÒNG ĐIỆN (1).pdf",
+                              "link": "https://drive.google.com/file/d/14dU0JdYYf-L6XsaoqCRQz_S5mmN6OPh9/view?usp=drivesdk"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "dd070ec9-5599-471e-9592-8d29a4097308_B11-NT01.HSA.2K9.VẬT LÝ 11 (THẦY ĐƯỢC) _ CƯỜNG ĐỘ DÒNG ĐIỆN (1).pdf",
+                          "videos": [],
+                          "pdfs": [
+                            {
+                              "title": "dd070ec9-5599-471e-9592-8d29a4097308_B11-NT01.HSA.2K9.VẬT LÝ 11 (THẦY ĐƯỢC) _ CƯỜNG ĐỘ DÒNG ĐIỆN (1).pdf",
+                              "link": "https://drive.google.com/file/d/1QXhPv7wpb59qJiMSxD4HE4iTITucTIl_/view?usp=drivesdk"
+                            }
+                          ]
+                        }
+                      ],
+                      "children": []
+                    },
+                    {
+                      "title": "B12-NT01.HSA.2K9. VẬT LÝ 11 (THẦY ĐƯỢC) - ĐIỆN TRỞ, ĐỊNH LUẬT OHM",
+                      "items": [
+                        {
+                          "name": "9cbceda6-a970-441b-a469-8e9673200c9b_B12-NT01.HSA.2K9.VẬT LÝ 11 (THẦY ĐƯỢC)_ VIETTAY ĐIỆN TRỞ. ĐỊNH LUẬT OHM (1).pdf",
+                          "videos": [],
+                          "pdfs": [
+                            {
+                              "title": "9cbceda6-a970-441b-a469-8e9673200c9b_B12-NT01.HSA.2K9.VẬT LÝ 11 (THẦY ĐƯỢC)_ VIETTAY ĐIỆN TRỞ. ĐỊNH LUẬT OHM (1).pdf",
+                              "link": "https://drive.google.com/file/d/1m8Pbrw58XQIqAtw7HqWptxVPfGo_V-wE/view?usp=drivesdk"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "b6a48351-2b57-4677-a080-86d6fa594935_B12-NT01.HSA.2K9.VẬT LÝ 11 (THẦY ĐƯỢC)_ĐIỆN TRỞ. ĐỊNH LUẬT OHM (1).pdf",
+                          "videos": [],
+                          "pdfs": [
+                            {
+                              "title": "b6a48351-2b57-4677-a080-86d6fa594935_B12-NT01.HSA.2K9.VẬT LÝ 11 (THẦY ĐƯỢC)_ĐIỆN TRỞ. ĐỊNH LUẬT OHM (1).pdf",
+                              "link": "https://drive.google.com/file/d/1lcioorf4DZPc9T-vqrhQRywwdWwEdr9X/view?usp=drivesdk"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "B12-NT01.HSA.2K9. VẬT LÝ 11 (THẦY ĐƯỢC) - ĐIỆN TRỞ, ĐỊNH LUẬT OHM.mp4",
+                          "videos": [
+                            {
+                              "title": "B12-NT01.HSA.2K9. VẬT LÝ 11 (THẦY ĐƯỢC) - ĐIỆN TRỞ, ĐỊNH LUẬT OHM.mp4",
+                              "link": "https://drive.google.com/file/d/1OjJZeH__DTVaqtcSJULbQax-SP2BxFII/view?usp=drivesdk"
+                            }
+                          ],
+                          "pdfs": []
+                        }
+                      ],
+                      "children": []
+                    },
+                    {
+                      "title": "B13-NT01.HSA.2K9. VẬT LÝ 11 (THẦY ĐƯỢC) - NGUỒN ĐIỆN",
+                      "items": [
+                        {
+                          "name": "152dd987-99f4-4ef6-b44e-45f1c4e65fb9_B13-NT01.HSA.2K9.VẬT LÝ 11 (THẦY ĐƯỢC) - NGUỒN ĐIỆN (1).pdf",
+                          "videos": [],
+                          "pdfs": [
+                            {
+                              "title": "152dd987-99f4-4ef6-b44e-45f1c4e65fb9_B13-NT01.HSA.2K9.VẬT LÝ 11 (THẦY ĐƯỢC) - NGUỒN ĐIỆN (1).pdf",
+                              "link": "https://drive.google.com/file/d/1XcpVkInhqq_k3ApL2DkjnTcHaiX1h06v/view?usp=drivesdk"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "B13-NT01.HSA.2K9. VẬT LÝ 11 (THẦY ĐƯỢC) - NGUỒN ĐIỆN.mp4",
+                          "videos": [
+                            {
+                              "title": "B13-NT01.HSA.2K9. VẬT LÝ 11 (THẦY ĐƯỢC) - NGUỒN ĐIỆN.mp4",
+                              "link": "https://drive.google.com/file/d/1IiKiguNaRiK2TnaSeSyC8FxkBNu2fawP/view?usp=drivesdk"
+                            }
+                          ],
+                          "pdfs": []
+                        }
+                      ],
+                      "children": []
+                    },
+                    {
+                      "title": "B14-NT01.HSA.2K9. VẬT LÝ 11 (THẦY ĐƯỢC) - ÔN TẬP HK2",
+                      "items": [
+                        {
+                          "name": "500f941a-f7ce-4d34-8155-cec0c8c23ac2_B14-NT01.HSA.2K9.VẬT LÝ 11 (THẦY ĐƯỢC) - ÔN TẬP HK2.pdf",
+                          "videos": [],
+                          "pdfs": [
+                            {
+                              "title": "500f941a-f7ce-4d34-8155-cec0c8c23ac2_B14-NT01.HSA.2K9.VẬT LÝ 11 (THẦY ĐƯỢC) - ÔN TẬP HK2.pdf",
+                              "link": "https://drive.google.com/file/d/1_ogNu8YExTU5CnikMuW6U4TvqfntXRKW/view?usp=drivesdk"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "B14-NT01.HSA.2K9. VẬT LÝ 11 (THẦY ĐƯỢC) - ÔN TẬP HK2.mp4",
+                          "videos": [
+                            {
+                              "title": "B14-NT01.HSA.2K9. VẬT LÝ 11 (THẦY ĐƯỢC) - ÔN TẬP HK2.mp4",
+                              "link": "https://drive.google.com/file/d/1sMIAgzl6xzFEBLtwPxjjrg4ZQrSuplne/view?usp=drivesdk"
+                            }
+                          ],
+                          "pdfs": []
+                        }
+                      ],
+                      "children": []
+                    },
+                    {
+                      "title": "B15-NT01.HSA.2K9. VẬT LÝ 11 (THẦY ĐƯỢC) - ÔN TẬP HK2 (TIẾP)",
+                      "items": [
+                        {
+                          "name": "500f941a-f7ce-4d34-8155-cec0c8c23ac2_B14-NT01.HSA.2K9.VẬT LÝ 11 (THẦY ĐƯỢC) - ÔN TẬP HK2.pdf",
+                          "videos": [],
+                          "pdfs": [
+                            {
+                              "title": "500f941a-f7ce-4d34-8155-cec0c8c23ac2_B14-NT01.HSA.2K9.VẬT LÝ 11 (THẦY ĐƯỢC) - ÔN TẬP HK2.pdf",
+                              "link": "https://drive.google.com/file/d/1xf78qthw4IxZRn0H81Wz8fCOCdDPQSZc/view?usp=drivesdk"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "B15-NT01.HSA.2K9. VẬT LÝ 11 (THẦY ĐƯỢC) - ÔN TẬP HK2 (TIẾP).mp4",
+                          "videos": [
+                            {
+                              "title": "B15-NT01.HSA.2K9. VẬT LÝ 11 (THẦY ĐƯỢC) - ÔN TẬP HK2 (TIẾP).mp4",
+                              "link": "https://drive.google.com/file/d/17KpzLgawQehjjWDhqo7heg1PyY0_CG6g/view?usp=drivesdk"
+                            }
+                          ],
+                          "pdfs": []
+                        }
+                      ],
+                      "children": []
                     }
                   ]
                 }
@@ -6871,6 +7997,166 @@ const COURSE_DATA = {
                             }
                           ],
                           "pdfs": []
+                        }
+                      ],
+                      "children": []
+                    },
+                    {
+                      "title": "B11.NT01.HSA.2K9. HÓA HỌC (THẦY THẮNG) - TỔNG ÔN ALCOHOL PHENOL",
+                      "items": [
+                        {
+                          "name": "3e3ff6fe-4faf-421c-ad78-aa536f3207da_B11 - NT01.2K9.Hóa học (Thầy Thắng) - Phiếu Số 11 -Tổng Ôn Alcohol Phenol.pdf",
+                          "videos": [],
+                          "pdfs": [
+                            {
+                              "title": "3e3ff6fe-4faf-421c-ad78-aa536f3207da_B11 - NT01.2K9.Hóa học (Thầy Thắng) - Phiếu Số 11 -Tổng Ôn Alcohol Phenol.pdf",
+                              "link": "https://drive.google.com/file/d/1YRWUGBjFFy2oo5QBSUpDnt4Wza93-FW9/view?usp=drivesdk"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "7e93e8cb-d066-4b18-a178-a3dc18ae22bf_B11 - NT01.2K9.Hóa học (Thầy Thắng) - Phiếu Số 11 - Bản Viết Tay Alcohol, Phenol.pdf",
+                          "videos": [],
+                          "pdfs": [
+                            {
+                              "title": "7e93e8cb-d066-4b18-a178-a3dc18ae22bf_B11 - NT01.2K9.Hóa học (Thầy Thắng) - Phiếu Số 11 - Bản Viết Tay Alcohol, Phenol.pdf",
+                              "link": "https://drive.google.com/file/d/1UkWBKSJ09j0H2TXFBmNbd1iYFHLkVMnb/view?usp=drivesdk"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "B11.NT01.HSA.2K9. HÓA HỌC (THẦY THẮNG) - TỔNG ÔN ALCOHOL PHENOL.mp4",
+                          "videos": [
+                            {
+                              "title": "B11.NT01.HSA.2K9. HÓA HỌC (THẦY THẮNG) - TỔNG ÔN ALCOHOL PHENOL.mp4",
+                              "link": "https://drive.google.com/file/d/1OMJzr_98Z8AG7lT4pDJoqBEBivm6Q1sU/view?usp=drivesdk"
+                            }
+                          ],
+                          "pdfs": []
+                        }
+                      ],
+                      "children": []
+                    },
+                    {
+                      "title": "B12.NT01.HSA.2K9. HÓA HỌC (THẦY THẮNG) - TỔNG ÔN ALCOHOL PHENOL (TIẾP)",
+                      "items": [
+                        {
+                          "name": "B12.NT01.HSA.2K9. HÓA HỌC (THẦY THẮNG) - TỔNG ÔN ALCOHOL PHENOL (TIẾP).mp4",
+                          "videos": [
+                            {
+                              "title": "B12.NT01.HSA.2K9. HÓA HỌC (THẦY THẮNG) - TỔNG ÔN ALCOHOL PHENOL (TIẾP).mp4",
+                              "link": "https://drive.google.com/file/d/1oZkpxMMcKxy5pskGZuhkE23t1q1Z6Tar/view?usp=drivesdk"
+                            }
+                          ],
+                          "pdfs": []
+                        },
+                        {
+                          "name": "f9d1a44b-997a-4839-80e9-63dbf4ee1197_B12 - NT01.2K9.Hóa học (Thầy Thắng) - Phiếu Số 12- Bản viết tay Tổng Ôn Cơ Bản Alcohol, Phenol.pdf",
+                          "videos": [],
+                          "pdfs": [
+                            {
+                              "title": "f9d1a44b-997a-4839-80e9-63dbf4ee1197_B12 - NT01.2K9.Hóa học (Thầy Thắng) - Phiếu Số 12- Bản viết tay Tổng Ôn Cơ Bản Alcohol, Phenol.pdf",
+                              "link": "https://drive.google.com/file/d/1nFHlS3JQj6KVFp9OvEhHhmgyAd5pxq_R/view?usp=drivesdk"
+                            }
+                          ]
+                        }
+                      ],
+                      "children": []
+                    },
+                    {
+                      "title": "B13.NT01.HSA.2K9. HÓA HỌC (THẦY THẮNG) - BÀI THỰC TẾ ALCOHOL",
+                      "items": [
+                        {
+                          "name": "8e8fc588-210f-49ec-9581-319d2f32eea0_B13 - NT01.2K9.Hóa học (Thầy Thắng) - Phiếu Số 13 - Bài Thực Tế Hóa Học Alcohol.pdf",
+                          "videos": [],
+                          "pdfs": [
+                            {
+                              "title": "8e8fc588-210f-49ec-9581-319d2f32eea0_B13 - NT01.2K9.Hóa học (Thầy Thắng) - Phiếu Số 13 - Bài Thực Tế Hóa Học Alcohol.pdf",
+                              "link": "https://drive.google.com/file/d/1Y6e_6oE_ZYJAephitQEzb8acIjBRlRkt/view?usp=drivesdk"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "75563000-e6bd-4ea8-b563-d61aab0bdafc_B13 - NT01.2K9.Hóa học (Thầy Thắng) - Phiếu Số 13 -Bản viết tay Bài Thực Tế Hóa Học Alcohol.pdf",
+                          "videos": [],
+                          "pdfs": [
+                            {
+                              "title": "75563000-e6bd-4ea8-b563-d61aab0bdafc_B13 - NT01.2K9.Hóa học (Thầy Thắng) - Phiếu Số 13 -Bản viết tay Bài Thực Tế Hóa Học Alcohol.pdf",
+                              "link": "https://drive.google.com/file/d/1O6pXI8Dd7s7uzVotYO815TmSt15I8obB/view?usp=drivesdk"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "B13.NT01.HSA.2K9. HÓA HỌC (THẦY THẮNG) - BÀI THỰC TẾ ALCOHOL.mp4",
+                          "videos": [
+                            {
+                              "title": "B13.NT01.HSA.2K9. HÓA HỌC (THẦY THẮNG) - BÀI THỰC TẾ ALCOHOL.mp4",
+                              "link": "https://drive.google.com/file/d/1KbC7vlLkjCdeCaC3ZaUynrJCddft7Gml/view?usp=drivesdk"
+                            }
+                          ],
+                          "pdfs": []
+                        }
+                      ],
+                      "children": []
+                    },
+                    {
+                      "title": "B14.NT01.HSA.2K9. HÓA HỌC (THẦY THẮNG) - TỔNG ÔN ACID, ALDEHYDE, KETONE",
+                      "items": [
+                        {
+                          "name": "2c6f63ed-e372-4d79-959b-4bbdc39a9f08_B14 - NT01.2K9.Hóa học (Thầy Thắng) - Phiếu Số 14-Tổng Ôn Acid , Aldehyde ,Ketone.pdf",
+                          "videos": [],
+                          "pdfs": [
+                            {
+                              "title": "2c6f63ed-e372-4d79-959b-4bbdc39a9f08_B14 - NT01.2K9.Hóa học (Thầy Thắng) - Phiếu Số 14-Tổng Ôn Acid , Aldehyde ,Ketone.pdf",
+                              "link": "https://drive.google.com/file/d/1Gya1iFYvxgRHalvTCCZdWi0LkP1m7l_1/view?usp=drivesdk"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "B14.NT01.HSA.2K9. HÓA HỌC (THẦY THẮNG) - TỔNG ÔN ACID, ALDEHYDE, KETONE.mp4",
+                          "videos": [
+                            {
+                              "title": "B14.NT01.HSA.2K9. HÓA HỌC (THẦY THẮNG) - TỔNG ÔN ACID, ALDEHYDE, KETONE.mp4",
+                              "link": "https://drive.google.com/file/d/1qa9cGda8DoPKb_25MjotgN-MCq9cfAm9/view?usp=drivesdk"
+                            }
+                          ],
+                          "pdfs": []
+                        }
+                      ],
+                      "children": []
+                    },
+                    {
+                      "title": "B15.NT01.HSA.2K9. HÓA HỌC (THẦY THẮNG) - DẠNG BÀI HỮU CƠ HAY GẶP",
+                      "items": [
+                        {
+                          "name": "60495ba8-461d-430d-8f2e-9adfe2a8d537_B15 - NT01.2K9.Hóa học (Thầy Thắng) - Phiếu Số 15-Dạng Bài Hữu Cơ Hay Gặp.pdf",
+                          "videos": [],
+                          "pdfs": [
+                            {
+                              "title": "60495ba8-461d-430d-8f2e-9adfe2a8d537_B15 - NT01.2K9.Hóa học (Thầy Thắng) - Phiếu Số 15-Dạng Bài Hữu Cơ Hay Gặp.pdf",
+                              "link": "https://drive.google.com/file/d/1xtg16MbWl4R7hoaZ1GM2fgA5b6lhtDbO/view?usp=drivesdk"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "B15.NT01.HSA.2K9. HÓA HỌC (THẦY THẮNG) - DẠNG BÀI HỮU CƠ HAY GẶP.mp4",
+                          "videos": [
+                            {
+                              "title": "B15.NT01.HSA.2K9. HÓA HỌC (THẦY THẮNG) - DẠNG BÀI HỮU CƠ HAY GẶP.mp4",
+                              "link": "https://drive.google.com/file/d/18RuRBs5FKW4lZq7VrJ70GotgS5yV3ykT/view?usp=drivesdk"
+                            }
+                          ],
+                          "pdfs": []
+                        },
+                        {
+                          "name": "c3895cc2-5637-41b5-9e7f-0b09f0c46f05_B15 - NT01.2K9.Hóa học (Thầy Thắng) - Phiếu Số 15- File viết tay Dạng Bài Hữu Cơ Hay Gặp.pdf",
+                          "videos": [],
+                          "pdfs": [
+                            {
+                              "title": "c3895cc2-5637-41b5-9e7f-0b09f0c46f05_B15 - NT01.2K9.Hóa học (Thầy Thắng) - Phiếu Số 15- File viết tay Dạng Bài Hữu Cơ Hay Gặp.pdf",
+                              "link": "https://drive.google.com/file/d/1fBCDT4O8IQ3TBeUL8BS9b-OjP1Pq_Ioi/view?usp=drivesdk"
+                            }
+                          ]
                         }
                       ],
                       "children": []
@@ -7932,6 +9218,546 @@ const COURSE_DATA = {
                       "children": []
                     }
                   ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Z. LIVE BỔ TRỢ TOÁN LẤY GỐC - THẦY HẬU",
+          "items": [],
+          "children": [
+            {
+              "title": "ĐẠI SỐ",
+              "items": [],
+              "children": [
+                {
+                  "title": "LẤY GỐC - TOÁN - THẦY HẬU - BUỔI 1",
+                  "items": [
+                    {
+                      "name": "0a1f44b2-1480-456b-90eb-e54172efeed5_Buổi 1- Đơn điệu lập BBT.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "0a1f44b2-1480-456b-90eb-e54172efeed5_Buổi 1- Đơn điệu lập BBT.pdf",
+                          "link": "https://drive.google.com/file/d/1GcojyJCYSeV726G-6bqgm_zLJ-0dK-0k/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "LẤY GỐC - TOÁN - THẦY HẬU - BUỔI 2",
+                  "items": [
+                    {
+                      "name": "146b5d78-5c1e-4b35-9a41-6a31cc6906d7_Buổi 2 - Đơn điệu chứa tham số m.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "146b5d78-5c1e-4b35-9a41-6a31cc6906d7_Buổi 2 - Đơn điệu chứa tham số m.pdf",
+                          "link": "https://drive.google.com/file/d/1vRStRsDA5xDxiJWQXcbqrNN24E5KimFz/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "LẤY GỐC - TOÁN - THẦY HẬU - BUỔI 5_ CỰC TRỊ HÀM CHƯA THAM SỐ M",
+                  "items": [
+                    {
+                      "name": "ba157f92-1e98-4a08-8ad6-9f601c3f922b_Đại buổi 5 - Cực trị hàm hợp chứa tham số m.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "ba157f92-1e98-4a08-8ad6-9f601c3f922b_Đại buổi 5 - Cực trị hàm hợp chứa tham số m.pdf",
+                          "link": "https://drive.google.com/file/d/1wvMLBTcW7z9EqJJxR6Q1SIi_w4TRpZSZ/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Z.LIVE BỔ TRỢ CASIO - THẦY ĐẠT",
+          "items": [],
+          "children": [
+            {
+              "title": "CASIO - TOÁN - THẦY ĐẠT - BUỔI 1",
+              "items": [
+                {
+                  "name": "7c22c66c-5c5a-4d9b-9be7-ff8d7198f730_Bài 1. Các kỹ năng Casio cơ bản (giải).pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "7c22c66c-5c5a-4d9b-9be7-ff8d7198f730_Bài 1. Các kỹ năng Casio cơ bản (giải).pdf",
+                      "link": "https://drive.google.com/file/d/1Ie58bzn5EyTScM-zVgdbkkYKvUIAlHgg/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "CASIO - TOÁN - THẦY ĐẠT - BUỔI 2",
+              "items": [
+                {
+                  "name": "ab320ccd-d9ec-4e4d-ba63-d5082bdc8a88_Bài 2. Kỹ thuật sử dụng Casio trong lượng giác - File dòng kẻ.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "ab320ccd-d9ec-4e4d-ba63-d5082bdc8a88_Bài 2. Kỹ thuật sử dụng Casio trong lượng giác - File dòng kẻ.pdf",
+                      "link": "https://drive.google.com/file/d/1PbrGruuZWJ6RXVoek3J0j5niSdrGlOCy/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "CASIO - TOÁN - THẦY ĐẠT - BUỔI 4",
+              "items": [
+                {
+                  "name": "CASIO - TOÁN - THẦY ĐẠT - BUỔI 4 - xử lý các bài toán mũ và loga nâng cao.mp4",
+                  "videos": [
+                    {
+                      "title": "CASIO - TOÁN - THẦY ĐẠT - BUỔI 4 - xử lý các bài toán mũ và loga nâng cao.mp4",
+                      "link": "https://drive.google.com/file/d/1eNm4-e0wwR_dBtR7E-QI50K8B4uqK2cg/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "ĐỀ THI KHẢO SÁT CHẤT LƯỢNG HÀNG THÁNG",
+          "items": [],
+          "children": [
+            {
+              "title": "ĐỀ THI KHẢO SÁT CHẤT LƯỢNG HÀNG THÁNG",
+              "items": [],
+              "children": [
+                {
+                  "title": "ĐỀ THI KSCL THÁNG 4",
+                  "items": [
+                    {
+                      "name": "CHỮA ĐỀ THI ĐGNL HSA - KSCL THÁNG 4 - HÌNH HỌC.mp4.mp4",
+                      "videos": [
+                        {
+                          "title": "CHỮA ĐỀ THI ĐGNL HSA - KSCL THÁNG 4 - HÌNH HỌC.mp4.mp4",
+                          "link": "https://drive.google.com/file/d/15j81qqW99_Ih49hJioYQ4d0ipoI45yUS/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "CHỮA ĐỀ THI ĐGNL HSA - KSCL THÁNG 4 - TIẾNG ANH.mp4.mp4",
+                      "videos": [
+                        {
+                          "title": "CHỮA ĐỀ THI ĐGNL HSA - KSCL THÁNG 4 - TIẾNG ANH.mp4.mp4",
+                          "link": "https://drive.google.com/file/d/18AwgnNDKgP0AflFKM-DMTgINsT-IvMPd/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "CHỮA ĐỀ THI ĐGNL HSA - KSCL THÁNG 4 - ĐẠI SỐ.mp4.mp4",
+                      "videos": [
+                        {
+                          "title": "CHỮA ĐỀ THI ĐGNL HSA - KSCL THÁNG 4 - ĐẠI SỐ.mp4.mp4",
+                          "link": "https://drive.google.com/file/d/1aYtPZPj_G4-02YRhiDp4Zn8JXHJtXckS/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "ĐA Đề Hình Học - Tháng 4.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "ĐA Đề Hình Học - Tháng 4.pdf",
+                          "link": "https://drive.google.com/file/d/1X-Bx42Yu-iVMcf7ZHEgRGG-81wmTrpeS/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "ĐA Đề Tiếng Anh - Tháng 4.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "ĐA Đề Tiếng Anh - Tháng 4.pdf",
+                          "link": "https://drive.google.com/file/d/1Fx22FO6Zkm50KeWsbSjVO6uxvibc6wEL/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "ĐA Đề Đại Số - Tháng 4.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "ĐA Đề Đại Số - Tháng 4.pdf",
+                          "link": "https://drive.google.com/file/d/1AWW6ufL75RuIeFlRSeHjOMiKuMgIzFb9/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "ĐA Đề Định Tính - Tháng 4.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "ĐA Đề Định Tính - Tháng 4.pdf",
+                          "link": "https://drive.google.com/file/d/1bQWVtbKMGrqoAWP_x3JWqmaDYjvJXV__/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Đề Hình Học - Tháng 4.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "Đề Hình Học - Tháng 4.pdf",
+                          "link": "https://drive.google.com/file/d/107w2ufRY2KnhI_NkkeyMol4aSeb9AGfD/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Đề Tiếng Anh - Tháng 4.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "Đề Tiếng Anh - Tháng 4.pdf",
+                          "link": "https://drive.google.com/file/d/1vi4lZXEVu4L3zUTIW_qwa4VoQigfIm-E/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Đề Đại Số - Tháng 4.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "Đề Đại Số - Tháng 4.pdf",
+                          "link": "https://drive.google.com/file/d/15_-IWfITYwFc-NJazhs2WOTe4YoHWYWj/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Đề Định Tính - Tháng 4.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "Đề Định Tính - Tháng 4.pdf",
+                          "link": "https://drive.google.com/file/d/1XL69IF4o4Ocn7KLGi-ut-ourCTI8BZNG/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "ĐỀ THI KSCL THÁNG 5",
+                  "items": [
+                    {
+                      "name": "Chữa đề KSCL Tháng 5 - Hình Học.mp4.mp4",
+                      "videos": [
+                        {
+                          "title": "Chữa đề KSCL Tháng 5 - Hình Học.mp4.mp4",
+                          "link": "https://drive.google.com/file/d/1MPzp11S8r5V3zN6HL1sDo0oySW-VciY0/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "Chữa đề KSCL Tháng 5 - Tiếng Anh.mp4.mp4",
+                      "videos": [
+                        {
+                          "title": "Chữa đề KSCL Tháng 5 - Tiếng Anh.mp4.mp4",
+                          "link": "https://drive.google.com/file/d/1kBrzsZ73845JxnOhlwtd-KIk0a6PnQcS/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "Chữa đề KSCL Tháng 5 - Đại Số.mp4.mp4",
+                      "videos": [
+                        {
+                          "title": "Chữa đề KSCL Tháng 5 - Đại Số.mp4.mp4",
+                          "link": "https://drive.google.com/file/d/1eLpi0NUL-_1DyF0YrYcC8DsX2M5Jiofs/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "Chữa đề KSCL Tháng 5 - Định Tính.mp4.mp4",
+                      "videos": [
+                        {
+                          "title": "Chữa đề KSCL Tháng 5 - Định Tính.mp4.mp4",
+                          "link": "https://drive.google.com/file/d/1eEzNFUnh4nJMopJhLCUyYkZaPw3p6GTE/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "ĐA Đề Hình Học - Tháng 5.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "ĐA Đề Hình Học - Tháng 5.pdf",
+                          "link": "https://drive.google.com/file/d/1ZadMedB0O_HoMKJ8YVCVosUMvE3cbC5M/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "ĐA Đề Tiếng Anh - Tháng 5.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "ĐA Đề Tiếng Anh - Tháng 5.pdf",
+                          "link": "https://drive.google.com/file/d/1MaQUPAzbxKn2gDCvJVIZa9rWnOdxdbFc/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "ĐA Đề Đại Số - Tháng 5.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "ĐA Đề Đại Số - Tháng 5.pdf",
+                          "link": "https://drive.google.com/file/d/1dDA2nHU3RbwsBn3OeXaYSZlsNPAqfns0/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "ĐA Đề Định Tính - Tháng 5.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "ĐA Đề Định Tính - Tháng 5.pdf",
+                          "link": "https://drive.google.com/file/d/1xxs2dW3Isp3t44Opl9aFlsZEfMGs99qt/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Đề Hình Học - Tháng 5.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "Đề Hình Học - Tháng 5.pdf",
+                          "link": "https://drive.google.com/file/d/1gvRMc2t01Ol9Vamq8cR7APeUz1ypRSRv/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Đề Tiếng Anh - Tháng 5.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "Đề Tiếng Anh - Tháng 5.pdf",
+                          "link": "https://drive.google.com/file/d/1hmDb6wOomB0MENuWdCo2jvJ7PW8oAs1T/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Đề Đại Số - Tháng 5.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "Đề Đại Số - Tháng 5.pdf",
+                          "link": "https://drive.google.com/file/d/1q2G3kvD6itE8KiyRBtoLkX94FmyMuKVD/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Đề Định Tính - Tháng 5.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "Đề Định Tính - Tháng 5.pdf",
+                          "link": "https://drive.google.com/file/d/146O8DoUfR1wNW2pl8HKi1U-cdfvsusnd/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "ĐỀ THI KSCL THÁNG 6",
+                  "items": [
+                    {
+                      "name": "CHỮA ĐỀ THI KSCL HSA THÁNG 6 - TIẾNG ANH.mp4.mp4",
+                      "videos": [
+                        {
+                          "title": "CHỮA ĐỀ THI KSCL HSA THÁNG 6 - TIẾNG ANH.mp4.mp4",
+                          "link": "https://drive.google.com/file/d/1esnMA_YF9a8LA_9-KJ-CTuf-pIKhu2_F/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "CHỮA ĐỀ THI KSCL HSA THÁNG 6 - ĐỊNH TÍNH.mp4.mp4",
+                      "videos": [
+                        {
+                          "title": "CHỮA ĐỀ THI KSCL HSA THÁNG 6 - ĐỊNH TÍNH.mp4.mp4",
+                          "link": "https://drive.google.com/file/d/1yIHGeWT5erBsHk_GP7Uxk2wjBnXhba9-/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "ĐA Đề Hình Học - Tháng 6.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "ĐA Đề Hình Học - Tháng 6.pdf",
+                          "link": "https://drive.google.com/file/d/1UQjHdUWhJ_CYeTLHkIx2R8vtDTQfplTK/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "ĐA Đề Tiếng Anh - Tháng 6.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "ĐA Đề Tiếng Anh - Tháng 6.pdf",
+                          "link": "https://drive.google.com/file/d/1awzBKLi9wuNqRcznaQldBPQphUQtf5Pt/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "ĐA Đề Đại Số - Tháng 6.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "ĐA Đề Đại Số - Tháng 6.pdf",
+                          "link": "https://drive.google.com/file/d/1OeVnSWNBSKKO3CH41uer58McdALaCNK3/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "ĐA Đề Định Tính - Tháng 6.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "ĐA Đề Định Tính - Tháng 6.pdf",
+                          "link": "https://drive.google.com/file/d/1YgGGA6OCR8qZ1-vLIEi4OB7T4paK628s/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Đề Hình Học - Tháng 6.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "Đề Hình Học - Tháng 6.pdf",
+                          "link": "https://drive.google.com/file/d/122vQVeDoWOIE-bnCOUXlK6QD9wYYx9Pq/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Đề Tiếng Anh - Tháng 6.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "Đề Tiếng Anh - Tháng 6.pdf",
+                          "link": "https://drive.google.com/file/d/17SYcMA74P6OO1u64X68tT7siSDNNKSp1/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Đề Đại Số - Tháng 6.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "Đề Đại Số - Tháng 6.pdf",
+                          "link": "https://drive.google.com/file/d/1UNSAqSGHmw3OEo_h04FLtAvqMaYgWvTG/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Đề Định Tính - Tháng 6.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "Đề Định Tính - Tháng 6.pdf",
+                          "link": "https://drive.google.com/file/d/1DleHcFB_MoNdMwtAhp-SWAmcmEisBOSv/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "ĐỀ THI KSCL THÁNG 7",
+                  "items": [
+                    {
+                      "name": "1.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "1.pdf",
+                          "link": "https://drive.google.com/file/d/1RGat1xt1QImPEa8M4KlxXLdCqDpLXCUb/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "2.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "2.pdf",
+                          "link": "https://drive.google.com/file/d/1W8oeEhMRfgZHrSTYeMYYCWvMw6eYdAHk/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "3.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "3.pdf",
+                          "link": "https://drive.google.com/file/d/1RAf_7RWivGGrlhCDRPG18eL9RVVkcqzZ/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "4.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "4.pdf",
+                          "link": "https://drive.google.com/file/d/1HIbRpBBKk5OUnh8e5ICabweRIBePn5LS/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "5.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "5.pdf",
+                          "link": "https://drive.google.com/file/d/1SzkFPg1HeBWe9iDXGMbxZwbA56xpxwSP/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "6.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "6.pdf",
+                          "link": "https://drive.google.com/file/d/18OdAA7VqvAwY67mQRqpijv9vCH4RhOoO/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
                 }
               ]
             }
