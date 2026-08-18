@@ -1194,7 +1194,7 @@ const COURSE_DATA = {
       "items": [],
       "children": [
         {
-          "title": "1. HƯỚNG DẪN HỌC",
+          "title": "0. HƯỚNG DẪN HỌC",
           "items": [],
           "children": [
             {
@@ -1222,40 +1222,140 @@ const COURSE_DATA = {
                 }
               ],
               "children": []
-            },
-            {
-              "title": "1. Khai giảng khóa C - BÀI 1 P1",
-              "items": [
-                {
-                  "name": "KHAI GIẢNG LIVE C - BÀI 1.mp4.mp4",
-                  "videos": [
-                    {
-                      "title": "KHAI GIẢNG LIVE C - BÀI 1.mp4.mp4",
-                      "link": "https://drive.google.com/file/d/1JH71fJp7tQ14Kr7pA5U6IO4luJoDAyOX/view?usp=drivesdk"
-                    }
-                  ],
-                  "pdfs": []
-                }
-              ],
-              "children": []
-            },
-            {
-              "title": "2. Khai giảng khóa C - BÀI 1 P2",
-              "items": [
-                {
-                  "name": "BÀI 1 (PHẦN 2).mp4.mp4",
-                  "videos": [
-                    {
-                      "title": "BÀI 1 (PHẦN 2).mp4.mp4",
-                      "link": "https://drive.google.com/file/d/1Ef8YCsxjAWNVwPCiqAE3IdId97KJQ1v6/view?usp=drivesdk"
-                    }
-                  ],
-                  "pdfs": []
-                }
-              ],
-              "children": []
             }
           ]
+        },
+        {
+          "title": "1. Khai giảng khóa C - BÀI 1 P1",
+          "items": [
+            {
+              "name": "KHAI GIẢNG LIVE C - BÀI 1.mp4.mp4",
+              "videos": [
+                {
+                  "title": "KHAI GIẢNG LIVE C - BÀI 1.mp4.mp4",
+                  "link": "https://drive.google.com/file/d/1JH71fJp7tQ14Kr7pA5U6IO4luJoDAyOX/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "2. Khai giảng khóa C - BÀI 1 P2",
+          "items": [
+            {
+              "name": "BÀI 1 (PHẦN 2).mp4.mp4",
+              "videos": [
+                {
+                  "title": "BÀI 1 (PHẦN 2).mp4.mp4",
+                  "link": "https://drive.google.com/file/d/1Ef8YCsxjAWNVwPCiqAE3IdId97KJQ1v6/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "3. ĐỀ LUYỆN BÀI 1 LIÊN HỢP QUỐC",
+          "items": [
+            {
+              "name": "CHỮA ĐỀ LUYỆN BÀI 1 LIÊN HỢP QUỐC.mp4.mp4",
+              "videos": [
+                {
+                  "title": "CHỮA ĐỀ LUYỆN BÀI 1 LIÊN HỢP QUỐC.mp4.mp4",
+                  "link": "https://drive.google.com/file/d/1F9TVNKFn9Diu7d3AoUUg3DJJUsLWoDkS/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "ĐỀ LUYỆN BÀI 1 LIÊN HỢP QUỐC.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "ĐỀ LUYỆN BÀI 1 LIÊN HỢP QUỐC.pdf",
+                  "link": "https://drive.google.com/file/d/1Zh6RxvhmKQFfoEzRggbLxhkyhekBOqR2/view?usp=drivesdk"
+                }
+              ]
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "4. Bài 2 - Trật tự thế giới trong chiến tranh lạnh",
+          "items": [
+            {
+              "name": "Bài 2 - Trật tự thế giới trong chiến tranh lạnh.mp4.mp4",
+              "videos": [
+                {
+                  "title": "Bài 2 - Trật tự thế giới trong chiến tranh lạnh.mp4.mp4",
+                  "link": "https://drive.google.com/file/d/1NoFpMsR3RH7CulV1J4Bn_867HScDYujZ/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "5. Bài 2 - Trật tự thế giới trong chiến tranh lạnh P2",
+          "items": [
+            {
+              "name": "Bài 2 - Trật tự thế giới trong chiến tranh lạnh P2.mp4.mp4",
+              "videos": [
+                {
+                  "title": "Bài 2 - Trật tự thế giới trong chiến tranh lạnh P2.mp4.mp4",
+                  "link": "https://drive.google.com/file/d/1a3KQJBD1rRB6u2KiWSDUQWuhdhTHcH6K/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "6. ĐỀ LUYỆN BÀI 2",
+          "items": [
+            {
+              "name": "ĐỀ LUYỆN BÀI 2.mp4.mp4",
+              "videos": [
+                {
+                  "title": "ĐỀ LUYỆN BÀI 2.mp4.mp4",
+                  "link": "https://drive.google.com/file/d/1JgFFmSIU-VtEuOhTEyKQTNqVVkQ5SHiu/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "ĐỀ_LUYỆN_BÀI_2.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "ĐỀ_LUYỆN_BÀI_2.pdf",
+                  "link": "https://drive.google.com/file/d/1YOXJS2j6h1DwDRDbc185qANNBg5sijfh/view?usp=drivesdk"
+                }
+              ]
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "7. Bài 3 Trật tự thế giới sau chiến tranh lạnh",
+          "items": [
+            {
+              "name": "Bài 3 Trật tự thế giới sau chiến tranh lạnh.mp4.mp4",
+              "videos": [
+                {
+                  "title": "Bài 3 Trật tự thế giới sau chiến tranh lạnh.mp4.mp4",
+                  "link": "https://drive.google.com/file/d/1LyXu7MmF2-Y2Z1fW191srN1cf40V_TBg/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
         }
       ]
     },
