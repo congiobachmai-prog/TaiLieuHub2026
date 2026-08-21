@@ -806,6 +806,96 @@ const COURSE_DATA = {
             }
           ],
           "children": []
+        },
+        {
+          "title": "3. Bài 1 - Phần 2_ Tính toán nâng cao",
+          "items": [
+            {
+              "name": "3. Bài 1 - Phần 2_ Tính toán nâng cao - HS12 2027 2K9 - TaiLieuOnThi .NET✅.mp4",
+              "videos": [
+                {
+                  "title": "3. Bài 1 - Phần 2_ Tính toán nâng cao - HS12 2027 2K9 - TaiLieuOnThi .NET✅.mp4",
+                  "link": "https://drive.google.com/file/d/1jOHjhHIicA8SSvxZAQRG4Df3tM6WCNi3/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "4. Bài 1 - Phần 2 Tính toán nâng cao Video chữa BT2",
+          "items": [
+            {
+              "name": "Bài 1 - Phần 2 Tính toán nâng cao Video chữa BT2.mp4.mp4",
+              "videos": [
+                {
+                  "title": "Bài 1 - Phần 2 Tính toán nâng cao Video chữa BT2.mp4.mp4",
+                  "link": "https://drive.google.com/file/d/1O1VuHztmzxI3152Ky3ZwiqFsg_rC5nnD/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "5. Bài 1 - Phần 3 Đúng sai biểu đồ, bảng số liệu Video chữa BT3",
+          "items": [
+            {
+              "name": "Bài 1 - Phần 3 Đúng sai biểu đồ, bảng số liệu Video chữa BT3.mp4.mp4",
+              "videos": [
+                {
+                  "title": "Bài 1 - Phần 3 Đúng sai biểu đồ, bảng số liệu Video chữa BT3.mp4.mp4",
+                  "link": "https://drive.google.com/file/d/1nesWXr9WahJG66lgC6Efw-_PKVdVwAwH/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "6. Bài 2_ Nhận dạng biểu đồ",
+          "items": [
+            {
+              "name": "Bài 2 Nhận dạng biểu đồ.mp4.mp4",
+              "videos": [
+                {
+                  "title": "Bài 2 Nhận dạng biểu đồ.mp4.mp4",
+                  "link": "https://drive.google.com/file/d/1djOcc-abdjfRQqFs0KNz7lYrKzlD0fYW/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "Tài liệu bài 2.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "Tài liệu bài 2.pdf",
+                  "link": "https://drive.google.com/file/d/1W5G43cZDGNP6nj3hRZIm5dw_TAXkMILs/view?usp=drivesdk"
+                }
+              ]
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "7. Bài tập 4 Ebook câu 214 - 243",
+          "items": [
+            {
+              "name": "Bài tập 4 Ebook câu 214 - 243.mp4.mp4",
+              "videos": [
+                {
+                  "title": "Bài tập 4 Ebook câu 214 - 243.mp4.mp4",
+                  "link": "https://drive.google.com/file/d/1x4INgVfj4aSK0M17bi2-AZLNJb11GGvF/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
         }
       ]
     }
