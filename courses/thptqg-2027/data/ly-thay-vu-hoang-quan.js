@@ -2970,6 +2970,278 @@ const COURSE_DATA = {
               ]
             },
             {
+              "title": "CHỦ ĐỀ 5_ ỨNG DỤNG CỦA HIỆN TƯỢNG CẢM ỨNG ĐIỆN TỪ_",
+              "items": [],
+              "children": [
+                {
+                  "title": "1. Dynamo Xe Đạp",
+                  "items": [
+                    {
+                      "name": "1. Dynamo Xe Đạp.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "1. Dynamo Xe Đạp.pdf",
+                          "link": "https://drive.google.com/file/d/1njGySyKz8BUn5ONdrkfqMacNyZfAhGH-/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Vật Lí 12_Chương 3_Chủ Đề 5 Mô Hình Dymano.mp4.mp4",
+                      "videos": [
+                        {
+                          "title": "Vật Lí 12_Chương 3_Chủ Đề 5 Mô Hình Dymano.mp4.mp4",
+                          "link": "https://drive.google.com/file/d/1ywqYo_Ndy5MFzrrkddjbXHuI6WHGaTk2/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "2. Đàn Ghi-ta điện",
+                  "items": [
+                    {
+                      "name": "Vật Lí 12_Chương 3_Chủ Đề 5 Mô Hình Đàn Ghi Ta Điện.mp4.mp4",
+                      "videos": [
+                        {
+                          "title": "Vật Lí 12_Chương 3_Chủ Đề 5 Mô Hình Đàn Ghi Ta Điện.mp4.mp4",
+                          "link": "https://drive.google.com/file/d/1qakb7DL8azR6N4dt6CawJ862d-oAnvPJ/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "3. Bếp từ",
+                  "items": [
+                    {
+                      "name": "Mô Hình Bếp Từ.mp4.mp4",
+                      "videos": [
+                        {
+                          "title": "Mô Hình Bếp Từ.mp4.mp4",
+                          "link": "https://drive.google.com/file/d/1IB6S3SJ6BPjHiExj1jnmiIhyLYRwRV6g/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "4. Máy biến áp",
+                  "items": [
+                    {
+                      "name": "Lý Thuyết Máy Biến Áp.mp4.mp4",
+                      "videos": [
+                        {
+                          "title": "Lý Thuyết Máy Biến Áp.mp4.mp4",
+                          "link": "https://drive.google.com/file/d/1GeUaCTo8eYO-P1Gn-YMUvjF_96jyfH6u/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "5. Dạng 1_ Bài Tập Về Máy Biến Áp",
+                  "items": [
+                    {
+                      "name": "Chủ Đề 5_Dạng 1 Bài Tập Về Máy Biến Áp.mp4.mp4",
+                      "videos": [
+                        {
+                          "title": "Chủ Đề 5_Dạng 1 Bài Tập Về Máy Biến Áp.mp4.mp4",
+                          "link": "https://drive.google.com/file/d/1hGtatn4Fpm6BQKI2GIFGS2YCsVw3vrqd/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "Dạng 1_ Bài Tập Về Máy Biến Áp.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "Dạng 1_ Bài Tập Về Máy Biến Áp.pdf",
+                          "link": "https://drive.google.com/file/d/1f65Fe4xXb57I_ziUI9BpQoanqEFpH3WJ/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "6. Quá Trình Truyền Tải Điện Năng",
+                  "items": [
+                    {
+                      "name": "5. Quá trình truyền tải điện năng.mp4.mp4",
+                      "videos": [
+                        {
+                          "title": "5. Quá trình truyền tải điện năng.mp4.mp4",
+                          "link": "https://drive.google.com/file/d/1zEqsCrl8-4bAbt4LndD6bKI9kxGDu6i5/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "Chủ Đề 5_Dạng 2Quá Trình Truyền Tải Điện Năng_Phần 2.mp4.mp4",
+                      "videos": [
+                        {
+                          "title": "Chủ Đề 5_Dạng 2Quá Trình Truyền Tải Điện Năng_Phần 2.mp4.mp4",
+                          "link": "https://drive.google.com/file/d/104hvHyP3ijRqJAa8KM3saxGiFfoOx4p9/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "Chủ Đề 5_Dạng 2Quá Trình Truyền Tải Điện Năng_Phần 3.mp4.mp4",
+                      "videos": [
+                        {
+                          "title": "Chủ Đề 5_Dạng 2Quá Trình Truyền Tải Điện Năng_Phần 3.mp4.mp4",
+                          "link": "https://drive.google.com/file/d/1eiQroIrqtVm-oEEcqvqHw5XHfwalXN7W/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "Phần 1_ Sơ Đồ Truyền Tải Điện Năng (Học Kĩ)-1786035252155.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "Phần 1_ Sơ Đồ Truyền Tải Điện Năng (Học Kĩ)-1786035252155.pdf",
+                          "link": "https://drive.google.com/file/d/1siM3R565bAEtkvtCI-G2qyeEYaCQLW83/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Phần 2 - VDC_ Công Suất Tại Nơi Phát Không Đổi (Phần này trên lớp mà thầy cô có dạy thì các mới học nhá)-1786035257056.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "Phần 2 - VDC_ Công Suất Tại Nơi Phát Không Đổi (Phần này trên lớp mà thầy cô có dạy thì các mới học nhá)-1786035257056.pdf",
+                          "link": "https://drive.google.com/file/d/1OG9NAdPormsHi4lBKC3SvqHf8Qyq92Jc/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Phần 3 -VDC_ Công Suất Tại Nơi Tiêu Thụ Hoặc Điện Áp Ở Nơi Phát Không Đổi (Phần này trên lớp mà thầy cô có dạy thì các mới học nhá)-1786035261087.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "Phần 3 -VDC_ Công Suất Tại Nơi Tiêu Thụ Hoặc Điện Áp Ở Nơi Phát Không Đổi (Phần này trên lớp mà thầy cô có dạy thì các mới học nhá)-1786035261087.pdf",
+                          "link": "https://drive.google.com/file/d/17H_cie7JtZfdkJyUBu3aBHlp6g2jaupz/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "7. Đáp Án Sách Chuyên Đề",
+                  "items": [
+                    {
+                      "name": "Đáp Án Sách Chuyên Đề.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "Đáp Án Sách Chuyên Đề.pdf",
+                          "link": "https://drive.google.com/file/d/1vxxcQte3xnWxcgLroal9z-6YXcsgxwxh/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Đáp Án Sách Chuyên Đề[Lời giải + Đáp án].pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "Đáp Án Sách Chuyên Đề[Lời giải + Đáp án].pdf",
+                          "link": "https://drive.google.com/file/d/19sm1H-Gx9gMxtU_lZSO9lzyPmjsYqly8/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "CHỦ ĐỀ 6_ ĐIỆN TỪ TRƯỜNG VÀ MÔ HÌNH SÓNG ĐIỆN TỪ_",
+              "items": [],
+              "children": [
+                {
+                  "title": "1. Chủ Đề 6 Lý Thuyết Điện Từ Trường Và Mô Hình Sóng Điện Từ",
+                  "items": [
+                    {
+                      "name": "Chủ Đề 6 Lý Thuyết Điện Từ Trường Và Mô Hình Sóng Điện Từ.mp4.mp4",
+                      "videos": [
+                        {
+                          "title": "Chủ Đề 6 Lý Thuyết Điện Từ Trường Và Mô Hình Sóng Điện Từ.mp4.mp4",
+                          "link": "https://drive.google.com/file/d/1WWgw-IEiP58eWGL3Vjaz1T9tyAdm1ruh/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "2. Bài Tập Về Sóng Điện Từ",
+                  "items": [
+                    {
+                      "name": "Bài Tập Về Sóng Điện Từ Mới.mp4",
+                      "videos": [
+                        {
+                          "title": "Bài Tập Về Sóng Điện Từ Mới.mp4",
+                          "link": "https://drive.google.com/file/d/1xX1k5xb14cruh9mhuA8wyjsMc2MCWYy3/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "Bài Tập Về Sóng Điện Từ.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "Bài Tập Về Sóng Điện Từ.pdf",
+                          "link": "https://drive.google.com/file/d/1p7JK7Ia8WV_NoSBXf9-51YEGLwg-vJa1/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "3. Đáp Án Sách Chuyên Đề",
+                  "items": [
+                    {
+                      "name": "Đáp Án Sách Chuyên Đề.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "Đáp Án Sách Chuyên Đề.pdf",
+                          "link": "https://drive.google.com/file/d/1HK4hsnjZMEzfzWgOvB4gTkOCxp1KDGin/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Đáp Án Sách Chuyên Đề[Lời giải + Đáp án].pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "Đáp Án Sách Chuyên Đề[Lời giải + Đáp án].pdf",
+                          "link": "https://drive.google.com/file/d/1-H2-fYKVxqyNfV1rEPw37lSJCJERv6Sn/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
               "title": "File Tài Liệu Ghi Chép Chương 3",
               "items": [
                 {
@@ -2984,6 +3256,134 @@ const COURSE_DATA = {
                 }
               ],
               "children": []
+            },
+            {
+              "title": "MÔ HÌNH THỰC TẾ_",
+              "items": [],
+              "children": [
+                {
+                  "title": "1. Mô hình Liên quan tới Lực từ",
+                  "items": [
+                    {
+                      "name": "Mô hình Liên quan tới Lực từ.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "Mô hình Liên quan tới Lực từ.pdf",
+                          "link": "https://drive.google.com/file/d/1PxSixPKoU5pmNR0hWiCXLz144ov5uqEf/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Mô Hình Loa Điện Động.mp4.mp4",
+                      "videos": [
+                        {
+                          "title": "Mô Hình Loa Điện Động.mp4.mp4",
+                          "link": "https://drive.google.com/file/d/106wBOrYhvG8D8aMkkf5jldvjCaKbJczy/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "Mô Hình Máy Quang Phổ Khối.mp4.mp4",
+                      "videos": [
+                        {
+                          "title": "Mô Hình Máy Quang Phổ Khối.mp4.mp4",
+                          "link": "https://drive.google.com/file/d/1bUpd_u40uYzN1KgmuvGfkDxG-oSFePhx/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "Mô Hình Tàu Đệm Từ.mp4.mp4",
+                      "videos": [
+                        {
+                          "title": "Mô Hình Tàu Đệm Từ.mp4.mp4",
+                          "link": "https://drive.google.com/file/d/1JTO33YeSHCvQwzaDW1ocfyMKYEYaCksp/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "2. Mô hình Liên quan tới Hiện tượng Cảm Ứng Từ",
+                  "items": [
+                    {
+                      "name": "Mô Hình Bếp Từ.mp4.mp4",
+                      "videos": [
+                        {
+                          "title": "Mô Hình Bếp Từ.mp4.mp4",
+                          "link": "https://drive.google.com/file/d/1KBEBjZjwyHLiulqNBuZ7QY3SdEizzqEU/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "Mô Hình Dynamo.mp4.mp4",
+                      "videos": [
+                        {
+                          "title": "Mô Hình Dynamo.mp4.mp4",
+                          "link": "https://drive.google.com/file/d/1dIFOLZLYNuFqO-__FekxW6BQoIDLdUPs/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "Mô Hình Ghi Ta Điện.mp4",
+                      "videos": [
+                        {
+                          "title": "Mô Hình Ghi Ta Điện.mp4",
+                          "link": "https://drive.google.com/file/d/156N_u9a-6o3_GwcJqjmIxa-30xmU7A2v/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "Mô hình Liên quan tới Hiện tượng Cảm Ứng Từ.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "Mô hình Liên quan tới Hiện tượng Cảm Ứng Từ.pdf",
+                          "link": "https://drive.google.com/file/d/1Q_iKX8_HaovjteewsZJ46_XH1DbPUJIc/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Mô Hình Máy Phát Điện Xoay Chiều.mp4.mp4",
+                      "videos": [
+                        {
+                          "title": "Mô Hình Máy Phát Điện Xoay Chiều.mp4.mp4",
+                          "link": "https://drive.google.com/file/d/1b8VFixQX0nZ_yiZ2i2OnbknJTXwz3Mv0/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "Mô Hình Máy Phân Loại Đồng Xu.mp4.mp4",
+                      "videos": [
+                        {
+                          "title": "Mô Hình Máy Phân Loại Đồng Xu.mp4.mp4",
+                          "link": "https://drive.google.com/file/d/1SP9wqF3zjh0T77G0Z-Wx-6nMe3zAve6Y/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "Mô Hình Phanh Điện Từ.mp4.mp4",
+                      "videos": [
+                        {
+                          "title": "Mô Hình Phanh Điện Từ.mp4.mp4",
+                          "link": "https://drive.google.com/file/d/1Vy-34TpRStLxRWYI_39Yh_uflHew0PzJ/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                }
+              ]
             }
           ]
         }

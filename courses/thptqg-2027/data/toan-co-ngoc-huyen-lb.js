@@ -874,6 +874,252 @@ const COURSE_DATA = {
       "items": [],
       "children": [
         {
+          "title": "36 LIVES XÂY VỮNG 8 ĐIỂM_",
+          "items": [],
+          "children": [
+            {
+              "title": "01. Theme 1. Sự đồng biến, nghịch biến của hàm số - Buổi 1",
+              "items": [
+                {
+                  "name": "[Handout] Theme 1-Dạng 1.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Handout] Theme 1-Dạng 1.pdf",
+                      "link": "https://drive.google.com/file/d/1qYyhfuJ6LrXqVJr2ztOiS4-JtQbeVBhU/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "Theme 1. Sự đồng biến, nghịch biến của hàm số - Buổi 1.mp4",
+                  "videos": [
+                    {
+                      "title": "Theme 1. Sự đồng biến, nghịch biến của hàm số - Buổi 1.mp4",
+                      "link": "https://drive.google.com/file/d/1xNrN985OhQC2bgW8g37XSNBYXkmz4TIr/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "02. Theme 1. Sự đồng biến, nghịch biến của hàm số - Buổi 2",
+              "items": [
+                {
+                  "name": "Theme 1. Sự đồng biến, nghịch biến của hàm số - Buổi 2.mp4",
+                  "videos": [
+                    {
+                      "title": "Theme 1. Sự đồng biến, nghịch biến của hàm số - Buổi 2.mp4",
+                      "link": "https://drive.google.com/file/d/1pdQgzTSI17n6F01JiSSdQKs7mizgh4jy/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "03. Theme 2. Cực trị của hàm số - Buổi 1",
+              "items": [
+                {
+                  "name": "[Handout] Theme 2-Dạng 1.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Handout] Theme 2-Dạng 1.pdf",
+                      "link": "https://drive.google.com/file/d/1odID5XKBBq4oO_Yyg58USBPEmyNkFywq/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "Theme 2. Cực trị của hàm số - Buổi 1.mp4",
+                  "videos": [
+                    {
+                      "title": "Theme 2. Cực trị của hàm số - Buổi 1.mp4",
+                      "link": "https://drive.google.com/file/d/1P7X9Ub-dQaqJj5rAHX7Io2DYs0y5HbD_/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "04. Theme 2. Cực trị của hàm số - Buổi 2",
+              "items": [
+                {
+                  "name": "[Handout] Theme 2-Dạng 2.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Handout] Theme 2-Dạng 2.pdf",
+                      "link": "https://drive.google.com/file/d/1nvFpza516jB-dJhiKTwiYW0Dbeq3Uckb/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "Theme 2. Cực trị của hàm số - Buổi 2.mp4",
+                  "videos": [
+                    {
+                      "title": "Theme 2. Cực trị của hàm số - Buổi 2.mp4",
+                      "link": "https://drive.google.com/file/d/1ZzoVqtEtztZqmuHvU901tWAl1EHHFNs6/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "05. Theme 3. Giá trị lớn nhất – giá trị nhỏ nhất của hàm số - Buổi 1",
+              "items": [
+                {
+                  "name": "[Handout] Theme 3-Dạng 1.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Handout] Theme 3-Dạng 1.pdf",
+                      "link": "https://drive.google.com/file/d/163PAN90MZz1qDzKDD2aH4vTNnV0pI_JA/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "Theme 3. Giá trị lớn nhất – giá trị nhỏ nhất của hàm số - Buổi 1.mp4",
+                  "videos": [
+                    {
+                      "title": "Theme 3. Giá trị lớn nhất – giá trị nhỏ nhất của hàm số - Buổi 1.mp4",
+                      "link": "https://drive.google.com/file/d/1jTaT7OT_v4NNPrEhj4gG2Wlfpub5pcSt/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "06. Theme 3. Giá trị lớn nhất – giá trị nhỏ nhất của hàm số - Buổi 2",
+              "items": [
+                {
+                  "name": "Theme 3. Giá trị lớn nhất – giá trị nhỏ nhất của hàm số - Buổi 2.mp4",
+                  "videos": [
+                    {
+                      "title": "Theme 3. Giá trị lớn nhất – giá trị nhỏ nhất của hàm số - Buổi 2.mp4",
+                      "link": "https://drive.google.com/file/d/1LsRlZJFeUcIns3KLfigvfRgK-o173gs9/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "07. Theme 4. Đường tiệm cận của đồ thị hàm số - Buổi 1",
+              "items": [
+                {
+                  "name": "[Handout] Theme 4-Dạng 1.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Handout] Theme 4-Dạng 1.pdf",
+                      "link": "https://drive.google.com/file/d/1DMIRuTX_wAdzp4WbAJi8mB4occ77lpVz/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "Theme 4. Đường tiệm cận của đồ thị hàm số - Buổi 1.mp4",
+                  "videos": [
+                    {
+                      "title": "Theme 4. Đường tiệm cận của đồ thị hàm số - Buổi 1.mp4",
+                      "link": "https://drive.google.com/file/d/1ekWbFYPyCo64mmA7WQmHQDCNup1oDfbU/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "08. Theme 4. Đường tiệm cận của đồ thị hàm số - Buổi 2",
+              "items": [
+                {
+                  "name": "[Handout] Theme 4-Dạng 2.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Handout] Theme 4-Dạng 2.pdf",
+                      "link": "https://drive.google.com/file/d/1_G-kefmpNdjKXsWubvG3D9TFSSkULEXl/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "Theme 4. Đường tiệm cận của đồ thị hàm số - Buổi 2.mp4",
+                  "videos": [
+                    {
+                      "title": "Theme 4. Đường tiệm cận của đồ thị hàm số - Buổi 2.mp4",
+                      "link": "https://drive.google.com/file/d/1ZmEXA_OiBgl-JiYFmV9Hx2GtAQAUyBZ3/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "09. Theme 5. Khảo sát sự biến thiên và vẽ đồ thị hàm số - Buổi 1",
+              "items": [
+                {
+                  "name": "[Handout] Theme 5-Dạng 1.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Handout] Theme 5-Dạng 1.pdf",
+                      "link": "https://drive.google.com/file/d/1Z8HEUEj9lZ0VZKjP0fVpXk3ZdFjvVmtv/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "Theme 5. Khảo sát sự biến thiên và vẽ đồ thị hàm số - Buổi 1.mp4",
+                  "videos": [
+                    {
+                      "title": "Theme 5. Khảo sát sự biến thiên và vẽ đồ thị hàm số - Buổi 1.mp4",
+                      "link": "https://drive.google.com/file/d/1m3L-ADIe8-ogsVw0pWj1d9ooaEcAXaMF/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "10. Theme 5. Khảo sát sự biến thiên và vẽ đồ thị hàm số - Buổi 2",
+              "items": [
+                {
+                  "name": "[Handout] Theme 5-Dạng 2.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Handout] Theme 5-Dạng 2.pdf",
+                      "link": "https://drive.google.com/file/d/1fJiAdZRyfdjmfN2b4kgntdSaxaQKTt5p/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "Theme 5. Khảo sát sự biến thiên và vẽ đồ thị hàm số - Buổi 2.mp4",
+                  "videos": [
+                    {
+                      "title": "Theme 5. Khảo sát sự biến thiên và vẽ đồ thị hàm số - Buổi 2.mp4",
+                      "link": "https://drive.google.com/file/d/19t6YUIqQjWa4U81xw0FZmfTHHeBONdem/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
           "title": "Chapter 1. Ứng dụng đạo hàm để khảo sát và vẽ đồ thị hàm số",
           "items": [],
           "children": [
@@ -3082,6 +3328,288 @@ const COURSE_DATA = {
           ]
         },
         {
+          "title": "Chapter 6. Xác suất có điều kiện",
+          "items": [],
+          "children": [
+            {
+              "title": "01. Theme 24. Xác suất có điều kiện - Buổi 1",
+              "items": [
+                {
+                  "name": "[Ghi chép] Theme 24-Dạng 1.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Ghi chép] Theme 24-Dạng 1.pdf",
+                      "link": "https://drive.google.com/file/d/1Ug3ocN7LEPmWzMKfhBFiPCenB_VDQ59_/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[Handout] VD Theme 24-Dạng 1.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Handout] VD Theme 24-Dạng 1.pdf",
+                      "link": "https://drive.google.com/file/d/1t5u4x2Cu95HQ4d9OvHoQtEB_r_6hBTKe/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[Tài liệu] Theme 24-Dạng 1.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Tài liệu] Theme 24-Dạng 1.pdf",
+                      "link": "https://drive.google.com/file/d/1bY75KTIN01UfKX0GhsQjV2lKD1f-15z4/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "Theme 24. Xác suất có điều kiện - Buổi 1.mp4",
+                  "videos": [
+                    {
+                      "title": "Theme 24. Xác suất có điều kiện - Buổi 1.mp4",
+                      "link": "https://drive.google.com/file/d/18KCZTIDBRJPHl5vVN--YEAENv-iHKutF/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "02. Theme 24. Xác suất có điều kiện - Buổi 2",
+              "items": [
+                {
+                  "name": "[Ghi chép] Theme 24-Dạng 1.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Ghi chép] Theme 24-Dạng 1.pdf",
+                      "link": "https://drive.google.com/file/d/1i9UjdSO3xsOVdY33-4WtvORK0X_xdI-F/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[Handout] BTRL Theme 24-Dạng 1.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Handout] BTRL Theme 24-Dạng 1.pdf",
+                      "link": "https://drive.google.com/file/d/1SVWw_7Tob1rvhJCHa-LYfCzLfYk_B_bR/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[Tài liệu] Theme 24-Dạng 1.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Tài liệu] Theme 24-Dạng 1.pdf",
+                      "link": "https://drive.google.com/file/d/1DCEfnDEvG9ThIulamvp52Pn-Eq7A_mvN/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "Theme 24. Xác suất có điều kiện - Buổi 2.mp4",
+                  "videos": [
+                    {
+                      "title": "Theme 24. Xác suất có điều kiện - Buổi 2.mp4",
+                      "link": "https://drive.google.com/file/d/1SaMyDd5T42EwNuLSNEW8fu6HImCI_V2x/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "03. Theme 24. Xác suất có điều kiện - Buổi 3",
+              "items": [
+                {
+                  "name": "[Ghi chép] Theme 24-Dạng 2.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Ghi chép] Theme 24-Dạng 2.pdf",
+                      "link": "https://drive.google.com/file/d/19HPx4ZK7RfYbEpR4vQdpNFLU1-gRN-mo/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[Handout] VD Theme 24-Dạng 2.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Handout] VD Theme 24-Dạng 2.pdf",
+                      "link": "https://drive.google.com/file/d/110_LcizqfYp9Sib4rs3ixBR2cMJrIchA/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[Tài liệu] Theme 24-Dạng 2.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Tài liệu] Theme 24-Dạng 2.pdf",
+                      "link": "https://drive.google.com/file/d/1kTsplPE7JRwvP6CSDjcVFQWg7PXM-1k4/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "Theme 24. Xác suất có điều kiện - Buổi 3.mp4",
+                  "videos": [
+                    {
+                      "title": "Theme 24. Xác suất có điều kiện - Buổi 3.mp4",
+                      "link": "https://drive.google.com/file/d/1AxS35bXUrBVgtr3Cx5sJYf3UQ81QQzek/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "04. Theme 24. Xác suất có điều kiện - Buổi 4",
+              "items": [
+                {
+                  "name": "[Ghi chép] Theme 24-Dạng 2.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Ghi chép] Theme 24-Dạng 2.pdf",
+                      "link": "https://drive.google.com/file/d/1uW96KLbnhFTTfdXbli8_WUJ2F6hIvlOE/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[Handout] BTRL Theme 24-Dạng 2.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Handout] BTRL Theme 24-Dạng 2.pdf",
+                      "link": "https://drive.google.com/file/d/1VN5_AaG0WLswxEt-ErwZuXXWEp3xkG0Q/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[Tài liệu] Theme 24-Dạng 2.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Tài liệu] Theme 24-Dạng 2.pdf",
+                      "link": "https://drive.google.com/file/d/1rsW93N_iJufMbK12f9gjzo6NeLrW22Sh/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "Theme 24. Xác suất có điều kiện - Buổi 4.mp4",
+                  "videos": [
+                    {
+                      "title": "Theme 24. Xác suất có điều kiện - Buổi 4.mp4",
+                      "link": "https://drive.google.com/file/d/14lTi2EaIxSY2U292D4DPHtz9gYpRMRcY/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "05. Theme 25. Công thức xác suất toàn phần - Buổi 1",
+              "items": [
+                {
+                  "name": "[Ghi chép] Theme 25.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Ghi chép] Theme 25.pdf",
+                      "link": "https://drive.google.com/file/d/18A6AywiaDolEzJ0pkMySO-JUA0kzBIxX/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[Handout] VD Theme 25.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Handout] VD Theme 25.pdf",
+                      "link": "https://drive.google.com/file/d/1VRHOFDJDCxLUcgza86elI9WJJfRp2PXK/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[Tài liệu] Theme 25.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Tài liệu] Theme 25.pdf",
+                      "link": "https://drive.google.com/file/d/1TBUKXuTgrNhKI4xOgWZhcnHMuHRSkE1s/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "Theme 25. Công thức xác suất toàn phần - Buổi 1.mp4",
+                  "videos": [
+                    {
+                      "title": "Theme 25. Công thức xác suất toàn phần - Buổi 1.mp4",
+                      "link": "https://drive.google.com/file/d/14Y49ZhDpVNjAA6hiaGzRpP-29jKUOiUJ/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "06. Theme 25. Công thức xác suất toàn phần - Buổi 2",
+              "items": [
+                {
+                  "name": "[Ghi chép] Theme 25.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Ghi chép] Theme 25.pdf",
+                      "link": "https://drive.google.com/file/d/1hjhujr0r3q7I9Eo5cATBUpB8sdOw9pQ1/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[Handout] BTRL Theme 25.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Handout] BTRL Theme 25.pdf",
+                      "link": "https://drive.google.com/file/d/1D-1_CglYsjhDQI3VfRoOSO56YFYtWc1b/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[Tài liệu] Theme 25.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Tài liệu] Theme 25.pdf",
+                      "link": "https://drive.google.com/file/d/1dyA8YFWUIQangsZ2QL-HXcYT5m6Wo9us/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "Theme 25. Công thức xác suất toàn phần - Buổi 2.mp4",
+                  "videos": [
+                    {
+                      "title": "Theme 25. Công thức xác suất toàn phần - Buổi 2.mp4",
+                      "link": "https://drive.google.com/file/d/1BtMYe2j_X-V-aF5YKAFumO31BFzatK-u/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
           "title": "Phụ lục. 8 chủ đề Toán 10, 11 cần nắm để học lên chương trình Toán 12",
           "items": [],
           "children": [
@@ -3456,26 +3984,6 @@ const COURSE_DATA = {
           ]
         }
       ]
-    },
-    {
-      "title": "2.STEP 2 2027 | Vận dụng Toán 12",
-      "items": [],
-      "children": []
-    },
-    {
-      "title": "3.STEP 3 2027 | Vận dụng cao Toán 12",
-      "items": [],
-      "children": []
-    },
-    {
-      "title": "4.STEP 4 2027 | Tổng ôn & Luyện đề",
-      "items": [],
-      "children": []
-    },
-    {
-      "title": "5.STEP 5 2027 | Killingcamp",
-      "items": [],
-      "children": []
     },
     {
       "title": "Nhập môn Hàm số - HHKG - Tổ hợp - Xác suất - Đạo hàm - Tiền đề Toán 12",
@@ -4558,11 +5066,6 @@ const COURSE_DATA = {
           ]
         }
       ]
-    },
-    {
-      "title": "PHỤ ĐẠO THÊM | Ôn thi giữa kì, Cuối kì, Chữa đề trường sở 2026 - 2027",
-      "items": [],
-      "children": []
     },
     {
       "title": "Z. EBOOK SÁCH KÈM KHOÁ HỌC",

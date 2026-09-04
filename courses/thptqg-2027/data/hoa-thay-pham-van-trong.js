@@ -2,6 +2,54 @@ const COURSE_DATA = {
   "title": "HOÁ THẦY PHẠM VĂN TRỌNG TENS 2K9 - XPS Hoá học TEN 2027",
   "tree": [
     {
+      "title": "1.1 MỘT SỐ SERIES KHÁC_",
+      "items": [],
+      "children": [
+        {
+          "title": "1. SERIES 100 CÂU HỎI CHUYÊN BIỆT HÓA HỮU CƠ_",
+          "items": [],
+          "children": [
+            {
+              "title": "100 CÂU HỎI HÓA HỮU CƠ SỐ 01",
+              "items": [
+                {
+                  "name": "100 CÂU LÝ THUYẾT CƠ BẢN HÓA HỮU CƠ SỐ 01-VIẾT TAY.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "100 CÂU LÝ THUYẾT CƠ BẢN HÓA HỮU CƠ SỐ 01-VIẾT TAY.pdf",
+                      "link": "https://drive.google.com/file/d/13kcUMuGzQiBHTwkg2WFb8yzC6L2H6ivU/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "100 CÂU LÝ THUYẾT CƠ BẢN HÓA HỮU CƠ SỐ 01-ĐỀ.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "100 CÂU LÝ THUYẾT CƠ BẢN HÓA HỮU CƠ SỐ 01-ĐỀ.pdf",
+                      "link": "https://drive.google.com/file/d/103dmG5ZEkBqR2YOKbi-fVqaFWnmDfOxK/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[LIVE] ĐỀ 01-CHUỖI LIVE 100 CÂU CHUYÊN BIỆT HÓA HỮU CƠ.mp4",
+                  "videos": [
+                    {
+                      "title": "[LIVE] ĐỀ 01-CHUỖI LIVE 100 CÂU CHUYÊN BIỆT HÓA HỮU CƠ.mp4",
+                      "link": "https://drive.google.com/file/d/1rHqPeCWnUS3stGbhMCUhwp9ymfLMWEUC/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "1.KHOÁ T NỀN TẢNG",
       "items": [],
       "children": [
@@ -1488,6 +1536,42 @@ const COURSE_DATA = {
                 }
               ],
               "children": []
+            },
+            {
+              "title": "41. ĐỀ LUYỆN TẬP CHƯƠNG 1 SỐ 05 (bổ sung)",
+              "items": [
+                {
+                  "name": "(TỜ 3.5) HÓA 12-CHƯƠNG 1-ESTER-LIPID -ĐỀ LUYỆN TẬP ESTER SỐ 05-VIẾT TAY.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "(TỜ 3.5) HÓA 12-CHƯƠNG 1-ESTER-LIPID -ĐỀ LUYỆN TẬP ESTER SỐ 05-VIẾT TAY.pdf",
+                      "link": "https://drive.google.com/file/d/19rFlYBFnR9h1cc45yDvig3VG5uBb8OB6/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "(TỜ 3.5) HÓA 12-CHƯƠNG 1-ESTER-LIPID -ĐỀ LUYỆN TẬP ESTER SỐ 05-ĐỀ.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "(TỜ 3.5) HÓA 12-CHƯƠNG 1-ESTER-LIPID -ĐỀ LUYỆN TẬP ESTER SỐ 05-ĐỀ.pdf",
+                      "link": "https://drive.google.com/file/d/1kO3uBdKHEHXMXS_Bzbp0tk51hAGU0dhj/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[LIVE BỔ SUNG] ĐỀ LUYỆN TẬP ESTER LIPID SỐ 05.mp4",
+                  "videos": [
+                    {
+                      "title": "[LIVE BỔ SUNG] ĐỀ LUYỆN TẬP ESTER LIPID SỐ 05.mp4",
+                      "link": "https://drive.google.com/file/d/1pqagV86LeMGIYtxKPIRhcw9M3-3RdklV/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
             }
           ]
         },
@@ -2410,6 +2494,114 @@ const COURSE_DATA = {
                 }
               ],
               "children": []
+            },
+            {
+              "title": "26. SÁCH BÀI TẬP BỘ KNTT-CHƯƠNG 2",
+              "items": [
+                {
+                  "name": "(TỜ SÁCH BÀI TẬP-KNTT) Chương II - BT Hoá 12 - KNTT-ĐÁP ÁN VIẾT TAY.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "(TỜ SÁCH BÀI TẬP-KNTT) Chương II - BT Hoá 12 - KNTT-ĐÁP ÁN VIẾT TAY.pdf",
+                      "link": "https://drive.google.com/file/d/1VQkz8FbwaaK-2DXIKiBXzJc-mNvxoDEO/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "(TỜ SÁCH BÀI TẬP-KNTT) Chương II - BT Hoá 12 - KNTT.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "(TỜ SÁCH BÀI TẬP-KNTT) Chương II - BT Hoá 12 - KNTT.pdf",
+                      "link": "https://drive.google.com/file/d/1Z3o7pJSE7dEaDvaAsNIOy0GGSjhhbKZ-/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "BUỔI 20-Hóa 12-CHƯƠNG 2-SÁCH BÀI TẬP-KẾT NỐI TRI THỨC.mp4",
+                  "videos": [
+                    {
+                      "title": "BUỔI 20-Hóa 12-CHƯƠNG 2-SÁCH BÀI TẬP-KẾT NỐI TRI THỨC.mp4",
+                      "link": "https://drive.google.com/file/d/1zbRnSFKZzj1h4L9yJtMwQq3LNxXYw3AP/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "27. ĐỀ TỔNG KIỂM TRA HÓA HỮU CƠ LẦN 5",
+              "items": [
+                {
+                  "name": "--[VIDEO] CHỮA ĐỀ TỔNG KIỂM TRA HÓA HỮU CƠ LẦN 5--.mp4",
+                  "videos": [
+                    {
+                      "title": "--[VIDEO] CHỮA ĐỀ TỔNG KIỂM TRA HÓA HỮU CƠ LẦN 5--.mp4",
+                      "link": "https://drive.google.com/file/d/1zRM_R5p9mjsNvKDMFbMMV10fNId2viji/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "ĐỀ TỔNG KIỂM TRA HÓA HỮU CƠ 2K9 LẦN 5 (TRẢ LỜI NGẮN)-VIẾT TAY.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "ĐỀ TỔNG KIỂM TRA HÓA HỮU CƠ 2K9 LẦN 5 (TRẢ LỜI NGẮN)-VIẾT TAY.pdf",
+                      "link": "https://drive.google.com/file/d/1_JEN01CV1gmWEizGYNOWeQHv-DqNcwS-/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "ĐỀ TỔNG KIỂM TRA HÓA HỮU CƠ 2K9 LẦN 5 (TRẢ LỜI NGẮN)-ĐỀ.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "ĐỀ TỔNG KIỂM TRA HÓA HỮU CƠ 2K9 LẦN 5 (TRẢ LỜI NGẮN)-ĐỀ.pdf",
+                      "link": "https://drive.google.com/file/d/16LfY9XTcnM4kVL1DKNii0YNZibBc84EU/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "28. ĐỀ TỔNG KIỂM TRA HÓA HỮU CƠ LẦN 6",
+              "items": [
+                {
+                  "name": "--[VIDEO] ĐỀ TỔNG KIỂM TRA LẦN 6 (Đề nâng cao).--  -Do đề này qua dài nên thầy quay vid để các em chữa cho chủ động nhé. Bảng điểm lát thầy gửi. -.mp4",
+                  "videos": [
+                    {
+                      "title": "--[VIDEO] ĐỀ TỔNG KIỂM TRA LẦN 6 (Đề nâng cao).--  -Do đề này qua dài nên thầy quay vid để các em chữa cho chủ động nhé. Bảng điểm lát thầy gửi. -.mp4",
+                      "link": "https://drive.google.com/file/d/1I0bcp0ReaY4is2V1zSVeWTHkff-XRwK4/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "ĐỀ TỔNG KIỂM TRA HÓA HỮU CƠ 2K9 LẦN 6 (TRẢ LỜI NGẮN)-VIẾT TAY.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "ĐỀ TỔNG KIỂM TRA HÓA HỮU CƠ 2K9 LẦN 6 (TRẢ LỜI NGẮN)-VIẾT TAY.pdf",
+                      "link": "https://drive.google.com/file/d/1I0c3lmcb2W7DtDMIENDDB2_QnngjTDQ9/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "ĐỀ TỔNG KIỂM TRA HÓA HỮU CƠ 2K9 LẦN 6 (TRẢ LỜI NGẮN)-ĐỀ.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "ĐỀ TỔNG KIỂM TRA HÓA HỮU CƠ 2K9 LẦN 6 (TRẢ LỜI NGẮN)-ĐỀ.pdf",
+                      "link": "https://drive.google.com/file/d/11w4cwWEV4LxOhldAwOOsDw8YTtCwEf-5/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
             }
           ]
         },
@@ -2700,6 +2892,412 @@ const COURSE_DATA = {
                 }
               ],
               "children": []
+            },
+            {
+              "title": "10. BÀI TẬP ĐÚNG SAI CHƯƠNG 3 SỐ 02",
+              "items": [
+                {
+                  "name": "(TỜ 3.2) BÀI TẬP ĐÚNG-SAI-CHỦ ĐỀ HỢP CHẤT HỮU CƠ CHỨA NITROGEN (SỐ 02)-VIẾT TAY.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "(TỜ 3.2) BÀI TẬP ĐÚNG-SAI-CHỦ ĐỀ HỢP CHẤT HỮU CƠ CHỨA NITROGEN (SỐ 02)-VIẾT TAY.pdf",
+                      "link": "https://drive.google.com/file/d/1UH85qzaKRXe9QvCPyXfllHaf-Pm3GqHT/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "(TỜ 3.2) BÀI TẬP ĐÚNG-SAI-CHỦ ĐỀ HỢP CHẤT HỮU CƠ CHỨA NITROGEN (SỐ 02)-Đề.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "(TỜ 3.2) BÀI TẬP ĐÚNG-SAI-CHỦ ĐỀ HỢP CHẤT HỮU CƠ CHỨA NITROGEN (SỐ 02)-Đề.pdf",
+                      "link": "https://drive.google.com/file/d/1gIxzUMPv2W3Ed5HO_fOPJVC2DSaVyqmi/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[LIVE] BÀI TẬP ĐÚNG SAI CHƯƠNG 3 PHẦN 2.mp4",
+                  "videos": [
+                    {
+                      "title": "[LIVE] BÀI TẬP ĐÚNG SAI CHƯƠNG 3 PHẦN 2.mp4",
+                      "link": "https://drive.google.com/file/d/1S_SofEp7QEzHtbutwfJwpHrq8nQt9H6K/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "11. BÀI TẬP ĐÚNG SAI CHƯƠNG 3 SỐ 03",
+              "items": [
+                {
+                  "name": "(TỜ 3.3) BÀI TẬP ĐÚNG-SAI-CHỦ ĐỀ HỢP CHẤT HỮU CƠ CHỨA NITROGEN (SỐ 03)-Viết tay.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "(TỜ 3.3) BÀI TẬP ĐÚNG-SAI-CHỦ ĐỀ HỢP CHẤT HỮU CƠ CHỨA NITROGEN (SỐ 03)-Viết tay.pdf",
+                      "link": "https://drive.google.com/file/d/1AsB3cmgjMd2uCvXvzJF9nlog11PLdFEz/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "(TỜ 3.3) BÀI TẬP ĐÚNG-SAI-CHỦ ĐỀ HỢP CHẤT HỮU CƠ CHỨA NITROGEN (SỐ 03)-Đề.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "(TỜ 3.3) BÀI TẬP ĐÚNG-SAI-CHỦ ĐỀ HỢP CHẤT HỮU CƠ CHỨA NITROGEN (SỐ 03)-Đề.pdf",
+                      "link": "https://drive.google.com/file/d/1PlXntAYeD-OkklQn-uJDQsLBlddfYmFW/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "BUỔI 11-BÀI TẬP ĐÚNG SAI CHƯƠNG 3 SỐ 03.mp4",
+                  "videos": [
+                    {
+                      "title": "BUỔI 11-BÀI TẬP ĐÚNG SAI CHƯƠNG 3 SỐ 03.mp4",
+                      "link": "https://drive.google.com/file/d/16jCL1sFv0KKoO3yVuNJEVcCLUjKspie8/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "12. LÝ THUYẾT CHUYÊN BIỆT VỀ ĐIỆN DI",
+              "items": [
+                {
+                  "name": "[LIVE] LÝ THUYẾT CHUYÊN BIỆT VỀ ĐIỆN DI.mp4",
+                  "videos": [
+                    {
+                      "title": "[LIVE] LÝ THUYẾT CHUYÊN BIỆT VỀ ĐIỆN DI.mp4",
+                      "link": "https://drive.google.com/file/d/1UbRBu29j1xBuctJilnzlRW_VTYZPwu6u/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "BÀI TẬP LÝ THUYẾT CHUYÊN BIỆT VỀ ĐIỆN DI-VIẾT TAY.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "BÀI TẬP LÝ THUYẾT CHUYÊN BIỆT VỀ ĐIỆN DI-VIẾT TAY.pdf",
+                      "link": "https://drive.google.com/file/d/14Z4mO0vF53OkP7WdQwMqgk0YAqCHUo5T/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "BÀI TẬP LÝ THUYẾT CHUYÊN BIỆT VỀ ĐIỆN DI-ĐỀ.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "BÀI TẬP LÝ THUYẾT CHUYÊN BIỆT VỀ ĐIỆN DI-ĐỀ.pdf",
+                      "link": "https://drive.google.com/file/d/1a69J3Sz01J8NkYtNNTvwGW0narTYgQhj/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "13. 68 CÂU LÝ THUYẾT CHUYÊN BIỆT VỀ HỢP CHẤT NITROGEN SỐ 01",
+              "items": [
+                {
+                  "name": "68 CÂU LÝ THUYẾT CHUYÊN BIỆT HỢP CHẤT NITROGEN SỐ 01-001.mp4",
+                  "videos": [
+                    {
+                      "title": "68 CÂU LÝ THUYẾT CHUYÊN BIỆT HỢP CHẤT NITROGEN SỐ 01-001.mp4",
+                      "link": "https://drive.google.com/file/d/11BZldgXtvZyQeCZclbaIxI4yjPbWcBri/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "68 CÂU LÝ THUYẾT CHUYÊN BIỆT VỀ HỢP CHẤT CỦA NITROGEN-PHẦN 1-Viết tay.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "68 CÂU LÝ THUYẾT CHUYÊN BIỆT VỀ HỢP CHẤT CỦA NITROGEN-PHẦN 1-Viết tay.pdf",
+                      "link": "https://drive.google.com/file/d/124nbzgIT9lK9RG-7dDliENtOx0G0rHVB/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "(TỜ 5.1) 68 CÂU LÝ THUYẾT CHUYÊN BIỆT VỀ HỢP CHẤT CỦA NITROGEN-PHẦN 1-ĐỀ.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "(TỜ 5.1) 68 CÂU LÝ THUYẾT CHUYÊN BIỆT VỀ HỢP CHẤT CỦA NITROGEN-PHẦN 1-ĐỀ.pdf",
+                      "link": "https://drive.google.com/file/d/1HIw_S9_lRewdCx_eSjPq0thD8owbIrvO/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "14. 68 CÂU LÝ THUYẾT CHUYÊN BIỆT VỀ HỢP CHẤT NITROGEN SỐ 02",
+              "items": [
+                {
+                  "name": "68 CÂU LÝ THUYẾT CHUYÊN BIỆT HỢP CHẤT NITROGEN SỐ 02-001.mp4",
+                  "videos": [
+                    {
+                      "title": "68 CÂU LÝ THUYẾT CHUYÊN BIỆT HỢP CHẤT NITROGEN SỐ 02-001.mp4",
+                      "link": "https://drive.google.com/file/d/1HqFwzSj61ZcLkippqr9kX8BpL1hkDG3V/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "68 CÂU LÝ THUYẾT CHUYÊN BIỆT VỀ HỢP CHẤT CỦA NITROGEN-PHẦN 2-VIẾT TAY.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "68 CÂU LÝ THUYẾT CHUYÊN BIỆT VỀ HỢP CHẤT CỦA NITROGEN-PHẦN 2-VIẾT TAY.pdf",
+                      "link": "https://drive.google.com/file/d/1pWjpxooaXjRJivJyCuFs1655_qkrgmvL/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "(TỜ 5.2) 68 CÂU LÝ THUYẾT CHUYÊN BIỆT VỀ HỢP CHẤT CỦA NITROGEN-PHẦN 2-ĐỀ.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "(TỜ 5.2) 68 CÂU LÝ THUYẾT CHUYÊN BIỆT VỀ HỢP CHẤT CỦA NITROGEN-PHẦN 2-ĐỀ.pdf",
+                      "link": "https://drive.google.com/file/d/1iQamhh6TbnFbTk_YyP1HkjZXU1JMcogu/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "15. ĐỀ LUYỆN TẬP CHƯƠNG 3 SỐ 04 (bổ sung)",
+              "items": [
+                {
+                  "name": "(TỜ 4.4) HÓA 12-CHƯƠNG 3-HỢP CHẤT CỦA NITROGEN-ĐỀ LUYỆN TẬP SỐ 04-VIẾT TAY.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "(TỜ 4.4) HÓA 12-CHƯƠNG 3-HỢP CHẤT CỦA NITROGEN-ĐỀ LUYỆN TẬP SỐ 04-VIẾT TAY.pdf",
+                      "link": "https://drive.google.com/file/d/1gyAdjDZCcxrLLsX6-qW0mtW4puN9SIMM/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "(TỜ 4.4) HÓA 12-CHƯƠNG 3-HỢP CHẤT CỦA NITROGEN-ĐỀ LUYỆN TẬP SỐ 04-ĐỀ.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "(TỜ 4.4) HÓA 12-CHƯƠNG 3-HỢP CHẤT CỦA NITROGEN-ĐỀ LUYỆN TẬP SỐ 04-ĐỀ.pdf",
+                      "link": "https://drive.google.com/file/d/10YeN-CL1xYyNlQEsYw8dBjO9OJoasQ-b/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[LIVE] ĐỀ LUYỆN TẬP SỐ 04 CHƯƠNG 3.mp4",
+                  "videos": [
+                    {
+                      "title": "[LIVE] ĐỀ LUYỆN TẬP SỐ 04 CHƯƠNG 3.mp4",
+                      "link": "https://drive.google.com/file/d/1whsAE6cCkHVnQfpdtIHk34Kon5ICk4sf/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "16. HỌC LẠI TỪ ĐẦU BUỔI 1+2-AMINE",
+              "items": [
+                {
+                  "name": "[LIVE] HỌC LẠI TỪ ĐẦU CHƯƠNG 3 BUỔI 1.mp4",
+                  "videos": [
+                    {
+                      "title": "[LIVE] HỌC LẠI TỪ ĐẦU CHƯƠNG 3 BUỔI 1.mp4",
+                      "link": "https://drive.google.com/file/d/1WU1-tN2HtxDk6pMGaKFHCdgeiQn9Qiwx/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "[LIVE] HỌC LẠI TỪ ĐẦU CHƯƠNG 3 BUỔI 2.mp4",
+                  "videos": [
+                    {
+                      "title": "[LIVE] HỌC LẠI TỪ ĐẦU CHƯƠNG 3 BUỔI 2.mp4",
+                      "link": "https://drive.google.com/file/d/10E15SixBqAGIV5FlxdTH_WzWu4yRUnY2/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "CHƯƠNG 3-HỢP CHẤT CỦA NITROGEN (HLTĐ-BUỔI 1 VÀ 2)-VIẾT TAY.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "CHƯƠNG 3-HỢP CHẤT CỦA NITROGEN (HLTĐ-BUỔI 1 VÀ 2)-VIẾT TAY.pdf",
+                      "link": "https://drive.google.com/file/d/1kdWAf6deZPXID5xjDLS1mssMdCVBy7EK/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "CHƯƠNG 3-HỢP CHẤT CỦA NITROGEN (HLTĐ-BUỔI 1 VÀ 2)-ĐỀ.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "CHƯƠNG 3-HỢP CHẤT CỦA NITROGEN (HLTĐ-BUỔI 1 VÀ 2)-ĐỀ.pdf",
+                      "link": "https://drive.google.com/file/d/1261IKPNaFQKrBfpB8w_vOWaTDjnZDY9r/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "17. HỌC LẠI TỪ ĐẦU BUỔI 3+4-AMINO ACID",
+              "items": [
+                {
+                  "name": "[LIVE] HỌC LẠI TỪ ĐẦU CHƯƠNG 3 BUỔI 3-AMINOACID.mp4",
+                  "videos": [
+                    {
+                      "title": "[LIVE] HỌC LẠI TỪ ĐẦU CHƯƠNG 3 BUỔI 3-AMINOACID.mp4",
+                      "link": "https://drive.google.com/file/d/1EOdBSV2eMmJfb5TkvmOKzMdgZy1N1Gm6/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "CHƯƠNG 3-HỢP CHẤT CỦA NITROGEN (HLTĐ-BUỔI 3 VÀ 4)-VIẾT TAY.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "CHƯƠNG 3-HỢP CHẤT CỦA NITROGEN (HLTĐ-BUỔI 3 VÀ 4)-VIẾT TAY.pdf",
+                      "link": "https://drive.google.com/file/d/1UT01nAoCPMPQfQRsv1DHF6dqA1FIPdG_/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "CHƯƠNG 3-HỢP CHẤT CỦA NITROGEN (HLTĐ-BUỔI 3 VÀ 4)-ĐỀ.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "CHƯƠNG 3-HỢP CHẤT CỦA NITROGEN (HLTĐ-BUỔI 3 VÀ 4)-ĐỀ.pdf",
+                      "link": "https://drive.google.com/file/d/1Gqk0nuGsRDZ1IgWmQm88JjE4y8BNsyWB/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "18. SÁCH BÀI TẬP KNTT CHƯƠNG 3",
+              "items": [
+                {
+                  "name": "(TỜ SÁCH BT-KNTT) Hoa 12-CHƯƠNG 3 - KNTT - SBT-ĐÁP ÁN VIẾT TAY.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "(TỜ SÁCH BT-KNTT) Hoa 12-CHƯƠNG 3 - KNTT - SBT-ĐÁP ÁN VIẾT TAY.pdf",
+                      "link": "https://drive.google.com/file/d/1hlgzMks4zIw9Eqop3sfyNsQJdzxzCkCk/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "(TỜ SÁCH BT-KNTT) Hoa 12-CHƯƠNG 3 - KNTT - SBT-ĐỀ.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "(TỜ SÁCH BT-KNTT) Hoa 12-CHƯƠNG 3 - KNTT - SBT-ĐỀ.pdf",
+                      "link": "https://drive.google.com/file/d/1p144ME5h1Aj8jTfG9SIWdXHSfTyw-ntW/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "Hóa 12-CHƯƠNG 3-SÁCH BÀI TẬP-KNTT.mp4",
+                  "videos": [
+                    {
+                      "title": "Hóa 12-CHƯƠNG 3-SÁCH BÀI TẬP-KNTT.mp4",
+                      "link": "https://drive.google.com/file/d/18n1ktT9E0EMFrjlqi7aXJRoGJS2Rs7Qt/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "19. HỌC LẠI TỪ ĐẦU BUỔI 5+6-PEPTIDE-PROTEIN",
+              "items": [
+                {
+                  "name": "[LIVE] HỌC LẠI CHƯƠNG 3-BUỔI 5 VÀ 6.mp4",
+                  "videos": [
+                    {
+                      "title": "[LIVE] HỌC LẠI CHƯƠNG 3-BUỔI 5 VÀ 6.mp4",
+                      "link": "https://drive.google.com/file/d/149O4720y2WTmz72B8Beua2D-udnAcmNB/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "CHƯƠNG 3-HỢP CHẤT CỦA NITROGEN (HLTĐ-BUỔI 5 VÀ 6)-VIẾT TAY.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "CHƯƠNG 3-HỢP CHẤT CỦA NITROGEN (HLTĐ-BUỔI 5 VÀ 6)-VIẾT TAY.pdf",
+                      "link": "https://drive.google.com/file/d/1GLQ6XSgOPzcfaou0JGLUTlC1Zd9ROnt9/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "CHƯƠNG 3-HỢP CHẤT CỦA NITROGEN (HLTĐ-BUỔI 5 VÀ 6)-ĐỀ.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "CHƯƠNG 3-HỢP CHẤT CỦA NITROGEN (HLTĐ-BUỔI 5 VÀ 6)-ĐỀ.pdf",
+                      "link": "https://drive.google.com/file/d/1ovqhJ6Xkbv9iMlsP0Mvda5XCoKD2yYQV/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "20. TỔNG ÔN KIẾN THỨC CƠ BẢN CHƯƠNG 3",
+              "items": [
+                {
+                  "name": "[LIVE] TỔNG ÔN KIẾN THỨC CƠ BẢN VỀ HỢP CHẤT CỦA NITROGEN.mp4",
+                  "videos": [
+                    {
+                      "title": "[LIVE] TỔNG ÔN KIẾN THỨC CƠ BẢN VỀ HỢP CHẤT CỦA NITROGEN.mp4",
+                      "link": "https://drive.google.com/file/d/1Nw190-zr-ObZ-oZ2meXmXaerJFFfl5SL/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "TỔNG ÔN LÝ THUYẾT CƠ BẢN HÓA 12-CHƯƠNG 3-VIẾT TAY.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "TỔNG ÔN LÝ THUYẾT CƠ BẢN HÓA 12-CHƯƠNG 3-VIẾT TAY.pdf",
+                      "link": "https://drive.google.com/file/d/1oOG_nJI0LsW-CaZArIYkH_8Kr_BRKSWv/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "TỔNG ÔN LÝ THUYẾT CƠ BẢN HÓA 12-CHƯƠNG 3-ĐỀ.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "TỔNG ÔN LÝ THUYẾT CƠ BẢN HÓA 12-CHƯƠNG 3-ĐỀ.pdf",
+                      "link": "https://drive.google.com/file/d/1_-XFvNsNG91LzuW6vD7C62qEXdMVQ6uo/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
             }
           ]
         },
@@ -2796,6 +3394,196 @@ const COURSE_DATA = {
               "children": []
             },
             {
+              "title": "4. CHỮA BT CHUYÊN ĐỀ 3-DẠNG TOÁN VỀ POLYMER (SÁCH HTCPHHC)",
+              "items": [
+                {
+                  "name": "BUỔI 4-CHỮA BT CHUYÊN ĐỀ 3-BÀI TẬP POLYMER(SÁCH HTCPHHC).mp4",
+                  "videos": [
+                    {
+                      "title": "BUỔI 4-CHỮA BT CHUYÊN ĐỀ 3-BÀI TẬP POLYMER(SÁCH HTCPHHC).mp4",
+                      "link": "https://drive.google.com/file/d/15HpurQoaV5Zxg0c7NzwZXpp4Na201KE-/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "CHUYÊN ĐỀ 3-(TỜ 01-SÁCH HTCPHHC) CHƯƠNG 4-POLYMER-VIẾT TAY.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "CHUYÊN ĐỀ 3-(TỜ 01-SÁCH HTCPHHC) CHƯƠNG 4-POLYMER-VIẾT TAY.pdf",
+                      "link": "https://drive.google.com/file/d/15IOkEDHDfmyOhn1G5-DBEN_79BcL-uO2/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "CHUYÊN ĐỀ 3-(TỜ 01-SÁCH HTCPHHC) CHƯƠNG 4-POLYMER-ĐỀ.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "CHUYÊN ĐỀ 3-(TỜ 01-SÁCH HTCPHHC) CHƯƠNG 4-POLYMER-ĐỀ.pdf",
+                      "link": "https://drive.google.com/file/d/11JevWaacUI50T8bBO00uCt1UgqCHO8UZ/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "5. CHỮA BT CHUYÊN ĐỀ 4-TỔNG ÔN POLYMER (SÁCH HTCPHHC)",
+              "items": [
+                {
+                  "name": "[LIVE] TỔNG ÔN POLYMER.mp4",
+                  "videos": [
+                    {
+                      "title": "[LIVE] TỔNG ÔN POLYMER.mp4",
+                      "link": "https://drive.google.com/file/d/1kLthgTOZ5Ng6J3dYynlaws5fFnlvcDjx/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "CHUYÊN ĐỀ 4-(TỜ 01-SÁCH HTCPHHC) CHƯƠNG 4-POLYMER-VIẾT TAY.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "CHUYÊN ĐỀ 4-(TỜ 01-SÁCH HTCPHHC) CHƯƠNG 4-POLYMER-VIẾT TAY.pdf",
+                      "link": "https://drive.google.com/file/d/1Ie6w8n-8iXeX9HTtgV8VG8ZK3-mnRWAa/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "6. ĐỀ LUYỆN TẬP POLYMER SỐ 01- 02",
+              "items": [
+                {
+                  "name": "(TỜ 2.1 và 2.2) HÓA 12-CHƯƠNG 4-POLYMER-ĐỀ LUYỆN TẬP POLYMER SỐ 01 và 02-VIẾT TAY.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "(TỜ 2.1 và 2.2) HÓA 12-CHƯƠNG 4-POLYMER-ĐỀ LUYỆN TẬP POLYMER SỐ 01 và 02-VIẾT TAY.pdf",
+                      "link": "https://drive.google.com/file/d/1l8sfuGlVV9krwI1fVblXnnBkdK8BMSoc/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "(TỜ 2.1) HÓA 12-CHƯƠNG 4-POLYMER-ĐỀ LUYỆN TẬP POLYMER SỐ 01-ĐỀ.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "(TỜ 2.1) HÓA 12-CHƯƠNG 4-POLYMER-ĐỀ LUYỆN TẬP POLYMER SỐ 01-ĐỀ.pdf",
+                      "link": "https://drive.google.com/file/d/1jT6AqmnhCK6TNGodd7hA6mEY3DnwwLLK/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "(TỜ 2.2) HÓA 12-CHƯƠNG 4-POLYMER-ĐỀ LUYỆN TẬP POLYMER SỐ 02-ĐỀ.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "(TỜ 2.2) HÓA 12-CHƯƠNG 4-POLYMER-ĐỀ LUYỆN TẬP POLYMER SỐ 02-ĐỀ.pdf",
+                      "link": "https://drive.google.com/file/d/1J81rSBwQ-u_aCzLZtOyUr2VXfBzU_TaE/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "ĐỀ LUYỆN TẬP POLYMER SỐ 01 VÀ 02.mp4",
+                  "videos": [
+                    {
+                      "title": "ĐỀ LUYỆN TẬP POLYMER SỐ 01 VÀ 02.mp4",
+                      "link": "https://drive.google.com/file/d/1f0GIbqZTB9t_odcQwm6M3XnDPIdBN-7A/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "7. ĐỀ LUYỆN TẬP POLYMER SỐ 03 - 04",
+              "items": [
+                {
+                  "name": "(TỜ 2.3 và 2.4) HÓA 12-CHƯƠNG 4-POLYMER-ĐỀ LUYỆN TẬP POLYMER SỐ 03 và 04-VIẾT TAY.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "(TỜ 2.3 và 2.4) HÓA 12-CHƯƠNG 4-POLYMER-ĐỀ LUYỆN TẬP POLYMER SỐ 03 và 04-VIẾT TAY.pdf",
+                      "link": "https://drive.google.com/file/d/17SKckGE2HYmb3E99sm23VLpX0FFl6nga/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "(TỜ 2.3) HÓA 12-CHƯƠNG 4-POLYMER-ĐỀ LUYỆN TẬP POLYMER SỐ 03-ĐỀ.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "(TỜ 2.3) HÓA 12-CHƯƠNG 4-POLYMER-ĐỀ LUYỆN TẬP POLYMER SỐ 03-ĐỀ.pdf",
+                      "link": "https://drive.google.com/file/d/1hmVuGhJ_V46BDLOKskC4Jg6I4IubmnU3/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "(TỜ 2.4) HÓA 12-CHƯƠNG 4-POLYMER-ĐỀ LUYỆN TẬP POLYMER SỐ 04-ĐỀ.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "(TỜ 2.4) HÓA 12-CHƯƠNG 4-POLYMER-ĐỀ LUYỆN TẬP POLYMER SỐ 04-ĐỀ.pdf",
+                      "link": "https://drive.google.com/file/d/1g26As5hOWKFglyBKKjaoMKQL_WPbifZj/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[LIVE] ĐỀ LUYỆN TẬP POLYMER SỐ 03 VÀ 04.mp4",
+                  "videos": [
+                    {
+                      "title": "[LIVE] ĐỀ LUYỆN TẬP POLYMER SỐ 03 VÀ 04.mp4",
+                      "link": "https://drive.google.com/file/d/1DhhwuOQtbGwHEiqLTO66avs3A7Ii2sOv/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "8. 68 CÂU LÝ THUYẾT CHUYÊN BIỆT VỀ POLYMER",
+              "items": [
+                {
+                  "name": "68 CÂU LÝ THUYẾT CHUYÊN BIỆT POLYMER-VIẾT TAY.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "68 CÂU LÝ THUYẾT CHUYÊN BIỆT POLYMER-VIẾT TAY.pdf",
+                      "link": "https://drive.google.com/file/d/1bVA-ykiaXZoziclb4BdYOF4eJW30ox65/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "68 CÂU LÝ THUYẾT CHUYÊN BIỆT POLYMER-ĐỀ.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "68 CÂU LÝ THUYẾT CHUYÊN BIỆT POLYMER-ĐỀ.pdf",
+                      "link": "https://drive.google.com/file/d/1U67hbq317KMa1YzuOb48z2POCsVjTGFu/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[LIVE] 68 CÂU LÝ THUYẾT CHUYÊN BIỆT VỀ POLYMER.mp4",
+                  "videos": [
+                    {
+                      "title": "[LIVE] 68 CÂU LÝ THUYẾT CHUYÊN BIỆT VỀ POLYMER.mp4",
+                      "link": "https://drive.google.com/file/d/1x_TUpFleHIFnSSd6WJGO0ryQxPMa5_ta/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
               "title": "Tài liệu in chương 4-Hóa 12",
               "items": [
                 {
@@ -2887,6 +3675,126 @@ const COURSE_DATA = {
                       "link": "https://drive.google.com/file/d/1YaremdpvRzakupGERYc32AKzfDH8niii/view?usp=drivesdk"
                     }
                   ]
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "5. CHƯƠNG 5-PIN ĐIỆN VÀ ĐIỆN PHÂN_",
+          "items": [],
+          "children": [
+            {
+              "title": "1. LÝ THUYẾT PIN ĐIỆN HÓA (Ưu tiên học lại)",
+              "items": [
+                {
+                  "name": "[LIVE] BUỔI 1-CHƯƠNG 5-LÝ THUYẾT THẾ ĐIỆN CỰC VÀ NGUỒN ĐIỆN HÓA HỌC.mp4",
+                  "videos": [
+                    {
+                      "title": "[LIVE] BUỔI 1-CHƯƠNG 5-LÝ THUYẾT THẾ ĐIỆN CỰC VÀ NGUỒN ĐIỆN HÓA HỌC.mp4",
+                      "link": "https://drive.google.com/file/d/1NyTUiEFKKqIGG8Z8WziPjctL9wdZ8uI3/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "BUỔI 1-CHƯƠNG 5-LÝ THUYẾT PIN ĐIỆN HÓA-VIẾT TAY.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "BUỔI 1-CHƯƠNG 5-LÝ THUYẾT PIN ĐIỆN HÓA-VIẾT TAY.pdf",
+                      "link": "https://drive.google.com/file/d/1sZU9KJPHKAfchL9zhIKatBBVR-46yy9U/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "2. CHỮA BÀI TẬP CĐ1-PIN ĐIỆN HÓA (Sách HTCPHVC) (Ưu tiên học lại)",
+              "items": [
+                {
+                  "name": "(TỜ 01-CĐ1-SÁCH HTCPHVC) CHƯƠNG 5-PIN ĐIỆN VÀ ĐIỆN PHÂN-VIẾT TAY.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "(TỜ 01-CĐ1-SÁCH HTCPHVC) CHƯƠNG 5-PIN ĐIỆN VÀ ĐIỆN PHÂN-VIẾT TAY.pdf",
+                      "link": "https://drive.google.com/file/d/1VXv-oglt4y7NzDK6hNVbkK3nJ2ilRRL4/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "(TỜ 01-SÁCH HTCPHVC) CHƯƠNG 5-PIN ĐIỆN VÀ ĐIỆN PHÂN-ĐỀ.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "(TỜ 01-SÁCH HTCPHVC) CHƯƠNG 5-PIN ĐIỆN VÀ ĐIỆN PHÂN-ĐỀ.pdf",
+                      "link": "https://drive.google.com/file/d/1tVMjhW0KB4L6Ubuagwy9O-k7AC30Vq3v/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[LIVE] BUỔI 2-CHƯƠNG 5-CHỮA BÀI TẬP CHUYÊN ĐỀ 1-PIN ĐIỆN HÓA.mp4",
+                  "videos": [
+                    {
+                      "title": "[LIVE] BUỔI 2-CHƯƠNG 5-CHỮA BÀI TẬP CHUYÊN ĐỀ 1-PIN ĐIỆN HÓA.mp4",
+                      "link": "https://drive.google.com/file/d/1YlgY7G5eTTDMkVJN6lRAdkbvNNi1rmH7/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "3. LÝ THUYẾT ĐIỆN PHÂN (Ưu tiên học lại)",
+              "items": [
+                {
+                  "name": "[LIVE] LÝ THUYẾT ĐIỆN PHÂN.mp4",
+                  "videos": [
+                    {
+                      "title": "[LIVE] LÝ THUYẾT ĐIỆN PHÂN.mp4",
+                      "link": "https://drive.google.com/file/d/1z4-aU5Jq-bEfWyQ7okfMJry5rwFGrU0-/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "LÝ THUYẾT ĐIỆN PHÂN 2026-VIẾT TAY.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "LÝ THUYẾT ĐIỆN PHÂN 2026-VIẾT TAY.pdf",
+                      "link": "https://drive.google.com/file/d/1VC6z4Q1_2TNcmxwtEopY2s3zULbKpm-6/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "4. CHỮA BÀI TẬP CĐ2-ĐIỆN PHÂN (Sách HTCPHVC) (Ưu tiên học lại)",
+              "items": [
+                {
+                  "name": "(TỜ 01-CĐ2-SÁCH HTCPHVC) CHƯƠNG 5-PIN ĐIỆN VÀ ĐIỆN PHÂN-VIẾT TAY.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "(TỜ 01-CĐ2-SÁCH HTCPHVC) CHƯƠNG 5-PIN ĐIỆN VÀ ĐIỆN PHÂN-VIẾT TAY.pdf",
+                      "link": "https://drive.google.com/file/d/1htsNV9xmC6Rr46qTEbRCVj3K__mRpmtc/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[LIVE] CHỮA BÀI TẬP CHUYÊN ĐỀ 2-ĐIỆN PHÂN.mp4",
+                  "videos": [
+                    {
+                      "title": "[LIVE] CHỮA BÀI TẬP CHUYÊN ĐỀ 2-ĐIỆN PHÂN.mp4",
+                      "link": "https://drive.google.com/file/d/1teH8Atjwznhu4D8pm7ElQsH7AgfBZdRB/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
                 }
               ],
               "children": []

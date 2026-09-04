@@ -896,6 +896,84 @@ const COURSE_DATA = {
             }
           ],
           "children": []
+        },
+        {
+          "title": "8. Thi định kì lần 1 Kĩ năng Địa lí",
+          "items": [
+            {
+              "name": "Thi định kì lần 1 Kĩ năng Địa lí.mp4.mp4",
+              "videos": [
+                {
+                  "title": "Thi định kì lần 1 Kĩ năng Địa lí.mp4.mp4",
+                  "link": "https://drive.google.com/file/d/1pDm3wMYYvlG54Oy5IzamMpE5r89hyn1v/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "Thi định kì lần 1 Kĩ năng Địa lí.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "Thi định kì lần 1 Kĩ năng Địa lí.pdf",
+                  "link": "https://drive.google.com/file/d/119uWOsv-Hc17R8sVX_gCqXob8ZCctcjb/view?usp=drivesdk"
+                }
+              ]
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "9. Bài 3_ Vị trí địa lí, phạm vi lãnh thổ",
+          "items": [
+            {
+              "name": "Bài 3 Vị trí địa lí phạm vi lãnh thổ.mp4.mp4",
+              "videos": [
+                {
+                  "title": "Bài 3 Vị trí địa lí phạm vi lãnh thổ.mp4.mp4",
+                  "link": "https://drive.google.com/file/d/1Xx2r2a9L4Tq-omZo3WjGQ8NEYXMPB5N8/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "LDTC ĐỀ SỐ 13.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "LDTC ĐỀ SỐ 13.pdf",
+                  "link": "https://drive.google.com/file/d/15Y0_je6ULRZnuAfAX4ULMoVxL3cZZ8TY/view?usp=drivesdk"
+                }
+              ]
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "10. KHAI GIẢNG KHÓA LIVE C 2K9",
+          "items": [
+            {
+              "name": "Khai giảng khóa 2k9 - Chào mừng các em gia nhập team Lớp học Địa lý.mp4Khai giảng khóa 2k9 - Chào mừ.mp4",
+              "videos": [
+                {
+                  "title": "Khai giảng khóa 2k9 - Chào mừng các em gia nhập team Lớp học Địa lý.mp4Khai giảng khóa 2k9 - Chào mừ.mp4",
+                  "link": "https://drive.google.com/file/d/1DGGpOYpxX4uO_KTSWBjwZnENu7qDQSk8/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "KHAI GIẢNG KHÓA LIVE C 2K9.mp4KHAI GIẢNG KHÓA LIVE C 2K9.mp4.mp4",
+              "videos": [
+                {
+                  "title": "KHAI GIẢNG KHÓA LIVE C 2K9.mp4KHAI GIẢNG KHÓA LIVE C 2K9.mp4.mp4",
+                  "link": "https://drive.google.com/file/d/1-1h8_Q--l-Jgvpm-QduAg3vZ941yYpw0/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
         }
       ]
     }

@@ -704,6 +704,278 @@ const COURSE_DATA = {
                 }
               ],
               "children": []
+            },
+            {
+              "title": "4. 0204 – Định luật Charles về quá trình đẳng áp",
+              "items": [
+                {
+                  "name": "0204- Định luật Charles về quá trình đẳng áp.mp4",
+                  "videos": [
+                    {
+                      "title": "0204- Định luật Charles về quá trình đẳng áp.mp4",
+                      "link": "https://drive.google.com/file/d/1f58n999s9X1xSOJd7nUhBvxHrWD2WEJn/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "Chữa bài tập 0204- Định luật Charles về quá trình đẳng áp.mp4",
+                  "videos": [
+                    {
+                      "title": "Chữa bài tập 0204- Định luật Charles về quá trình đẳng áp.mp4",
+                      "link": "https://drive.google.com/file/d/1V-_h_v9fIebD04hY8bm8lrU659q6io4t/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "Dãn dòng - 0204 - Định luật Charles về quá trình đẳng áp.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "Dãn dòng - 0204 - Định luật Charles về quá trình đẳng áp.pdf",
+                      "link": "https://drive.google.com/file/d/11rchMUHGDKxVA3zKAbkSdViBnRs6aa9D/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "5. 0205 – Quá trình đẳng tích của khí lí tưởng",
+              "items": [
+                {
+                  "name": "0205 - Quá trình đẳng tích của khí lí tưởng.mp4",
+                  "videos": [
+                    {
+                      "title": "0205 - Quá trình đẳng tích của khí lí tưởng.mp4",
+                      "link": "https://drive.google.com/file/d/1cC4eJd_PsHrBo_FA3n0NKx_6Z2cOdkaZ/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "0205 - Quá trình đẳng tích của khí lí tưởng.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "0205 - Quá trình đẳng tích của khí lí tưởng.pdf",
+                      "link": "https://drive.google.com/file/d/1uLIjoqeswn0OxU-caMpE0j-9RF0n4Y4M/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[0205] – 1. Đáp án thi online – 0205 – Quá trình đẳng tích của khí lí tưởng.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[0205] – 1. Đáp án thi online – 0205 – Quá trình đẳng tích của khí lí tưởng.pdf",
+                      "link": "https://drive.google.com/file/d/1dlkqJU9xql9DpPHa37i5b0dvARZtd-nH/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "Chữa bài tập - 0205 - Quá trình đẳng tích của khí lí tưởng.mp4",
+                  "videos": [
+                    {
+                      "title": "Chữa bài tập - 0205 - Quá trình đẳng tích của khí lí tưởng.mp4",
+                      "link": "https://drive.google.com/file/d/18ynEx3rOdS_FQK0DXMCMx79w8-nVRuzY/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "6. 0104 - Nhiệt kế và Nhiệt độ",
+              "items": [
+                {
+                  "name": "0104 - Nhiet ke va Nhiet do - MAP.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "0104 - Nhiet ke va Nhiet do - MAP.pdf",
+                      "link": "https://drive.google.com/file/d/1_ZKhJ2EF9ofv0xjBM8I59TEoljZM01YE/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "0104 - Nhiệt kế và Nhiệt độ.mp4",
+                  "videos": [
+                    {
+                      "title": "0104 - Nhiệt kế và Nhiệt độ.mp4",
+                      "link": "https://drive.google.com/file/d/1aJ8_XsKS2d9DLoM3bawvymudtEtL5OY2/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "6. 0206 - Phương trình trạng thái của khí lí tưởng",
+              "items": [
+                {
+                  "name": "0206 - Phương trình trạng thái khí lí tưởng.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "0206 - Phương trình trạng thái khí lí tưởng.pdf",
+                      "link": "https://drive.google.com/file/d/1OXrxxo6RA5yC0mI-DJBNQfaZJfwXWzB7/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "0206- Phương trình trạng thái của khí lí tưởng.mp4",
+                  "videos": [
+                    {
+                      "title": "0206- Phương trình trạng thái của khí lí tưởng.mp4",
+                      "link": "https://drive.google.com/file/d/11Y9ntt793BEC1N0KIwlBlbzGOtOCF9Sl/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "Chữa bài 0206 - Phương trình trạng thái khí lí tưởng.mp4",
+                  "videos": [
+                    {
+                      "title": "Chữa bài 0206 - Phương trình trạng thái khí lí tưởng.mp4",
+                      "link": "https://drive.google.com/file/d/1QpWc5cIR1UfE5tYXNpsAMmYA2TTCZUBJ/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "7. 0207 - Phương trình Clapeyron",
+              "items": [
+                {
+                  "name": "0207 - Phương trình Clapeyron.mp4",
+                  "videos": [
+                    {
+                      "title": "0207 - Phương trình Clapeyron.mp4",
+                      "link": "https://drive.google.com/file/d/1j0YIbrqzuaRcZqzF2dMC6Kx9Hq095tLW/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "0207 - Phương trình Clapeyron.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "0207 - Phương trình Clapeyron.pdf",
+                      "link": "https://drive.google.com/file/d/1MQWIgOPh_3aGSDMAf9a4hmL9lwh-0m7D/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[0207] – 6. Đáp án – 0207 – Thi online – Phương trình Clapeyron.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[0207] – 6. Đáp án – 0207 – Thi online – Phương trình Clapeyron.pdf",
+                      "link": "https://drive.google.com/file/d/1HwBVuRKDwKqGdD1rnkhP2hqSbsE0UXc1/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "Chữa bài tập - 0207 - Phương trình Clapeyron.mp4",
+                  "videos": [
+                    {
+                      "title": "Chữa bài tập - 0207 - Phương trình Clapeyron.mp4",
+                      "link": "https://drive.google.com/file/d/1opmKg6FyxxiTCtyjP4m2aH4TMtLU43YK/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "8. 0208 – Các dạng đồ thị khí lí tưởng",
+              "items": [
+                {
+                  "name": "0208 - Các dạng đồ thị Khí Lí Tưởng.mp4",
+                  "videos": [
+                    {
+                      "title": "0208 - Các dạng đồ thị Khí Lí Tưởng.mp4",
+                      "link": "https://drive.google.com/file/d/10MntBbe9mTVj9NefHomlSvTwKrNI1UCh/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "0208 - Các dạng đồ thị Khí Lí Tưởng.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "0208 - Các dạng đồ thị Khí Lí Tưởng.pdf",
+                      "link": "https://drive.google.com/file/d/18-hF9JRY4UEebNIwpsXhv8NmQHBJFdFs/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[0208] – 4. [Video chữa chi tiết] Bài tập tự luyện.mp4",
+                  "videos": [
+                    {
+                      "title": "[0208] – 4. [Video chữa chi tiết] Bài tập tự luyện.mp4",
+                      "link": "https://drive.google.com/file/d/1rYTNSd6xV-rBcFDlxg5YuD14d5-Brx4_/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "[0208] – 6. Đáp án – 0208 – Thi online – Các dạng đồ thị khí lí tưởng.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[0208] – 6. Đáp án – 0208 – Thi online – Các dạng đồ thị khí lí tưởng.pdf",
+                      "link": "https://drive.google.com/file/d/1KpoSIjtEIu4Up0NUUu1hMaEf4xL8AHPk/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "9. 0209 – Áp suất khí và động năng phân tử khí",
+              "items": [
+                {
+                  "name": "[0209] – 1.1. [Video lý thuyết] Áp suất khí và động năng phân tử khí (Phần 1).mp4",
+                  "videos": [
+                    {
+                      "title": "[0209] – 1.1. [Video lý thuyết] Áp suất khí và động năng phân tử khí (Phần 1).mp4",
+                      "link": "https://drive.google.com/file/d/1XzDC4MB_KN8VPO7BEOKOZaj5XnclNCEW/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "[0209] – 1.2. [Video chữa chi tiết] Áp suất khí và động năng phân tử khí (Phần 2).mp4",
+                  "videos": [
+                    {
+                      "title": "[0209] – 1.2. [Video chữa chi tiết] Áp suất khí và động năng phân tử khí (Phần 2).mp4",
+                      "link": "https://drive.google.com/file/d/1Nfg_ZMDubAttvl2bmUHCvsGtqxNMG_dQ/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "[0209] – 1.7. Tài liệu – 0209 – Áp suất và động năng phân tử khí lí tưởng.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[0209] – 1.7. Tài liệu – 0209 – Áp suất và động năng phân tử khí lí tưởng.pdf",
+                      "link": "https://drive.google.com/file/d/1o-vQjJTOBt8GeEsXHG7N7PDkcbCg33XZ/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
             }
           ]
         }
@@ -814,6 +1086,84 @@ const COURSE_DATA = {
                     {
                       "title": "0102 - Sự chuyển thể của chất.mp4",
                       "link": "https://drive.google.com/file/d/11lvH2o1QszhZJwYEhlgDk7UBhRjT2aPK/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "5. 0103 - Nội năng và Định luật I nhiệt động lực học",
+              "items": [
+                {
+                  "name": "0103 - Noi nang va Dinh luat I nhiet dong luc hoc - HS.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "0103 - Noi nang va Dinh luat I nhiet dong luc hoc - HS.pdf",
+                      "link": "https://drive.google.com/file/d/1XzEbWIK5ZO6SvJkwG3RZkLcPiIUHr1PM/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "0103 - Nội năng và Định luật I nhiệt động lực học.mp4",
+                  "videos": [
+                    {
+                      "title": "0103 - Nội năng và Định luật I nhiệt động lực học.mp4",
+                      "link": "https://drive.google.com/file/d/1bG23z2uTlk6WH-8V3xlOsBNw6jmwsmJf/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "7. 0105 – Nhiệt dung riêng",
+              "items": [
+                {
+                  "name": "[0105] – 1. [Video lí thuyết] Nhiệt dung riêng.mp4",
+                  "videos": [
+                    {
+                      "title": "[0105] – 1. [Video lí thuyết] Nhiệt dung riêng.mp4",
+                      "link": "https://drive.google.com/file/d/1lvf-9w1IyiXT4zcCCc0Exz99vUV23DWa/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "[0105] – 2. Tài liệu – 0105 – Nhiệt dung riêng.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[0105] – 2. Tài liệu – 0105 – Nhiệt dung riêng.pdf",
+                      "link": "https://drive.google.com/file/d/1_aHAa2EUmMPHpFJxPu8OUb8k0etYhkU2/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "8. 0106 – Nhiệt nóng chảy riêng",
+              "items": [
+                {
+                  "name": "0106 - Nhiet nong chay rieng - HS.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "0106 - Nhiet nong chay rieng - HS.pdf",
+                      "link": "https://drive.google.com/file/d/1bKPO6Mh9xoyHDiiDtPWme9X4Oo8qe1Q1/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[0106] – 1.1. [Video lí thuyết] Nhiệt nóng chảy riêng.mp4",
+                  "videos": [
+                    {
+                      "title": "[0106] – 1.1. [Video lí thuyết] Nhiệt nóng chảy riêng.mp4",
+                      "link": "https://drive.google.com/file/d/1vNl5xI4Dg08-HlyC__yV2CBKjIToGrBi/view?usp=drivesdk"
                     }
                   ],
                   "pdfs": []
@@ -2754,6 +3104,114 @@ const COURSE_DATA = {
                 }
               ],
               "children": []
+            },
+            {
+              "title": "2. Bài 0302 – Cảm ứng từ của một số dòng điện có hình dạng đặc biệt",
+              "items": [
+                {
+                  "name": "[0302] – 1. Tài liệu – Cảm ứng từ.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[0302] – 1. Tài liệu – Cảm ứng từ.pdf",
+                      "link": "https://drive.google.com/file/d/1P7UnoPKfETHTkhAVIB5HrZVZ9EfhiBi2/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[0302] – 2. Cảm ứng từ của một số dòng điện có hình dạng đặc biệt.mp4",
+                  "videos": [
+                    {
+                      "title": "[0302] – 2. Cảm ứng từ của một số dòng điện có hình dạng đặc biệt.mp4",
+                      "link": "https://drive.google.com/file/d/1BPW69T35gPL80ngZuiQDpakdLeDM892-/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "[0302] – 3. Chữa bài thi online – Cảm ứng từ.mp4",
+                  "videos": [
+                    {
+                      "title": "[0302] – 3. Chữa bài thi online – Cảm ứng từ.mp4",
+                      "link": "https://drive.google.com/file/d/1P5T7An4ZGCTOGlFkPUjIqeRunZZhX2dc/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "3. Bài 0303 – Lực từ",
+              "items": [
+                {
+                  "name": "0303 - Lực từ.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "0303 - Lực từ.pdf",
+                      "link": "https://drive.google.com/file/d/1ttht3bcyoE0y0-sf_I0_6ygD4NJt84yg/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "0303- Lực từ Thầy VNA.mp4",
+                  "videos": [
+                    {
+                      "title": "0303- Lực từ Thầy VNA.mp4",
+                      "link": "https://drive.google.com/file/d/1LJzdkrfOeYGdB7LlA4jSTq164AHvFh65/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "Chữa bài tập - 0303- Lực từ.mp4",
+                  "videos": [
+                    {
+                      "title": "Chữa bài tập - 0303- Lực từ.mp4",
+                      "link": "https://drive.google.com/file/d/1leaO3RofFK87ZRGIeLyp5ECWf81Rj-Jo/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "4. 0304 – Thí nghiệm về tương tác từ - Cân dòng điện",
+              "items": [
+                {
+                  "name": "[0304] – 1.1. [Video] Thí nghiệm về tương tác từ - Cân dòng điện.mp4",
+                  "videos": [
+                    {
+                      "title": "[0304] – 1.1. [Video] Thí nghiệm về tương tác từ - Cân dòng điện.mp4",
+                      "link": "https://drive.google.com/file/d/1vCSjC6cP19_flX40XhiV_xcrFcQeJBOs/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "[0304] – 1.2. [Video Chữa BTVN] Thí nghiệm về tương tác từ - Cân dòng điện.mp4",
+                  "videos": [
+                    {
+                      "title": "[0304] – 1.2. [Video Chữa BTVN] Thí nghiệm về tương tác từ - Cân dòng điện.mp4",
+                      "link": "https://drive.google.com/file/d/1fS3aOuBi72ICxuU2v2pfGK18eUPzdAR1/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "[0304] – 1.3. Tài liệu – 0304 – Thí nghiệm về tương tác từ - Cân dòng điện.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[0304] – 1.3. Tài liệu – 0304 – Thí nghiệm về tương tác từ - Cân dòng điện.pdf",
+                      "link": "https://drive.google.com/file/d/1142UltMpUlr7_JiDrjHXW7NtdWYRymP9/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
             }
           ]
         },
@@ -3446,6 +3904,430 @@ const COURSE_DATA = {
                 }
               ],
               "children": []
+            },
+            {
+              "title": "27. Đề kiểm tra toàn diện chương 1 – Đề số 5",
+              "items": [
+                {
+                  "name": "[Đề kiểm tra toàn diện chương 1 – Đề số 5] – 1. Tài liệu.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Đề kiểm tra toàn diện chương 1 – Đề số 5] – 1. Tài liệu.pdf",
+                      "link": "https://drive.google.com/file/d/1MCsbHGxOcvKrco0cPGY81U3NU0Z81v_u/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[Đề kiểm tra toàn diện chương 1 – Đề số 5] – 2. LIVE chữa.mp4",
+                  "videos": [
+                    {
+                      "title": "[Đề kiểm tra toàn diện chương 1 – Đề số 5] – 2. LIVE chữa.mp4",
+                      "link": "https://drive.google.com/file/d/1I0o3xd0GwsBw_l7W1VUiwnIDcJSQPPZe/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "28. Đề kiểm tra toàn diện chương 2 – Đề số 5",
+              "items": [
+                {
+                  "name": "[Đề kiểm tra toàn diện chương 2 – Đề số 5] – 1. Tài liệu.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Đề kiểm tra toàn diện chương 2 – Đề số 5] – 1. Tài liệu.pdf",
+                      "link": "https://drive.google.com/file/d/1KqCVmpBqDi_PWoiWPBBKJ_jekZ2x4mH5/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[Đề kiểm tra toàn diện chương 2 – Đề số 5] – 2. LIVE chữa.mp4",
+                  "videos": [
+                    {
+                      "title": "[Đề kiểm tra toàn diện chương 2 – Đề số 5] – 2. LIVE chữa.mp4",
+                      "link": "https://drive.google.com/file/d/1qwaPwiV_q95gXhjVtzFp3uLATfKcXrE9/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "29. Đề tổng ôn – Vật Lí Nhiệt – Đề số 16",
+              "items": [
+                {
+                  "name": "[Đề tổng ôn – Vật Lí Nhiệt] – LIVE chữa – Đề số 16.mp4",
+                  "videos": [
+                    {
+                      "title": "[Đề tổng ôn – Vật Lí Nhiệt] – LIVE chữa – Đề số 16.mp4",
+                      "link": "https://drive.google.com/file/d/1hzDVIfjfbqDtZ0ceSzAuaJA2J_RpUCB-/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "[Đề tổng ôn – Vật Lí Nhiệt] – Đề tổng ôn – Vật Lí Nhiệt – Đề số 16.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Đề tổng ôn – Vật Lí Nhiệt] – Đề tổng ôn – Vật Lí Nhiệt – Đề số 16.pdf",
+                      "link": "https://drive.google.com/file/d/1I1So4pdFJ_HdMSMPnStht1NkoVY3yT0j/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "30. Đề tổng ôn – Vật Lí Nhiệt – Đề số 17",
+              "items": [
+                {
+                  "name": "[Đề tổng ôn – Vật Lí Nhiệt] – LIVE chữa – Đề số 17.mp4",
+                  "videos": [
+                    {
+                      "title": "[Đề tổng ôn – Vật Lí Nhiệt] – LIVE chữa – Đề số 17.mp4",
+                      "link": "https://drive.google.com/file/d/1hfzDByNomiFOo3SQieLg5tnlvuxchbn5/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "[Đề tổng ôn – Vật Lí Nhiệt] – Đề tổng ôn – Vật Lí Nhiệt – Đề số 17.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Đề tổng ôn – Vật Lí Nhiệt] – Đề tổng ôn – Vật Lí Nhiệt – Đề số 17.pdf",
+                      "link": "https://drive.google.com/file/d/1uwH_sbItvSzSd-KTVQnqUL083soxvmH1/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "31. Đề tổng ôn – Vật Lí Nhiệt – Đề số 18",
+              "items": [
+                {
+                  "name": "[Đề tổng ôn – Vật Lí Nhiệt] – LIVE chữa – Đề số 18.mp4",
+                  "videos": [
+                    {
+                      "title": "[Đề tổng ôn – Vật Lí Nhiệt] – LIVE chữa – Đề số 18.mp4",
+                      "link": "https://drive.google.com/file/d/1clK3crlQkgMAhVUlZVeb-h0dlaS0ycD0/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "[Đề tổng ôn – Vật Lí Nhiệt] – Đề tổng ôn – Vật Lí Nhiệt – Đề số 18.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Đề tổng ôn – Vật Lí Nhiệt] – Đề tổng ôn – Vật Lí Nhiệt – Đề số 18.pdf",
+                      "link": "https://drive.google.com/file/d/1kQ1qAAjbds3YOeW6Hs3jljFbw4OHAt3n/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "32. Đề kiểm tra toàn diện chương 1 – Đề số 6",
+              "items": [
+                {
+                  "name": "[Đề kiểm tra toàn diện chương 1] – LIVE chữa – Đề số 6.mp4",
+                  "videos": [
+                    {
+                      "title": "[Đề kiểm tra toàn diện chương 1] – LIVE chữa – Đề số 6.mp4",
+                      "link": "https://drive.google.com/file/d/1IRgSa7vTI8_N-XCTvkkuF4OC3TyOBpdR/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "[Đề kiểm tra toàn diện chương 1] – Đề kiểm tra toàn diện chương 1 – Đề số 6.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Đề kiểm tra toàn diện chương 1] – Đề kiểm tra toàn diện chương 1 – Đề số 6.pdf",
+                      "link": "https://drive.google.com/file/d/1CLHIhrIe4ARlDw7rB2wpxdIT-0BjUOKy/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "33. Đề kiểm tra toàn diện chương 2 – Đề số 6",
+              "items": [
+                {
+                  "name": "[Đề kiểm tra toàn diện chương 2] – LIVE chữa – Đề số 6.mp4",
+                  "videos": [
+                    {
+                      "title": "[Đề kiểm tra toàn diện chương 2] – LIVE chữa – Đề số 6.mp4",
+                      "link": "https://drive.google.com/file/d/1cxKum1ze5GBGRpjoHfUEq6RgM0bFx0JO/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "[Đề kiểm tra toàn diện chương 2] – Đề kiểm tra toàn diện chương 2 – Đề số 6.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Đề kiểm tra toàn diện chương 2] – Đề kiểm tra toàn diện chương 2 – Đề số 6.pdf",
+                      "link": "https://drive.google.com/file/d/1bCER1gM8q-YyErhDIOvM8Zc9hcge9ALS/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "34. Đề kiểm tra toàn diện lí thuyết - Nhiệt và Khí - Đề số 1",
+              "items": [
+                {
+                  "name": "[Vật Lí 12] - Chữa Đề Kiểm Tra Toàn Diện Lí Thuyết Nhiệt Và Khí - Đề Số 1 - Thầy VNA.mp4",
+                  "videos": [
+                    {
+                      "title": "[Vật Lí 12] - Chữa Đề Kiểm Tra Toàn Diện Lí Thuyết Nhiệt Và Khí - Đề Số 1 - Thầy VNA.mp4",
+                      "link": "https://drive.google.com/file/d/1bBgqVfsludJRLNsgEPF0SphG5Af8r8q7/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "[Đề kiểm tra toàn diện lí thuyết – Nhiệt và Khí] – Đề kiểm tra toàn diện lí thuyết - Nhiệt và Khí – Đề số 1.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Đề kiểm tra toàn diện lí thuyết – Nhiệt và Khí] – Đề kiểm tra toàn diện lí thuyết - Nhiệt và Khí – Đề số 1.pdf",
+                      "link": "https://drive.google.com/file/d/1fT4262sLHMQgqakYJ5hcGwhKOOU0Xe0n/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "35. Đề tổng ôn – Vật Lí Nhiệt – Đề số 19",
+              "items": [
+                {
+                  "name": "[Đề tổng ôn – Vật Lí Nhiệt – Đề số 19] – LIVE chữa.mp4",
+                  "videos": [
+                    {
+                      "title": "[Đề tổng ôn – Vật Lí Nhiệt – Đề số 19] – LIVE chữa.mp4",
+                      "link": "https://drive.google.com/file/d/1Giu5wlQVGut1lQOfhntVXE21y1sm9Qd4/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "[Đề tổng ôn – Vật Lí Nhiệt – Đề số 19] – Tài liệu.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Đề tổng ôn – Vật Lí Nhiệt – Đề số 19] – Tài liệu.pdf",
+                      "link": "https://drive.google.com/file/d/1ESbElYa0SZ6txWQLbH6F_NL6g36vRAZa/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "36. Đề tổng ôn – Vật Lí Nhiệt – Đề số 20",
+              "items": [
+                {
+                  "name": "[Đề tổng ôn – Vật Lí Nhiệt – Đề số 20] – LIVE chữa.mp4",
+                  "videos": [
+                    {
+                      "title": "[Đề tổng ôn – Vật Lí Nhiệt – Đề số 20] – LIVE chữa.mp4",
+                      "link": "https://drive.google.com/file/d/1NcWjuqY5tDqLwIFcLlCsYuqDARlsVYII/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "[Đề tổng ôn – Vật Lí Nhiệt – Đề số 20] – Tài liệu.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Đề tổng ôn – Vật Lí Nhiệt – Đề số 20] – Tài liệu.pdf",
+                      "link": "https://drive.google.com/file/d/1qHMUbKwBelx87QmvDANzjsSNebwwqZXj/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "37. Đề kiểm tra toàn diện lí thuyết - Nhiệt và Khí - Đề số 2",
+              "items": [
+                {
+                  "name": "[Đề kiểm tra toàn diện lí thuyết – Nhiệt và Khí – Đề số 2] – LIVE chữa.mp4",
+                  "videos": [
+                    {
+                      "title": "[Đề kiểm tra toàn diện lí thuyết – Nhiệt và Khí – Đề số 2] – LIVE chữa.mp4",
+                      "link": "https://drive.google.com/file/d/1pr5xcHHK2i3kyywJv-m0fDzW5YtJKZlH/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "[Đề kiểm tra toàn diện lí thuyết – Nhiệt và Khí – Đề số 2] – Tài liệu.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Đề kiểm tra toàn diện lí thuyết – Nhiệt và Khí – Đề số 2] – Tài liệu.pdf",
+                      "link": "https://drive.google.com/file/d/1C_ZUu5fYIbly7AcnS0ql9SvnyYZ6hZVb/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "38. Đề kiểm tra toàn diện chương 1 – Đề số 7",
+              "items": [
+                {
+                  "name": "[Đề kiểm tra toàn diện chương 1 – Đề số 7] – 1. Tài liệu – Đề kiểm tra toàn diện chương 1 – Đề số 7.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Đề kiểm tra toàn diện chương 1 – Đề số 7] – 1. Tài liệu – Đề kiểm tra toàn diện chương 1 – Đề số 7.pdf",
+                      "link": "https://drive.google.com/file/d/1w-8eTXp4wZaVfQ1lP37Acc4cIGxaTy1F/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[Đề kiểm tra toàn diện chương 1 – Đề số 7] – 2. [LIVE chữa] Đề kiểm tra toàn diện chương 1 – Đề số 7.mp4",
+                  "videos": [
+                    {
+                      "title": "[Đề kiểm tra toàn diện chương 1 – Đề số 7] – 2. [LIVE chữa] Đề kiểm tra toàn diện chương 1 – Đề số 7.mp4",
+                      "link": "https://drive.google.com/file/d/1c3V_sYO-Nh7TUn8YUKift5O8o-9BV4_S/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "39. Đề kiểm tra toàn diện chương 2 – Đề số 7",
+              "items": [
+                {
+                  "name": "[Đề kiểm tra toàn diện chương 2 – Đề số 7] – 1. Tài liệu – Đề kiểm tra toàn diện chương 2 – Đề số 7.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Đề kiểm tra toàn diện chương 2 – Đề số 7] – 1. Tài liệu – Đề kiểm tra toàn diện chương 2 – Đề số 7.pdf",
+                      "link": "https://drive.google.com/file/d/16dI3NUjxwmaddqvjgxcWukqkxzSFDSxY/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[Đề kiểm tra toàn diện chương 2 – Đề số 7] – 2. [LIVE chữa] Đề kiểm tra toàn diện chương 2 – Đề số 7.mp4",
+                  "videos": [
+                    {
+                      "title": "[Đề kiểm tra toàn diện chương 2 – Đề số 7] – 2. [LIVE chữa] Đề kiểm tra toàn diện chương 2 – Đề số 7.mp4",
+                      "link": "https://drive.google.com/file/d/1LjVfexxkpbvWLuGrnBtFop7h67jiOGFn/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "40. 300 câu lí thuyết chọn lọc – Nhiệt và Khí",
+              "items": [
+                {
+                  "name": "[300 câu lí thuyết chọn lọc] – 1.1. 300 câu lí thuyết chọn lọc – Nhiệt và Khí – Buổi 1.mp4",
+                  "videos": [
+                    {
+                      "title": "[300 câu lí thuyết chọn lọc] – 1.1. 300 câu lí thuyết chọn lọc – Nhiệt và Khí – Buổi 1.mp4",
+                      "link": "https://drive.google.com/file/d/19mhTMfA_CKz1xXC54ZKsZH-flSzvTzTO/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "[300 câu lí thuyết chọn lọc] – 1.2. 300 câu lí thuyết chọn lọc – Nhiệt và Khí – Buổi 2.mp4",
+                  "videos": [
+                    {
+                      "title": "[300 câu lí thuyết chọn lọc] – 1.2. 300 câu lí thuyết chọn lọc – Nhiệt và Khí – Buổi 2.mp4",
+                      "link": "https://drive.google.com/file/d/1d1Yfyt4trTS03515dAVHaGfIlDfKxuBH/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "[300 câu lí thuyết chọn lọc] – 1.3. 300 câu lí thuyết chọn lọc – Nhiệt và Khí – Buổi 3.mp4",
+                  "videos": [
+                    {
+                      "title": "[300 câu lí thuyết chọn lọc] – 1.3. 300 câu lí thuyết chọn lọc – Nhiệt và Khí – Buổi 3.mp4",
+                      "link": "https://drive.google.com/file/d/1HGexP02VQf7PaVuIv8PGC0DZwTY79U62/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "[300 câu lí thuyết chọn lọc] – 1.4. 300 câu lí thuyết chọn lọc – Nhiệt và Khí – Buổi 4.mp4",
+                  "videos": [
+                    {
+                      "title": "[300 câu lí thuyết chọn lọc] – 1.4. 300 câu lí thuyết chọn lọc – Nhiệt và Khí – Buổi 4.mp4",
+                      "link": "https://drive.google.com/file/d/13-LxMSVkotkwBid53sbM3UeVcbE4InDw/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "[300 câu lí thuyết chọn lọc] – 1.5. Tài liệu buổi 1.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[300 câu lí thuyết chọn lọc] – 1.5. Tài liệu buổi 1.pdf",
+                      "link": "https://drive.google.com/file/d/17YFYsux4LNpn608bYVT_ipE1ctw36yEn/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[300 câu lí thuyết chọn lọc] – 1.6. Tài liệu buổi 2.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[300 câu lí thuyết chọn lọc] – 1.6. Tài liệu buổi 2.pdf",
+                      "link": "https://drive.google.com/file/d/1l72Y1FxM4uFoyUFjdcIif_Hz8QIeMgK5/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[300 câu lí thuyết chọn lọc] – 1.7. Tài liệu buổi 3.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[300 câu lí thuyết chọn lọc] – 1.7. Tài liệu buổi 3.pdf",
+                      "link": "https://drive.google.com/file/d/1H7LM7Dn9EaY9kdnkCcZOmYGf5yODfrCF/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[300 câu lí thuyết chọn lọc] – 1.8. Tài liệu buổi 4.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[300 câu lí thuyết chọn lọc] – 1.8. Tài liệu buổi 4.pdf",
+                      "link": "https://drive.google.com/file/d/17S9iMD7KE3GVZvnTYW0DEdxG79XowY7y/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
             }
           ]
         },
@@ -3538,6 +4420,90 @@ const COURSE_DATA = {
                 {
                   "title": "--02 - Lịch sử tiến trình tìm hiểu vật lí--  Video bài giảng   (Thầy đăng lại, không biết tại sao bài giảng tối qua bị FB xóa mất.)..mp4",
                   "link": "https://drive.google.com/file/d/16xiItNtvxy8_08DDnCguy3vZLmc4kVGt/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "4. Bài 03 – Quan sát và Đo lường trong tiến trình tìm hiểu vật lí",
+          "items": [
+            {
+              "name": "03 - Quan sat va do luong trong tien trinh tim hieu Vat li - HS.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "03 - Quan sat va do luong trong tien trinh tim hieu Vat li - HS.pdf",
+                  "link": "https://drive.google.com/file/d/1CoHzzG0yIEK5Lpe9aW1xiwTj8jmDRQNd/view?usp=drivesdk"
+                }
+              ]
+            },
+            {
+              "name": "03 - Quan sát và Đo lường trong tiến trình tìm hiểu Vật lí.mp4",
+              "videos": [
+                {
+                  "title": "03 - Quan sát và Đo lường trong tiến trình tìm hiểu Vật lí.mp4",
+                  "link": "https://drive.google.com/file/d/1CRkujemHVY55g1o8L9NPf_WQkEd4nsFd/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "5. 04 - Vận dụng tiến trình tìm hiểu Vật lí",
+          "items": [
+            {
+              "name": "[04] – 2. Video bài giảng.mp4.mp4",
+              "videos": [
+                {
+                  "title": "[04] – 2. Video bài giảng.mp4.mp4",
+                  "link": "https://drive.google.com/file/d/1s8A0CDgmAoXsdTUkS6BCZZDXHm7HK3H5/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "6. 05 - Triển khai tiến trình và biên soạn câu hỏi tiến trình",
+          "items": [
+            {
+              "name": "05 - Trien khai tien trinh va bien soan cau hoi tien trinh.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "05 - Trien khai tien trinh va bien soan cau hoi tien trinh.pdf",
+                  "link": "https://drive.google.com/file/d/189I8k0MWYP2El5Kiwjfz42e7dy5Sb824/view?usp=drivesdk"
+                }
+              ]
+            },
+            {
+              "name": "05 - Triển khai tiến trình và biên soạn câu hỏi tiến trình.mp4",
+              "videos": [
+                {
+                  "title": "05 - Triển khai tiến trình và biên soạn câu hỏi tiến trình.mp4",
+                  "link": "https://drive.google.com/file/d/1l_mOkcJOhKQAwUI-OnhTLLUdfj2vssS6/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "7. 06 - Tìm hiểu quá trình chuyển thể của chất",
+          "items": [
+            {
+              "name": "06 - Tìm hiểu quá trình chuyển thể của chất.mp4",
+              "videos": [
+                {
+                  "title": "06 - Tìm hiểu quá trình chuyển thể của chất.mp4",
+                  "link": "https://drive.google.com/file/d/1hgC-NQt2ajJgxoGITo2M6qXv0x_Eeyog/view?usp=drivesdk"
                 }
               ],
               "pdfs": []

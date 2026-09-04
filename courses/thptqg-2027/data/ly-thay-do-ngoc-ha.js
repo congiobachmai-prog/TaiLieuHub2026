@@ -1,5 +1,5 @@
 const COURSE_DATA = {
-  "title": "LÝ THẦY ĐỖ NGỌC HÀ 2K9 - XPS Chinh phục 9 10 Vật lý combo Zoom (H.T)7",
+  "title": "LÝ THẦY ĐỖ NGỌC HÀ 2K9 - XPS Chinh phục 9 10 Vật lý combo Zoom (H.T)",
   "tree": [
     {
       "title": "1.ZOOM-H CHUYÊN ĐỀ TRANG BỊ KIẾN THỨC",
@@ -924,6 +924,292 @@ const COURSE_DATA = {
                 {
                   "title": "BÀI TẬP TRÊN LỚP BUỔI 16 ZOOM-H 2K9.pdf",
                   "link": "https://drive.google.com/file/d/1R-FYC3KOxWvP-jeVP4PxwCD6f1wLMm3W/view?usp=drivesdk"
+                }
+              ]
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "17.0",
+          "items": [
+            {
+              "name": "BTVN B17 ZOOM-H 2K9 2026-2027.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "BTVN B17 ZOOM-H 2K9 2026-2027.pdf",
+                  "link": "https://drive.google.com/file/d/1f52IAimK8FTzrm3Pm3GXXQ_oB56mV54G/view?usp=drivesdk"
+                }
+              ]
+            },
+            {
+              "name": "BÀI GIẢNG 17.mp4",
+              "videos": [
+                {
+                  "title": "BÀI GIẢNG 17.mp4",
+                  "link": "https://drive.google.com/file/d/1yvRc3Yi60i1fuOTgXzfS9qcMqZv-fDHH/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "BÀI TẬP TRÊN LỚP BUỔI 17 ZOOM-H 2K9.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "BÀI TẬP TRÊN LỚP BUỔI 17 ZOOM-H 2K9.pdf",
+                  "link": "https://drive.google.com/file/d/1OE09sWkPbxJe2xKja7-fjxjnf7BbOl70/view?usp=drivesdk"
+                }
+              ]
+            },
+            {
+              "name": "ĐỀ KIỂM TRA 17 ZOOM-H 2K9 2026-2027.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "ĐỀ KIỂM TRA 17 ZOOM-H 2K9 2026-2027.pdf",
+                  "link": "https://drive.google.com/file/d/1frik5r1Muh6TFJKsgXp2q-YjuXNmmQ2m/view?usp=drivesdk"
+                }
+              ]
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "18.0",
+          "items": [
+            {
+              "name": "BTVN B18 ZOOM-H 2K9 2026-2027.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "BTVN B18 ZOOM-H 2K9 2026-2027.pdf",
+                  "link": "https://drive.google.com/file/d/1KYqGIPH_mE0KrsP5uS-m2AnxsmJmpDMR/view?usp=drivesdk"
+                }
+              ]
+            },
+            {
+              "name": "BÀI TẬP TRÊN LỚP BUỔI 18 ZOOM-H 2K9.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "BÀI TẬP TRÊN LỚP BUỔI 18 ZOOM-H 2K9.pdf",
+                  "link": "https://drive.google.com/file/d/1-DkQy03DkUU_qRNsV9P1FU57rwmujMeo/view?usp=drivesdk"
+                }
+              ]
+            },
+            {
+              "name": "Lớp 2K9 Zoom H (Chuyên đề) Vật Lí - Thầy Đỗ Ngọc Hà - Facebook.mp4",
+              "videos": [
+                {
+                  "title": "Lớp 2K9 Zoom H (Chuyên đề) Vật Lí - Thầy Đỗ Ngọc Hà - Facebook.mp4",
+                  "link": "https://drive.google.com/file/d/1iEJkKUlBz_LMTme_Qo6GYr2tW4x5ouT_/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "ĐÁP ÁN BTVN B18 ZOOM-H 2K9 2026-2027.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "ĐÁP ÁN BTVN B18 ZOOM-H 2K9 2026-2027.pdf",
+                  "link": "https://drive.google.com/file/d/1fuwG8nOQt529IOlHuWsziEqPl95vUXZY/view?usp=drivesdk"
+                }
+              ]
+            },
+            {
+              "name": "ĐỀ KIỂM TRA 18 ZOOM-H 2K9 2026-2027.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "ĐỀ KIỂM TRA 18 ZOOM-H 2K9 2026-2027.pdf",
+                  "link": "https://drive.google.com/file/d/1XqokohDzjDbNaj43kBYBhfcvAhRoETZd/view?usp=drivesdk"
+                }
+              ]
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "19.0",
+          "items": [
+            {
+              "name": "#VIDEOBUOIHOC #VIDEOBUOIHOC19 --LIÊN HỆ NHIỀU KHỐI KHÍ CÙNG BIẾN ĐỔI TRẠNG THÁI--.mp4",
+              "videos": [
+                {
+                  "title": "#VIDEOBUOIHOC #VIDEOBUOIHOC19 --LIÊN HỆ NHIỀU KHỐI KHÍ CÙNG BIẾN ĐỔI TRẠNG THÁI--.mp4",
+                  "link": "https://drive.google.com/file/d/1JPKmd0TbFzbY4uhZc4jTetXrb090t3GY/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "BTVN B19 ZOOM-H 2K9 2026-2027.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "BTVN B19 ZOOM-H 2K9 2026-2027.pdf",
+                  "link": "https://drive.google.com/file/d/1slB70K1SrPEnlL9-qrlaGq1datWe0R6f/view?usp=drivesdk"
+                }
+              ]
+            },
+            {
+              "name": "BÀI TẬP TRÊN LỚP BUỔI 19 ZOOM-H 2K9.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "BÀI TẬP TRÊN LỚP BUỔI 19 ZOOM-H 2K9.pdf",
+                  "link": "https://drive.google.com/file/d/1Nzj4HFJ2YKqv8cif76VL0EX23kt_Qiub/view?usp=drivesdk"
+                }
+              ]
+            },
+            {
+              "name": "ĐÁP ÁN BTVN B19 ZOOM-H 2K9 2026-2027.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "ĐÁP ÁN BTVN B19 ZOOM-H 2K9 2026-2027.pdf",
+                  "link": "https://drive.google.com/file/d/1XqTt1rN0qnBV77t6BJOH-oQO3oEpz2Gv/view?usp=drivesdk"
+                }
+              ]
+            },
+            {
+              "name": "ĐỀ KIỂM TRA 19 ZOOM-H 2K9 2026-2027.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "ĐỀ KIỂM TRA 19 ZOOM-H 2K9 2026-2027.pdf",
+                  "link": "https://drive.google.com/file/d/1yzK9sSH5NW5Mfna268kf_ZmkDh_AO1nW/view?usp=drivesdk"
+                }
+              ]
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "20.0",
+          "items": [
+            {
+              "name": "#VIDEOBUOIHOC  #VIDEOBUOIHOC20  KHỐI KHÍ TRONG CHUYỂN ĐỘNG BIẾN ĐỔI.mp4",
+              "videos": [
+                {
+                  "title": "#VIDEOBUOIHOC  #VIDEOBUOIHOC20  KHỐI KHÍ TRONG CHUYỂN ĐỘNG BIẾN ĐỔI.mp4",
+                  "link": "https://drive.google.com/file/d/1uermVk8OQcgSTwNyVvDPh2HRoKUMnMIs/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "BTVN B20 ZOOM-H 2K9 2026-2027.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "BTVN B20 ZOOM-H 2K9 2026-2027.pdf",
+                  "link": "https://drive.google.com/file/d/1wzel0xJMDD2Qjb-fOL_UqLuENSgfHW5r/view?usp=drivesdk"
+                }
+              ]
+            },
+            {
+              "name": "BÀI TẬP TRÊN LỚP BUỔI 20 ZOOM-H 2K9.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "BÀI TẬP TRÊN LỚP BUỔI 20 ZOOM-H 2K9.pdf",
+                  "link": "https://drive.google.com/file/d/1Hnn3fQNhqVmkwZTNQRhixDLz_14ifoAs/view?usp=drivesdk"
+                }
+              ]
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "21.0",
+          "items": [
+            {
+              "name": "#VIDEOBUOIHOC #VIDEOBUOIHOC21 --THÍ NGHIỆM CHẤT KHÍ--.mp4",
+              "videos": [
+                {
+                  "title": "#VIDEOBUOIHOC #VIDEOBUOIHOC21 --THÍ NGHIỆM CHẤT KHÍ--.mp4",
+                  "link": "https://drive.google.com/file/d/1jChLbQlnjtmyFuBdwYdsHAbPQejk8omW/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "BTVN B21 ZOOM-H 2K9 2026-2027.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "BTVN B21 ZOOM-H 2K9 2026-2027.pdf",
+                  "link": "https://drive.google.com/file/d/17lhMXdeNk8rd759vZ6aO9IhE4DHREmjO/view?usp=drivesdk"
+                }
+              ]
+            },
+            {
+              "name": "BÀI TẬP TRÊN LỚP BUỔI 21 ZOOM-H 2K9.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "BÀI TẬP TRÊN LỚP BUỔI 21 ZOOM-H 2K9.pdf",
+                  "link": "https://drive.google.com/file/d/1zf0vw0Nd92y0P3sfIbY6s24-v9ARRZcJ/view?usp=drivesdk"
+                }
+              ]
+            },
+            {
+              "name": "ĐÁP ÁN BTVN B21 ZOOM-H 2K9 2026-2027.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "ĐÁP ÁN BTVN B21 ZOOM-H 2K9 2026-2027.pdf",
+                  "link": "https://drive.google.com/file/d/1xz64fRA-NFvUV08TI64Dwi5Yd1DOYxdC/view?usp=drivesdk"
+                }
+              ]
+            },
+            {
+              "name": "ĐỀ KIỂM TRA 21 ZOOM-H 2K9 2026-2027.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "ĐỀ KIỂM TRA 21 ZOOM-H 2K9 2026-2027.pdf",
+                  "link": "https://drive.google.com/file/d/1mRABQs3hWivgrJ9Y1gpmNoc7ga3BXnBk/view?usp=drivesdk"
+                }
+              ]
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "22.0",
+          "items": [
+            {
+              "name": "#VIDEOBUOIHOC #VIDEOBUOIHOC22 --ÔN TẬP CUỐI CHƯƠNG 2--.mp4",
+              "videos": [
+                {
+                  "title": "#VIDEOBUOIHOC #VIDEOBUOIHOC22 --ÔN TẬP CUỐI CHƯƠNG 2--.mp4",
+                  "link": "https://drive.google.com/file/d/1U_4PSmZIEZcYuLLBsy7GkVSl_hgtQ_Jl/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "BTVN B22 ZOOM-H 2K9 2026-2027.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "BTVN B22 ZOOM-H 2K9 2026-2027.pdf",
+                  "link": "https://drive.google.com/file/d/1LPXMPbrCQD6l97A1oy4d0u2v-1gQnNyB/view?usp=drivesdk"
+                }
+              ]
+            },
+            {
+              "name": "BÀI TẬP TRÊN LỚP BUỔI 22 ZOOM-H 2K9.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "BÀI TẬP TRÊN LỚP BUỔI 22 ZOOM-H 2K9.pdf",
+                  "link": "https://drive.google.com/file/d/1yC744z9uFUBJ8ihFRHWKoQFa21Rc_U9v/view?usp=drivesdk"
                 }
               ]
             }
