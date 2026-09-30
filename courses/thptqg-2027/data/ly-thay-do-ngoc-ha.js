@@ -1215,6 +1215,68 @@ const COURSE_DATA = {
             }
           ],
           "children": []
+        },
+        {
+          "title": "23.0",
+          "items": [
+            {
+              "name": "#VIDEOBUOIHOC #VIDEOBUOIHOC23 --ÔN TẬP CHƯƠNG 2 - P2--.mp4",
+              "videos": [
+                {
+                  "title": "#VIDEOBUOIHOC #VIDEOBUOIHOC23 --ÔN TẬP CHƯƠNG 2 - P2--.mp4",
+                  "link": "https://drive.google.com/file/d/1S5ksE8CLYkmtj5qypjZfwom1zV-UJg8b/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "BÀI TẬP TRÊN LỚP BUỔI 23 ZOOM-H 2K9.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "BÀI TẬP TRÊN LỚP BUỔI 23 ZOOM-H 2K9.pdf",
+                  "link": "https://drive.google.com/file/d/1-ToVCc85lFnCUXmJHgYHOdPm-a91X9yH/view?usp=drivesdk"
+                }
+              ]
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "24.0",
+          "items": [
+            {
+              "name": "(20+) Lớp 2K9 Zoom H (Chuyên đề) Vật Lí - Thầy Đỗ Ngọc Hà - Facebook.mp4",
+              "videos": [
+                {
+                  "title": "(20+) Lớp 2K9 Zoom H (Chuyên đề) Vật Lí - Thầy Đỗ Ngọc Hà - Facebook.mp4",
+                  "link": "https://drive.google.com/file/d/1QnepDUug2Lc5-jaQO8v1nafnx9XlGDTy/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "BTVN B24 ZOOM-H 2K9 2026-2027.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "BTVN B24 ZOOM-H 2K9 2026-2027.pdf",
+                  "link": "https://drive.google.com/file/d/1Y8ibdeb0Gr3Yjg-2C9ffz5G2eN6bTAK6/view?usp=drivesdk"
+                }
+              ]
+            },
+            {
+              "name": "BÀI TẬP TRÊN LỚP BUỔI 24 ZOOM-H 2K9.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "BÀI TẬP TRÊN LỚP BUỔI 24 ZOOM-H 2K9.pdf",
+                  "link": "https://drive.google.com/file/d/10BD1p_uroPcDTIy0gNY8xLuEzCF98VNn/view?usp=drivesdk"
+                }
+              ]
+            }
+          ],
+          "children": []
         }
       ]
     }

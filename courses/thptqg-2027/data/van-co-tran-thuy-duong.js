@@ -778,6 +778,378 @@ const COURSE_DATA = {
             }
           ],
           "children": []
+        },
+        {
+          "title": "Buổi 19 Phân tích bổ dọc tác phẩm (Buổi 1)",
+          "items": [
+            {
+              "name": "Buổi 19 Phân tích bổ dọc tác phẩm (Buổi 1).mp4.mp4",
+              "videos": [
+                {
+                  "title": "Buổi 19 Phân tích bổ dọc tác phẩm (Buổi 1).mp4.mp4",
+                  "link": "https://drive.google.com/file/d/1XzFEYgo6DQXFFf9RxfE5Te_gbwNJC3Y4/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "Buổi 20 Viết bài nghị luận văn học phân tích truyện (Buổi 1)",
+          "items": [
+            {
+              "name": "Buổi 20 Viết bài nghị luận văn học phân tích truyện (Buổi 1)..mp4",
+              "videos": [
+                {
+                  "title": "Buổi 20 Viết bài nghị luận văn học phân tích truyện (Buổi 1)..mp4",
+                  "link": "https://drive.google.com/file/d/1q_1h4JRQrVt7R2GEMlzFyd41ivUOU3dt/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "Buổi 21 Viết bài Nghị luận văn học phân tích truyện (Buổi 2)",
+          "items": [
+            {
+              "name": "Buổi 21 Viết bài Nghị luận văn học phân tích truyện (Buổi 2)..mp4.mp4",
+              "videos": [
+                {
+                  "title": "Buổi 21 Viết bài Nghị luận văn học phân tích truyện (Buổi 2)..mp4.mp4",
+                  "link": "https://drive.google.com/file/d/1tmeSQG9cqwki15QKMyaKS-GOZRXqoJ_2/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "Buổi 22 Phân tích bổ dọc tác phẩm (",
+          "items": [
+            {
+              "name": "[CHUYÊN MỤC PHÂN TÍCH 'BỔ DỌC TÁC PHẨM'] - Phân tích 'bổ dọc' tác phẩm số 1. Bài thơ Cho tôi một mản.mp4",
+              "videos": [
+                {
+                  "title": "[CHUYÊN MỤC PHÂN TÍCH 'BỔ DỌC TÁC PHẨM'] - Phân tích 'bổ dọc' tác phẩm số 1. Bài thơ Cho tôi một mản.mp4",
+                  "link": "https://drive.google.com/file/d/1yQkuTbUAVANigFvgkV1pD2UYN0bIJIz1/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "Buổi 23. Viết bài Nghị luận văn học dạng so sánh (Buổi 1)",
+          "items": [
+            {
+              "name": "Buổi 23. So sánh hai tác phẩm thơ.mp4Buổi 23. So sánh hai tác phẩm thơ.mp4.mp4",
+              "videos": [
+                {
+                  "title": "Buổi 23. So sánh hai tác phẩm thơ.mp4Buổi 23. So sánh hai tác phẩm thơ.mp4.mp4",
+                  "link": "https://drive.google.com/file/d/11h6_NGZ9DLq55aGV7N7T7ynwg-Pezj9m/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "Buổi 23. So sánh hai tác phẩm thơ.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "Buổi 23. So sánh hai tác phẩm thơ.pdf",
+                  "link": "https://drive.google.com/file/d/1lBJG0I1LCbY5qk-3uTcigAmD90Jm7iKm/view?usp=drivesdk"
+                }
+              ]
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "Buổi 24.1 Viết bài NLVH",
+          "items": [
+            {
+              "name": "BÀI VIẾT SỐ 4 BÀI VĂN NGHỊ LUẬN VĂN HỌC.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "BÀI VIẾT SỐ 4 BÀI VĂN NGHỊ LUẬN VĂN HỌC.pdf",
+                  "link": "https://drive.google.com/file/d/1pP3qiGTL8Ew7ZKfR5PuqyYwSwqd8nrQM/view?usp=drivesdk"
+                }
+              ]
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "Buổi 24. Viết bài Nghị luận văn học dạng so sánh (Buổi 2)",
+          "items": [
+            {
+              "name": "Buổi 24. So sánh hai tác phẩm truyện.mp4.mp4",
+              "videos": [
+                {
+                  "title": "Buổi 24. So sánh hai tác phẩm truyện.mp4.mp4",
+                  "link": "https://drive.google.com/file/d/1UgZxPfb3ewyt0Us5iDoOlHjhGj4Qrpf5/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "Buổi 24. So sánh hai tác phẩm truyện.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "Buổi 24. So sánh hai tác phẩm truyện.pdf",
+                  "link": "https://drive.google.com/file/d/1DXTtXSNTFf55bb7PTnlBeDiyJKrzBhXH/view?usp=drivesdk"
+                }
+              ]
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "Buổi 25 Phân tích bổ dọc tác phẩm (Buổi 3)",
+          "items": [
+            {
+              "name": "Buổi 25 Phân tích bổ dọc tác phẩm (Buổi 3).mp4.mp4",
+              "videos": [
+                {
+                  "title": "Buổi 25 Phân tích bổ dọc tác phẩm (Buổi 3).mp4.mp4",
+                  "link": "https://drive.google.com/file/d/1h0OXsAHB-nwvUUZIXCHohvEoQy6KHjm_/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "Buổi 25. Phân tích tác phẩm số 3.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "Buổi 25. Phân tích tác phẩm số 3.pdf",
+                  "link": "https://drive.google.com/file/d/1FUfwDhX_pqLCn96BCd4q5_HnpOkeonkk/view?usp=drivesdk"
+                }
+              ]
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "Buổi 26 Cấu trúc bài văn Nghị luận xã hội - Chương trình mới",
+          "items": [
+            {
+              "name": "Buổi 26 Cấu trúc bài văn Nghị luận xã hội - Chương trình mới.mp4.mp4",
+              "videos": [
+                {
+                  "title": "Buổi 26 Cấu trúc bài văn Nghị luận xã hội - Chương trình mới.mp4.mp4",
+                  "link": "https://drive.google.com/file/d/10SyPNx3QwvpACd_eD4kTs2sknnkNipRe/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "Buổi 26. Cấu trúc bài văn Nghị luận xã hội.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "Buổi 26. Cấu trúc bài văn Nghị luận xã hội.pdf",
+                  "link": "https://drive.google.com/file/d/17nFDh-Blwtnc9DmmWY_1Xo6MjnkLx7Ny/view?usp=drivesdk"
+                }
+              ]
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "Buổi 27. VIẾT CÁC NỘI DUNG TRONG BÀI VĂN NLXH",
+          "items": [
+            {
+              "name": "Buổi 27.29. Viết mở bài, giải thích, dẫn chứng, phản đề, bài học.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "Buổi 27.29. Viết mở bài, giải thích, dẫn chứng, phản đề, bài học.pdf",
+                  "link": "https://drive.google.com/file/d/14yCIjeAmxi0qv3Skcx1iEkCIhD72o3cy/view?usp=drivesdk"
+                }
+              ]
+            },
+            {
+              "name": "Buổi 27. VIẾT CÁC NỘI DUNG TRONG BÀI VĂN NLXH.mp4.mp4",
+              "videos": [
+                {
+                  "title": "Buổi 27. VIẾT CÁC NỘI DUNG TRONG BÀI VĂN NLXH.mp4.mp4",
+                  "link": "https://drive.google.com/file/d/1aJARn7LPx7aZzvaraWCGMhnuALu5D2QF/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "Buổi 28 Phân tích bổ dọc tác phẩm (Buổi 4)",
+          "items": [
+            {
+              "name": "Phân tích bổ dọc tác phẩm (Buổi 4).mp4.mp4",
+              "videos": [
+                {
+                  "title": "Phân tích bổ dọc tác phẩm (Buổi 4).mp4.mp4",
+                  "link": "https://drive.google.com/file/d/12FhAzjNEy1VIXWFJTcqlpL8KIWgCS51b/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "BUỔI 29. BẰNG CHỨNG TRONG BÀI VĂN NGHỊ LUẬN XÃ HỘI",
+          "items": [
+            {
+              "name": "Buổi 29 Đưa dẫn chứng bài bài văn NLXH.mp4.mp4",
+              "videos": [
+                {
+                  "title": "Buổi 29 Đưa dẫn chứng bài bài văn NLXH.mp4.mp4",
+                  "link": "https://drive.google.com/file/d/1IXkvkVrA-zSlmsCy7oBDPzU8zyRN4L6F/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "BUỔI 29. BẰNG CHỨNG TRONG BÀI VĂN NGHỊ LUẬN XÃ HỘI.mp4.mp4",
+              "videos": [
+                {
+                  "title": "BUỔI 29. BẰNG CHỨNG TRONG BÀI VĂN NGHỊ LUẬN XÃ HỘI.mp4.mp4",
+                  "link": "https://drive.google.com/file/d/1hNQqCQbbAi9YzcQWNA-1R30j2EzJa7S6/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "Buổi 30 Triển khai luận điểm trong bài văn Nghị luận xã hội",
+          "items": [
+            {
+              "name": "Buổi 30 Triển khai luận điểm trong bài văn Nghị luận xã hội.mp4.mp4",
+              "videos": [
+                {
+                  "title": "Buổi 30 Triển khai luận điểm trong bài văn Nghị luận xã hội.mp4.mp4",
+                  "link": "https://drive.google.com/file/d/1CFjxYr8PISc1Hol-wy-ua0ryI6bF1ZVu/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "Buổi 30.1  Viết bài NLXH",
+          "items": [
+            {
+              "name": "[PHÁT ĐỀ] BÀI VIẾT SỐ 5 BÀI VĂN NGHỊ LUẬN XÃ HỘI.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "[PHÁT ĐỀ] BÀI VIẾT SỐ 5 BÀI VĂN NGHỊ LUẬN XÃ HỘI.pdf",
+                  "link": "https://drive.google.com/file/d/1_34muZrDQ1PLWjLHFIq120BAda5scIUO/view?usp=drivesdk"
+                }
+              ]
+            },
+            {
+              "name": "Buổi 31.1. Luyện thực hành bài văn Nghị luận xã hội số 1.mp4.mp4",
+              "videos": [
+                {
+                  "title": "Buổi 31.1. Luyện thực hành bài văn Nghị luận xã hội số 1.mp4.mp4",
+                  "link": "https://drive.google.com/file/d/192aGiGt4ZSRBL-YzHzK_7FEOHqUYRYQh/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "Buổi 32. Đọc hiểu văn bản nghị luận, thông tin",
+          "items": [
+            {
+              "name": "Buổi 32. Đọc hiểu văn bản nghị luận, thông tin.mp4.mp4",
+              "videos": [
+                {
+                  "title": "Buổi 32. Đọc hiểu văn bản nghị luận, thông tin.mp4.mp4",
+                  "link": "https://drive.google.com/file/d/152_orWMTtNCw6Iv3HT8jb7lofSsA5vOF/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "Buổi 32. Đọc hiểu văn bản nghị luận, thông tin.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "Buổi 32. Đọc hiểu văn bản nghị luận, thông tin.pdf",
+                  "link": "https://drive.google.com/file/d/1g077r3MLSpll9VHgZvvBKTEx36ln8i5f/view?usp=drivesdk"
+                }
+              ]
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "Buổi 33 Trả lời Đọc hiểu Văn bản nghị luận",
+          "items": [
+            {
+              "name": "Buổi 33. Kiến thức về Đọc hiểu.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "Buổi 33. Kiến thức về Đọc hiểu.pdf",
+                  "link": "https://drive.google.com/file/d/1J7RGev5YUq8JDFpndIU5Gi-_L9FP2aWf/view?usp=drivesdk"
+                }
+              ]
+            },
+            {
+              "name": "Buổi 33. Kiến thức Đọc hiểu.mp4.mp4",
+              "videos": [
+                {
+                  "title": "Buổi 33. Kiến thức Đọc hiểu.mp4.mp4",
+                  "link": "https://drive.google.com/file/d/1rhZYnTKJJ-1IjCcm-XwOm0HpAWq4b90W/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "Buổi 34 Luyện tập Đọc hiểu văn bản nghị luận",
+          "items": [
+            {
+              "name": "Buổi 34. Luyện thực hành Đọc hiểu số 1. (Phần 1).mp4.mp4",
+              "videos": [
+                {
+                  "title": "Buổi 34. Luyện thực hành Đọc hiểu số 1. (Phần 1).mp4.mp4",
+                  "link": "https://drive.google.com/file/d/1d4wNniYGbn79XxL2FiJMtc36Uu5aKlAu/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "Buổi 34. Thực hành Đọc hiểu.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "Buổi 34. Thực hành Đọc hiểu.pdf",
+                  "link": "https://drive.google.com/file/d/1b9e-CXRjuCcm4xialG_o6pYlco8kBayj/view?usp=drivesdk"
+                }
+              ]
+            }
+          ],
+          "children": []
         }
       ]
     }

@@ -2,7 +2,7 @@ const COURSE_DATA = {
   "title": "HOÁ THẦY PHẠM VĂN TRỌNG TENS 2K9 - XPS Hoá học TEN 2027",
   "tree": [
     {
-      "title": "1.1 MỘT SỐ SERIES KHÁC_",
+      "title": "1.1.MỘT SỐ SERIES KHÁC",
       "items": [],
       "children": [
         {
@@ -41,6 +41,234 @@ const COURSE_DATA = {
                     }
                   ],
                   "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "100 CÂU HỎI HÓA HỮU CƠ SỐ 02",
+              "items": [
+                {
+                  "name": "100 CÂU LÝ THUYẾT CƠ BẢN HÓA HỮU CƠ SỐ 02-VIẾT TAY.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "100 CÂU LÝ THUYẾT CƠ BẢN HÓA HỮU CƠ SỐ 02-VIẾT TAY.pdf",
+                      "link": "https://drive.google.com/file/d/1Qdr7zV8EcFSdp81stR84EPbOcvlP3B_p/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "100 CÂU LÝ THUYẾT CƠ BẢN HÓA HỮU CƠ SỐ 02-ĐỀ.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "100 CÂU LÝ THUYẾT CƠ BẢN HÓA HỮU CƠ SỐ 02-ĐỀ.pdf",
+                      "link": "https://drive.google.com/file/d/1x02W-sZDoDV0_SOQVvXCnLBHbbWOuXOP/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[LIVE] ĐỀ 02-CHUỖI LIVE 100 CÂU LÝ THUYẾT CHUYÊN BIỆT HÓA HỮU CƠ.mp4",
+                  "videos": [
+                    {
+                      "title": "[LIVE] ĐỀ 02-CHUỖI LIVE 100 CÂU LÝ THUYẾT CHUYÊN BIỆT HÓA HỮU CƠ.mp4",
+                      "link": "https://drive.google.com/file/d/1JQEmSpONewIrMWCuesIqat6q3WXXC3f1/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "2. ĐỀ HỌC SINH GIỎI MÔN HÓA MỚI NHẤT 2026-2027_",
+          "items": [],
+          "children": [
+            {
+              "title": "1. ĐỀ HSG TRẮC NGHIỆM CỤM TÂY NGHỆ AN",
+              "items": [
+                {
+                  "name": "ĐỀ TRẮC NGHIỆM THI THỬ HSG LIÊN TRƯỜNG CỤM PHÍA TÂY NGHỆ AN 2026-2027 LẦN 1-VIẾT TAY.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "ĐỀ TRẮC NGHIỆM THI THỬ HSG LIÊN TRƯỜNG CỤM PHÍA TÂY NGHỆ AN 2026-2027 LẦN 1-VIẾT TAY.pdf",
+                      "link": "https://drive.google.com/file/d/13nTfXtZeRiPIMM9QsJ0JR-JkHVx-LUfD/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "ĐỀ TRẮC NGHIỆM THI THỬ HSG LIÊN TRƯỜNG CỤM PHÍA TÂY NGHỆ AN 2026-2027 LẦN 1-ĐỀ.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "ĐỀ TRẮC NGHIỆM THI THỬ HSG LIÊN TRƯỜNG CỤM PHÍA TÂY NGHỆ AN 2026-2027 LẦN 1-ĐỀ.pdf",
+                      "link": "https://drive.google.com/file/d/1VfkOpjVhXFJnJGXHf4EaP0URq6Qkqh_1/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "ĐỀ TRẮC NGHIỆM THI THỬ HSG LIÊN TRƯỜNG CỤM PHÍA TÂY NGHỆ AN 2026-2027 LẦN 1.mp4",
+                  "videos": [
+                    {
+                      "title": "ĐỀ TRẮC NGHIỆM THI THỬ HSG LIÊN TRƯỜNG CỤM PHÍA TÂY NGHỆ AN 2026-2027 LẦN 1.mp4",
+                      "link": "https://drive.google.com/file/d/1vE4ojeG5fclrSffZfhzMasB5-ow_0Hk1/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "2. ĐỀ HSG TỰ LUẬN CỤM TÂY NGHỆ AN",
+              "items": [
+                {
+                  "name": "ĐỀ TỰ LUẬN THI THỬ HSG LIÊN TRƯỜNG CỤM PHÍA TÂY NGHỆ AN 2026-2027 LẦN 1-VIẾT TAY.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "ĐỀ TỰ LUẬN THI THỬ HSG LIÊN TRƯỜNG CỤM PHÍA TÂY NGHỆ AN 2026-2027 LẦN 1-VIẾT TAY.pdf",
+                      "link": "https://drive.google.com/file/d/1nV1fbZ_J-T0h2OHeif99mvgObsOMSmli/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "ĐỀ TỰ LUẬN THI THỬ HSG LIÊN TRƯỜNG CỤM PHÍA TÂY NGHỆ AN 2026-2027 LẦN 1-ĐỀ.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "ĐỀ TỰ LUẬN THI THỬ HSG LIÊN TRƯỜNG CỤM PHÍA TÂY NGHỆ AN 2026-2027 LẦN 1-ĐỀ.pdf",
+                      "link": "https://drive.google.com/file/d/1qd883sPjRjB9NUr6yCSuk-ehZLAwlU7S/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "ĐỀ TỰ LUẬN THI THỬ HSG LIÊN TRƯỜNG CỤM PHÍA TÂY NGHỆ AN 2026-2027 LẦN 1.mp4",
+                  "videos": [
+                    {
+                      "title": "ĐỀ TỰ LUẬN THI THỬ HSG LIÊN TRƯỜNG CỤM PHÍA TÂY NGHỆ AN 2026-2027 LẦN 1.mp4",
+                      "link": "https://drive.google.com/file/d/1NHtgHHUVnbYGdu0aIQ0u7IpD23f5y79G/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "3. ĐỀ HSG THPT CAO BÁ QUÁT GIA LÂM HÀ NỘI",
+              "items": [
+                {
+                  "name": "ĐỀ HSG HÓA 12 - THPT Cao Bá Quát - Gia Lâm - Hà Nội-VIẾT TAY.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "ĐỀ HSG HÓA 12 - THPT Cao Bá Quát - Gia Lâm - Hà Nội-VIẾT TAY.pdf",
+                      "link": "https://drive.google.com/file/d/17ejXWdWQQOFZhvQPj6K3Gnn6-Z9sCxxl/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "ĐỀ HSG HÓA 12 - THPT Cao Bá Quát - Gia Lâm - Hà Nội-ĐỀ.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "ĐỀ HSG HÓA 12 - THPT Cao Bá Quát - Gia Lâm - Hà Nội-ĐỀ.pdf",
+                      "link": "https://drive.google.com/file/d/1BKVzOKPhpJm9Cq5gmBjRVaDbAoEGePfw/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "ĐỀ HSG THPT CAO BÁ QUÁT GIA LÂM HÀ NỘI 2026-2027.mp4",
+                  "videos": [
+                    {
+                      "title": "ĐỀ HSG THPT CAO BÁ QUÁT GIA LÂM HÀ NỘI 2026-2027.mp4",
+                      "link": "https://drive.google.com/file/d/1rqTO9c7BwY0vB_0PhsvzwH2W_WfLJkqG/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "3. ĐỀ THI THỬ MÔN HÓA MỚI NHẤT 2026-2027_",
+              "items": [],
+              "children": [
+                {
+                  "title": "1. ĐỀ NGUYỄN KHUYẾN-TPHCM LẦN_",
+                  "items": [
+                    {
+                      "name": "[LIVE] CHỮA ĐỀ THI THỬ MÔN HÓA-THPT NGUYỄN KHUYẾN TPHCM 2026-2027.mp4",
+                      "videos": [
+                        {
+                          "title": "[LIVE] CHỮA ĐỀ THI THỬ MÔN HÓA-THPT NGUYỄN KHUYẾN TPHCM 2026-2027.mp4",
+                          "link": "https://drive.google.com/file/d/1GZtF6k2j1tNSHHeNTP2TxOsH74tE2yBO/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "ĐỀ THI THỬ NGUYỄN KHUYẾN LẦN 1 2026-VIẾT TAY.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "ĐỀ THI THỬ NGUYỄN KHUYẾN LẦN 1 2026-VIẾT TAY.pdf",
+                          "link": "https://drive.google.com/file/d/1sAtTee7ZGhN5mT4Bp1l5affMlzTevSr1/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "ĐỀ THI THỬ NGUYỄN KHUYẾN LẦN 1 2026-ĐỀ.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "ĐỀ THI THỬ NGUYỄN KHUYẾN LẦN 1 2026-ĐỀ.pdf",
+                          "link": "https://drive.google.com/file/d/1hfA3E70Nv2eRhtSR2otqDle-x2BaE_L3/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "4. ĐỀ HSG CHÍNH THỨC BẢNG A THÀNH PHỐ HÀ NỘI NĂM HỌC 2026-2027",
+              "items": [
+                {
+                  "name": "GIẢI CHI TIẾT ĐỀ HSG MÔN HÓA BẢNG A THÀNH PHỐ HÀ NỘI NĂM HỌC 2026-2027.mp4",
+                  "videos": [
+                    {
+                      "title": "GIẢI CHI TIẾT ĐỀ HSG MÔN HÓA BẢNG A THÀNH PHỐ HÀ NỘI NĂM HỌC 2026-2027.mp4",
+                      "link": "https://drive.google.com/file/d/1LND9jZCaf5al-kns1y_5Z6cuJmp9ZPYw/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "ĐỀ HSG MÔN HÓA BẢNG A- TP HẦ NỘI NĂM HỌC 2026-2027-VIẾT TAY.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "ĐỀ HSG MÔN HÓA BẢNG A- TP HẦ NỘI NĂM HỌC 2026-2027-VIẾT TAY.pdf",
+                      "link": "https://drive.google.com/file/d/1RcjWl8k5hFwnTzw7IMVQCEDFV0j8Q3Za/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "ĐỀ HSG MÔN HÓA BẢNG A- TP HẦ NỘI NĂM HỌC 2026-2027-ĐỀ.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "ĐỀ HSG MÔN HÓA BẢNG A- TP HẦ NỘI NĂM HỌC 2026-2027-ĐỀ.pdf",
+                      "link": "https://drive.google.com/file/d/1KB-vkLpPRCjHpsDq18J9NI77sPF3F-PA/view?usp=drivesdk"
+                    }
+                  ]
                 }
               ],
               "children": []
@@ -1569,6 +1797,78 @@ const COURSE_DATA = {
                     }
                   ],
                   "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "42. TỔNG ÔN ESTER LIPID CHẤT GIẶT RỬA PHẦN 1-KHÓA ĐOM ĐÓM",
+              "items": [
+                {
+                  "name": "KHÓA ĐOM ĐÓM-TỔNG ÔN ESTER-LIPID-CHẤT GIẶT RỬA PHẦN 1.mp4",
+                  "videos": [
+                    {
+                      "title": "KHÓA ĐOM ĐÓM-TỔNG ÔN ESTER-LIPID-CHẤT GIẶT RỬA PHẦN 1.mp4",
+                      "link": "https://drive.google.com/file/d/10rHF6Yb03VrO48G2nKnxdpD8co0FC1Jw/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "TỔNG ÔN ESTER-LIPID-CHẤT GIẶT RỬA-PHẦN 1- VIẾT TAY.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "TỔNG ÔN ESTER-LIPID-CHẤT GIẶT RỬA-PHẦN 1- VIẾT TAY.pdf",
+                      "link": "https://drive.google.com/file/d/1O5-_5F10BjsHzDxJH6fAtynvZnttew6w/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "TỔNG ÔN ESTER-LIPID-CHẤT GIẶT RỬA-PHẦN 1- ĐỀ.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "TỔNG ÔN ESTER-LIPID-CHẤT GIẶT RỬA-PHẦN 1- ĐỀ.pdf",
+                      "link": "https://drive.google.com/file/d/11ZDi60o-Tk7kIvQkj_-qWJpw8B0Ul1-5/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "43. TỔNG ÔN ESTER LIPID CHẤT GIẶT RỬA PHẦN 2-KHÓA ĐOM ĐÓM",
+              "items": [
+                {
+                  "name": "KHÓA ĐOM ĐÓM-TỔNG ÔN ESTER- CHẤT BÉO-CHẤT GIẶT RỬA PHẦN 2.mp4",
+                  "videos": [
+                    {
+                      "title": "KHÓA ĐOM ĐÓM-TỔNG ÔN ESTER- CHẤT BÉO-CHẤT GIẶT RỬA PHẦN 2.mp4",
+                      "link": "https://drive.google.com/file/d/1u7R9vKOtSS7cqwYv4qXts5Zcfx7e_hjj/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "TỔNG ÔN ESTER-LIPID-CHẤT GIẶT RỬA-PHẦN 2- VIẾT TAY.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "TỔNG ÔN ESTER-LIPID-CHẤT GIẶT RỬA-PHẦN 2- VIẾT TAY.pdf",
+                      "link": "https://drive.google.com/file/d/1cLdsSxHhCcWfSrPLv6dQAx4IyoMrKWy-/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "TỔNG ÔN ESTER-LIPID-CHẤT GIẶT RỬA-PHẦN 2- ĐỀ.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "TỔNG ÔN ESTER-LIPID-CHẤT GIẶT RỬA-PHẦN 2- ĐỀ.pdf",
+                      "link": "https://drive.google.com/file/d/1PqMiEPPeoIv4VS2JHGlZKehApwCBzXU_/view?usp=drivesdk"
+                    }
+                  ]
                 }
               ],
               "children": []
@@ -3298,6 +3598,150 @@ const COURSE_DATA = {
                 }
               ],
               "children": []
+            },
+            {
+              "title": "21. 100 CÂU HỎI CHUYÊN BIỆT VỀ HỢP CHẤT NITROGEN SỐ 01",
+              "items": [
+                {
+                  "name": "(TỜ 2.1) 100 CÂU HỎI CHUYÊN BIỆT VỀ HỢP CHẤT CỦA NITROGEN (SỐ 01)-VIẾT TAY.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "(TỜ 2.1) 100 CÂU HỎI CHUYÊN BIỆT VỀ HỢP CHẤT CỦA NITROGEN (SỐ 01)-VIẾT TAY.pdf",
+                      "link": "https://drive.google.com/file/d/1uP7bqIUdUpnb_-y4x2IWG_F185nvKCel/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "(TỜ 2.1) 100 CÂU HỎI CHUYÊN BIỆT VỀ HỢP CHẤT CỦA NITROGEN (SỐ 01)-ĐỀ.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "(TỜ 2.1) 100 CÂU HỎI CHUYÊN BIỆT VỀ HỢP CHẤT CỦA NITROGEN (SỐ 01)-ĐỀ.pdf",
+                      "link": "https://drive.google.com/file/d/1rNXuCTNJkMmLiLw0Tt-Jx47oq2CeoHcW/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[LIVE] 100 CÂU HỎI CHUYÊN BIỆT VỀ HỢP CHẤT CỦA NITROGEN SỐ 01.mp4",
+                  "videos": [
+                    {
+                      "title": "[LIVE] 100 CÂU HỎI CHUYÊN BIỆT VỀ HỢP CHẤT CỦA NITROGEN SỐ 01.mp4",
+                      "link": "https://drive.google.com/file/d/1CbnHgbaC8aFwd0P3BCROL29IH4LIIb8o/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "22. ĐỀ TỔNG KIỂM TRA HÓA HỮU CƠ LẦN 7",
+              "items": [
+                {
+                  "name": "[LIVE] CHỮA ĐỀ TỔNG KIỂM TRA LẦN 7-KHÓA 2K9.mp4",
+                  "videos": [
+                    {
+                      "title": "[LIVE] CHỮA ĐỀ TỔNG KIỂM TRA LẦN 7-KHÓA 2K9.mp4",
+                      "link": "https://drive.google.com/file/d/17sCVBKr_4NEa9Kf10AnTfliLyypDM6e0/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "ĐỀ TỔNG KIỂM TRA HÓA HỮU CƠ 2K9 LẦN 7 (TRẢ LỜI NGẮN)-VIẾT TAY.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "ĐỀ TỔNG KIỂM TRA HÓA HỮU CƠ 2K9 LẦN 7 (TRẢ LỜI NGẮN)-VIẾT TAY.pdf",
+                      "link": "https://drive.google.com/file/d/1AdBGr-muWH3Kzk7wD7GPt8RdF_IW4CGa/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "ĐỀ TỔNG KIỂM TRA HÓA HỮU CƠ 2K9 LẦN 7 (TRẢ LỜI NGẮN)-ĐỀ.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "ĐỀ TỔNG KIỂM TRA HÓA HỮU CƠ 2K9 LẦN 7 (TRẢ LỜI NGẮN)-ĐỀ.pdf",
+                      "link": "https://drive.google.com/file/d/13ETzV_oszaJwpa_9qYqhHj0fQZgfrFyP/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "23. 100 CÂU HỎI CHUYÊN BIỆT VỀ HỢP CHẤT NITROGEN SỐ 02",
+              "items": [
+                {
+                  "name": "(TỜ 2.2) 100 CÂU HỎI CHUYÊN BIỆT VỀ HỢP CHẤT CỦA NITROGEN (SỐ 02)-VIẾT TAY.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "(TỜ 2.2) 100 CÂU HỎI CHUYÊN BIỆT VỀ HỢP CHẤT CỦA NITROGEN (SỐ 02)-VIẾT TAY.pdf",
+                      "link": "https://drive.google.com/file/d/1iAXolzRRF_rQs2camHWhnQeqlxHcAGOb/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "(TỜ 2.2) 100 CÂU HỎI CHUYÊN BIỆT VỀ HỢP CHẤT CỦA NITROGEN (SỐ 02)-ĐỀ.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "(TỜ 2.2) 100 CÂU HỎI CHUYÊN BIỆT VỀ HỢP CHẤT CỦA NITROGEN (SỐ 02)-ĐỀ.pdf",
+                      "link": "https://drive.google.com/file/d/1PhXdOhY4b1Xs9oRM1_GfI-HpaTme8JYV/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[LIVE] 100 CÂU HỎI CHUYÊN BIỆT VỀ HỢP CHẤT CỦA NITROGEN SỐ 02.mp4",
+                  "videos": [
+                    {
+                      "title": "[LIVE] 100 CÂU HỎI CHUYÊN BIỆT VỀ HỢP CHẤT CỦA NITROGEN SỐ 02.mp4",
+                      "link": "https://drive.google.com/file/d/1HMj8It7XnqK81ysl1QgoCdbjt9M8bXne/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "24. ĐỀ TỔNG KIỂM TRA HÓA HỮU CƠ LẦN 8",
+              "items": [
+                {
+                  "name": "[LIVE] ĐỀ TỔNG KIỂM TRA HÓA HỮU CƠ SỐ 08.mp4",
+                  "videos": [
+                    {
+                      "title": "[LIVE] ĐỀ TỔNG KIỂM TRA HÓA HỮU CƠ SỐ 08.mp4",
+                      "link": "https://drive.google.com/file/d/1jU09Ca-qDv2kcQXNWJ8zlmwJa5ZtoXJb/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "ĐỀ KIỂM TRA TỔNG HỢP HÓA HỮU CƠ SỐ 08 (Dành cho 2k9 xps)-VIẾT TAY.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "ĐỀ KIỂM TRA TỔNG HỢP HÓA HỮU CƠ SỐ 08 (Dành cho 2k9 xps)-VIẾT TAY.pdf",
+                      "link": "https://drive.google.com/file/d/1hCfykSIrc6NNodhZFJA41dZsTl8eHWDs/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "ĐỀ KIỂM TRA TỔNG HỢP HÓA HỮU CƠ SỐ 08 (Dành cho 2k9 xps)-ĐỀ.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "ĐỀ KIỂM TRA TỔNG HỢP HÓA HỮU CƠ SỐ 08 (Dành cho 2k9 xps)-ĐỀ.pdf",
+                      "link": "https://drive.google.com/file/d/1brjKTmjJ3J016BssIKCO9YObaM42RCL8/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
             }
           ]
         },
@@ -3305,6 +3749,102 @@ const COURSE_DATA = {
           "title": "4. CHƯƠNG 4-POLYMER_",
           "items": [],
           "children": [
+            {
+              "title": "0. Tài liệu in chương 4-Hóa 12",
+              "items": [
+                {
+                  "name": "68 CÂU LÝ THUYẾT CHUYÊN BIỆT POLYMER-ĐỀ.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "68 CÂU LÝ THUYẾT CHUYÊN BIỆT POLYMER-ĐỀ.pdf",
+                      "link": "https://drive.google.com/file/d/1XVUkMwQ1KX25bWkOkFkg6ThzrZqp9CbI/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "100 CÂU HỎI CHUYÊN BIỆT VỀ POLYMER-ĐỀ.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "100 CÂU HỎI CHUYÊN BIỆT VỀ POLYMER-ĐỀ.pdf",
+                      "link": "https://drive.google.com/file/d/1BdTzJKprHA0Tn7icwSHXjBtYuENVtYeK/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "(TỜ 01-SÁCH HTCPHHC) CHƯƠNG 4-POLYMER-ĐỀ.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "(TỜ 01-SÁCH HTCPHHC) CHƯƠNG 4-POLYMER-ĐỀ.pdf",
+                      "link": "https://drive.google.com/file/d/1KgEb8grmVNbWSgJUBzGNPfLHpKZ_0jNw/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "(TỜ 2.1) HÓA 12-CHƯƠNG 4-POLYMER-ĐỀ LUYỆN TẬP POLYMER SỐ 01-ĐỀ.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "(TỜ 2.1) HÓA 12-CHƯƠNG 4-POLYMER-ĐỀ LUYỆN TẬP POLYMER SỐ 01-ĐỀ.pdf",
+                      "link": "https://drive.google.com/file/d/1I9B8YNdoIJ9m42rsHozHfsSgPBottbKG/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "(TỜ 2.2) HÓA 12-CHƯƠNG 4-POLYMER-ĐỀ LUYỆN TẬP POLYMER SỐ 02-ĐỀ.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "(TỜ 2.2) HÓA 12-CHƯƠNG 4-POLYMER-ĐỀ LUYỆN TẬP POLYMER SỐ 02-ĐỀ.pdf",
+                      "link": "https://drive.google.com/file/d/1tmVIYMp7551522gFr7qHcJnwoGBeIUkv/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "(TỜ 2.3) HÓA 12-CHƯƠNG 4-POLYMER-ĐỀ LUYỆN TẬP POLYMER SỐ 03-ĐỀ.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "(TỜ 2.3) HÓA 12-CHƯƠNG 4-POLYMER-ĐỀ LUYỆN TẬP POLYMER SỐ 03-ĐỀ.pdf",
+                      "link": "https://drive.google.com/file/d/1MZhs5h67c1iDDX1YTA09rsswXfhUS1Z1/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "(TỜ 2.4) HÓA 12-CHƯƠNG 4-POLYMER-ĐỀ LUYỆN TẬP POLYMER SỐ 04-ĐỀ.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "(TỜ 2.4) HÓA 12-CHƯƠNG 4-POLYMER-ĐỀ LUYỆN TẬP POLYMER SỐ 04-ĐỀ.pdf",
+                      "link": "https://drive.google.com/file/d/1UJEl32kzjasMJD14Z8A_x_Ylxxb-Ixwp/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "(TỜ 03) HÓA 12-CHUONG 4-BÀI TẬP PHÁT BIỂU ĐÚNG SAI POLYMER-ĐỀ.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "(TỜ 03) HÓA 12-CHUONG 4-BÀI TẬP PHÁT BIỂU ĐÚNG SAI POLYMER-ĐỀ.pdf",
+                      "link": "https://drive.google.com/file/d/1cKC-EvmoeUeW5Eb9ookns7ylcRAKlfua/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "(TỜ SÁCH BT-KNTTT) Hóa 12-Chương 4-SÁCH BT KNTT-ĐỀ.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "(TỜ SÁCH BT-KNTTT) Hóa 12-Chương 4-SÁCH BT KNTT-ĐỀ.pdf",
+                      "link": "https://drive.google.com/file/d/1YaremdpvRzakupGERYc32AKzfDH8niii/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
             {
               "title": "1. FULL LÝ THUYẾT POLYMER (Ưu tiên học lại)",
               "items": [
@@ -3584,75 +4124,15 @@ const COURSE_DATA = {
               "children": []
             },
             {
-              "title": "Tài liệu in chương 4-Hóa 12",
+              "title": "9. BÀI TẬP ĐÚNG SAI POLYMER",
               "items": [
                 {
-                  "name": "68 CÂU LÝ THUYẾT CHUYÊN BIỆT POLYMER-ĐỀ.pdf",
+                  "name": "(TỜ 03) HÓA 12-CHUONG 4-BÀI TẬP PHÁT BIỂU ĐÚNG SAI POLYMER-viết tay.pdf",
                   "videos": [],
                   "pdfs": [
                     {
-                      "title": "68 CÂU LÝ THUYẾT CHUYÊN BIỆT POLYMER-ĐỀ.pdf",
-                      "link": "https://drive.google.com/file/d/1XVUkMwQ1KX25bWkOkFkg6ThzrZqp9CbI/view?usp=drivesdk"
-                    }
-                  ]
-                },
-                {
-                  "name": "100 CÂU HỎI CHUYÊN BIỆT VỀ POLYMER-ĐỀ.pdf",
-                  "videos": [],
-                  "pdfs": [
-                    {
-                      "title": "100 CÂU HỎI CHUYÊN BIỆT VỀ POLYMER-ĐỀ.pdf",
-                      "link": "https://drive.google.com/file/d/1BdTzJKprHA0Tn7icwSHXjBtYuENVtYeK/view?usp=drivesdk"
-                    }
-                  ]
-                },
-                {
-                  "name": "(TỜ 01-SÁCH HTCPHHC) CHƯƠNG 4-POLYMER-ĐỀ.pdf",
-                  "videos": [],
-                  "pdfs": [
-                    {
-                      "title": "(TỜ 01-SÁCH HTCPHHC) CHƯƠNG 4-POLYMER-ĐỀ.pdf",
-                      "link": "https://drive.google.com/file/d/1KgEb8grmVNbWSgJUBzGNPfLHpKZ_0jNw/view?usp=drivesdk"
-                    }
-                  ]
-                },
-                {
-                  "name": "(TỜ 2.1) HÓA 12-CHƯƠNG 4-POLYMER-ĐỀ LUYỆN TẬP POLYMER SỐ 01-ĐỀ.pdf",
-                  "videos": [],
-                  "pdfs": [
-                    {
-                      "title": "(TỜ 2.1) HÓA 12-CHƯƠNG 4-POLYMER-ĐỀ LUYỆN TẬP POLYMER SỐ 01-ĐỀ.pdf",
-                      "link": "https://drive.google.com/file/d/1I9B8YNdoIJ9m42rsHozHfsSgPBottbKG/view?usp=drivesdk"
-                    }
-                  ]
-                },
-                {
-                  "name": "(TỜ 2.2) HÓA 12-CHƯƠNG 4-POLYMER-ĐỀ LUYỆN TẬP POLYMER SỐ 02-ĐỀ.pdf",
-                  "videos": [],
-                  "pdfs": [
-                    {
-                      "title": "(TỜ 2.2) HÓA 12-CHƯƠNG 4-POLYMER-ĐỀ LUYỆN TẬP POLYMER SỐ 02-ĐỀ.pdf",
-                      "link": "https://drive.google.com/file/d/1tmVIYMp7551522gFr7qHcJnwoGBeIUkv/view?usp=drivesdk"
-                    }
-                  ]
-                },
-                {
-                  "name": "(TỜ 2.3) HÓA 12-CHƯƠNG 4-POLYMER-ĐỀ LUYỆN TẬP POLYMER SỐ 03-ĐỀ.pdf",
-                  "videos": [],
-                  "pdfs": [
-                    {
-                      "title": "(TỜ 2.3) HÓA 12-CHƯƠNG 4-POLYMER-ĐỀ LUYỆN TẬP POLYMER SỐ 03-ĐỀ.pdf",
-                      "link": "https://drive.google.com/file/d/1MZhs5h67c1iDDX1YTA09rsswXfhUS1Z1/view?usp=drivesdk"
-                    }
-                  ]
-                },
-                {
-                  "name": "(TỜ 2.4) HÓA 12-CHƯƠNG 4-POLYMER-ĐỀ LUYỆN TẬP POLYMER SỐ 04-ĐỀ.pdf",
-                  "videos": [],
-                  "pdfs": [
-                    {
-                      "title": "(TỜ 2.4) HÓA 12-CHƯƠNG 4-POLYMER-ĐỀ LUYỆN TẬP POLYMER SỐ 04-ĐỀ.pdf",
-                      "link": "https://drive.google.com/file/d/1UJEl32kzjasMJD14Z8A_x_Ylxxb-Ixwp/view?usp=drivesdk"
+                      "title": "(TỜ 03) HÓA 12-CHUONG 4-BÀI TẬP PHÁT BIỂU ĐÚNG SAI POLYMER-viết tay.pdf",
+                      "link": "https://drive.google.com/file/d/1uRHP8vzqwh6dI5C2pzRYyrPcvtdC-Z74/view?usp=drivesdk"
                     }
                   ]
                 },
@@ -3662,7 +4142,33 @@ const COURSE_DATA = {
                   "pdfs": [
                     {
                       "title": "(TỜ 03) HÓA 12-CHUONG 4-BÀI TẬP PHÁT BIỂU ĐÚNG SAI POLYMER-ĐỀ.pdf",
-                      "link": "https://drive.google.com/file/d/1cKC-EvmoeUeW5Eb9ookns7ylcRAKlfua/view?usp=drivesdk"
+                      "link": "https://drive.google.com/file/d/1ZBTOF5sTnKfF65XdpgWd4rlU7iRF_KYU/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "BUỔI 9-CHƯƠNG 4-BÀI TẬP ĐÚNG SAI CHỦ ĐỀ POLYMER.mp4",
+                  "videos": [
+                    {
+                      "title": "BUỔI 9-CHƯƠNG 4-BÀI TẬP ĐÚNG SAI CHỦ ĐỀ POLYMER.mp4",
+                      "link": "https://drive.google.com/file/d/1-vcZlbHWLEOR50twHpJDQoxRf8F16J0_/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "10. SÁCH BÀI TẬP CHƯƠNG 4-KNTT",
+              "items": [
+                {
+                  "name": "(TỜ SÁCH BT-KNTTT) Hóa 12-Chương 4-SÁCH BT KNTT-ĐÁP ÁN VIẾT TAY.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "(TỜ SÁCH BT-KNTTT) Hóa 12-Chương 4-SÁCH BT KNTT-ĐÁP ÁN VIẾT TAY.pdf",
+                      "link": "https://drive.google.com/file/d/1qmF6Q365yvFQ5XO0JCdneUoy54kQZncX/view?usp=drivesdk"
                     }
                   ]
                 },
@@ -3672,7 +4178,53 @@ const COURSE_DATA = {
                   "pdfs": [
                     {
                       "title": "(TỜ SÁCH BT-KNTTT) Hóa 12-Chương 4-SÁCH BT KNTT-ĐỀ.pdf",
-                      "link": "https://drive.google.com/file/d/1YaremdpvRzakupGERYc32AKzfDH8niii/view?usp=drivesdk"
+                      "link": "https://drive.google.com/file/d/1O0Xpo_mF5v1JEEm-8ps-RUk40ZhXY5ie/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "Hóa 12-CHƯƠNG 4-SÁCH BÀI TẬP-KNTT.mp4",
+                  "videos": [
+                    {
+                      "title": "Hóa 12-CHƯƠNG 4-SÁCH BÀI TẬP-KNTT.mp4",
+                      "link": "https://drive.google.com/file/d/1lx3bidznExhTAA8ATI9B556QVcPYh494/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "11. TỔNG ÔN KIẾN THỨC CƠ BẢN CHƯƠNG 4-POLYMER",
+              "items": [
+                {
+                  "name": "[LIVE] TỔNG ÔN KIẾN THỨC CƠ BẢN CHƯƠNG 4-POLYMER.mp4",
+                  "videos": [
+                    {
+                      "title": "[LIVE] TỔNG ÔN KIẾN THỨC CƠ BẢN CHƯƠNG 4-POLYMER.mp4",
+                      "link": "https://drive.google.com/file/d/1aIIaBZBV6xQjzZFyi4uhAaSmy5hCnAdW/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "TỔNG ÔN LÝ THUYẾT CƠ BẢN HÓA 12-CHƯƠNG 4-VIẾT TAY.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "TỔNG ÔN LÝ THUYẾT CƠ BẢN HÓA 12-CHƯƠNG 4-VIẾT TAY.pdf",
+                      "link": "https://drive.google.com/file/d/1FkaXxC2LkI7cbnt5vMo0yqNtWTl8gUzy/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "TỔNG ÔN LÝ THUYẾT CƠ BẢN HÓA 12-CHƯƠNG 4-ĐỀ.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "TỔNG ÔN LÝ THUYẾT CƠ BẢN HÓA 12-CHƯƠNG 4-ĐỀ.pdf",
+                      "link": "https://drive.google.com/file/d/10ZIsoTPJHZ1qZHXTTwqdwFd5oIydGhF4/view?usp=drivesdk"
                     }
                   ]
                 }
@@ -3795,6 +4347,332 @@ const COURSE_DATA = {
                     }
                   ],
                   "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "5. CHỮA BÀI TẬP CĐ3- CÁC DẠNG TOÁN CHƯƠNG 5 (Ưu tiên học lại)",
+              "items": [
+                {
+                  "name": "(TỜ 01-CĐ3-SÁCH HTCPHVC) CHƯƠNG 5-PIN ĐIỆN VÀ ĐIỆN PHÂN-VIẾT TAY.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "(TỜ 01-CĐ3-SÁCH HTCPHVC) CHƯƠNG 5-PIN ĐIỆN VÀ ĐIỆN PHÂN-VIẾT TAY.pdf",
+                      "link": "https://drive.google.com/file/d/1ERmHOoXoINy87EeZeSFyl4uO5iV6vd5B/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[LIVE] CHƯƠNG 5-CHỮA BÀI TẬP CHUYÊN ĐỀ 3-CÁC DANG TOÁN PIN ĐIỆN-ĐIỆN PHÂN.mp4",
+                  "videos": [
+                    {
+                      "title": "[LIVE] CHƯƠNG 5-CHỮA BÀI TẬP CHUYÊN ĐỀ 3-CÁC DANG TOÁN PIN ĐIỆN-ĐIỆN PHÂN.mp4",
+                      "link": "https://drive.google.com/file/d/1p1Q_lrOPK-VJ1NcF92Sn2q2RY_AcZ3vZ/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "6. CHỮA BÀI TẬP CĐ 4-TỔNG ÔN PIN ĐIỆN VÀ ĐIỆN PHÂN-ĐỀ 01",
+              "items": [
+                {
+                  "name": "BÀI HỌC 6-ĐỀ 1-CHỦ ĐỀ 4-TỔNG ÔN PIN ĐIỆN HÓA (Sách HTCPHVC).mp4",
+                  "videos": [
+                    {
+                      "title": "BÀI HỌC 6-ĐỀ 1-CHỦ ĐỀ 4-TỔNG ÔN PIN ĐIỆN HÓA (Sách HTCPHVC).mp4",
+                      "link": "https://drive.google.com/file/d/1iqmTtMZiqzJYoJF1YngXt-g7C45LkYPP/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "ĐỀ 1-(TỜ 01-CĐ4-SÁCH HTCPHVC) CHƯƠNG 5-PIN ĐIỆN VÀ ĐIỆN PHÂN-VIẾT TAY.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "ĐỀ 1-(TỜ 01-CĐ4-SÁCH HTCPHVC) CHƯƠNG 5-PIN ĐIỆN VÀ ĐIỆN PHÂN-VIẾT TAY.pdf",
+                      "link": "https://drive.google.com/file/d/1ghDyp5KRJFGIesAQdAvk8iEruv9LxkDx/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "7. CHỮA BÀI TẬP CĐ 4-TỔNG ÔN PIN ĐIỆN VÀ ĐIỆN PHÂN-ĐỀ 02",
+              "items": [
+                {
+                  "name": "BUỔI 7-ĐỀ 2-(TỜ 01-CĐ4-SÁCH HTCPHVC) CHƯƠNG 5-PIN ĐIỆN VÀ ĐIỆN PHÂN.mp4",
+                  "videos": [
+                    {
+                      "title": "BUỔI 7-ĐỀ 2-(TỜ 01-CĐ4-SÁCH HTCPHVC) CHƯƠNG 5-PIN ĐIỆN VÀ ĐIỆN PHÂN.mp4",
+                      "link": "https://drive.google.com/file/d/1_pyJlG8jI6wNmQ12WobY81ypySA_fyhY/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "ĐỀ 2-(TỜ 01-CĐ4-SÁCH HTCPHVC) CHƯƠNG 5-PIN ĐIỆN VÀ ĐIỆN PHÂN-VIẾT TAY.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "ĐỀ 2-(TỜ 01-CĐ4-SÁCH HTCPHVC) CHƯƠNG 5-PIN ĐIỆN VÀ ĐIỆN PHÂN-VIẾT TAY.pdf",
+                      "link": "https://drive.google.com/file/d/1asxpor7azbQkRm_DOGbH5WoxsoRTDN4E/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "8. 125 CÂU TRẮC NGHIỆM PIN ĐIỆN-ĐIỆN PHÂN",
+              "items": [
+                {
+                  "name": "125 CÂU TRẮC NGHIỆM PIN ĐIỆN-ĐIỆN PHÂN-VIẾT TAY.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "125 CÂU TRẮC NGHIỆM PIN ĐIỆN-ĐIỆN PHÂN-VIẾT TAY.pdf",
+                      "link": "https://drive.google.com/file/d/1qxjB1tmIc_E1hV7FLc-npFvkU241Yueq/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "125 CÂU TRẮC NGHIỆM PIN ĐIỆN-ĐIỆN PHÂN-ĐỀ.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "125 CÂU TRẮC NGHIỆM PIN ĐIỆN-ĐIỆN PHÂN-ĐỀ.pdf",
+                      "link": "https://drive.google.com/file/d/1HOBNMHcMkqDesJOTpWXCyu_5_fYhUeq7/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[LIVE] 125 CÂU TRẮC NGHIỆM PIN ĐIỆN HÓA-ĐIỆN PHÂN.mp4",
+                  "videos": [
+                    {
+                      "title": "[LIVE] 125 CÂU TRẮC NGHIỆM PIN ĐIỆN HÓA-ĐIỆN PHÂN.mp4",
+                      "link": "https://drive.google.com/file/d/13oZ5cCC3KabZbHe-UYc94HS_JqQ4JpkV/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "9. ĐỀ LUYỆN TẬP CHƯƠNG 5 SỐ 01 - 02",
+              "items": [
+                {
+                  "name": "(Tờ 2.1) ĐỀ 01- LUYỆN TẬP HÓA HỌC LỚP 12 CHỦ ĐỀ PIN ĐIỆN-ĐIỆN PHÂN-ĐỀ.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "(Tờ 2.1) ĐỀ 01- LUYỆN TẬP HÓA HỌC LỚP 12 CHỦ ĐỀ PIN ĐIỆN-ĐIỆN PHÂN-ĐỀ.pdf",
+                      "link": "https://drive.google.com/file/d/1pefgTnLo4zyQR7d92hPFfD_ThTxQ2Glr/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "(Tờ 2.2) ĐỀ 02- LUYỆN TẬP HÓA HỌC LỚP 12 CHỦ ĐỀ PIN ĐIỆN-ĐIỆN PHÂN-ĐỀ.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "(Tờ 2.2) ĐỀ 02- LUYỆN TẬP HÓA HỌC LỚP 12 CHỦ ĐỀ PIN ĐIỆN-ĐIỆN PHÂN-ĐỀ.pdf",
+                      "link": "https://drive.google.com/file/d/19LiAuxQwoMriop2RkMdxAjyvcJ8aw6rS/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[LIVE] ĐỀ LUYỆN TẬP CHƯƠNG 5 SỐ 01 VÀ 02.mp4",
+                  "videos": [
+                    {
+                      "title": "[LIVE] ĐỀ LUYỆN TẬP CHƯƠNG 5 SỐ 01 VÀ 02.mp4",
+                      "link": "https://drive.google.com/file/d/1QZF3aIo6zUQbUl--WnXyiL2QUT3B1Dfa/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "ĐỀ 1 VÀ ĐỀ 2-LUYỆN TẬP CHƯƠNG 5-PIN ĐIỆN VÀ ĐIỆN PHÂN-VIẾT TAY.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "ĐỀ 1 VÀ ĐỀ 2-LUYỆN TẬP CHƯƠNG 5-PIN ĐIỆN VÀ ĐIỆN PHÂN-VIẾT TAY.pdf",
+                      "link": "https://drive.google.com/file/d/1CkgoB_mzFXJun-sUqM-qYHzTpPts5har/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "10. BÀI TẬP ĐÚNG SAI CHƯƠNG 5 SỐ 01",
+              "items": [
+                {
+                  "name": "(TỜ 3.1) BÀI TẬP ĐÚNG SAI CHỦ ĐỀ PIN ĐIỆN-ĐIỆN PHÂN PHẦN 1-VIẾT TAY.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "(TỜ 3.1) BÀI TẬP ĐÚNG SAI CHỦ ĐỀ PIN ĐIỆN-ĐIỆN PHÂN PHẦN 1-VIẾT TAY.pdf",
+                      "link": "https://drive.google.com/file/d/1_Uk7R4UOj-dliHs6FtnDHMtxcEQLVcuW/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "(TỜ 3.1) BÀI TẬP ĐÚNG SAI CHỦ ĐỀ PIN ĐIỆN-ĐIỆN PHÂN PHẦN 1-ĐỀ.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "(TỜ 3.1) BÀI TẬP ĐÚNG SAI CHỦ ĐỀ PIN ĐIỆN-ĐIỆN PHÂN PHẦN 1-ĐỀ.pdf",
+                      "link": "https://drive.google.com/file/d/1kn1667GfJ7kGq0LqTA1zV-s0PvqMMjR7/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "HÓA 12-CHƯƠNG 5-BÀI TẬP ĐÚNG SAI PIN ĐIỆN-ĐIỆN PHÂN PHẦN 1.mp4",
+                  "videos": [
+                    {
+                      "title": "HÓA 12-CHƯƠNG 5-BÀI TẬP ĐÚNG SAI PIN ĐIỆN-ĐIỆN PHÂN PHẦN 1.mp4",
+                      "link": "https://drive.google.com/file/d/1nmfWNYV0R8kHFSFvnBFgXRiL4O49UKde/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "11. ĐỀ LUYỆN TẬP CHƯƠNG 5 SỐ 03 - 04",
+              "items": [
+                {
+                  "name": "(Tờ 2.3) ĐỀ 03- LUYỆN TẬP HÓA HỌC LỚP 12 CHỦ ĐỀ PIN ĐIỆN-ĐIỆN PHÂN-ĐỀ.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "(Tờ 2.3) ĐỀ 03- LUYỆN TẬP HÓA HỌC LỚP 12 CHỦ ĐỀ PIN ĐIỆN-ĐIỆN PHÂN-ĐỀ.pdf",
+                      "link": "https://drive.google.com/file/d/1R9YQxfbQ8pULIpg6Qg0lDPbBiVh0sIa_/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "(Tờ 2.4) ĐỀ 04- LUYỆN TẬP HÓA HỌC LỚP 12 CHỦ ĐỀ PIN ĐIỆN-ĐIỆN PHÂN-ĐỀ.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "(Tờ 2.4) ĐỀ 04- LUYỆN TẬP HÓA HỌC LỚP 12 CHỦ ĐỀ PIN ĐIỆN-ĐIỆN PHÂN-ĐỀ.pdf",
+                      "link": "https://drive.google.com/file/d/1FBD2fSGhvRKf1A31VX2NfOyJvlkZGg4a/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[LIVE] ĐỀ LUYỆN TẬP CHƯƠNG 5 SỐ 3 VÀ 4.mp4",
+                  "videos": [
+                    {
+                      "title": "[LIVE] ĐỀ LUYỆN TẬP CHƯƠNG 5 SỐ 3 VÀ 4.mp4",
+                      "link": "https://drive.google.com/file/d/19RW_6803vinpGtcIIjydz0w72Tscy2uU/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "ĐỀ 3 VÀ ĐỀ 4-LUYỆN TẬP CHƯƠNG 5-PIN ĐIỆN VÀ ĐIỆN PHÂN-VIẾT TAY.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "ĐỀ 3 VÀ ĐỀ 4-LUYỆN TẬP CHƯƠNG 5-PIN ĐIỆN VÀ ĐIỆN PHÂN-VIẾT TAY.pdf",
+                      "link": "https://drive.google.com/file/d/1b3pPr0Rb9lSkveP6Ji2v-PmdoFkoTWvk/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "6. CHƯƠNG 6-ĐẠI CƯƠNG KIM LOẠI_",
+          "items": [],
+          "children": [
+            {
+              "title": "1. LÝ THUYẾT CẤU TẠO VÀ TÍNH CHẤT VẬT LÝ CỦA KIM LOẠI (Ưu tiên học lại)",
+              "items": [
+                {
+                  "name": "[LIVE] CHƯƠNG 6-LÝ THUYẾT CẤU TẠO VÀ TÍNH CHẤT VẬT LÝ CỦA KIM LOẠI.mp4",
+                  "videos": [
+                    {
+                      "title": "[LIVE] CHƯƠNG 6-LÝ THUYẾT CẤU TẠO VÀ TÍNH CHẤT VẬT LÝ CỦA KIM LOẠI.mp4",
+                      "link": "https://drive.google.com/file/d/1sZeHORRf-JXsMWyXYrO-lGFnDEBXkljY/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "LÝ THUYẾT CHƯƠNG 6-PHẦN 1-CẤU TẠO VÀ TÍNH CHẤT VẬT LÝ CỦA KIM LOẠI-VIẾT TAY.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "LÝ THUYẾT CHƯƠNG 6-PHẦN 1-CẤU TẠO VÀ TÍNH CHẤT VẬT LÝ CỦA KIM LOẠI-VIẾT TAY.pdf",
+                      "link": "https://drive.google.com/file/d/1m5fzwTB08ZCddzqOL1CuBvlX17lrdaW0/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "2. LÝ THUYẾT TÍNH CHẤT HÓA HỌC-TÁCH VÀ TÁI CHẾ KIM LOẠI (Ưu tiên học lại)",
+              "items": [
+                {
+                  "name": "[LIVE] LÝ THUYẾT ĐẠI CƯƠNG KIM LOẠI PHẦN 2 (TCHH VÀ TÁCH KIM LOẠI).mp4",
+                  "videos": [
+                    {
+                      "title": "[LIVE] LÝ THUYẾT ĐẠI CƯƠNG KIM LOẠI PHẦN 2 (TCHH VÀ TÁCH KIM LOẠI).mp4",
+                      "link": "https://drive.google.com/file/d/1qD2TTGEi8cU3n982dWxPMBbuWBDaASy-/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "LÝ THUYẾT CHƯƠNG 6-PHẦN 2-TÍNH CHẤT HÓA HỌC-TÁCH VÀ TÁI CHẾ KIM LOẠI-VIẾT TAY.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "LÝ THUYẾT CHƯƠNG 6-PHẦN 2-TÍNH CHẤT HÓA HỌC-TÁCH VÀ TÁI CHẾ KIM LOẠI-VIẾT TAY.pdf",
+                      "link": "https://drive.google.com/file/d/1IRY5E9Dqpjq15nc6OqOzPEv5HSMhCWtV/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "3. CHỮA BÀI TẬP CHUYÊN ĐỀ 1-CHƯƠNG 6",
+              "items": [
+                {
+                  "name": "(TỜ 01-CĐ1-SÁCH HTCPHVC) CHƯƠNG 6-ĐẠI CƯƠNG KIM LOẠI-VIẾT TAY.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "(TỜ 01-CĐ1-SÁCH HTCPHVC) CHƯƠNG 6-ĐẠI CƯƠNG KIM LOẠI-VIẾT TAY.pdf",
+                      "link": "https://drive.google.com/file/d/1IBQV1_VLKkuRg8v3T_LG2HisVZ9tgmm3/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "(TỜ 01-SÁCH HTCPHVC) CHƯƠNG 6-ĐẠI CƯƠNG KIM LOẠI-ĐỀ.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "(TỜ 01-SÁCH HTCPHVC) CHƯƠNG 6-ĐẠI CƯƠNG KIM LOẠI-ĐỀ.pdf",
+                      "link": "https://drive.google.com/file/d/1g5ivho_ghkYuuOXxFnPZg_bKhGDCTCGk/view?usp=drivesdk"
+                    }
+                  ]
                 }
               ],
               "children": []

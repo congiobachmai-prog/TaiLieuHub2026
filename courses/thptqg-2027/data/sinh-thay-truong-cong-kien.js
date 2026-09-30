@@ -993,6 +993,278 @@ const COURSE_DATA = {
           ]
         },
         {
+          "title": "6. VẬN DỤNG CAO",
+          "items": [
+            {
+              "name": "Bài tập vận dụng cao - QLDT.MP4",
+              "videos": [
+                {
+                  "title": "Bài tập vận dụng cao - QLDT.MP4",
+                  "link": "https://drive.google.com/file/d/1TXoESFM0k0BGQZZ_fFnGYA6KclEQTuTO/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "Bài tập vận dụng cao.MP4",
+              "videos": [
+                {
+                  "title": "Bài tập vận dụng cao.MP4",
+                  "link": "https://drive.google.com/file/d/1S8DreczMPy_aBnO-LUYy50VGSS-cjoH8/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "Khai giảng VDC - PLĐL.mp4",
+              "videos": [
+                {
+                  "title": "Khai giảng VDC - PLĐL.mp4",
+                  "link": "https://drive.google.com/file/d/1dR7HOyCRi-E1jjBKeJGvu6ymQDrLRaUQ/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "VDC - Giao tử (B1).MP4",
+              "videos": [
+                {
+                  "title": "VDC - Giao tử (B1).MP4",
+                  "link": "https://drive.google.com/file/d/1nDSigkZC3lt3ApS7xKYjQFh4lFn736hu/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "VDC - Giao tử (B2).mp4",
+              "videos": [
+                {
+                  "title": "VDC - Giao tử (B2).mp4",
+                  "link": "https://drive.google.com/file/d/12OROG4eHDxy70d_RBKyQJ085FiZeAFv7/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "VDC - Phả hệ (B1).mp4",
+              "videos": [
+                {
+                  "title": "VDC - Phả hệ (B1).mp4",
+                  "link": "https://drive.google.com/file/d/1aWsnGsHmKRe_CvERQysUB4M8qzWsclNt/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "VDC - Phả hệ (B2).mp4",
+              "videos": [
+                {
+                  "title": "VDC - Phả hệ (B2).mp4",
+                  "link": "https://drive.google.com/file/d/1Mu6diyKgxjNQWediyKxSCYadA6MrLHXA/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "VDC - Quần thể (B1).MP4",
+              "videos": [
+                {
+                  "title": "VDC - Quần thể (B1).MP4",
+                  "link": "https://drive.google.com/file/d/1HwFm1xGNy-osIj_FeuL5K4kqT98aYF86/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "VDC - Quần thể (B2).MP4",
+              "videos": [
+                {
+                  "title": "VDC - Quần thể (B2).MP4",
+                  "link": "https://drive.google.com/file/d/1xVlNXmLK4N-DVfocT23ZJxB2MMAnrgWZ/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "VDC - Quần thể (B3).MP4",
+              "videos": [
+                {
+                  "title": "VDC - Quần thể (B3).MP4",
+                  "link": "https://drive.google.com/file/d/17fP4hcGzM1423ZqIjbEB87uwmTkIH0Oi/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "VDC - Tương tác gen biểu hiện KH phụ thuộc vào môi trường.MP4",
+              "videos": [
+                {
+                  "title": "VDC - Tương tác gen biểu hiện KH phụ thuộc vào môi trường.MP4",
+                  "link": "https://drive.google.com/file/d/136xMNIV6xSIzXAqf2uX1rVdVfqqgLDE2/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "VDC - Tương tác gen.MP4",
+              "videos": [
+                {
+                  "title": "VDC - Tương tác gen.MP4",
+                  "link": "https://drive.google.com/file/d/14Ft9jpoMk1D0lR6ob0HIiKiixhvCLAgk/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "VDC - Đa Alen (B1).MP4",
+              "videos": [
+                {
+                  "title": "VDC - Đa Alen (B1).MP4",
+                  "link": "https://drive.google.com/file/d/1fGqt052yinQTJcvfep9V10NcBl0zI5bg/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "VDC - Đa Alen (B2).MP4",
+              "videos": [
+                {
+                  "title": "VDC - Đa Alen (B2).MP4",
+                  "link": "https://drive.google.com/file/d/19ooUECBln-1OXqE_W9FPWvKGBE_PQZud/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "VDC - Ảnh hưởng của giới tính đến sự biểu hiện của kiểu hình.MP4",
+              "videos": [
+                {
+                  "title": "VDC - Ảnh hưởng của giới tính đến sự biểu hiện của kiểu hình.MP4",
+                  "link": "https://drive.google.com/file/d/1LSegfG5ICfqEgKAAQMb1zeow5JN0nYXS/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "7. CHỮA BÀI TẬP RÈN LUYỆN TRONG SÁCH PHÁC ĐỒ SINH TẬP 1 + 2",
+          "items": [
+            {
+              "name": "BÀI TẬP TỰ LUYỆN DNA SỐ 1 (SÁCH TẬP 1).mp4",
+              "videos": [
+                {
+                  "title": "BÀI TẬP TỰ LUYỆN DNA SỐ 1 (SÁCH TẬP 1).mp4",
+                  "link": "https://drive.google.com/file/d/1c_rH6EOIEKnx_-YUggFw6U7iJSu8_rb0/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "BÀI TẬP TỰ LUYỆN DNA SỐ 2 (SÁCH PDS TẬP 1).mp4",
+              "videos": [
+                {
+                  "title": "BÀI TẬP TỰ LUYỆN DNA SỐ 2 (SÁCH PDS TẬP 1).mp4",
+                  "link": "https://drive.google.com/file/d/1zxc5lnxgn0Yo-DdbssEJaaTOrAwa2O9v/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "BÀI TẬP TỰ LUYỆN DNA SỐ 3 (SÁCH PDS TẬP 1).mp4",
+              "videos": [
+                {
+                  "title": "BÀI TẬP TỰ LUYỆN DNA SỐ 3 (SÁCH PDS TẬP 1).mp4",
+                  "link": "https://drive.google.com/file/d/12Tc7Dbvdfrw1ZBjUgAx7W3Ne0WO21R7S/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "BÀI TẬP TỰ LUYỆN DNA SỐ 4 (SÁCH PDS TẬP 1).mp4",
+              "videos": [
+                {
+                  "title": "BÀI TẬP TỰ LUYỆN DNA SỐ 4 (SÁCH PDS TẬP 1).mp4",
+                  "link": "https://drive.google.com/file/d/1Baf7DXr4oIaQ32uA-Ym9-F7ILJzGwdF6/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "BÀI TẬP TỰ LUYỆN DNA SỐ 5 (SÁCH PDS TẬP 1).mp4",
+              "videos": [
+                {
+                  "title": "BÀI TẬP TỰ LUYỆN DNA SỐ 5 (SÁCH PDS TẬP 1).mp4",
+                  "link": "https://drive.google.com/file/d/155hlAuTG_-QXHxuIhWxHfFNvQ8HCMuYd/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "BÀI TẬP TỰ LUYỆN NST SỐ 1 (SÁCH PDS TẬP 1).mp4",
+              "videos": [
+                {
+                  "title": "BÀI TẬP TỰ LUYỆN NST SỐ 1 (SÁCH PDS TẬP 1).mp4",
+                  "link": "https://drive.google.com/file/d/1d0hBzsPG79wJoNwvwZIVhrCYbYVdhMHG/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "BÀI TẬP TỰ LUYỆN NST SỐ 2 (SÁCH PDS TẬP 1).mp4",
+              "videos": [
+                {
+                  "title": "BÀI TẬP TỰ LUYỆN NST SỐ 2 (SÁCH PDS TẬP 1).mp4",
+                  "link": "https://drive.google.com/file/d/10eKEzr57o7E5KIh0Q_Kfe6VNUFEygxC7/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "BÀI TẬP TỰ LUYỆN NST SỐ 3 (SÁCH PDS TẬP 1).mp4",
+              "videos": [
+                {
+                  "title": "BÀI TẬP TỰ LUYỆN NST SỐ 3 (SÁCH PDS TẬP 1).mp4",
+                  "link": "https://drive.google.com/file/d/17BnGnkEH1UYtLONFIocr3fvwzmAHBoyK/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "BÀI TẬP TỰ LUYỆN NST SỐ 4 (SÁCH PDS TẬP 1).mp4",
+              "videos": [
+                {
+                  "title": "BÀI TẬP TỰ LUYỆN NST SỐ 4 (SÁCH PDS TẬP 1).mp4",
+                  "link": "https://drive.google.com/file/d/1JxmveKhJ7dd776RkFxUiaXLBAyuD1idQ/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "BÀI TẬP TỰ LUYỆN NST SỐ 5 (SÁCH PDS TẬP 1).mp4",
+              "videos": [
+                {
+                  "title": "BÀI TẬP TỰ LUYỆN NST SỐ 5 (SÁCH PDS TẬP 1).mp4",
+                  "link": "https://drive.google.com/file/d/11EjUC0aoV0gOkxQnQ2hWV2GUepJqpCZD/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "BÀI TẬP TỰ LUYỆN NST SỐ 6 (SÁCH PDS TẬP 1).mp4",
+              "videos": [
+                {
+                  "title": "BÀI TẬP TỰ LUYỆN NST SỐ 6 (SÁCH PDS TẬP 1).mp4",
+                  "link": "https://drive.google.com/file/d/18xsEjsr9gB0VhqqVNySY-3lDc4G8mLpA/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
+        },
+        {
           "title": "[LIVE NGOÀI] SINH LẠI TỪ ĐẦU",
           "items": [],
           "children": [

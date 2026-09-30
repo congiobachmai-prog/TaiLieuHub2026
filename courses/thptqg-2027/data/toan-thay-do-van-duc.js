@@ -586,6 +586,130 @@ const COURSE_DATA = {
           ]
         },
         {
+          "title": "4. CHƯƠNG 4 - NGUYÊN HÀM TÍCH PHÂN (MÃ T2-D)_",
+          "items": [],
+          "children": [
+            {
+              "title": "T2-D1 - Nền tảng về nguyên hàm tích phân",
+              "items": [
+                {
+                  "name": "handover - T2D1 - Nền tảng nguyên hàm tích phân.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "handover - T2D1 - Nền tảng nguyên hàm tích phân.pdf",
+                      "link": "https://drive.google.com/file/d/1CkgxjObCv2NJoOmDfehi1nCr_4Vfn8KG/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "Phần 1 - Câu 1-19 - T2D1.mp4",
+                  "videos": [
+                    {
+                      "title": "Phần 1 - Câu 1-19 - T2D1.mp4",
+                      "link": "https://drive.google.com/file/d/1Zmx_nDa5D7gDGmbAEFkNjBTuAtvIQ9sQ/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "Phần 2 - Câu 20-36 - T2D1.mp4",
+                  "videos": [
+                    {
+                      "title": "Phần 2 - Câu 20-36 - T2D1.mp4",
+                      "link": "https://drive.google.com/file/d/1EmbAcAtMgoUOkTCWXrzTxYrFI3vP_eNq/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "T2-D1 – Nền tảng về nguyên hàm tích phân.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "T2-D1 – Nền tảng về nguyên hàm tích phân.pdf",
+                      "link": "https://drive.google.com/file/d/1jvhdVtcFUxR0bcMxKiUb4gSdiSd9nbHQ/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "T2-D1 - Đề ôn tập số 01",
+              "items": [
+                {
+                  "name": "handover - Đề ôn tập T2D1 số 01.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "handover - Đề ôn tập T2D1 số 01.pdf",
+                      "link": "https://drive.google.com/file/d/1FxVbdCi0kIifogGsf5udncMFL8xAwDrQ/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "T2D1 - Đề ôn tập số 01.mp4",
+                  "videos": [
+                    {
+                      "title": "T2D1 - Đề ôn tập số 01.mp4",
+                      "link": "https://drive.google.com/file/d/1LDi7nDrEXdMt3TRlZ-KS6XjVyvZKjhQr/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "Đề ôn tập T2-D1 - số 01.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "Đề ôn tập T2-D1 - số 01.pdf",
+                      "link": "https://drive.google.com/file/d/1eNnJBiHZwTa1fcVDebgK-Rj6eYKRpU61/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "T2-D1 - Đề ôn tập số 02",
+              "items": [
+                {
+                  "name": "handover - Đề ôn tập T2D1 số 02.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "handover - Đề ôn tập T2D1 số 02.pdf",
+                      "link": "https://drive.google.com/file/d/1BOVKjdL2yKLwKlmpoSkDKM-d70M_awvu/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "T2D1 - Đề số 02.mp4",
+                  "videos": [
+                    {
+                      "title": "T2D1 - Đề số 02.mp4",
+                      "link": "https://drive.google.com/file/d/1OwC3trojuhi4XHRgu6sLglwfuvVuXWhF/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "Đề ôn tập T2-D1 - số 02.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "Đề ôn tập T2-D1 - số 02.pdf",
+                      "link": "https://drive.google.com/file/d/1X38DZBL7hTK_qbvN7_k_9BvqYZik5aVv/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
           "title": "T2 - MÃ X: BỔ TRỢ KIẾN THỨC",
           "items": [],
           "children": [
@@ -794,8 +918,194 @@ const COURSE_DATA = {
                 }
               ],
               "children": []
+            },
+            {
+              "title": "T2-X7 - Đề ôn giữa HK1 Toán 12 số 02",
+              "items": [
+                {
+                  "name": "Bài giảng - T2-X7.mp4",
+                  "videos": [
+                    {
+                      "title": "Bài giảng - T2-X7.mp4",
+                      "link": "https://drive.google.com/file/d/1UQPh6GGQ-LuUpotOewpv2RyHlx2sbFXW/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "Bản viết tay - T2-X7.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "Bản viết tay - T2-X7.pdf",
+                      "link": "https://drive.google.com/file/d/1xMFaOUH6jtsDPYixYL6j6mQ6VyZXRpt-/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "Đề thi - T2-X7.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "Đề thi - T2-X7.pdf",
+                      "link": "https://drive.google.com/file/d/1aZ6sHyGhmQr89wjbdmQE_rAEFz7P_ygP/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "T2-X8 - Các bài toán cắt ghép hình (Toán thực tế Hàm Số)",
+              "items": [
+                {
+                  "name": "handover - T2X8 - Các bài toán cắt và ghép hình.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "handover - T2X8 - Các bài toán cắt và ghép hình.pdf",
+                      "link": "https://drive.google.com/file/d/1F4JjaUVOeYmehwryksfQTqLg7d5i9N-P/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "T2X8 - Các bài toán cắt ghép hình - Bài giảng full.mp4",
+                  "videos": [
+                    {
+                      "title": "T2X8 - Các bài toán cắt ghép hình - Bài giảng full.mp4",
+                      "link": "https://drive.google.com/file/d/1jPcRazLrpzGiJe_b1ovWvLmrHwHb-WA6/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "T2X8 - Các bài toán cắt ghép hình.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "T2X8 - Các bài toán cắt ghép hình.pdf",
+                      "link": "https://drive.google.com/file/d/17Ed41PFWXf6k4VmwfXQAClxk0A_p8DUr/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "T2-X9 - Phương trình mặt cầu có yếu tố vận tốc, quãng đường",
+              "items": [
+                {
+                  "name": "handover - T2X9 - PTMC luyện tập.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "handover - T2X9 - PTMC luyện tập.pdf",
+                      "link": "https://drive.google.com/file/d/1pcTT1DDB8HnD4d0N4RhUxNENBSpHsmrS/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "T2-X9 - Phương trình mặt cầu có yếu tố vận tốc - Bản cách dòng.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "T2-X9 - Phương trình mặt cầu có yếu tố vận tốc - Bản cách dòng.pdf",
+                      "link": "https://drive.google.com/file/d/15bpnpbRQaRB4m9GXfHczv963L_5xij-p/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "T2-X9 - Phương trình mặt cầu có yếu tố vận tốc - Bản thường.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "T2-X9 - Phương trình mặt cầu có yếu tố vận tốc - Bản thường.pdf",
+                      "link": "https://drive.google.com/file/d/1TepsbeP5nHo20brDzfGlMcfXMr9OPQcf/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "T2X9 - Phương trình mặt cầu bài toán vận tốc quãng đường.mp4",
+                  "videos": [
+                    {
+                      "title": "T2X9 - Phương trình mặt cầu bài toán vận tốc quãng đường.mp4",
+                      "link": "https://drive.google.com/file/d/1cYbmfvU6GERISKvH7MC4CLeafOHOfnsT/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
             }
           ]
+        }
+      ]
+    },
+    {
+      "title": "1.2 LỘ TRÌNH T3 - CHUYÊN ĐỀ TOÁN THỰC TẾ_",
+      "items": [],
+      "children": [
+        {
+          "title": "HƯỚNG DẪN HỌC",
+          "items": [
+            {
+              "name": "Hướng dẫn học - Khóa T.mp4",
+              "videos": [
+                {
+                  "title": "Hướng dẫn học - Khóa T.mp4",
+                  "link": "https://drive.google.com/file/d/1WhcZoXQAZTmDkuMATBBiDHk-nF54K_Lq/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "T3$1 - Toán thực tế kinh tế, thuế và nguyên lý trò chơi",
+          "items": [
+            {
+              "name": "handover - T3$1 phần 1 - TTT Kinh Tế.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "handover - T3$1 phần 1 - TTT Kinh Tế.pdf",
+                  "link": "https://drive.google.com/file/d/1ryl0QDNQhm3CbctYrscy5YQ99ytK7M6b/view?usp=drivesdk"
+                }
+              ]
+            },
+            {
+              "name": "T3$1 - phần 1 - TTT kinh tế.mp4",
+              "videos": [
+                {
+                  "title": "T3$1 - phần 1 - TTT kinh tế.mp4",
+                  "link": "https://drive.google.com/file/d/13T37R5AIW34so8FB1j3r3e1SgNGSZ2dM/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "T3$1 - TTT Kinh Tế - 01 bản thường.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "T3$1 - TTT Kinh Tế - 01 bản thường.pdf",
+                  "link": "https://drive.google.com/file/d/1hfldfuHSeZp-uBMGElx501UGepcDbvPy/view?usp=drivesdk"
+                }
+              ]
+            },
+            {
+              "name": "T3$1 - TTT Kinh Tế - 02 cách dòng.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "T3$1 - TTT Kinh Tế - 02 cách dòng.pdf",
+                  "link": "https://drive.google.com/file/d/1_ApUL__ka9BPIVRjEmbHo_S2iTn0OLF2/view?usp=drivesdk"
+                }
+              ]
+            }
+          ],
+          "children": []
         }
       ]
     },
@@ -1527,6 +1837,552 @@ const COURSE_DATA = {
           ]
         },
         {
+          "title": "4. CHƯƠNG 4 - NGUYÊN HÀM TÍCH PHÂN_",
+          "items": [],
+          "children": [
+            {
+              "title": "1.1 Bổ trợ T1-D1 - Ôn tập về nguyên hàm tích phân",
+              "items": [
+                {
+                  "name": "[Bổ trợ T1-D1] – 1. Tài liệu – Bổ trợ T1-D1.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Bổ trợ T1-D1] – 1. Tài liệu – Bổ trợ T1-D1.pdf",
+                      "link": "https://drive.google.com/file/d/1R7NNU8sgD5l460woiuphNzD0IDfSU9pD/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[Bổ trợ T1-D1] – 2. Bản viết tay – Bổ trợ T1-D1.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Bổ trợ T1-D1] – 2. Bản viết tay – Bổ trợ T1-D1.pdf",
+                      "link": "https://drive.google.com/file/d/1VubcYg-bvptUrKaBJR3ez9bDrCLY1KhJ/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "Bài giảng - Bổ trợ T1-D1.mp4",
+                  "videos": [
+                    {
+                      "title": "Bài giảng - Bổ trợ T1-D1.mp4",
+                      "link": "https://drive.google.com/file/d/162VglC0gMhpeJMdUxhvztU1Jfi8cRI_c/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "1. T1-D1 - Mở đầu về nguyên hàm tích phân",
+              "items": [
+                {
+                  "name": "Bản viết tay - T1D1 - Mở đầu về nguyên hàm - P123.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "Bản viết tay - T1D1 - Mở đầu về nguyên hàm - P123.pdf",
+                      "link": "https://drive.google.com/file/d/1TWHjE_6ippzkh9B6yaI1To8rBPabwOXa/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "Phần 1 - Lý thuyết - T1-D1.mp4",
+                  "videos": [
+                    {
+                      "title": "Phần 1 - Lý thuyết - T1-D1.mp4",
+                      "link": "https://drive.google.com/file/d/1Rs41w9jiTWnm7GP_91NfBACGXQCfK5lu/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "Phần 2 - Tích phân - T1-D1.mp4",
+                  "videos": [
+                    {
+                      "title": "Phần 2 - Tích phân - T1-D1.mp4",
+                      "link": "https://drive.google.com/file/d/15XmcjFmdh_aRzKaBcdJpf1QE7hx4yWcG/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "Phần 3 - T1-D1.mp4",
+                  "videos": [
+                    {
+                      "title": "Phần 3 - T1-D1.mp4",
+                      "link": "https://drive.google.com/file/d/1qraxsAFWOhkghUPm2svqwTclVjKAar8q/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "T1-D1 - Mở đầu về nguyên hàm tích phân.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "T1-D1 - Mở đầu về nguyên hàm tích phân.pdf",
+                      "link": "https://drive.google.com/file/d/1mlesOukmKcH-5AG-PC2IAbZrSqCi5ENr/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "2.1 Bổ trợ - T1-D2",
+              "items": [
+                {
+                  "name": "handout - Bổ trợ T1-D2 đề 01.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "handout - Bổ trợ T1-D2 đề 01.pdf",
+                      "link": "https://drive.google.com/file/d/1HpiDp98WJtEhkAJkWQoApEWQdevxZFki/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "T1 - D2- Bổ Trợ Ứng Dụng Tích Phân.mp4",
+                  "videos": [
+                    {
+                      "title": "T1 - D2- Bổ Trợ Ứng Dụng Tích Phân.mp4",
+                      "link": "https://drive.google.com/file/d/1RcXfuO29g-UEdWyd7s3Yd0Ii--P-iaRC/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "Đề ôn tập T1-D2.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "Đề ôn tập T1-D2.pdf",
+                      "link": "https://drive.google.com/file/d/1lyv-ZtiwF3q2BBQGyPCY4JWrhTRq8d36/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "2.2 Bổ trợ T1-D2 (đề 2) - Ứng dụng hình học của tích phân",
+              "items": [
+                {
+                  "name": "Bổ trợ T1-D2 - Phần 2- Ứng dụng hình học của tích phân.mp4",
+                  "videos": [
+                    {
+                      "title": "Bổ trợ T1-D2 - Phần 2- Ứng dụng hình học của tích phân.mp4",
+                      "link": "https://drive.google.com/file/d/19lZQOL5YSVUV8N9oIcnl_sIDteM8ztNh/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "Bổ trợ T1-D2 đề 02 - Ứng dụng hình học của tích phân.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "Bổ trợ T1-D2 đề 02 - Ứng dụng hình học của tích phân.pdf",
+                      "link": "https://drive.google.com/file/d/1O3rT_6FdR8JL90LQoqTfhDyI6J6dJ472/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "2. T1-D2 - Ứng dụng hình học của tích phân",
+              "items": [
+                {
+                  "name": "handover - T1-D2 - Ứng dụng hình học của tích phân.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "handover - T1-D2 - Ứng dụng hình học của tích phân.pdf",
+                      "link": "https://drive.google.com/file/d/1UN47b_5BPtx7QGCPprRHdUw6zIJUS66W/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "Phần 1 - Diện tích - T1-D2.mp4",
+                  "videos": [
+                    {
+                      "title": "Phần 1 - Diện tích - T1-D2.mp4",
+                      "link": "https://drive.google.com/file/d/16sphUfIoM3FpKsAPmRPOEn92NzgcZs1V/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "Phần 2 - Lý thuyết thể tích - T1-D2.mp4",
+                  "videos": [
+                    {
+                      "title": "Phần 2 - Lý thuyết thể tích - T1-D2.mp4",
+                      "link": "https://drive.google.com/file/d/1gG9icdd3zOMIQpbT2lHHjHbEnv1wDWCD/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "Phần 3 - Bài tập - T1-D2.mp4",
+                  "videos": [
+                    {
+                      "title": "Phần 3 - Bài tập - T1-D2.mp4",
+                      "link": "https://drive.google.com/file/d/1NlHYftuKwMWOoTdQzfTQPqBvm-UAVCE-/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "T1-D2 - Ứng dụng hình học của tích phân.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "T1-D2 - Ứng dụng hình học của tích phân.pdf",
+                      "link": "https://drive.google.com/file/d/1xmXmc09-Q1cx_kzEwKnUSkevfAGV1buX/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "CHƯƠNG 5 - OXYZ_",
+          "items": [],
+          "children": [
+            {
+              "title": "T1-E1_ Phương trình mặt phẳng",
+              "items": [
+                {
+                  "name": "handover - T1-E1 - Phương trình mặt phẳng - phần 1.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "handover - T1-E1 - Phương trình mặt phẳng - phần 1.pdf",
+                      "link": "https://drive.google.com/file/d/1Kv0D9VFKzIj5FxmXaHGmhJyOtLkJeeWR/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "T1-E1 - Phương trình mặt phẳng - Phần 1 - Lý thuyết và câu 1-8-001.mp4",
+                  "videos": [
+                    {
+                      "title": "T1-E1 - Phương trình mặt phẳng - Phần 1 - Lý thuyết và câu 1-8-001.mp4",
+                      "link": "https://drive.google.com/file/d/1XVDiRe4lv30JZ8O4P2fGRoNTAyr92vHD/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "Tài liệu - T1-E1.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "Tài liệu - T1-E1.pdf",
+                      "link": "https://drive.google.com/file/d/1gK5a_W9mR9J3GupJr_WJ5s9Lt2Jbo9sz/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "T1-E2_ Phương trình đường thẳng",
+              "items": [
+                {
+                  "name": "handover - T1-E2 - Phương trình đường thẳng.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "handover - T1-E2 - Phương trình đường thẳng.pdf",
+                      "link": "https://drive.google.com/file/d/1B1C_J8RTkAy4s_hQWfaWoLUJAZfWHAZ7/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "Phần 1 - Lý thuyết và câu 1-10 - T1-E2.mp4",
+                  "videos": [
+                    {
+                      "title": "Phần 1 - Lý thuyết và câu 1-10 - T1-E2.mp4",
+                      "link": "https://drive.google.com/file/d/14nnJeqhLqc09-vPerTV2o8Zg8FsVt2JV/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "Phần 2 - Câu 11-20 - T1E2.mp4",
+                  "videos": [
+                    {
+                      "title": "Phần 2 - Câu 11-20 - T1E2.mp4",
+                      "link": "https://drive.google.com/file/d/1tT5199ARPAR04xev7VByL-iTTGz99d1z/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "Tài liệu - T1-E2.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "Tài liệu - T1-E2.pdf",
+                      "link": "https://drive.google.com/file/d/1yLeHG6Q-KXFXeh57wdZ80GAmGCUkpAd-/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "T1-E3 - Công thức tính góc trong không gian",
+              "items": [
+                {
+                  "name": "handover - T1E3 - Công thức tính góc trong không gian.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "handover - T1E3 - Công thức tính góc trong không gian.pdf",
+                      "link": "https://drive.google.com/file/d/1g8MEKUVXnEDrQj24x6oXfvgxDdbajOAv/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "T1-E3 - Công thức tính góc trong không gian.mp4",
+                  "videos": [
+                    {
+                      "title": "T1-E3 - Công thức tính góc trong không gian.mp4",
+                      "link": "https://drive.google.com/file/d/13DZKhBLQ3sRINZkxC2_AUd_caisVyaU4/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "T1-E3 - Công thức tính góc trong không gian.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "T1-E3 - Công thức tính góc trong không gian.pdf",
+                      "link": "https://drive.google.com/file/d/13_Zy5VfiYSIma8iNpNZ4lAFV0xxXmgng/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "T1-E4 - Phương trình mặt cầu",
+              "items": [
+                {
+                  "name": "handover - T1E4 - Phương trình mặt cầu.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "handover - T1E4 - Phương trình mặt cầu.pdf",
+                      "link": "https://drive.google.com/file/d/1CcqfCV0Hl90VruWVc09z06eA7_J2lFE2/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "T1-E4 - Phương trình mặt cầu.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "T1-E4 - Phương trình mặt cầu.pdf",
+                      "link": "https://drive.google.com/file/d/1WNgWHpwSzHxa03X7D4xNXsCz20d-zNv2/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "T1E4 - Phương trình mặt cầu.mp4",
+                  "videos": [
+                    {
+                      "title": "T1E4 - Phương trình mặt cầu.mp4",
+                      "link": "https://drive.google.com/file/d/1tpQFbMqwwDK4EZN_p9GNwp4w5YVjw7z5/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "Ôn tập T1-E1 - Phương trình mặt phẳng",
+              "items": [
+                {
+                  "name": "handover - Ôn tập T1-E1.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "handover - Ôn tập T1-E1.pdf",
+                      "link": "https://drive.google.com/file/d/10_rZX5sQWgkwckbmct5cq4yjIEeKMpXR/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "Ôn tập T1-E1 - Phương trình mặt phẳng.mp4",
+                  "videos": [
+                    {
+                      "title": "Ôn tập T1-E1 - Phương trình mặt phẳng.mp4",
+                      "link": "https://drive.google.com/file/d/1NzPheq6Cs5omourtG2XS9iEDkN3j80a9/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "Ôn tập T1-E1 - Phương trình mặt phẳng.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "Ôn tập T1-E1 - Phương trình mặt phẳng.pdf",
+                      "link": "https://drive.google.com/file/d/1iT2Fj5Ojc_52D_n3K1Lb-RanF1JR3moX/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "Ôn tập T1-E2 - Phương trình đường thẳng",
+              "items": [
+                {
+                  "name": "handover - ôn tập T1E2 - Phương trình đường thẳng.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "handover - ôn tập T1E2 - Phương trình đường thẳng.pdf",
+                      "link": "https://drive.google.com/file/d/1DqyzwJSTX7O9ohz2o0Brd1FMlM13fBqo/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "Ôn Tập T1E2 - Phương trình đường thẳng.mp4",
+                  "videos": [
+                    {
+                      "title": "Ôn Tập T1E2 - Phương trình đường thẳng.mp4",
+                      "link": "https://drive.google.com/file/d/1G6HIhqkZESYkXWJdVER-qGOl3-U-ZLqz/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "Ôn tập T1E2 - Phương trình đường thẳng.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "Ôn tập T1E2 - Phương trình đường thẳng.pdf",
+                      "link": "https://drive.google.com/file/d/1MTgqixYVxNXp0LGyqU-yfDRd_Mm8l7aE/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "CHƯƠNG 6 - XÁC SUẤT CÓ ĐIỀU KIỆN (MÃ F)_",
+          "items": [],
+          "children": [
+            {
+              "title": "T1-F1 - Xác suất có điều kiện",
+              "items": [
+                {
+                  "name": "handover - T1F1 - Xác suất có điều kiện.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "handover - T1F1 - Xác suất có điều kiện.pdf",
+                      "link": "https://drive.google.com/file/d/1yWVMIQFKYOBmzrju6SuyNrYwR9uGlxej/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "T1-F1 - Xác suất có điều kiện.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "T1-F1 - Xác suất có điều kiện.pdf",
+                      "link": "https://drive.google.com/file/d/1vCDmZmGX_Ail2Wzfru0-Ws1hUnzDZBI6/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "T1F1 - Phần 1 - Xác suất có điều kiện.mp4",
+                  "videos": [
+                    {
+                      "title": "T1F1 - Phần 1 - Xác suất có điều kiện.mp4",
+                      "link": "https://drive.google.com/file/d/12iCwYTfc4vaE7Hh4a7Mz5aeiQHAyW1OY/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "T1F1 - Phần 2 - Xác suất có điều kiện.mp4",
+                  "videos": [
+                    {
+                      "title": "T1F1 - Phần 2 - Xác suất có điều kiện.mp4",
+                      "link": "https://drive.google.com/file/d/1d8ZWJg8FN2nYVckiVPo6ybs6TxJYUxQx/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "T1-F2 - Công thức xác suất toàn phần, công thức Bayes",
+              "items": [
+                {
+                  "name": "handover - T1F2 - Công thức Bayes.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "handover - T1F2 - Công thức Bayes.pdf",
+                      "link": "https://drive.google.com/file/d/1t7hFkctRE1NYEZq3n3NUv3Lsf7aa847J/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "T1-F2 - Công thức xác suất toàn phần và công thức Bayes.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "T1-F2 - Công thức xác suất toàn phần và công thức Bayes.pdf",
+                      "link": "https://drive.google.com/file/d/1jipk7P_oZ6ZZHcHmrR3WTtDRkY71bmFU/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "T1F2_P01_Lý thuyết_Công thức Bayes.mp4",
+                  "videos": [
+                    {
+                      "title": "T1F2_P01_Lý thuyết_Công thức Bayes.mp4",
+                      "link": "https://drive.google.com/file/d/1ugeGOsDFeveHdAExPFWg1xZGLE6buZYM/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "T1F2_P02_Bài tập_Công thức Bayes.mp4",
+                  "videos": [
+                    {
+                      "title": "T1F2_P02_Bài tập_Công thức Bayes.mp4",
+                      "link": "https://drive.google.com/file/d/1KbYylHNnUpbBwSXTeSPex2NqBCAA6MKj/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
           "title": "CHƯƠNG X-TEST",
           "items": [],
           "children": [
@@ -1781,6 +2637,150 @@ const COURSE_DATA = {
                 }
               ],
               "children": []
+            },
+            {
+              "title": "T1-X8 - Đề thi thử KSCL Toán 12 lần 1",
+              "items": [
+                {
+                  "name": "Bài giảng - T1-X8.mp4",
+                  "videos": [
+                    {
+                      "title": "Bài giảng - T1-X8.mp4",
+                      "link": "https://drive.google.com/file/d/1-oZ38heCmpn7FEoJ00RPjE1MWkKxgOr6/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "Bản viết tay - T1-X8.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "Bản viết tay - T1-X8.pdf",
+                      "link": "https://drive.google.com/file/d/1bVXDJ2Gw4NKL5_ewPuLFjathGb42LZQ1/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "Tài liệu - T1-X8.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "Tài liệu - T1-X8.pdf",
+                      "link": "https://drive.google.com/file/d/17eoOdOIM6827vS_KW9set8T5CpTlfNXt/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "T1-X9 - Đề thi thử KSCL Toán 12 lần 2",
+              "items": [
+                {
+                  "name": "Bài giảng - T1-X9.mp4",
+                  "videos": [
+                    {
+                      "title": "Bài giảng - T1-X9.mp4",
+                      "link": "https://drive.google.com/file/d/1DDKek0uxgI-pd_Jgm8PXv8d8_ccOiNTp/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "Bản viết tay - T1-X9.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "Bản viết tay - T1-X9.pdf",
+                      "link": "https://drive.google.com/file/d/1rUyCVyu7sGLp162EIu5Zqt39fYqwize_/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "Tài liệu - T1-X9.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "Tài liệu - T1-X9.pdf",
+                      "link": "https://drive.google.com/file/d/1bpwXjyVzsRKW8OOa8jnkLLTI8VuZ2hPz/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "T1-X10 - Đề thi thử KSCL Toán 12 lần 3",
+              "items": [
+                {
+                  "name": "handover - T1-X10 - Đề thi khảo sát chất lượng Toán 12 Lần 3.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "handover - T1-X10 - Đề thi khảo sát chất lượng Toán 12 Lần 3.pdf",
+                      "link": "https://drive.google.com/file/d/1-ULnHq-lu24vATY-8WHm8A4znSGRpb8M/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "T1-X10 - Đề thi khảo sát chất lượng Toán 12 Lần 3.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "T1-X10 - Đề thi khảo sát chất lượng Toán 12 Lần 3.pdf",
+                      "link": "https://drive.google.com/file/d/1LAR-bH9UWocIywpp0yPd2la6Me-UJrlh/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "T1-X10 - Đề thi KSCL Toán 12 lần 3.mp4",
+                  "videos": [
+                    {
+                      "title": "T1-X10 - Đề thi KSCL Toán 12 lần 3.mp4",
+                      "link": "https://drive.google.com/file/d/1_bs3TaZVHRUO2Dqqeh6q-0Y6vGZUXegS/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "T1-X11 - Đề thi thử KSCL Toán 12 lần 4",
+              "items": [
+                {
+                  "name": "handover - T1X11 - Thi thử lần 4.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "handover - T1X11 - Thi thử lần 4.pdf",
+                      "link": "https://drive.google.com/file/d/1_y1A7g4h0iSwemNYe29X-Qq5Esqva5nu/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "T1-X11 - Thi KSCL Toán 12 lần 4.mp4",
+                  "videos": [
+                    {
+                      "title": "T1-X11 - Thi KSCL Toán 12 lần 4.mp4",
+                      "link": "https://drive.google.com/file/d/12crl4_gaOJ5hxGL1tcSi6_o17i09TEzv/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "T1X11 - Đề thi thử khảo sát chất lượng lớp 12 - Lần 4.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "T1X11 - Đề thi thử khảo sát chất lượng lớp 12 - Lần 4.pdf",
+                      "link": "https://drive.google.com/file/d/1yf2uaPb9J4iHetQqc-ZX7gUWKfcKuzL-/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
             }
           ]
         }
@@ -1790,6 +2790,512 @@ const COURSE_DATA = {
       "title": "2. KHÓA E CHUYÊN ĐỀ CHUYÊN SÂU",
       "items": [],
       "children": [
+        {
+          "title": "1. CHƯƠNG C1 - HÀM SỐ",
+          "items": [],
+          "children": [
+            {
+              "title": "0. KHAI GIẢNG KHÓA E _ BUỔI 0",
+              "items": [
+                {
+                  "name": "KHAI GIẢNG KHÓA E - BUỔI 0.mp4",
+                  "videos": [
+                    {
+                      "title": "KHAI GIẢNG KHÓA E - BUỔI 0.mp4",
+                      "link": "https://drive.google.com/file/d/1rvwzxldKQOuv_fyMynht1DHJXFGeLwfc/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "EC1 - Cực trị hàm bậc ba có tham số và mối quan hệ với đạo hàm cấp hai",
+              "items": [
+                {
+                  "name": "EC1 - Cực trị hàm bậc ba có tham số và mối quan hệ với đạo hàm cấp hai.mp4",
+                  "videos": [
+                    {
+                      "title": "EC1 - Cực trị hàm bậc ba có tham số và mối quan hệ với đạo hàm cấp hai.mp4",
+                      "link": "https://drive.google.com/file/d/1X9N5RyyL-GMDtjBZGg9nrbgLjtvMjK2G/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "Tài liệu - EC1.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "Tài liệu - EC1.pdf",
+                      "link": "https://drive.google.com/file/d/1EtSkkgARDacLHRbry0FpZ67plPCcSLRm/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "EC2 - Tính đơn điệu của hàm số có tham số",
+              "items": [
+                {
+                  "name": "Bản viết tay - EC2.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "Bản viết tay - EC2.pdf",
+                      "link": "https://drive.google.com/file/d/18tJGfQ7-LnmsV4MJG3CMplmB9VgBf47t/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "EC2 - Bản cách dòng.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "EC2 - Bản cách dòng.pdf",
+                      "link": "https://drive.google.com/file/d/1DLfuCWDhMWiCx1gYTxxRwQphX8BXZ4uz/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "EC2 - Phần 1 - Lý thuyết + ví dụ.mp4",
+                  "videos": [
+                    {
+                      "title": "EC2 - Phần 1 - Lý thuyết + ví dụ.mp4",
+                      "link": "https://drive.google.com/file/d/1wthC5-LKylvYjLZwUyLEMxlc6dfE6_Nq/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "EC2 - Phần 2 - Câu 27-36.mp4",
+                  "videos": [
+                    {
+                      "title": "EC2 - Phần 2 - Câu 27-36.mp4",
+                      "link": "https://drive.google.com/file/d/1ql3WsziKnppAREEVKNFUDnATC9eeQNPl/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "EC2 - Phần 2.mp4",
+                  "videos": [
+                    {
+                      "title": "EC2 - Phần 2.mp4",
+                      "link": "https://drive.google.com/file/d/1IqPsaVB76PDHEQUa3PSMqnal3ZsnsG7k/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "Kĩ năng EC2 - Tính nhanh đạo hàm hàm phân thức.mp4",
+                  "videos": [
+                    {
+                      "title": "Kĩ năng EC2 - Tính nhanh đạo hàm hàm phân thức.mp4",
+                      "link": "https://drive.google.com/file/d/1LCchsZ3mTXMZH2gX6ZqgHogBZ0cNKoE1/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "Tài liệu - EC2 - Bản không cách dòng.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "Tài liệu - EC2 - Bản không cách dòng.pdf",
+                      "link": "https://drive.google.com/file/d/1Taj-MxM4uyKHrqnCezvy4Z6u4zpbpJJu/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "EC3 - Min Max hàm số trong kỳ thi Đánh Giá Năng Lực",
+              "items": [
+                {
+                  "name": "Bản viết tay - EC3.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "Bản viết tay - EC3.pdf",
+                      "link": "https://drive.google.com/file/d/1tkjYfHUy52JGfyIhfcL_85N-M_ctU1YL/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "EC3 - Min Max hàm số trong kì thi ĐGNL - File cách dòng.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "EC3 - Min Max hàm số trong kì thi ĐGNL - File cách dòng.pdf",
+                      "link": "https://drive.google.com/file/d/1Qs4tzEW2q9yz-4DQvRvfXOGBk5YLlhZY/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "EC3 - Min Max hàm số trong kì thi ĐGNL - File thường.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "EC3 - Min Max hàm số trong kì thi ĐGNL - File thường.pdf",
+                      "link": "https://drive.google.com/file/d/1mZ2c1LmgeTGNKWT4GYyQIwImx9Qv48-t/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "EC3 - Phần 1 - Câu 1-20.mp4",
+                  "videos": [
+                    {
+                      "title": "EC3 - Phần 1 - Câu 1-20.mp4",
+                      "link": "https://drive.google.com/file/d/126z5OpAMwKkipLnWsUWr-yToKtyS-eHA/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "EC3 - Phần 2 - Câu 21-36.mp4",
+                  "videos": [
+                    {
+                      "title": "EC3 - Phần 2 - Câu 21-36.mp4",
+                      "link": "https://drive.google.com/file/d/1cMU4CwS_2IzyamFFCeJt3auh22WbnaZF/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "EC4 - Tương giao đồ thị",
+              "items": [
+                {
+                  "name": "Bản viết tay - EC4.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "Bản viết tay - EC4.pdf",
+                      "link": "https://drive.google.com/file/d/1f6iCx2fISm1dWYM79wS3P5yT7pPmR-rY/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "EC4 - Phần 1 - Câu 1-27.mp4",
+                  "videos": [
+                    {
+                      "title": "EC4 - Phần 1 - Câu 1-27.mp4",
+                      "link": "https://drive.google.com/file/d/1JSa4weGTgtVEWqfwUZ6cwd7zV-Kp2EpN/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "EC4 - Phần 2 - Câu 28-40.mp4",
+                  "videos": [
+                    {
+                      "title": "EC4 - Phần 2 - Câu 28-40.mp4",
+                      "link": "https://drive.google.com/file/d/1TUuKsYVvqQoWWfPuOygy-ByRrVhyHBvz/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "EC4 - Tương giao đồ thị - File cách dòng.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "EC4 - Tương giao đồ thị - File cách dòng.pdf",
+                      "link": "https://drive.google.com/file/d/1-5Poa4okULbpFPZSK21vyZhD_pJlO7f6/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "EC4 - Tương giao đồ thị - File thường.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "EC4 - Tương giao đồ thị - File thường.pdf",
+                      "link": "https://drive.google.com/file/d/10cPIfeM-K44R5laaseIFOOSTXxt2vvsz/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "EC5 - HÀM HỢP VÀ PHƯƠNG PHÁP GHÉP TRỤC",
+              "items": [
+                {
+                  "name": "Bản viết tay - EC5 - Phương pháp ghép trục - Phần 1.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "Bản viết tay - EC5 - Phương pháp ghép trục - Phần 1.pdf",
+                      "link": "https://drive.google.com/file/d/1EwNd5wx_mf-KuoIzPbX5lNIN0thJVWmU/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "Phần 1 - Lý thuyết + ví dụ - EC5.mp4",
+                  "videos": [
+                    {
+                      "title": "Phần 1 - Lý thuyết + ví dụ - EC5.mp4",
+                      "link": "https://drive.google.com/file/d/19D7Y62t0Kh41858TtpfO0REE_-la182H/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "Tài liệu - EC5 - File cách dòng.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "Tài liệu - EC5 - File cách dòng.pdf",
+                      "link": "https://drive.google.com/file/d/1a8q7fzy5Qo2hMPm0_w0I-GJT-mO_k-MM/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "Tài liệu - EC5 - File thường.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "Tài liệu - EC5 - File thường.pdf",
+                      "link": "https://drive.google.com/file/d/13SBHqM4FRzzuBkFmvVrPioN0I6JSwk7t/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "EC6 - Cực trị hàm hợp có tham số",
+              "items": [
+                {
+                  "name": "Bản viết tay - EC6.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "Bản viết tay - EC6.pdf",
+                      "link": "https://drive.google.com/file/d/15-1-KDm4-rn0lQrboT1p2O24MQesylJ7/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "EC6 - Cực trị hàm hợp có tham số - phần 2.mp4",
+                  "videos": [
+                    {
+                      "title": "EC6 - Cực trị hàm hợp có tham số - phần 2.mp4",
+                      "link": "https://drive.google.com/file/d/1vkIOAbATkLDMVyS7PmprszkBTpRzpKeD/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "Phần 1 - Lý thuyết + ví dụ - EC6.mp4",
+                  "videos": [
+                    {
+                      "title": "Phần 1 - Lý thuyết + ví dụ - EC6.mp4",
+                      "link": "https://drive.google.com/file/d/1F15KBgVMxfKJSIbItvrN5JLyk8MY5iQG/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "Tài liệu EC6 - Bản cách dòng.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "Tài liệu EC6 - Bản cách dòng.pdf",
+                      "link": "https://drive.google.com/file/d/1Q1-XjIn3_OqaLgoFLMUBp1Yld6LqtL4P/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "Tài liệu EC6 - Bản thường.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "Tài liệu EC6 - Bản thường.pdf",
+                      "link": "https://drive.google.com/file/d/1jdag4GU_XONWBQSUFSSUT4hChFjpkN_H/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "EC7 - Đơn điệu hàm hợp có tham số",
+              "items": [
+                {
+                  "name": "handover - EC7 - Đơn điệu hàm hợp có tham số.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "handover - EC7 - Đơn điệu hàm hợp có tham số.pdf",
+                      "link": "https://drive.google.com/file/d/1L9rrTCKUODNg-zp5faU0KV09J95ALWI6/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "Phần 1 - Lý thuyết + câu 1-3 - EC7.mp4",
+                  "videos": [
+                    {
+                      "title": "Phần 1 - Lý thuyết + câu 1-3 - EC7.mp4",
+                      "link": "https://drive.google.com/file/d/1eE3MVcp9ry75LhKQuiLoNkL7CiNSV2ZB/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "Phần 2 - Câu 4-12 - EC7.mp4",
+                  "videos": [
+                    {
+                      "title": "Phần 2 - Câu 4-12 - EC7.mp4",
+                      "link": "https://drive.google.com/file/d/1YW-nTAjzucMlhLeGnk5tF1twapd7p78G/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "Tài liệu - EC7 - Bản cách dòng.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "Tài liệu - EC7 - Bản cách dòng.pdf",
+                      "link": "https://drive.google.com/file/d/13sXl4JJZtvxSHwd9lRytjWcu8qMzuxzX/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "Tài liệu - EC7 - Bản thường.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "Tài liệu - EC7 - Bản thường.pdf",
+                      "link": "https://drive.google.com/file/d/1lzYBCfJ_Wr13Y_Psmrk_ZbfosHZlhDtb/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "EC8 - Cực trị hàm trị tuyệt đối",
+              "items": [
+                {
+                  "name": "EC8 - Chữa Bài Tập Cực Trị Hàm Trị Tuyệt Đối.mp4",
+                  "videos": [
+                    {
+                      "title": "EC8 - Chữa Bài Tập Cực Trị Hàm Trị Tuyệt Đối.mp4",
+                      "link": "https://drive.google.com/file/d/1CYuQ-ScPqGsqtKhIJNnvK290wyeuwmbc/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "handover - EC8 - Cực trị hàm trị tuyệt đối.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "handover - EC8 - Cực trị hàm trị tuyệt đối.pdf",
+                      "link": "https://drive.google.com/file/d/1qRPqMYHlr4I21U7pteciGECmHCcOr60S/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "Phần 1 - Lý thuyết và ví dụ - EC8.mp4",
+                  "videos": [
+                    {
+                      "title": "Phần 1 - Lý thuyết và ví dụ - EC8.mp4",
+                      "link": "https://drive.google.com/file/d/1UC4U9PwDeneW4ITh0Wo-kT2L-_BpNAtM/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "Tài liệu - EC8 - Bản cách dòng.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "Tài liệu - EC8 - Bản cách dòng.pdf",
+                      "link": "https://drive.google.com/file/d/12EAOOlW9HCpsyr7VZ8pUsrqeY_mU3Kd5/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "Tài liệu - EC8 - Bản thường.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "Tài liệu - EC8 - Bản thường.pdf",
+                      "link": "https://drive.google.com/file/d/1So3giEr_obCA4-VMtou-dkUvrE6hfgGt/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "EC9 - Đơn điệu hàm trị tuyệt đối",
+              "items": [
+                {
+                  "name": "EC9 - phần 1 lý thuyết.mp4",
+                  "videos": [
+                    {
+                      "title": "EC9 - phần 1 lý thuyết.mp4",
+                      "link": "https://drive.google.com/file/d/1-vClBq-SWMpsSISEdiS0E5envAmAL40I/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "EC9 - phần 2 - bài tập.mp4",
+                  "videos": [
+                    {
+                      "title": "EC9 - phần 2 - bài tập.mp4",
+                      "link": "https://drive.google.com/file/d/1Rq64VBVwmJBoSk8vteKFhjfQJhKMOH63/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "handover - EC9 - Đơn điệu hàm trị tuyệt đối.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "handover - EC9 - Đơn điệu hàm trị tuyệt đối.pdf",
+                      "link": "https://drive.google.com/file/d/1vPgIAsDOjzLy_G-1nfJm6Jg2UCfAwnnu/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "Tài liệu - EC9 - Bản cách dòng.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "Tài liệu - EC9 - Bản cách dòng.pdf",
+                      "link": "https://drive.google.com/file/d/1niJLs5d4sc8SUODOHTzui2WfUWCcbfJj/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "Tài liệu - EC9 - Bản thường.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "Tài liệu - EC9 - Bản thường.pdf",
+                      "link": "https://drive.google.com/file/d/1OAvVo0YeJE52kpSs4XZ34v5KNJDFxWGl/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
         {
           "title": "8. CHƯƠNG B8- GÓC VÀ KHOẢNG CÁCH",
           "items": [],
@@ -2305,288 +3811,414 @@ const COURSE_DATA = {
                 }
               ],
               "children": []
+            },
+            {
+              "title": "EX4 - Đề thi HSG TP Hà Nội năm 2026-2027",
+              "items": [
+                {
+                  "name": "EX4 - Đề thi HSG Sở Hà Nội năm 2026-2027 - Bảng A.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "EX4 - Đề thi HSG Sở Hà Nội năm 2026-2027 - Bảng A.pdf",
+                      "link": "https://drive.google.com/file/d/1j9Utw12QITafNKF259MRf3WRpOTVm9n5/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "EX4 - Đề thi HSG TP Hà Nội 2026-2027.mp4",
+                  "videos": [
+                    {
+                      "title": "EX4 - Đề thi HSG TP Hà Nội 2026-2027.mp4",
+                      "link": "https://drive.google.com/file/d/1d3PC_18F1EXKDf-9os_BWv26BaVzja05/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "handover - EX4 - Đề HSG TP Hà Nội bảng A 2026-2027.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "handover - EX4 - Đề HSG TP Hà Nội bảng A 2026-2027.pdf",
+                      "link": "https://drive.google.com/file/d/17y-wIOCHQM2WQPnXE_1z_VILX87AUtK-/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "4. Khóa Sách - Hành trình chinh phục Toán 12",
+      "items": [],
+      "children": [
+        {
+          "title": "BOOK1 - Hành trình chinh phục Toán 12 tập 1_",
+          "items": [],
+          "children": [
+            {
+              "title": "Chương 1 - Hàm số",
+              "items": [],
+              "children": [
+                {
+                  "title": "BOOK1-A1 - Nền tảng về tính đơn điệu và cực trị của hàm số",
+                  "items": [
+                    {
+                      "name": "Bài 1 - Nền tảng về tính đơn điệu và cực trị của hàm số.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "Bài 1 - Nền tảng về tính đơn điệu và cực trị của hàm số.pdf",
+                          "link": "https://drive.google.com/file/d/1hcJ4h7LVYpHbh-QmqQ1ZlptKmVU5FHXo/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Bài giảng BOOK1-A1 - phần 1 lý thuyết.mp4",
+                      "videos": [
+                        {
+                          "title": "Bài giảng BOOK1-A1 - phần 1 lý thuyết.mp4",
+                          "link": "https://drive.google.com/file/d/1ZksljqWMfq76GL4VzYumNDRTpaAAfuo6/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "Bài giảng BOOK1-A1 - phần 2 bài tập.mp4",
+                      "videos": [
+                        {
+                          "title": "Bài giảng BOOK1-A1 - phần 2 bài tập.mp4",
+                          "link": "https://drive.google.com/file/d/1dRHWcnptIZmTKlKPB4XHwJ2VSAstcSeV/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "handover - BOOK1-A1 - Nền tảng về tính đơn điệu và cực trị của hàm số.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "handover - BOOK1-A1 - Nền tảng về tính đơn điệu và cực trị của hàm số.pdf",
+                          "link": "https://drive.google.com/file/d/1_2wrjbs9_rHae2jd9Rogt1uadEGDKHHS/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "BOOK1-A2 - Bài tập bổ trợ nền tảng đơn điệu và cực trị hàm số",
+                  "items": [
+                    {
+                      "name": "BOOK1-A2 Phần 1 - Câu 1-42.mp4",
+                      "videos": [
+                        {
+                          "title": "BOOK1-A2 Phần 1 - Câu 1-42.mp4",
+                          "link": "https://drive.google.com/file/d/1MMzL7LruPzUYIv6GXpezfEuFV4jpiXxO/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "BOOK1-A2 Phần 2 - Câu 43-59.mp4",
+                      "videos": [
+                        {
+                          "title": "BOOK1-A2 Phần 2 - Câu 43-59.mp4",
+                          "link": "https://drive.google.com/file/d/1ioR2NbH5Dk6ZJ0AY3FFwjdsziHsUmlZC/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "BOOK1-A2. Bài tập bổ trợ nền tảng đơn điệu cực trị.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "BOOK1-A2. Bài tập bổ trợ nền tảng đơn điệu cực trị.pdf",
+                          "link": "https://drive.google.com/file/d/1S8rOLdhLQsxkBgMAz5IleTmnRguXspKL/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "handover - BOOK1-A2 - Bài tập bổ trợ nền tảng về tính đơn điệu và cực trị của hàm số.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "handover - BOOK1-A2 - Bài tập bổ trợ nền tảng về tính đơn điệu và cực trị của hàm số.pdf",
+                          "link": "https://drive.google.com/file/d/1z4byu1DpZU4_YZ54AOHqHhBaEUvLD8bB/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "Hướng dẫn học",
+              "items": [
+                {
+                  "name": "Hướng dẫn học khóa Sách.mp4",
+                  "videos": [
+                    {
+                      "title": "Hướng dẫn học khóa Sách.mp4",
+                      "link": "https://drive.google.com/file/d/1or6jkXPfyS2QNu7jYefJVRl4m2Io7zFV/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
             }
           ]
         },
         {
-          "title": "CHƯƠNG C1 - HÀM SỐ",
+          "title": "BOOK 3 - Phân dạng chuyên đề Toán 10, 11, 12_",
           "items": [],
           "children": [
             {
-              "title": "0. KHAI GIẢNG KHÓA E _ BUỔI 0",
-              "items": [
+              "title": "Chương 1 - Một số kiến thức Toán 10_",
+              "items": [],
+              "children": [
                 {
-                  "name": "KHAI GIẢNG KHÓA E - BUỔI 0.mp4",
-                  "videos": [
+                  "title": "BOOK3-A1 - Tập hợp",
+                  "items": [
                     {
-                      "title": "KHAI GIẢNG KHÓA E - BUỔI 0.mp4",
-                      "link": "https://drive.google.com/file/d/1rvwzxldKQOuv_fyMynht1DHJXFGeLwfc/view?usp=drivesdk"
+                      "name": "A1 - Tập hợp - bài tập về nhà.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "A1 - Tập hợp - bài tập về nhà.pdf",
+                          "link": "https://drive.google.com/file/d/18gWmqP3ngSBUXZ65DPyRzU-oCIMUTo5M/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "handover - A1 - phần BTVN.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "handover - A1 - phần BTVN.pdf",
+                          "link": "https://drive.google.com/file/d/1PkIawfOQ3EGLQMtcZKVJ1toB1Ll4jFd8/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "handover - A1 phần trong sách - tập hợp.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "handover - A1 phần trong sách - tập hợp.pdf",
+                          "link": "https://drive.google.com/file/d/1w2I7nZUa7hu2ZaqxkntTQp6CUybL_km4/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Phần 1 - Câu 1-17 - Ôn tập tập hợp.mp4",
+                      "videos": [
+                        {
+                          "title": "Phần 1 - Câu 1-17 - Ôn tập tập hợp.mp4",
+                          "link": "https://drive.google.com/file/d/1nEBnBPFx1EBXszK-XDhoWMQOtOXkNp-s/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "Phần 1 - tập hợp phần trong sách - BOOK3-A1.mp4",
+                      "videos": [
+                        {
+                          "title": "Phần 1 - tập hợp phần trong sách - BOOK3-A1.mp4",
+                          "link": "https://drive.google.com/file/d/1rMwqnhN5OpEzWLy0Vi-uR7UVTpueG8pO/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "Phần 2 - câu 18-24.mp4",
+                      "videos": [
+                        {
+                          "title": "Phần 2 - câu 18-24.mp4",
+                          "link": "https://drive.google.com/file/d/1yzsbcTSKKcCsoOm7hc459ZrliaKKnEhr/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "Tài liệu - BOOK3-A1.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "Tài liệu - BOOK3-A1.pdf",
+                          "link": "https://drive.google.com/file/d/1iBpuGniUFWx_v5kQrflSaZgqWpRLYiGx/view?usp=drivesdk"
+                        }
+                      ]
                     }
                   ],
-                  "pdfs": []
+                  "children": []
+                },
+                {
+                  "title": "BOOK3-A2 - Bất phương trình và hệ bất phương trình bậc nhất hai ẩn",
+                  "items": [
+                    {
+                      "name": "BOOK3-A2 - BPT và hệ BPT bậc nhất hai ẩn.mp4",
+                      "videos": [
+                        {
+                          "title": "BOOK3-A2 - BPT và hệ BPT bậc nhất hai ẩn.mp4",
+                          "link": "https://drive.google.com/file/d/131ZYLdtLA1vjDTQ0oBacJ9s03n0AyYuR/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "BOOK3-A2 Phần BTVN - P1 - Câu 1-16.mp4",
+                      "videos": [
+                        {
+                          "title": "BOOK3-A2 Phần BTVN - P1 - Câu 1-16.mp4",
+                          "link": "https://drive.google.com/file/d/1DlGckyAbuS1_F-fm_U7chLI8NxncmHt0/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "BOOK3-A2 Phần BTVN - P2 - Câu 17-21.mp4",
+                      "videos": [
+                        {
+                          "title": "BOOK3-A2 Phần BTVN - P2 - Câu 17-21.mp4",
+                          "link": "https://drive.google.com/file/d/1tB403fqFfiPWddj3Lh_noNv4N3nzGIWL/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "BTVN -BOOK3-A2 - BPT và hệ BPT bậc nhất hai ẩn.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "BTVN -BOOK3-A2 - BPT và hệ BPT bậc nhất hai ẩn.pdf",
+                          "link": "https://drive.google.com/file/d/10EBc6ugb3l4l4r8Jp5i0qcPorCr6k7PJ/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "handover - BOOK3-A2 - BPT và hệ BPT bậc nhất hai ẩn.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "handover - BOOK3-A2 - BPT và hệ BPT bậc nhất hai ẩn.pdf",
+                          "link": "https://drive.google.com/file/d/1jslsiUhaovbeP0GkVF9l_xJMsyzPos_R/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "handover - BTVN BOOK3-A2 - Phần 1 - câu 1-21.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "handover - BTVN BOOK3-A2 - Phần 1 - câu 1-21.pdf",
+                          "link": "https://drive.google.com/file/d/1oTp1GQfeFxmx-NBQpraaRp1UIrr889JO/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Tài liệu - BOOK3-A2.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "Tài liệu - BOOK3-A2.pdf",
+                          "link": "https://drive.google.com/file/d/100teoSwlm-RyDenG-g1AosAEmAn4evLo/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
                 }
-              ],
-              "children": []
+              ]
             },
             {
-              "title": "EC1 - Cực trị hàm bậc ba có tham số và mối quan hệ với đạo hàm cấp hai",
-              "items": [
+              "title": "Chương 3 - Một số kiến thức Toán 12_",
+              "items": [],
+              "children": [
                 {
-                  "name": "EC1 - Cực trị hàm bậc ba có tham số và mối quan hệ với đạo hàm cấp hai.mp4",
-                  "videos": [
+                  "title": "C2.1 - Vectơ trong không gian",
+                  "items": [
                     {
-                      "title": "EC1 - Cực trị hàm bậc ba có tham số và mối quan hệ với đạo hàm cấp hai.mp4",
-                      "link": "https://drive.google.com/file/d/1X9N5RyyL-GMDtjBZGg9nrbgLjtvMjK2G/view?usp=drivesdk"
+                      "name": "Book3-C2.1 - Chữa BTVN phần 1 - Câu 1-19.mp4",
+                      "videos": [
+                        {
+                          "title": "Book3-C2.1 - Chữa BTVN phần 1 - Câu 1-19.mp4",
+                          "link": "https://drive.google.com/file/d/1vasoIaPYIeKD3JmApVfNrSWhc542yJP3/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "BOOK3-C2.1 - chữa btvn phần 2 - câu 20-25.mp4",
+                      "videos": [
+                        {
+                          "title": "BOOK3-C2.1 - chữa btvn phần 2 - câu 20-25.mp4",
+                          "link": "https://drive.google.com/file/d/1clBZtDPbKIR3IWN2_WeENiwF4YfYt1nw/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "BOOK3-C2.1 - Vecto trong không gian - Phần trong sách.mp4",
+                      "videos": [
+                        {
+                          "title": "BOOK3-C2.1 - Vecto trong không gian - Phần trong sách.mp4",
+                          "link": "https://drive.google.com/file/d/1M748UMx_b0ghjpQyXo6mjBMeGZVE0xpF/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "C2.1 - Vecto trong không gian - BTVN.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "C2.1 - Vecto trong không gian - BTVN.pdf",
+                          "link": "https://drive.google.com/file/d/1u7925UYmHTxWiJh1VsCUNoo66m0mlkYY/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "handover - BOOK3-C2.1 - BTVN Vectơ trong không gian.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "handover - BOOK3-C2.1 - BTVN Vectơ trong không gian.pdf",
+                          "link": "https://drive.google.com/file/d/1rFX6TSzdZ5E-uziiUsGViHM7FI_A4rf6/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "handover - BOOK3-C2.1 - Vecto trong không gian - phần trong sách.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "handover - BOOK3-C2.1 - Vecto trong không gian - phần trong sách.pdf",
+                          "link": "https://drive.google.com/file/d/16ZChEy_xk-Xr-wX9GZf0rW_ryHjkZxSm/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "PDF BOOK3-C2 - Tọa độ vecto - Tài liệu trong sách.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "PDF BOOK3-C2 - Tọa độ vecto - Tài liệu trong sách.pdf",
+                          "link": "https://drive.google.com/file/d/1VpuYiT-urxourx91IAmUaOKn_TQHIxFs/view?usp=drivesdk"
+                        }
+                      ]
                     }
                   ],
-                  "pdfs": []
-                },
-                {
-                  "name": "Tài liệu - EC1.pdf",
-                  "videos": [],
-                  "pdfs": [
-                    {
-                      "title": "Tài liệu - EC1.pdf",
-                      "link": "https://drive.google.com/file/d/1EtSkkgARDacLHRbry0FpZ67plPCcSLRm/view?usp=drivesdk"
-                    }
-                  ]
+                  "children": []
                 }
-              ],
-              "children": []
-            },
-            {
-              "title": "EC2 - Tính đơn điệu của hàm số có tham số",
-              "items": [
-                {
-                  "name": "Bản viết tay - EC2.pdf",
-                  "videos": [],
-                  "pdfs": [
-                    {
-                      "title": "Bản viết tay - EC2.pdf",
-                      "link": "https://drive.google.com/file/d/18tJGfQ7-LnmsV4MJG3CMplmB9VgBf47t/view?usp=drivesdk"
-                    }
-                  ]
-                },
-                {
-                  "name": "EC2 - Bản cách dòng.pdf",
-                  "videos": [],
-                  "pdfs": [
-                    {
-                      "title": "EC2 - Bản cách dòng.pdf",
-                      "link": "https://drive.google.com/file/d/1DLfuCWDhMWiCx1gYTxxRwQphX8BXZ4uz/view?usp=drivesdk"
-                    }
-                  ]
-                },
-                {
-                  "name": "EC2 - Phần 1 - Lý thuyết + ví dụ.mp4",
-                  "videos": [
-                    {
-                      "title": "EC2 - Phần 1 - Lý thuyết + ví dụ.mp4",
-                      "link": "https://drive.google.com/file/d/1wthC5-LKylvYjLZwUyLEMxlc6dfE6_Nq/view?usp=drivesdk"
-                    }
-                  ],
-                  "pdfs": []
-                },
-                {
-                  "name": "EC2 - Phần 2 - Câu 27-36.mp4",
-                  "videos": [
-                    {
-                      "title": "EC2 - Phần 2 - Câu 27-36.mp4",
-                      "link": "https://drive.google.com/file/d/1ql3WsziKnppAREEVKNFUDnATC9eeQNPl/view?usp=drivesdk"
-                    }
-                  ],
-                  "pdfs": []
-                },
-                {
-                  "name": "EC2 - Phần 2.mp4",
-                  "videos": [
-                    {
-                      "title": "EC2 - Phần 2.mp4",
-                      "link": "https://drive.google.com/file/d/1IqPsaVB76PDHEQUa3PSMqnal3ZsnsG7k/view?usp=drivesdk"
-                    }
-                  ],
-                  "pdfs": []
-                },
-                {
-                  "name": "Kĩ năng EC2 - Tính nhanh đạo hàm hàm phân thức.mp4",
-                  "videos": [
-                    {
-                      "title": "Kĩ năng EC2 - Tính nhanh đạo hàm hàm phân thức.mp4",
-                      "link": "https://drive.google.com/file/d/1LCchsZ3mTXMZH2gX6ZqgHogBZ0cNKoE1/view?usp=drivesdk"
-                    }
-                  ],
-                  "pdfs": []
-                },
-                {
-                  "name": "Tài liệu - EC2 - Bản không cách dòng.pdf",
-                  "videos": [],
-                  "pdfs": [
-                    {
-                      "title": "Tài liệu - EC2 - Bản không cách dòng.pdf",
-                      "link": "https://drive.google.com/file/d/1Taj-MxM4uyKHrqnCezvy4Z6u4zpbpJJu/view?usp=drivesdk"
-                    }
-                  ]
-                }
-              ],
-              "children": []
-            },
-            {
-              "title": "EC3 - Min Max hàm số trong kỳ thi Đánh Giá Năng Lực",
-              "items": [
-                {
-                  "name": "Bản viết tay - EC3.pdf",
-                  "videos": [],
-                  "pdfs": [
-                    {
-                      "title": "Bản viết tay - EC3.pdf",
-                      "link": "https://drive.google.com/file/d/1tkjYfHUy52JGfyIhfcL_85N-M_ctU1YL/view?usp=drivesdk"
-                    }
-                  ]
-                },
-                {
-                  "name": "EC3 - Min Max hàm số trong kì thi ĐGNL - File cách dòng.pdf",
-                  "videos": [],
-                  "pdfs": [
-                    {
-                      "title": "EC3 - Min Max hàm số trong kì thi ĐGNL - File cách dòng.pdf",
-                      "link": "https://drive.google.com/file/d/1Qs4tzEW2q9yz-4DQvRvfXOGBk5YLlhZY/view?usp=drivesdk"
-                    }
-                  ]
-                },
-                {
-                  "name": "EC3 - Min Max hàm số trong kì thi ĐGNL - File thường.pdf",
-                  "videos": [],
-                  "pdfs": [
-                    {
-                      "title": "EC3 - Min Max hàm số trong kì thi ĐGNL - File thường.pdf",
-                      "link": "https://drive.google.com/file/d/1mZ2c1LmgeTGNKWT4GYyQIwImx9Qv48-t/view?usp=drivesdk"
-                    }
-                  ]
-                },
-                {
-                  "name": "EC3 - Phần 1 - Câu 1-20.mp4",
-                  "videos": [
-                    {
-                      "title": "EC3 - Phần 1 - Câu 1-20.mp4",
-                      "link": "https://drive.google.com/file/d/126z5OpAMwKkipLnWsUWr-yToKtyS-eHA/view?usp=drivesdk"
-                    }
-                  ],
-                  "pdfs": []
-                },
-                {
-                  "name": "EC3 - Phần 2 - Câu 21-36.mp4",
-                  "videos": [
-                    {
-                      "title": "EC3 - Phần 2 - Câu 21-36.mp4",
-                      "link": "https://drive.google.com/file/d/1cMU4CwS_2IzyamFFCeJt3auh22WbnaZF/view?usp=drivesdk"
-                    }
-                  ],
-                  "pdfs": []
-                }
-              ],
-              "children": []
-            },
-            {
-              "title": "EC4 - Tương giao đồ thị",
-              "items": [
-                {
-                  "name": "Bản viết tay - EC4.pdf",
-                  "videos": [],
-                  "pdfs": [
-                    {
-                      "title": "Bản viết tay - EC4.pdf",
-                      "link": "https://drive.google.com/file/d/1f6iCx2fISm1dWYM79wS3P5yT7pPmR-rY/view?usp=drivesdk"
-                    }
-                  ]
-                },
-                {
-                  "name": "EC4 - Phần 1 - Câu 1-27.mp4",
-                  "videos": [
-                    {
-                      "title": "EC4 - Phần 1 - Câu 1-27.mp4",
-                      "link": "https://drive.google.com/file/d/1JSa4weGTgtVEWqfwUZ6cwd7zV-Kp2EpN/view?usp=drivesdk"
-                    }
-                  ],
-                  "pdfs": []
-                },
-                {
-                  "name": "EC4 - Phần 2 - Câu 28-40.mp4",
-                  "videos": [
-                    {
-                      "title": "EC4 - Phần 2 - Câu 28-40.mp4",
-                      "link": "https://drive.google.com/file/d/1TUuKsYVvqQoWWfPuOygy-ByRrVhyHBvz/view?usp=drivesdk"
-                    }
-                  ],
-                  "pdfs": []
-                },
-                {
-                  "name": "EC4 - Tương giao đồ thị - File cách dòng.pdf",
-                  "videos": [],
-                  "pdfs": [
-                    {
-                      "title": "EC4 - Tương giao đồ thị - File cách dòng.pdf",
-                      "link": "https://drive.google.com/file/d/1-5Poa4okULbpFPZSK21vyZhD_pJlO7f6/view?usp=drivesdk"
-                    }
-                  ]
-                },
-                {
-                  "name": "EC4 - Tương giao đồ thị - File thường.pdf",
-                  "videos": [],
-                  "pdfs": [
-                    {
-                      "title": "EC4 - Tương giao đồ thị - File thường.pdf",
-                      "link": "https://drive.google.com/file/d/10cPIfeM-K44R5laaseIFOOSTXxt2vvsz/view?usp=drivesdk"
-                    }
-                  ]
-                }
-              ],
-              "children": []
-            },
-            {
-              "title": "EC5 - HÀM HỢP VÀ PHƯƠNG PHÁP GHÉP TRỤC",
-              "items": [
-                {
-                  "name": "Bản viết tay - EC5 - Phương pháp ghép trục - Phần 1.pdf",
-                  "videos": [],
-                  "pdfs": [
-                    {
-                      "title": "Bản viết tay - EC5 - Phương pháp ghép trục - Phần 1.pdf",
-                      "link": "https://drive.google.com/file/d/1EwNd5wx_mf-KuoIzPbX5lNIN0thJVWmU/view?usp=drivesdk"
-                    }
-                  ]
-                },
-                {
-                  "name": "Phần 1 - Lý thuyết + ví dụ - EC5.mp4",
-                  "videos": [
-                    {
-                      "title": "Phần 1 - Lý thuyết + ví dụ - EC5.mp4",
-                      "link": "https://drive.google.com/file/d/19D7Y62t0Kh41858TtpfO0REE_-la182H/view?usp=drivesdk"
-                    }
-                  ],
-                  "pdfs": []
-                },
-                {
-                  "name": "Tài liệu - EC5 - File cách dòng.pdf",
-                  "videos": [],
-                  "pdfs": [
-                    {
-                      "title": "Tài liệu - EC5 - File cách dòng.pdf",
-                      "link": "https://drive.google.com/file/d/1a8q7fzy5Qo2hMPm0_w0I-GJT-mO_k-MM/view?usp=drivesdk"
-                    }
-                  ]
-                },
-                {
-                  "name": "Tài liệu - EC5 - File thường.pdf",
-                  "videos": [],
-                  "pdfs": [
-                    {
-                      "title": "Tài liệu - EC5 - File thường.pdf",
-                      "link": "https://drive.google.com/file/d/13SBHqM4FRzzuBkFmvVrPioN0I6JSwk7t/view?usp=drivesdk"
-                    }
-                  ]
-                }
-              ],
-              "children": []
+              ]
             }
           ]
         }

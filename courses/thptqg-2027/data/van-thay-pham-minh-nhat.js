@@ -1432,6 +1432,330 @@ const COURSE_DATA = {
             }
           ],
           "children": []
+        },
+        {
+          "title": "23. Ôn tập đọc hiểu văn bản thông tin",
+          "items": [
+            {
+              "name": "van ban thong tin 2.doc",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "van ban thong tin 2.doc",
+                  "link": "https://docs.google.com/document/d/1OK588CORwr3rqCF07Wuxk6mCHctXwhjo/edit?usp=drivesdk&ouid=100424226602753219478&rtpof=true&sd=true"
+                }
+              ]
+            },
+            {
+              "name": "Ôn tập đọc hiểu văn bản thông tin.mp4.mp4",
+              "videos": [
+                {
+                  "title": "Ôn tập đọc hiểu văn bản thông tin.mp4.mp4",
+                  "link": "https://drive.google.com/file/d/1Ek53e9yM2c6lNkCk0vOJs0OlmP1W9Pnt/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "24. Ôn tập đọc hiểu văn bản nghị luận",
+          "items": [
+            {
+              "name": "van ban nghi luan (1).docx",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "van ban nghi luan (1).docx",
+                  "link": "https://docs.google.com/document/d/1PjmVCNWEu4NECMiBwnVAkjfW6xDUqkIH/edit?usp=drivesdk&ouid=100424226602753219478&rtpof=true&sd=true"
+                }
+              ]
+            },
+            {
+              "name": "Ôn tập đọc hiểu văn bản nghị luận.mp4.mp4",
+              "videos": [
+                {
+                  "title": "Ôn tập đọc hiểu văn bản nghị luận.mp4.mp4",
+                  "link": "https://drive.google.com/file/d/1oW43mDYQLLZtAKbimR9t7MdCxWnTLOnr/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "25. Nghị luận xã hội làm thế nào để có steve jobs Việt Nam",
+          "items": [
+            {
+              "name": "Nghị luận xã hội làm thế nào để có steve jobs Việt Nam.mp4.mp4",
+              "videos": [
+                {
+                  "title": "Nghị luận xã hội làm thế nào để có steve jobs Việt Nam.mp4.mp4",
+                  "link": "https://drive.google.com/file/d/1j1iDH7E_uaezpXUPFMAA4szKojpxU3rR/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "van ban nghi luan.docx.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "van ban nghi luan.docx.pdf",
+                  "link": "https://drive.google.com/file/d/1aGTRsnmePziPnHNz9yX84SDSazIpl_By/view?usp=drivesdk"
+                }
+              ]
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "26. Dàn ý chi tiết có thể áp dụng cho mọi dạng đề nghị luận xã hội - ngữ văn 12 - phiên bản đứng bảng",
+          "items": [
+            {
+              "name": "Dàn ý chi tiết có thể áp dụng cho mọi dạng đề nghị luận xã hội - ngữ văn 12 - phiên bản đứng bảng.mp.mp4",
+              "videos": [
+                {
+                  "title": "Dàn ý chi tiết có thể áp dụng cho mọi dạng đề nghị luận xã hội - ngữ văn 12 - phiên bản đứng bảng.mp.mp4",
+                  "link": "https://drive.google.com/file/d/1pzMuDHAkEW6B_Z4m7-WTcnop5wuxqt7U/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "27. Nghị luận xã hội B2 _ chủ đề nghị luận xã hội tuổi trẻ và việc bảo vệ, gìn giữ bản sắc văn hóa dân tộc",
+          "items": [
+            {
+              "name": "ban sac van hoa .docx",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "ban sac van hoa .docx",
+                  "link": "https://docs.google.com/document/d/1c6_cu9xsWQo_SuPR3D2reino-1VdhFNN/edit?usp=drivesdk&ouid=100424226602753219478&rtpof=true&sd=true"
+                }
+              ]
+            },
+            {
+              "name": "Nghị luận xã hội B2 chủ đề nghị luận xã hội tuổi trẻ và việc bảo vệ, gìn giữ bản sắc văn hóa dân tộc.mp4",
+              "videos": [
+                {
+                  "title": "Nghị luận xã hội B2 chủ đề nghị luận xã hội tuổi trẻ và việc bảo vệ, gìn giữ bản sắc văn hóa dân tộc.mp4",
+                  "link": "https://drive.google.com/file/d/15rbtdwPHFfW_1jm8LWMSYTwnA30S5kgx/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "28. Nghị luận xã hội B3, chủ đề nghị luận xã hội về tuổi trẻ và bất ổn tâm lý",
+          "items": [
+            {
+              "name": "bat on tam ly tuoi moi lon.docx",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "bat on tam ly tuoi moi lon.docx",
+                  "link": "https://docs.google.com/document/d/1nzic7KUDApcC-Tc6lGqM7T6T7i3q4v5s/edit?usp=drivesdk&ouid=100424226602753219478&rtpof=true&sd=true"
+                }
+              ]
+            },
+            {
+              "name": "Nghị luận xã hội B3, chủ đề nghị luận xã hội về tuổi trẻ và bất ổn tâm lý.mp4Nghị luận xã hội B3, ch.mp4",
+              "videos": [
+                {
+                  "title": "Nghị luận xã hội B3, chủ đề nghị luận xã hội về tuổi trẻ và bất ổn tâm lý.mp4Nghị luận xã hội B3, ch.mp4",
+                  "link": "https://drive.google.com/file/d/1VFsik7BneXdW9UjH_wc5FsgcRLqNuX5l/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "29. đặc trưng thể loại của Thơ - ngữ văn 12",
+          "items": [
+            {
+              "name": "Kỹ năng phân tích một tác phẩm Thơ - ngữ văn 12.mp4.mp4",
+              "videos": [
+                {
+                  "title": "Kỹ năng phân tích một tác phẩm Thơ - ngữ văn 12.mp4.mp4",
+                  "link": "https://drive.google.com/file/d/1kaIOAwEObWMrunOEu4e2VKfHduc5COmT/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "phieu hoc tap dac trung THO.docx",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "phieu hoc tap dac trung THO.docx",
+                  "link": "https://docs.google.com/document/d/1S93qLOtT1zL1sH-8w5WRAKuVoU-zZKFY/edit?usp=drivesdk&ouid=100424226602753219478&rtpof=true&sd=true"
+                }
+              ]
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "30. Đặc trưng thẻ loại của Thơ - đứng bảng",
+          "items": [
+            {
+              "name": "Đặc trưng thẻ loại của Thơ - đứng bảng.mp4.mp4",
+              "videos": [
+                {
+                  "title": "Đặc trưng thẻ loại của Thơ - đứng bảng.mp4.mp4",
+                  "link": "https://drive.google.com/file/d/11vvGUKT2gAyP1mPNFA43uyblCO-UknQW/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "31. Thơ Đường luật - Cảm hoài",
+          "items": [
+            {
+              "name": "phieu hoc tap cam hoai.docx",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "phieu hoc tap cam hoai.docx",
+                  "link": "https://docs.google.com/document/d/1Ev-O4xEJ-R5xYGdc7QIZzO7oXeXtOkg1/edit?usp=drivesdk&ouid=100424226602753219478&rtpof=true&sd=true"
+                }
+              ]
+            },
+            {
+              "name": "Thơ Đường luật - Cảm hoài.mp4.mp4",
+              "videos": [
+                {
+                  "title": "Thơ Đường luật - Cảm hoài.mp4.mp4",
+                  "link": "https://drive.google.com/file/d/1FpqWn561cNcdF41enjHPXKXeMdUghvij/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "32. đặc trưng thể loại của Thơ - ngữ văn 12",
+          "items": [
+            {
+              "name": "đặc trưng thể loại của Thơ - ngữ văn 12.mp4.mp4",
+              "videos": [
+                {
+                  "title": "đặc trưng thể loại của Thơ - ngữ văn 12.mp4.mp4",
+                  "link": "https://drive.google.com/file/d/1WGt-if_bWyd9RJKyPdTvM5R9Z7edmbPn/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "33. Tây tiến khổ 2",
+          "items": [
+            {
+              "name": "Tay Tien.docx",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "Tay Tien.docx",
+                  "link": "https://docs.google.com/document/d/1yjGn4cmk4wzeKd0AO2668Ee9ySfCAPmf/edit?usp=drivesdk&ouid=100424226602753219478&rtpof=true&sd=true"
+                }
+              ]
+            },
+            {
+              "name": "Tây tiến khổ 2.mp4.mp4",
+              "videos": [
+                {
+                  "title": "Tây tiến khổ 2.mp4.mp4",
+                  "link": "https://drive.google.com/file/d/1KlGJhzwQTM0BrmdfLNpvG8fUr4r04mOi/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "34. Tây tiến khổ 3-4",
+          "items": [
+            {
+              "name": "Tây tiến khổ 3-4.mp4.mp4",
+              "videos": [
+                {
+                  "title": "Tây tiến khổ 3-4.mp4.mp4",
+                  "link": "https://drive.google.com/file/d/1CmG1eE7My7CDDmHRGLGE8Eb6EhjV2McK/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "35. Tuyên ngôn độc lập - ngữ văn 12",
+          "items": [
+            {
+              "name": "Tuyên ngôn độc lập - ngữ văn 12.mp4.mp4",
+              "videos": [
+                {
+                  "title": "Tuyên ngôn độc lập - ngữ văn 12.mp4.mp4",
+                  "link": "https://drive.google.com/file/d/1OL-Kh6_aNrb45i8Up4M4H8ztvp4e0Eoi/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "TUYÊN NGÔN ĐỘC LẬP Phan tich tron ven.docx",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "TUYÊN NGÔN ĐỘC LẬP Phan tich tron ven.docx",
+                  "link": "https://docs.google.com/document/d/1GJdJseOAScvrNsKgRaGoqqq0UHTsFAoh/edit?usp=drivesdk&ouid=100424226602753219478&rtpof=true&sd=true"
+                }
+              ]
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "36. Đàn ghita của Lorca khổ 1+ 2",
+          "items": [
+            {
+              "name": "ĐÀN GHI TA CỦA LORCA .docx",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "ĐÀN GHI TA CỦA LORCA .docx",
+                  "link": "https://docs.google.com/document/d/1gmdUGyZNzv31uLQyFBJt0o1-TLM3o-xv/edit?usp=drivesdk&ouid=100424226602753219478&rtpof=true&sd=true"
+                }
+              ]
+            },
+            {
+              "name": "Đàn ghita của Lorca khổ 1+ 2.mp4.mp4",
+              "videos": [
+                {
+                  "title": "Đàn ghita của Lorca khổ 1+ 2.mp4.mp4",
+                  "link": "https://drive.google.com/file/d/1gVu_iwpRF1hWL9mshpCCtyhIoCmNvqjZ/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
         }
       ]
     },

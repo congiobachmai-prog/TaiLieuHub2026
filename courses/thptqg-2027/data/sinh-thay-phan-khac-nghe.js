@@ -1634,6 +1634,762 @@ const COURSE_DATA = {
                   "children": []
                 }
               ]
+            },
+            {
+              "title": "CHƯƠNG 3. MỞ RỘNG HỌC THUYẾT DI TRUYỀN NHIỄM SẮC THỂ_",
+              "items": [],
+              "children": [
+                {
+                  "title": "Bài 26 – Di truyền ngoài nhân",
+                  "items": [
+                    {
+                      "name": "[Bài 26] – 1.1.1. Bài giảng – Di truyền ngoài nhân – Phần 1.mp4",
+                      "videos": [
+                        {
+                          "title": "[Bài 26] – 1.1.1. Bài giảng – Di truyền ngoài nhân – Phần 1.mp4",
+                          "link": "https://drive.google.com/file/d/164fuj7Ad8wsF8eMHFOYPIkH6iI8SbQI3/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[Bài 26] – 1.1.2. Bài giảng – Di truyền ngoài nhân – Phần 2.mp4",
+                      "videos": [
+                        {
+                          "title": "[Bài 26] – 1.1.2. Bài giảng – Di truyền ngoài nhân – Phần 2.mp4",
+                          "link": "https://drive.google.com/file/d/1IfRxaZGBXoT09HmIS1tm0Kby_mRwCtYm/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[Bài 26] – 1.1.3. Bài giảng – Di truyền ngoài nhân – Phần 3.mp4",
+                      "videos": [
+                        {
+                          "title": "[Bài 26] – 1.1.3. Bài giảng – Di truyền ngoài nhân – Phần 3.mp4",
+                          "link": "https://drive.google.com/file/d/1BcN-_NjWHBYQXv-zBwcoL6r0k4vkElkA/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[Bài 26] – 1.1.4. Bài giảng – Di truyền ngoài nhân – Phần 4.mp4",
+                      "videos": [
+                        {
+                          "title": "[Bài 26] – 1.1.4. Bài giảng – Di truyền ngoài nhân – Phần 4.mp4",
+                          "link": "https://drive.google.com/file/d/1W5UtnY-LbFTkok_9tjM6PFZcOyeo92YC/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[Bài 26] – 2.1. [Đáp án Thi Online] Di truyền ngoài nhân.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[Bài 26] – 2.1. [Đáp án Thi Online] Di truyền ngoài nhân.pdf",
+                          "link": "https://drive.google.com/file/d/1L-dWOOyBdM22G_b76yhPUkfrGvYwmMem/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "Bài 27 – Tương tác giữa kiểu gene với môi trường",
+                  "items": [
+                    {
+                      "name": "[Bài 27] – 1.1.1. Bài giảng – 01. Lý thuyết trọng tâm.mp4",
+                      "videos": [
+                        {
+                          "title": "[Bài 27] – 1.1.1. Bài giảng – 01. Lý thuyết trọng tâm.mp4",
+                          "link": "https://drive.google.com/file/d/17W5eAtb0qv8r5JD8CWT_uVxUuWmIKFw2/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[Bài 27] – 1.1.2. Bài giảng – 02. Ảnh hưởng của kiểu hình đến sự biểu hiện kiểu Gene.mp4",
+                      "videos": [
+                        {
+                          "title": "[Bài 27] – 1.1.2. Bài giảng – 02. Ảnh hưởng của kiểu hình đến sự biểu hiện kiểu Gene.mp4",
+                          "link": "https://drive.google.com/file/d/1f951cnEyRNCoA2I5Zs8DTia_CmbvuEyW/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[Bài 27] – 1.1.3. Bài giảng – 03. Mức phản ứng.mp4",
+                      "videos": [
+                        {
+                          "title": "[Bài 27] – 1.1.3. Bài giảng – 03. Mức phản ứng.mp4",
+                          "link": "https://drive.google.com/file/d/11wmH8-3iAm-19cQGAl2bUxzmBisCE-vh/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[Bài 27] – 1.1.4. Bài giảng – 04. Ứng dụng thực tiễn của thường biến và mức phản ứng.mp4",
+                      "videos": [
+                        {
+                          "title": "[Bài 27] – 1.1.4. Bài giảng – 04. Ứng dụng thực tiễn của thường biến và mức phản ứng.mp4",
+                          "link": "https://drive.google.com/file/d/1b7iDRtD6I4KQi9YCLi-KlDda4LtgoBhA/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[Bài 27] – 1.1.5. Bài giảng – 05. Một số dạng bài tập.mp4",
+                      "videos": [
+                        {
+                          "title": "[Bài 27] – 1.1.5. Bài giảng – 05. Một số dạng bài tập.mp4",
+                          "link": "https://drive.google.com/file/d/1AOKlEc_K776gUSnW5GE3keQNGm4E8VYh/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[Bài 27] – 2.1. [Đáp án Thi Online] Tương tác giữa kiểu gene với môi trường.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[Bài 27] – 2.1. [Đáp án Thi Online] Tương tác giữa kiểu gene với môi trường.pdf",
+                          "link": "https://drive.google.com/file/d/1SmRodS8KGUgDCRowjQkaYrwfXr1qsjS6/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "Bài 28 – Thành tựu chọn giống bằng lai hữu tính",
+                  "items": [
+                    {
+                      "name": "[Bài 28] – 1.1.1. Bài giảng – 01. Khái quát về chọn tạo giống vật nuôi cây trồng.mp4",
+                      "videos": [
+                        {
+                          "title": "[Bài 28] – 1.1.1. Bài giảng – 01. Khái quát về chọn tạo giống vật nuôi cây trồng.mp4",
+                          "link": "https://drive.google.com/file/d/1aNXMBd_-Y5i-dda3WyCtcGStiOABAVux/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[Bài 28] – 1.1.2. Bài giảng – 02. Một số thành tựu chọn – tạo giống cây trồng bằng lai hữu tính.mp4",
+                      "videos": [
+                        {
+                          "title": "[Bài 28] – 1.1.2. Bài giảng – 02. Một số thành tựu chọn – tạo giống cây trồng bằng lai hữu tính.mp4",
+                          "link": "https://drive.google.com/file/d/1vt9xYm4WcKQrkogI5K6-r9xljCltGChd/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[Bài 28] – 1.1.3. Bài giảng – 03. Một số thành tựu chọn – tạo giống vật nuôi bằng lai hữu tính.mp4",
+                      "videos": [
+                        {
+                          "title": "[Bài 28] – 1.1.3. Bài giảng – 03. Một số thành tựu chọn – tạo giống vật nuôi bằng lai hữu tính.mp4",
+                          "link": "https://drive.google.com/file/d/1OA0GhzMOCUaOUhNjMD6Uoj76MyAcGcnQ/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[Bài 28] – 1.1.4. Bài giảng – 04. Một số bài tập vận dụng.mp4",
+                      "videos": [
+                        {
+                          "title": "[Bài 28] – 1.1.4. Bài giảng – 04. Một số bài tập vận dụng.mp4",
+                          "link": "https://drive.google.com/file/d/1NRzj4RdZu-P81_PiKuAEarBhskL8az0C/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[Bài 28] – 2.1. [Đáp án Thi Online] Thành tựu chọn giống bằng lai hữu tính.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[Bài 28] – 2.1. [Đáp án Thi Online] Thành tựu chọn giống bằng lai hữu tính.pdf",
+                          "link": "https://drive.google.com/file/d/1tKVRknmmAOhyxifgBsulk7fl_zbb-eCX/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "Bài 29 – Ôn tập về di truyền ngoài nhân và ảnh hưởng của môi trường",
+                  "items": [
+                    {
+                      "name": "[Bài 29] – 1.1.1. Bài giảng – 01. Lý thuyết tổng quát.mp4",
+                      "videos": [
+                        {
+                          "title": "[Bài 29] – 1.1.1. Bài giảng – 01. Lý thuyết tổng quát.mp4",
+                          "link": "https://drive.google.com/file/d/14BlRwVKKAyb3NKWgPj5GwW658v3EI6gG/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[Bài 29] – 1.1.2. Bài giảng – 02. Bài tập vận dụng.mp4",
+                      "videos": [
+                        {
+                          "title": "[Bài 29] – 1.1.2. Bài giảng – 02. Bài tập vận dụng.mp4",
+                          "link": "https://drive.google.com/file/d/1RPVtBVuSLreYOxREL_NSxncKXb-Wpx-a/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[Bài 29] – 2.1. [Đáp án Thi Online] Ôn tập về di truyền ngoài nhân và ảnh hưởng của môi trường.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[Bài 29] – 2.1. [Đáp án Thi Online] Ôn tập về di truyền ngoài nhân và ảnh hưởng của môi trường.pdf",
+                          "link": "https://drive.google.com/file/d/1ZNz9nZXhzKj44Z9sjKQNU6NpqwZ1vS-4/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "CHƯƠNG 4. DI TRUYỀN QUẦN THỂ_",
+              "items": [],
+              "children": [
+                {
+                  "title": "Bài 30 – Quần thể ngẫu phối",
+                  "items": [
+                    {
+                      "name": "[Bài 30] – 1.1.1. Bài giảng – 01. Quần thể và các đặc trưng di truyền của quần thể.mp4",
+                      "videos": [
+                        {
+                          "title": "[Bài 30] – 1.1.1. Bài giảng – 01. Quần thể và các đặc trưng di truyền của quần thể.mp4",
+                          "link": "https://drive.google.com/file/d/1cB_hDiDHhopJ8hfYkQhq-Z-iBauVSUps/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[Bài 30] – 1.1.2. Bài giảng – 02. Quần thể ngẫu phối và định luật Hardy-weinberg.mp4",
+                      "videos": [
+                        {
+                          "title": "[Bài 30] – 1.1.2. Bài giảng – 02. Quần thể ngẫu phối và định luật Hardy-weinberg.mp4",
+                          "link": "https://drive.google.com/file/d/1wJCAxk722E2pQWh69iEtQXL2i5l4QoBh/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[Bài 30] – 1.1.3. Bài giảng – 03. Bài tập 1 – 2.mp4",
+                      "videos": [
+                        {
+                          "title": "[Bài 30] – 1.1.3. Bài giảng – 03. Bài tập 1 – 2.mp4",
+                          "link": "https://drive.google.com/file/d/1ZhlofeZUjUxkRW8Sh14nD6CDmRzBXm-w/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[Bài 30] – 1.1.4. Bài giảng – 04. Bài tập 3 – 4 – 5.mp4",
+                      "videos": [
+                        {
+                          "title": "[Bài 30] – 1.1.4. Bài giảng – 04. Bài tập 3 – 4 – 5.mp4",
+                          "link": "https://drive.google.com/file/d/13O6kgyZ3tI7hr3NvBi6hpuz-AtN6GTEC/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[Bài 30] – 2.1. [Đáp án Thi Online] Quần thể ngẫu phối.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[Bài 30] – 2.1. [Đáp án Thi Online] Quần thể ngẫu phối.pdf",
+                          "link": "https://drive.google.com/file/d/160mZrg1AdJj2LenGsW4FiTrLYNzOLK1K/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "Bài 31 – Quần thể tự thụ phấn và giao phối gần",
+                  "items": [
+                    {
+                      "name": "[Bài 31] – 1.1.1. Bài giảng – 01. Quần thể tự thụ phấn, quần thể giao phối gần.mp4",
+                      "videos": [
+                        {
+                          "title": "[Bài 31] – 1.1.1. Bài giảng – 01. Quần thể tự thụ phấn, quần thể giao phối gần.mp4",
+                          "link": "https://drive.google.com/file/d/1vEvIl_49BdpN6gbXHAfVIhQ3S3IzbHvH/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[Bài 31] – 1.1.2. Bài giảng – 02. Các đặc trưng di truyền.mp4",
+                      "videos": [
+                        {
+                          "title": "[Bài 31] – 1.1.2. Bài giảng – 02. Các đặc trưng di truyền.mp4",
+                          "link": "https://drive.google.com/file/d/1lKdo7X5RMlbsCR_bDnW2OjJlvntrQ3VE/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[Bài 31] – 1.1.3. Bài giảng – 03. Ứng dụng thực tiễn.mp4",
+                      "videos": [
+                        {
+                          "title": "[Bài 31] – 1.1.3. Bài giảng – 03. Ứng dụng thực tiễn.mp4",
+                          "link": "https://drive.google.com/file/d/1arouWurY4r3uFl5uLsNxNfz8379NnbiD/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[Bài 31] – 1.1.4. Bài giảng – 04. Bài tập 1.mp4",
+                      "videos": [
+                        {
+                          "title": "[Bài 31] – 1.1.4. Bài giảng – 04. Bài tập 1.mp4",
+                          "link": "https://drive.google.com/file/d/1USr3lKUH9klok5cQsYMf2BB4qwrnCVD7/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[Bài 31] – 1.1.5. Bài giảng – 05. Bài tập 2.mp4",
+                      "videos": [
+                        {
+                          "title": "[Bài 31] – 1.1.5. Bài giảng – 05. Bài tập 2.mp4",
+                          "link": "https://drive.google.com/file/d/1a6afnOS1hPfo9tbvxzGIp0ssqVDBzQMw/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[Bài 31] – 1.1.6. Bài giảng – 06. Bài tập 3.mp4",
+                      "videos": [
+                        {
+                          "title": "[Bài 31] – 1.1.6. Bài giảng – 06. Bài tập 3.mp4",
+                          "link": "https://drive.google.com/file/d/1jB8nXf93SXn0Q-iKwHZRiAqnsu4EUhVq/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[Bài 31] – 2.1. [Đáp án Thi Online] Quần thể tự thụ phấn và giao phối gần.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[Bài 31] – 2.1. [Đáp án Thi Online] Quần thể tự thụ phấn và giao phối gần.pdf",
+                          "link": "https://drive.google.com/file/d/1krK6TnThOZEyXlfU6Xnfu0ppyPyD7Yti/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "Bài 32 – Ôn tập về di truyền quần thể",
+                  "items": [
+                    {
+                      "name": "[Bài 32] – 1.1.1. Bài giảng – 01. Lý thuyết trọng tâm.mp4",
+                      "videos": [
+                        {
+                          "title": "[Bài 32] – 1.1.1. Bài giảng – 01. Lý thuyết trọng tâm.mp4",
+                          "link": "https://drive.google.com/file/d/1QWm2PEo_ISQx6h-jJ6M9I9EdWM58Qyr0/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[Bài 32] – 1.1.2. Bài giảng – 02. Một số công thức.mp4",
+                      "videos": [
+                        {
+                          "title": "[Bài 32] – 1.1.2. Bài giảng – 02. Một số công thức.mp4",
+                          "link": "https://drive.google.com/file/d/1c9cprLVqCTxPlIY4FEH58w_Nyq2ZKayq/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[Bài 32] – 1.1.3. Bài giảng – 03. Bài tập 1.mp4",
+                      "videos": [
+                        {
+                          "title": "[Bài 32] – 1.1.3. Bài giảng – 03. Bài tập 1.mp4",
+                          "link": "https://drive.google.com/file/d/1CfjNwi6gI6J_6Yh9mP1N7vTYPLuxClI9/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[Bài 32] – 1.1.4. Bài giảng – 04. Bài tập 2 – 5.mp4",
+                      "videos": [
+                        {
+                          "title": "[Bài 32] – 1.1.4. Bài giảng – 04. Bài tập 2 – 5.mp4",
+                          "link": "https://drive.google.com/file/d/1htFBRQx649U-T3-L4WncrC42dyYyBK70/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[Bài 32] – 1.1.5. Bài giảng – 05. Bài tập 6 – 9.mp4",
+                      "videos": [
+                        {
+                          "title": "[Bài 32] – 1.1.5. Bài giảng – 05. Bài tập 6 – 9.mp4",
+                          "link": "https://drive.google.com/file/d/1qVY7pq46HRmvoN7GfMgtW32ygWnrTgho/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[Bài 32] – 1.1.6. Bài giảng – 06. Bài tập 10 – 12.mp4",
+                      "videos": [
+                        {
+                          "title": "[Bài 32] – 1.1.6. Bài giảng – 06. Bài tập 10 – 12.mp4",
+                          "link": "https://drive.google.com/file/d/1z1dHbGjH3r1vhfCKoijjYipVCAn0OcjC/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[Bài 32] – 2.1. [Đáp án Thi Online] Ôn tập về di truyền quần thể.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[Bài 32] – 2.1. [Đáp án Thi Online] Ôn tập về di truyền quần thể.pdf",
+                          "link": "https://drive.google.com/file/d/1gqnImUWjjO1w1N2ZcszrShW8WPgjk4bb/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "Đề thi dành cho học sinh giỏi về di truyền quần thể",
+                  "items": [
+                    {
+                      "name": "[Đề thi HSG Di truyền quần thể] – 2.1. [Đáp án Thi Online] Đề thi dành cho học sinh giỏi về di truyền quần thể – Đề số 1.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[Đề thi HSG Di truyền quần thể] – 2.1. [Đáp án Thi Online] Đề thi dành cho học sinh giỏi về di truyền quần thể – Đề số 1.pdf",
+                          "link": "https://drive.google.com/file/d/1BUFYlHLJ9NGUNCsld9ZuhTgMXhUhhyKS/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[Đề thi HSG Di truyền quần thể] – 2.2. [Đáp án Thi Online] Đề thi dành cho học sinh giỏi về di truyền quần thể – Đề số 2.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[Đề thi HSG Di truyền quần thể] – 2.2. [Đáp án Thi Online] Đề thi dành cho học sinh giỏi về di truyền quần thể – Đề số 2.pdf",
+                          "link": "https://drive.google.com/file/d/1zwS89aChQmqFiR-ktaflKwfiUUjo1EUA/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "CHƯƠNG 5. TIẾN HOÁ_",
+              "items": [],
+              "children": [
+                {
+                  "title": "1. Bài 33 – Các bằng chứng tiến hoá",
+                  "items": [
+                    {
+                      "name": "[1. Bài 33] – 1.2. 01 – Bằng chứng tiến hóa.mp4",
+                      "videos": [
+                        {
+                          "title": "[1. Bài 33] – 1.2. 01 – Bằng chứng tiến hóa.mp4",
+                          "link": "https://drive.google.com/file/d/1nEtGMnpxSzXfdmE0cNLCkFYCGq7hyPkv/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[1. Bài 33] – 1.3. 02 – Bằng chứng giải phẫu so sánh.mp4",
+                      "videos": [
+                        {
+                          "title": "[1. Bài 33] – 1.3. 02 – Bằng chứng giải phẫu so sánh.mp4",
+                          "link": "https://drive.google.com/file/d/1iajJnrNyZiqTQf9KAXxE2EV2SWQNj95h/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[1. Bài 33] – 1.4. 03 – Bằng chứng tế bào học.mp4",
+                      "videos": [
+                        {
+                          "title": "[1. Bài 33] – 1.4. 03 – Bằng chứng tế bào học.mp4",
+                          "link": "https://drive.google.com/file/d/13jrKpHhm-2EaDclfKQYBO7ktXG-UFXqM/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[1. Bài 33] – 1.5. 04 – Luyện tập.mp4",
+                      "videos": [
+                        {
+                          "title": "[1. Bài 33] – 1.5. 04 – Luyện tập.mp4",
+                          "link": "https://drive.google.com/file/d/1sbxAZzPClMWzHHlWPYonthPIqyNyj1ia/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[1. Bài 33] – 2.1. [Đáp án Thi Online] Các bằng chứng tiến hoá.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[1. Bài 33] – 2.1. [Đáp án Thi Online] Các bằng chứng tiến hoá.pdf",
+                          "link": "https://drive.google.com/file/d/1KtgkCsEO2LZbN1VLnUnMcF1v52aX1kRf/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "2. Bài 34 – Quan niệm của Darwin về chọn lọc tự nhiên và hình thành loài mới",
+                  "items": [
+                    {
+                      "name": "[2. Bài 34] – 1.2. 01 – Giới thiệu về darwin.mp4",
+                      "videos": [
+                        {
+                          "title": "[2. Bài 34] – 1.2. 01 – Giới thiệu về darwin.mp4",
+                          "link": "https://drive.google.com/file/d/1gbR2vJBWjf1ejGQMa9YYr9pIf90gfsRZ/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[2. Bài 34] – 1.3. 02 – Quan sát của Darwin.mp4",
+                      "videos": [
+                        {
+                          "title": "[2. Bài 34] – 1.3. 02 – Quan sát của Darwin.mp4",
+                          "link": "https://drive.google.com/file/d/1R3UTLLaKA8slFAKywMGmtPAr9Lqn1NbP/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[2. Bài 34] – 1.4. 03 – Giả thuyết của Darwin.mp4",
+                      "videos": [
+                        {
+                          "title": "[2. Bài 34] – 1.4. 03 – Giả thuyết của Darwin.mp4",
+                          "link": "https://drive.google.com/file/d/1oMOOQP02i_nYd-uo-mVpoZzx44l1dXjG/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[2. Bài 34] – 1.5. 04 – Kiểm chứng giả thuyết.mp4",
+                      "videos": [
+                        {
+                          "title": "[2. Bài 34] – 1.5. 04 – Kiểm chứng giả thuyết.mp4",
+                          "link": "https://drive.google.com/file/d/1QvmzQIj4U6ceLW7nsvSjbF1ACcJtKQCC/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[2. Bài 34] – 1.6. 05 – Bài tập.mp4",
+                      "videos": [
+                        {
+                          "title": "[2. Bài 34] – 1.6. 05 – Bài tập.mp4",
+                          "link": "https://drive.google.com/file/d/1smCBN4p8BJxnjgOKA5chq1ErphMx0ybY/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[2. Bài 34] – 2.1. [Đáp án Thi Online] Quan niệm của Darwin về chọn lọc tự nhiên và hình thành loài mới.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[2. Bài 34] – 2.1. [Đáp án Thi Online] Quan niệm của Darwin về chọn lọc tự nhiên và hình thành loài mới.pdf",
+                          "link": "https://drive.google.com/file/d/1_Qer1A4I2OP3D-Gpx-HrnZacGIClDVD7/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "3. Bài 35 – Các nhân tố tiến hoá",
+                  "items": [
+                    {
+                      "name": "[3. Bài 35] – 1.2. 01 – Tổng quan.mp4",
+                      "videos": [
+                        {
+                          "title": "[3. Bài 35] – 1.2. 01 – Tổng quan.mp4",
+                          "link": "https://drive.google.com/file/d/1mn3n2ZAnQ4QbnPcLzCKFGSAEjhVzzS_K/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[3. Bài 35] – 1.3. 02 – Tiến hóa nhỏ và tiến hóa lớn.mp4",
+                      "videos": [
+                        {
+                          "title": "[3. Bài 35] – 1.3. 02 – Tiến hóa nhỏ và tiến hóa lớn.mp4",
+                          "link": "https://drive.google.com/file/d/12moy50wZ8erqO0sAwXpKoqPjVue_Kwr-/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[3. Bài 35] – 1.4. 03 – Các nhân tố tiến hóa.mp4",
+                      "videos": [
+                        {
+                          "title": "[3. Bài 35] – 1.4. 03 – Các nhân tố tiến hóa.mp4",
+                          "link": "https://drive.google.com/file/d/1PRUyEPnFayB3VgyU0PI9y7QO2h57GIDS/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[3. Bài 35] – 1.5. 04 – Đặc điểm thích nghi.mp4",
+                      "videos": [
+                        {
+                          "title": "[3. Bài 35] – 1.5. 04 – Đặc điểm thích nghi.mp4",
+                          "link": "https://drive.google.com/file/d/1VHEK2JqviVIecpzsAnMmQWc-c6CUIPWg/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[3. Bài 35] – 2.1. [Đáp án Thi Online] Các nhân tố tiến hoá.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[3. Bài 35] – 2.1. [Đáp án Thi Online] Các nhân tố tiến hoá.pdf",
+                          "link": "https://drive.google.com/file/d/1PYkSEGQoMaQNWYO53RcXITuhOIMmz6wB/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "7. Bài 36 – Ôn tập về nhân tố tiến hoá",
+                  "items": [
+                    {
+                      "name": "[7. Bài 36] – 1.1. [Bài giảng] Lý thuyết tổng quát.mp4",
+                      "videos": [
+                        {
+                          "title": "[7. Bài 36] – 1.1. [Bài giảng] Lý thuyết tổng quát.mp4",
+                          "link": "https://drive.google.com/file/d/1aMyBgapgfzecPflzhS1MPYChuUGhNe0e/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[7. Bài 36] – 1.2. [Bài giảng] Câu hỏi 1 – 2.mp4",
+                      "videos": [
+                        {
+                          "title": "[7. Bài 36] – 1.2. [Bài giảng] Câu hỏi 1 – 2.mp4",
+                          "link": "https://drive.google.com/file/d/19gdZ4b5eDVXRJXmbLET2twtPru88CPrB/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[7. Bài 36] – 1.3. [Bài giảng] Câu hỏi 3 – 6.mp4",
+                      "videos": [
+                        {
+                          "title": "[7. Bài 36] – 1.3. [Bài giảng] Câu hỏi 3 – 6.mp4",
+                          "link": "https://drive.google.com/file/d/1HnlDruz0ziqlGEMm2ArZtCCkDdzV0HxB/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[7. Bài 36] – 1.4. [Bài giảng] Câu hỏi 7 – 8.mp4",
+                      "videos": [
+                        {
+                          "title": "[7. Bài 36] – 1.4. [Bài giảng] Câu hỏi 7 – 8.mp4",
+                          "link": "https://drive.google.com/file/d/1P1FyZa0RezQ509cdoyrDcpBx_8r5R-l7/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[7. Bài 36] – 1.5. [Bài giảng] Câu hỏi 9 – 10.mp4",
+                      "videos": [
+                        {
+                          "title": "[7. Bài 36] – 1.5. [Bài giảng] Câu hỏi 9 – 10.mp4",
+                          "link": "https://drive.google.com/file/d/1TptuSR0Etuy3nay08J_UewwRtUNMfxdb/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[7. Bài 36] – 2. [Đáp án Thi Online] Ôn tập về nhân tố tiến hoá.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[7. Bài 36] – 2. [Đáp án Thi Online] Ôn tập về nhân tố tiến hoá.pdf",
+                          "link": "https://drive.google.com/file/d/1iS5OCntz0KjR9rIFl4anzcX3q__OyrxO/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "9. Bài 37 – Quá trình hình thành đặc điểm thích nghi",
+                  "items": [
+                    {
+                      "name": "[9. Bài 37] – 1.1. [Bài giảng] Khái niệm đặc điểm thích nghi.mp4",
+                      "videos": [
+                        {
+                          "title": "[9. Bài 37] – 1.1. [Bài giảng] Khái niệm đặc điểm thích nghi.mp4",
+                          "link": "https://drive.google.com/file/d/1Q92gwabhwrVafTS6oPhe_ELHiijhvXCk/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[9. Bài 37] – 1.2. [Bài giảng] Cơ chế hình thành đặc điểm thích nghi.mp4",
+                      "videos": [
+                        {
+                          "title": "[9. Bài 37] – 1.2. [Bài giảng] Cơ chế hình thành đặc điểm thích nghi.mp4",
+                          "link": "https://drive.google.com/file/d/14qSJoj4y3v9jZDNMZrdaujk-hu47pXHV/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[9. Bài 37] – 1.3. [Bài giảng] Tính tương đối của đặc điểm thích nghi.mp4",
+                      "videos": [
+                        {
+                          "title": "[9. Bài 37] – 1.3. [Bài giảng] Tính tương đối của đặc điểm thích nghi.mp4",
+                          "link": "https://drive.google.com/file/d/1NFYTFovTs3VsoUsmu4i4haTsEFu9-WOX/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[9. Bài 37] – 2. [Đáp án Thi Online] Quá trình hình thành đặc điểm thích nghi.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[9. Bài 37] – 2. [Đáp án Thi Online] Quá trình hình thành đặc điểm thích nghi.pdf",
+                          "link": "https://drive.google.com/file/d/14fxCKbcMAGfdwzn1B-iFwAPxi9MmKtVo/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                }
+              ]
             }
           ]
         },
@@ -6082,6 +6838,374 @@ const COURSE_DATA = {
                     }
                   ],
                   "children": []
+                },
+                {
+                  "title": "6. Buổi 6 – Ôn tập về Di truyền phân tử",
+                  "items": [
+                    {
+                      "name": "[6. Buổi 6] – 1.1. [Video lí thuyết] 01. Lý thuyết suy luận.mp4",
+                      "videos": [
+                        {
+                          "title": "[6. Buổi 6] – 1.1. [Video lí thuyết] 01. Lý thuyết suy luận.mp4",
+                          "link": "https://drive.google.com/file/d/1ANnOXbLpV-gtOo0UL7fAm7SeHjlPStzU/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[6. Buổi 6] – 1.2. [Video lí thuyết] 02. Tìm hiểu về cấu trúc và chức năng của DNA.mp4",
+                      "videos": [
+                        {
+                          "title": "[6. Buổi 6] – 1.2. [Video lí thuyết] 02. Tìm hiểu về cấu trúc và chức năng của DNA.mp4",
+                          "link": "https://drive.google.com/file/d/1muCgTdvrOelR3WfN6kS3TjtlNrEjMh_8/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[6. Buổi 6] – 1.3. [Video lí thuyết] 03. Tìm hiểu về các bằng chứng chứng minh DNA là vật chất mang thông tin di truyền.mp4",
+                      "videos": [
+                        {
+                          "title": "[6. Buổi 6] – 1.3. [Video lí thuyết] 03. Tìm hiểu về các bằng chứng chứng minh DNA là vật chất mang thông tin di truyền.mp4",
+                          "link": "https://drive.google.com/file/d/1iCG6yx6EeE_guVq76bIwqWi1vdIp-KAY/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[6. Buổi 6] – 2. Đáp án Thi Online Buổi 6 – Ôn tập về Di truyền phân tử.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[6. Buổi 6] – 2. Đáp án Thi Online Buổi 6 – Ôn tập về Di truyền phân tử.pdf",
+                          "link": "https://drive.google.com/file/d/1Ie2vUOHSxuME5j-UrfbplnZh92KS3s7z/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[6. Buổi 6] – 3. [Tài liệu Thi Online] Buổi 6 – Ôn tập về Di truyền phân tử.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[6. Buổi 6] – 3. [Tài liệu Thi Online] Buổi 6 – Ôn tập về Di truyền phân tử.pdf",
+                          "link": "https://drive.google.com/file/d/1xyT5h60A9bzn4zPNwB_NI1QVfjxCAJzM/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[6. Buổi 6] – 4. [Live] Buổi 6 – Ôn tập về Di truyền phân tử.mp4",
+                      "videos": [
+                        {
+                          "title": "[6. Buổi 6] – 4. [Live] Buổi 6 – Ôn tập về Di truyền phân tử.mp4",
+                          "link": "https://drive.google.com/file/d/1yz2hLI4Db3qP3WubhWnRuKcZC7uBJf4V/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[6. Buổi 6] – 5. [Tài liệu viết tay] Buổi 6 – Ôn tập về Di truyền phân tử.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[6. Buổi 6] – 5. [Tài liệu viết tay] Buổi 6 – Ôn tập về Di truyền phân tử.pdf",
+                          "link": "https://drive.google.com/file/d/1itxt80c7JOnNM6_-b8Dx_7YvEufHBfsA/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[6. Buổi 6] – 6. Đáp án Bài tập về nhà – Buổi 6 – Ôn tập về Di truyền phân tử.pdf.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[6. Buổi 6] – 6. Đáp án Bài tập về nhà – Buổi 6 – Ôn tập về Di truyền phân tử.pdf.pdf",
+                          "link": "https://drive.google.com/file/d/1O_t6Xt2RUbTKKNzAOHJz9pcHr5IgV8R4/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[6. Buổi 6] – 7. [Tài liệu BTVN] Buổi 6 – Ôn tập về Di truyền phân tử.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[6. Buổi 6] – 7. [Tài liệu BTVN] Buổi 6 – Ôn tập về Di truyền phân tử.pdf",
+                          "link": "https://drive.google.com/file/d/1g-9hKYKXpGUnBMNaMW0NzFEc0M0L5Y8s/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[6. Buổi 6] – 8. [Video Chữa BTVN] Buổi 6 – Ôn tập về Di truyền phân tử.mp4",
+                      "videos": [
+                        {
+                          "title": "[6. Buổi 6] – 8. [Video Chữa BTVN] Buổi 6 – Ôn tập về Di truyền phân tử.mp4",
+                          "link": "https://drive.google.com/file/d/1tzrcihda7d-4WNhHJFhTRYWgiNvB50ql/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "7. Buổi 7 – Nâng cao về di truyền phân tử (Phần 1)",
+                  "items": [
+                    {
+                      "name": "[7. Buổi 7] – 1.1. [Video lí thuyết] Bài tập 1.mp4",
+                      "videos": [
+                        {
+                          "title": "[7. Buổi 7] – 1.1. [Video lí thuyết] Bài tập 1.mp4",
+                          "link": "https://drive.google.com/file/d/1VCFY6PW9xuTsXOsVGG8VeToY1AEXv6Te/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[7. Buổi 7] – 1.2. [Video lí thuyết] Bài tập 2.mp4",
+                      "videos": [
+                        {
+                          "title": "[7. Buổi 7] – 1.2. [Video lí thuyết] Bài tập 2.mp4",
+                          "link": "https://drive.google.com/file/d/1yWmB9hZtOkIp0g8JZh_xXBQ-b5V0Bfdy/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[7. Buổi 7] – 1.3. [Video lí thuyết] Bài tập 3.mp4",
+                      "videos": [
+                        {
+                          "title": "[7. Buổi 7] – 1.3. [Video lí thuyết] Bài tập 3.mp4",
+                          "link": "https://drive.google.com/file/d/1edakl7l7zWqEhS3giy7uRuc0IP2zVW8V/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[7. Buổi 7] – 1.4. [Video lí thuyết] Bài tập 4.mp4",
+                      "videos": [
+                        {
+                          "title": "[7. Buổi 7] – 1.4. [Video lí thuyết] Bài tập 4.mp4",
+                          "link": "https://drive.google.com/file/d/1pZZ2ouAhc-_bgO-M7ON-LVZ0oK1g_58N/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[7. Buổi 7] – 1.5. [Video lí thuyết] Bài tập 5.mp4",
+                      "videos": [
+                        {
+                          "title": "[7. Buổi 7] – 1.5. [Video lí thuyết] Bài tập 5.mp4",
+                          "link": "https://drive.google.com/file/d/1riBW9AIvH4c1UMDXUUdQ2LiFuc_zCJAO/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[7. Buổi 7] – 1.6. [Video lí thuyết] Bài tập 6.mp4",
+                      "videos": [
+                        {
+                          "title": "[7. Buổi 7] – 1.6. [Video lí thuyết] Bài tập 6.mp4",
+                          "link": "https://drive.google.com/file/d/1vJci-iS4A3Saul2NbchsB1g0YjQ1sOs7/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[7. Buổi 7] – 1.7. [Video lí thuyết] Bài tập 7.mp4",
+                      "videos": [
+                        {
+                          "title": "[7. Buổi 7] – 1.7. [Video lí thuyết] Bài tập 7.mp4",
+                          "link": "https://drive.google.com/file/d/1oyyl90nXF9hjYtnEf-wMOXAYVTM-1rSv/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[7. Buổi 7] – 2. [Đáp án Thi Online] Buổi 7 – Nâng cao về di truyền phân tử (Phần 1).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[7. Buổi 7] – 2. [Đáp án Thi Online] Buổi 7 – Nâng cao về di truyền phân tử (Phần 1).pdf",
+                          "link": "https://drive.google.com/file/d/1uAVtUy3D6YxPnqGD7A8C2zc1dlZwcyeK/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[7. Buổi 7] – 3. [Tài liệu Thi Online] Buổi 7 – Nâng cao về di truyền phân tử (Phần 1).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[7. Buổi 7] – 3. [Tài liệu Thi Online] Buổi 7 – Nâng cao về di truyền phân tử (Phần 1).pdf",
+                          "link": "https://drive.google.com/file/d/1oxk-6smqpiFYHBten0sUbgx8eDs2tliF/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[7. Buổi 7] – 4. [Live] Buổi 7 – Nâng cao về di truyền phân tử (Phần 1).mp4",
+                      "videos": [
+                        {
+                          "title": "[7. Buổi 7] – 4. [Live] Buổi 7 – Nâng cao về di truyền phân tử (Phần 1).mp4",
+                          "link": "https://drive.google.com/file/d/1hLBcdkFSZy_CGqItGuMy7d9sVqkgwcqg/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[7. Buổi 7] – 5. [Live] Buổi 7 – Nâng cao về di truyền phân tử (Phần 1).mp4",
+                      "videos": [
+                        {
+                          "title": "[7. Buổi 7] – 5. [Live] Buổi 7 – Nâng cao về di truyền phân tử (Phần 1).mp4",
+                          "link": "https://drive.google.com/file/d/1J71GVfAyorHBYmfNrZpCjy5281RYg4sU/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[7. Buổi 7] – 5. [Tài liệu viết tay] Buổi 7 – Nâng cao về di truyền phân tử (Phần 1).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[7. Buổi 7] – 5. [Tài liệu viết tay] Buổi 7 – Nâng cao về di truyền phân tử (Phần 1).pdf",
+                          "link": "https://drive.google.com/file/d/1sP2cHckfa102FWegWPqxLGR2vDMHWVQB/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[7. Buổi 7] – 6. Đáp án Bài tập về nhà – Buổi 7 – Nâng cao về di truyền phân tử (Phần 1).pdf.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[7. Buổi 7] – 6. Đáp án Bài tập về nhà – Buổi 7 – Nâng cao về di truyền phân tử (Phần 1).pdf.pdf",
+                          "link": "https://drive.google.com/file/d/1x07bvhpNkxBM6aJzrgwLBwIUVINk7Uhb/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[7. Buổi 7] – 7. [Tài liệu BTVN] Buổi 7 – Nâng cao về di truyền phân tử (Phần 1).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[7. Buổi 7] – 7. [Tài liệu BTVN] Buổi 7 – Nâng cao về di truyền phân tử (Phần 1).pdf",
+                          "link": "https://drive.google.com/file/d/1pH4gsDrgD72CoV9TjqGpJoLY4W66HEv2/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[7. Buổi 7] – 8. [Video Chữa BTVN] Buổi 7 – Nâng cao về di truyền phân tử (Phần 1).mp4",
+                      "videos": [
+                        {
+                          "title": "[7. Buổi 7] – 8. [Video Chữa BTVN] Buổi 7 – Nâng cao về di truyền phân tử (Phần 1).mp4",
+                          "link": "https://drive.google.com/file/d/1_IEkoN9c1Vw-puxWZBaS_AdEbi24j3U8/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "8. Buổi 8_ Nâng cao về di truyền phân tử (Phần 2)",
+                  "items": [
+                    {
+                      "name": "[8. Buổi 8 – 1. Video lí thuyết] – 01. Bài toán tổng hợp 1.mp4",
+                      "videos": [
+                        {
+                          "title": "[8. Buổi 8 – 1. Video lí thuyết] – 01. Bài toán tổng hợp 1.mp4",
+                          "link": "https://drive.google.com/file/d/16_HJg5bRiGShzHpFDCr15Neu1YhoXXVJ/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[8. Buổi 8 – 1. Video lí thuyết] – 02. Ví dụ minh họa.mp4",
+                      "videos": [
+                        {
+                          "title": "[8. Buổi 8 – 1. Video lí thuyết] – 02. Ví dụ minh họa.mp4",
+                          "link": "https://drive.google.com/file/d/1-k-pur54WLAgX4CWFPvsLqUdmsmvQCMY/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[8. Buổi 8 – 1. Video lí thuyết] – 03. Bài toán tổng hợp 2.mp4",
+                      "videos": [
+                        {
+                          "title": "[8. Buổi 8 – 1. Video lí thuyết] – 03. Bài toán tổng hợp 2.mp4",
+                          "link": "https://drive.google.com/file/d/1ds4cbjhbs43eYK-FstDe2Qx6PpO7EkpB/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[8. Buổi 8] – 2. Đáp án Buổi 8 – Nâng cao về di truyền phân tử (Phần 2).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[8. Buổi 8] – 2. Đáp án Buổi 8 – Nâng cao về di truyền phân tử (Phần 2).pdf",
+                          "link": "https://drive.google.com/file/d/15efDSSP7wk2G42Fsr0QTe8OoeemWcEnC/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[8. Buổi 8] – 3. [Tài liệu Thi Online] Buổi 8 – Nâng cao về di truyền phân tử (Phần 2).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[8. Buổi 8] – 3. [Tài liệu Thi Online] Buổi 8 – Nâng cao về di truyền phân tử (Phần 2).pdf",
+                          "link": "https://drive.google.com/file/d/1F1ONq06_zenLoE5xnVKmDs4OYnKo9kb2/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[8. Buổi 8] – 4. [Live] Buổi 8 – Nâng cao về di truyền phân tử (Phần 2).mp4",
+                      "videos": [
+                        {
+                          "title": "[8. Buổi 8] – 4. [Live] Buổi 8 – Nâng cao về di truyền phân tử (Phần 2).mp4",
+                          "link": "https://drive.google.com/file/d/1bxRJCypkKUfoFXpVtLIR6ABdRX_KBk6V/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[Buổi 8] – 5. [Tài liệu viết tay] Buổi 8 – Nâng cao về di truyền phân tử (Phần 2).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[Buổi 8] – 5. [Tài liệu viết tay] Buổi 8 – Nâng cao về di truyền phân tử (Phần 2).pdf",
+                          "link": "https://drive.google.com/file/d/1T-PPAEpE68abSFw5tLrsUNAGVfafHUT3/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[Buổi 8] – 6. [Đáp án Bài tập về nhà] Buổi 8 – Nâng cao về di truyền phân tử (Phần 2).pdf.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[Buổi 8] – 6. [Đáp án Bài tập về nhà] Buổi 8 – Nâng cao về di truyền phân tử (Phần 2).pdf.pdf",
+                          "link": "https://drive.google.com/file/d/1rz1KCueqVCbIZ5D5kVaG5yK-8wGf5wx7/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[Buổi 8] – 7. [Tài liệu BTVN] Buổi 8 – Nâng cao về di truyền phân tử (Phần 2).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[Buổi 8] – 7. [Tài liệu BTVN] Buổi 8 – Nâng cao về di truyền phân tử (Phần 2).pdf",
+                          "link": "https://drive.google.com/file/d/11Nv_uWu82UnD1-JGb_53YsNeJBrPSLtt/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[Buổi 8] – 8. [Video Chữa BTVN] Buổi 8 – Nâng cao về di truyền phân tử (Phần 2).mp4",
+                      "videos": [
+                        {
+                          "title": "[Buổi 8] – 8. [Video Chữa BTVN] Buổi 8 – Nâng cao về di truyền phân tử (Phần 2).mp4",
+                          "link": "https://drive.google.com/file/d/1WKIYePCVbYrodjrTUdE7u_Fzy-1IL1X7/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
                 }
               ]
             },
@@ -6410,6 +7534,1694 @@ const COURSE_DATA = {
                         {
                           "title": "[3. Buổi 11] – 1.4. [Video lí thuyết] Câu hỏi vận dụng.mp4",
                           "link": "https://drive.google.com/file/d/1fvEGn7-hIvEAgtieMP2SncB972UZ88cc/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "4. Buổi 12 – Ôn tập về di truyền mở rộng Mendel",
+                  "items": [
+                    {
+                      "name": "[4. Buổi 12] – 1.1. [Video lí thuyết] Tương tác giữa các Gene cùng Allele.mp4",
+                      "videos": [
+                        {
+                          "title": "[4. Buổi 12] – 1.1. [Video lí thuyết] Tương tác giữa các Gene cùng Allele.mp4",
+                          "link": "https://drive.google.com/file/d/1fHhVv12CcgvJHWxesDHjJ-9MUSoXTYia/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[4. Buổi 12] – 1.2. [Video lí thuyết] Tương tác giữa các Allele thuộc Gene khác nhau.mp4",
+                      "videos": [
+                        {
+                          "title": "[4. Buổi 12] – 1.2. [Video lí thuyết] Tương tác giữa các Allele thuộc Gene khác nhau.mp4",
+                          "link": "https://drive.google.com/file/d/1p-pPCA37HzQ_sklGG5ujxvjZZvFH-Fne/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[4. Buổi 12] – 1.2. [Đáp án Thi Online] Buổi 12 – Ôn tập về di truyền mở rộng Mendel.pdf.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[4. Buổi 12] – 1.2. [Đáp án Thi Online] Buổi 12 – Ôn tập về di truyền mở rộng Mendel.pdf.pdf",
+                          "link": "https://drive.google.com/file/d/1z6mKomKs67Q8g7b2_BfDGQJrqLAh-c9S/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[4. Buổi 12] – 1.3. [Tài liệu Thi Online] Buổi 12 – Ôn tập về di truyền mở rộng Mendel.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[4. Buổi 12] – 1.3. [Tài liệu Thi Online] Buổi 12 – Ôn tập về di truyền mở rộng Mendel.pdf",
+                          "link": "https://drive.google.com/file/d/1aOcaLv0tSXd_-uJnS5lF82jU1qUbbTo6/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[4. Buổi 12] – 1.3. [Video lí thuyết] Bài tập 1 – 4.mp4",
+                      "videos": [
+                        {
+                          "title": "[4. Buổi 12] – 1.3. [Video lí thuyết] Bài tập 1 – 4.mp4",
+                          "link": "https://drive.google.com/file/d/1Rl1MRFeqy1A36wb-XJIu0NxPdQabFmXZ/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[4. Buổi 12] – 1.4. [Live] Buổi 12 – Ôn tập về di truyền mở rộng Mendel.mp4",
+                      "videos": [
+                        {
+                          "title": "[4. Buổi 12] – 1.4. [Live] Buổi 12 – Ôn tập về di truyền mở rộng Mendel.mp4",
+                          "link": "https://drive.google.com/file/d/1Y80cSnuPTQDlyfgyxasm3D-tkm6lwq1V/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[4. Buổi 12] – 1.4. [Video lí thuyết] Bài tập 5 – 7.mp4",
+                      "videos": [
+                        {
+                          "title": "[4. Buổi 12] – 1.4. [Video lí thuyết] Bài tập 5 – 7.mp4",
+                          "link": "https://drive.google.com/file/d/15IKbtHZpDUnsT-FjMaPBxZnlEMRonUUx/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[4. Buổi 12] – 1.5. [Đáp án Chấm chuyên cần] BTVN Buổi 12 – Ôn tập về di truyền mở rộng Mendel.pdf.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[4. Buổi 12] – 1.5. [Đáp án Chấm chuyên cần] BTVN Buổi 12 – Ôn tập về di truyền mở rộng Mendel.pdf.pdf",
+                          "link": "https://drive.google.com/file/d/1-7y8S7CdKDDR62LUXJcSSVOg5BMxV7Ao/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[4. Buổi 12] – 1.6. [Tài liệu BTVN] Buổi 12 – Ôn tập về di truyền mở rộng Mendel.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[4. Buổi 12] – 1.6. [Tài liệu BTVN] Buổi 12 – Ôn tập về di truyền mở rộng Mendel.pdf",
+                          "link": "https://drive.google.com/file/d/1z3u4m7MRbywE5_n4QATZJjrwl8Xwlnsv/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[4. Buổi 12] – 1.7. [Tài liệu viết tay Zoom] Buổi 12 – Ôn tập về di truyền mở rộng Mendel.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[4. Buổi 12] – 1.7. [Tài liệu viết tay Zoom] Buổi 12 – Ôn tập về di truyền mở rộng Mendel.pdf",
+                          "link": "https://drive.google.com/file/d/1xSxCyAuneIlwOBwpLC-lXoq_aPE7oQ2E/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[4. Buổi 12] – 1.8.1. [Video Chữa BTVN] 01. Câu 1 – 10.mp4",
+                      "videos": [
+                        {
+                          "title": "[4. Buổi 12] – 1.8.1. [Video Chữa BTVN] 01. Câu 1 – 10.mp4",
+                          "link": "https://drive.google.com/file/d/1FL9VwfUbG1oGgnqMu_yMkLfSA4kZp0fD/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[4. Buổi 12] – 1.8.2. [Video Chữa BTVN] 02. Câu 11 – 14.mp4",
+                      "videos": [
+                        {
+                          "title": "[4. Buổi 12] – 1.8.2. [Video Chữa BTVN] 02. Câu 11 – 14.mp4",
+                          "link": "https://drive.google.com/file/d/1cTX9SyaDLRyjbNYhALr_27X5O1XEChoB/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "5. Buổi 13 – Nâng cao về di truyền Mendel",
+                  "items": [
+                    {
+                      "name": "[5. Buổi 13] – 1.1.1. [Video lí thuyết] 01. Lý thuyết trọng tâm.mp4",
+                      "videos": [
+                        {
+                          "title": "[5. Buổi 13] – 1.1.1. [Video lí thuyết] 01. Lý thuyết trọng tâm.mp4",
+                          "link": "https://drive.google.com/file/d/17rKF9FzAkndYPlP0DTJIWApVyVYnpau-/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[5. Buổi 13] – 1.1.2. [Video lí thuyết] 02. Bài tập 1 – 4.mp4",
+                      "videos": [
+                        {
+                          "title": "[5. Buổi 13] – 1.1.2. [Video lí thuyết] 02. Bài tập 1 – 4.mp4",
+                          "link": "https://drive.google.com/file/d/1eZXT7h0vgxiKzChTH5x8w87J1RF0yO77/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[5. Buổi 13] – 1.1.3. [Video lí thuyết] 03. Bài tập 5 – 6.mp4",
+                      "videos": [
+                        {
+                          "title": "[5. Buổi 13] – 1.1.3. [Video lí thuyết] 03. Bài tập 5 – 6.mp4",
+                          "link": "https://drive.google.com/file/d/1SQ3iOLQtq0MxXNA-dA3hi5mFy1KU3YlE/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[5. Buổi 13] – 1.1.4. [Video lí thuyết] 04. Bài tập 7 – 8.mp4",
+                      "videos": [
+                        {
+                          "title": "[5. Buổi 13] – 1.1.4. [Video lí thuyết] 04. Bài tập 7 – 8.mp4",
+                          "link": "https://drive.google.com/file/d/17P6Hhc85EjQhqfWlF4rGn6wf6Hi0CeHu/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[5. Buổi 13] – 1.2. [Đáp án Thi Online] Buổi 13 – Nâng cao về di truyền Mendel.pdf.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[5. Buổi 13] – 1.2. [Đáp án Thi Online] Buổi 13 – Nâng cao về di truyền Mendel.pdf.pdf",
+                          "link": "https://drive.google.com/file/d/1SD-oLkXJb1d9rHLmHzyZINT6CCoREkng/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[5. Buổi 13] – 1.3. [Tài liệu Thi Online] Buổi 13 – Nâng cao về di truyền Mendel.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[5. Buổi 13] – 1.3. [Tài liệu Thi Online] Buổi 13 – Nâng cao về di truyền Mendel.pdf",
+                          "link": "https://drive.google.com/file/d/1XQK-Up2W22bN5YDsbnz6Lfn7GYX9yAO7/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[5. Buổi 13] – 1.4. [Live] Buổi 13 – Nâng cao về di truyền Mendel.mp4",
+                      "videos": [
+                        {
+                          "title": "[5. Buổi 13] – 1.4. [Live] Buổi 13 – Nâng cao về di truyền Mendel.mp4",
+                          "link": "https://drive.google.com/file/d/1gMfxWwF6gjuX1UBqTI2f-HiXUT6kaV5n/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[5. Buổi 13] – 1.7. [Tài liệu viết tay Zoom] Buổi 13 – Nâng cao về di truyền Mendel.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[5. Buổi 13] – 1.7. [Tài liệu viết tay Zoom] Buổi 13 – Nâng cao về di truyền Mendel.pdf",
+                          "link": "https://drive.google.com/file/d/1ltXxV2Mwy_JEHl508fYXdCV9sHMlKxEK/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[5. Buổi 13] – 5.5. Đáp án BTVN Buổi 13 – Nâng cao về di truyền Mendel.pdf.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[5. Buổi 13] – 5.5. Đáp án BTVN Buổi 13 – Nâng cao về di truyền Mendel.pdf.pdf",
+                          "link": "https://drive.google.com/file/d/13aa0Nsbc6wn-wwQq8mYvJ07bOHVao3EF/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[5. Buổi 13] – 5.6. [Tài liệu BTVN] Buổi 13 – Nâng cao về di truyền Mendel.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[5. Buổi 13] – 5.6. [Tài liệu BTVN] Buổi 13 – Nâng cao về di truyền Mendel.pdf",
+                          "link": "https://drive.google.com/file/d/1GgNWktit-gTlbBEiq6elMWLYngr1KSt-/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[5. Buổi 13] – 5.7. [Tài liệu viết tay Zoom] Buổi 13 – Nâng cao về di truyền Mendel.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[5. Buổi 13] – 5.7. [Tài liệu viết tay Zoom] Buổi 13 – Nâng cao về di truyền Mendel.pdf",
+                          "link": "https://drive.google.com/file/d/1u5UAgVONm_jUEqD9A0C7OZyCRyGh5W1i/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[5. Buổi 13] – 5.8.1. [Video Chữa BTVN] Câu 1 – 10.mp4",
+                      "videos": [
+                        {
+                          "title": "[5. Buổi 13] – 5.8.1. [Video Chữa BTVN] Câu 1 – 10.mp4",
+                          "link": "https://drive.google.com/file/d/1lnRvolkUk2EqnYq4qyZzyEVHndgh2yk2/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[5. Buổi 13] – 5.8.2. [Video Chữa BTVN] Câu 11 – 14.mp4",
+                      "videos": [
+                        {
+                          "title": "[5. Buổi 13] – 5.8.2. [Video Chữa BTVN] Câu 11 – 14.mp4",
+                          "link": "https://drive.google.com/file/d/1TnoBtbGOgd4vfWt8UDfK9vRQCJpx0pF7/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "6. Buổi 6 – Ôn tập về Di truyền phân tử",
+                  "items": [
+                    {
+                      "name": "[6. Buổi 6] – 1.1. [Video lí thuyết] 01. Lý thuyết suy luận.mp4",
+                      "videos": [
+                        {
+                          "title": "[6. Buổi 6] – 1.1. [Video lí thuyết] 01. Lý thuyết suy luận.mp4",
+                          "link": "https://drive.google.com/file/d/1pQIdfeN1B9P8zQZ5TjADIuPX6lyUi2Rl/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[6. Buổi 6] – 1.2. [Video lí thuyết] 02. Tìm hiểu về cấu trúc và chức năng của DNA.mp4",
+                      "videos": [
+                        {
+                          "title": "[6. Buổi 6] – 1.2. [Video lí thuyết] 02. Tìm hiểu về cấu trúc và chức năng của DNA.mp4",
+                          "link": "https://drive.google.com/file/d/1A9C1QQeMQ5XpPDixUQ_CiORLWIukTJ2s/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[6. Buổi 6] – 1.3. [Video lí thuyết] 03. Tìm hiểu về các bằng chứng chứng minh DNA là vật chất mang thông tin di truyền.mp4",
+                      "videos": [
+                        {
+                          "title": "[6. Buổi 6] – 1.3. [Video lí thuyết] 03. Tìm hiểu về các bằng chứng chứng minh DNA là vật chất mang thông tin di truyền.mp4",
+                          "link": "https://drive.google.com/file/d/1DvjXXq3oCSFRMBPT-ighGzHLYBbZc4WL/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[6. Buổi 6] – 2. Đáp án Thi Online Buổi 6 – Ôn tập về Di truyền phân tử.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[6. Buổi 6] – 2. Đáp án Thi Online Buổi 6 – Ôn tập về Di truyền phân tử.pdf",
+                          "link": "https://drive.google.com/file/d/1FsmZUqb7glThkGe5Ps2ytJzomA1adk_1/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[6. Buổi 6] – 3. [Tài liệu Thi Online] Buổi 6 – Ôn tập về Di truyền phân tử.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[6. Buổi 6] – 3. [Tài liệu Thi Online] Buổi 6 – Ôn tập về Di truyền phân tử.pdf",
+                          "link": "https://drive.google.com/file/d/1P40oiF0h0OSZ8LJyROgWFV-C8rlZviwo/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[6. Buổi 6] – 4. [Live] Buổi 6 – Ôn tập về Di truyền phân tử.mp4",
+                      "videos": [
+                        {
+                          "title": "[6. Buổi 6] – 4. [Live] Buổi 6 – Ôn tập về Di truyền phân tử.mp4",
+                          "link": "https://drive.google.com/file/d/1I4PCDoKVN1br0bArj57wNaxbHEHu_yPu/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[6. Buổi 6] – 5. [Tài liệu viết tay] Buổi 6 – Ôn tập về Di truyền phân tử.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[6. Buổi 6] – 5. [Tài liệu viết tay] Buổi 6 – Ôn tập về Di truyền phân tử.pdf",
+                          "link": "https://drive.google.com/file/d/1A0rtKnd_qvKsACxxget9uTGy8ov3IOJJ/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[6. Buổi 6] – 6. Đáp án Bài tập về nhà – Buổi 6 – Ôn tập về Di truyền phân tử.pdf.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[6. Buổi 6] – 6. Đáp án Bài tập về nhà – Buổi 6 – Ôn tập về Di truyền phân tử.pdf.pdf",
+                          "link": "https://drive.google.com/file/d/1UGbrmo6PjXdeJmfpiIy2CMh8LtpYZXsA/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[6. Buổi 6] – 7. [Tài liệu BTVN] Buổi 6 – Ôn tập về Di truyền phân tử.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[6. Buổi 6] – 7. [Tài liệu BTVN] Buổi 6 – Ôn tập về Di truyền phân tử.pdf",
+                          "link": "https://drive.google.com/file/d/1KX2ipru_ynlJbdbd8luEB8TLltBKEUu7/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[6. Buổi 6] – 8. [Video Chữa BTVN] Buổi 6 – Ôn tập về Di truyền phân tử.mp4",
+                      "videos": [
+                        {
+                          "title": "[6. Buổi 6] – 8. [Video Chữa BTVN] Buổi 6 – Ôn tập về Di truyền phân tử.mp4",
+                          "link": "https://drive.google.com/file/d/1_BREXNHxNszcAzxXIKClDRRFVnc7shlC/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "6. Buổi 14 – Ôn tập về di truyền liên kết giới tính",
+                  "items": [
+                    {
+                      "name": "[6. Buổi 14] – 2. Đáp án Thi Online – Ôn tập về di truyền liên kết giới tính.pdf.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[6. Buổi 14] – 2. Đáp án Thi Online – Ôn tập về di truyền liên kết giới tính.pdf.pdf",
+                          "link": "https://drive.google.com/file/d/1wJZ8ROtC3LgWfUVs9HrYEe29Dh181_ms/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[6. Buổi 14] – 3. Tài liệu Thi Online – Ôn tập về di truyền liên kết giới tính.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[6. Buổi 14] – 3. Tài liệu Thi Online – Ôn tập về di truyền liên kết giới tính.pdf",
+                          "link": "https://drive.google.com/file/d/10iYDxKpeG6T1S2z0_f92SDvNe978Cyqu/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[6. Buổi 14] – 4. [Live] Ôn tập về di truyền liên kết giới tính.mp4",
+                      "videos": [
+                        {
+                          "title": "[6. Buổi 14] – 4. [Live] Ôn tập về di truyền liên kết giới tính.mp4",
+                          "link": "https://drive.google.com/file/d/1lqj__GQEbJvmg8eqCwP2ANqrFQN8_YNr/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[6. Buổi 14] – 5. Đáp án BTVN – Ôn tập về di truyền liên kết giới tính.pdf.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[6. Buổi 14] – 5. Đáp án BTVN – Ôn tập về di truyền liên kết giới tính.pdf.pdf",
+                          "link": "https://drive.google.com/file/d/1yTIKol7a2bpIpDqwfYePfGrxdGPtqX0-/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[6. Buổi 14] – 6.1.1. [Video lí thuyết] Di truyền giới tính.mp4",
+                      "videos": [
+                        {
+                          "title": "[6. Buổi 14] – 6.1.1. [Video lí thuyết] Di truyền giới tính.mp4",
+                          "link": "https://drive.google.com/file/d/11XNr7Vy-BIqrEE9OzOTXOvd2wfzITCAS/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[6. Buổi 14] – 6.1.2. [Video lí thuyết] Di truyền liên kết giới tính.mp4",
+                      "videos": [
+                        {
+                          "title": "[6. Buổi 14] – 6.1.2. [Video lí thuyết] Di truyền liên kết giới tính.mp4",
+                          "link": "https://drive.google.com/file/d/1HDfwJt5UWzm41Ssgsq1RUhGAn5k1hRjS/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[6. Buổi 14] – 6.1.3. [Video lí thuyết] Ứng dụng di truyền giới tính và di truyền liên kết giới tính.mp4",
+                      "videos": [
+                        {
+                          "title": "[6. Buổi 14] – 6.1.3. [Video lí thuyết] Ứng dụng di truyền giới tính và di truyền liên kết giới tính.mp4",
+                          "link": "https://drive.google.com/file/d/1az0nBPT4LLttUP1wrdVmxdL0YCa7Lp3S/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[6. Buổi 14] – 6.1.4. [Video lí thuyết] Bài tập vận dụng.mp4",
+                      "videos": [
+                        {
+                          "title": "[6. Buổi 14] – 6.1.4. [Video lí thuyết] Bài tập vận dụng.mp4",
+                          "link": "https://drive.google.com/file/d/1nVWbtfLtbejCM4fMFkrgE9EishFsHli3/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[6. Buổi 14] – 6.1.5. [Video lí thuyết] Lý thuyết cốt lõi.mp4",
+                      "videos": [
+                        {
+                          "title": "[6. Buổi 14] – 6.1.5. [Video lí thuyết] Lý thuyết cốt lõi.mp4",
+                          "link": "https://drive.google.com/file/d/13_KiXVryQ6HYS7x6xU7pdNtgrQVe62fB/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[6. Buổi 14] – 6.1.6. [Video lí thuyết] Bài tập 1 – 4.mp4",
+                      "videos": [
+                        {
+                          "title": "[6. Buổi 14] – 6.1.6. [Video lí thuyết] Bài tập 1 – 4.mp4",
+                          "link": "https://drive.google.com/file/d/1wfZpGaIxeAMsIEFzAJZG0OVLlJv3A1kf/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[6. Buổi 14] – 6.1.7. [Video lí thuyết] Bài tập 5 – 7.mp4",
+                      "videos": [
+                        {
+                          "title": "[6. Buổi 14] – 6.1.7. [Video lí thuyết] Bài tập 5 – 7.mp4",
+                          "link": "https://drive.google.com/file/d/1E4X_EBGIniqSRTfH0x3ywPJlFL5BHeGm/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[6. Buổi 14] – 6. Tài liệu BTVN – Ôn tập về di truyền liên kết giới tính.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[6. Buổi 14] – 6. Tài liệu BTVN – Ôn tập về di truyền liên kết giới tính.pdf",
+                          "link": "https://drive.google.com/file/d/1_RjlpI-v8I2plgphhIf-gQdhHPioYuMk/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[6. Buổi 14] – 7. Tài liệu viết tay Zoom – Ôn tập về di truyền liên kết giới tính.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[6. Buổi 14] – 7. Tài liệu viết tay Zoom – Ôn tập về di truyền liên kết giới tính.pdf",
+                          "link": "https://drive.google.com/file/d/19i0M4OFD7F7W14ywGayTtuPWcdCo0s_p/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[6. Buổi 14] – 8.1. [Video Chữa BTVN] Câu 1 – 5.mp4",
+                      "videos": [
+                        {
+                          "title": "[6. Buổi 14] – 8.1. [Video Chữa BTVN] Câu 1 – 5.mp4",
+                          "link": "https://drive.google.com/file/d/1XfpbIVFOBGPJPJYJ2gTxM5A05s1MtA3e/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[6. Buổi 14] – 8.2. [Video Chữa BTVN] Câu 6 – 10.mp4",
+                      "videos": [
+                        {
+                          "title": "[6. Buổi 14] – 8.2. [Video Chữa BTVN] Câu 6 – 10.mp4",
+                          "link": "https://drive.google.com/file/d/1iQTOrXMOU0yu3u4q_yMmyNNBdB0CQ444/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[6. Buổi 14] – 8.3. [Video Chữa BTVN] Câu 11 – 14.mp4",
+                      "videos": [
+                        {
+                          "title": "[6. Buổi 14] – 8.3. [Video Chữa BTVN] Câu 11 – 14.mp4",
+                          "link": "https://drive.google.com/file/d/1NYxw4nNO3S5DftWo2Ds7JcnQkRnwm37O/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "7. Buổi 7 – Nâng cao về di truyền phân tử (Phần 1)",
+                  "items": [
+                    {
+                      "name": "[7. Buổi 7] – 1.1. [Video lí thuyết] Bài tập 1.mp4",
+                      "videos": [
+                        {
+                          "title": "[7. Buổi 7] – 1.1. [Video lí thuyết] Bài tập 1.mp4",
+                          "link": "https://drive.google.com/file/d/1zoQ41mtpiWH_cMMiOWtT5zQf-iZD62MH/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[7. Buổi 7] – 1.2. [Video lí thuyết] Bài tập 2.mp4",
+                      "videos": [
+                        {
+                          "title": "[7. Buổi 7] – 1.2. [Video lí thuyết] Bài tập 2.mp4",
+                          "link": "https://drive.google.com/file/d/1hrEsOOSHVqxRvoMGMEszfQfH2MF0ReRf/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[7. Buổi 7] – 1.3. [Video lí thuyết] Bài tập 3.mp4",
+                      "videos": [
+                        {
+                          "title": "[7. Buổi 7] – 1.3. [Video lí thuyết] Bài tập 3.mp4",
+                          "link": "https://drive.google.com/file/d/1QogRDexm5LkbbjcX_af2VIwlVpXV5WFA/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[7. Buổi 7] – 1.4. [Video lí thuyết] Bài tập 4.mp4",
+                      "videos": [
+                        {
+                          "title": "[7. Buổi 7] – 1.4. [Video lí thuyết] Bài tập 4.mp4",
+                          "link": "https://drive.google.com/file/d/1ax18OPcx8OqNruiH1T7AAVjlMMyHx5G7/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[7. Buổi 7] – 1.5. [Video lí thuyết] Bài tập 5.mp4",
+                      "videos": [
+                        {
+                          "title": "[7. Buổi 7] – 1.5. [Video lí thuyết] Bài tập 5.mp4",
+                          "link": "https://drive.google.com/file/d/1A0rkB1k-4vLEXNjyKsocEVRI2VwMUetC/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[7. Buổi 7] – 1.6. [Video lí thuyết] Bài tập 6.mp4",
+                      "videos": [
+                        {
+                          "title": "[7. Buổi 7] – 1.6. [Video lí thuyết] Bài tập 6.mp4",
+                          "link": "https://drive.google.com/file/d/1lMs_fLR4DrhdPBvLytaGewRR5Pm38lDc/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[7. Buổi 7] – 1.7. [Video lí thuyết] Bài tập 7.mp4",
+                      "videos": [
+                        {
+                          "title": "[7. Buổi 7] – 1.7. [Video lí thuyết] Bài tập 7.mp4",
+                          "link": "https://drive.google.com/file/d/17Ucqs8C7-2PT7r-KQ7WHGuoiLOOqFwA9/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[7. Buổi 7] – 2. [Đáp án Thi Online] Buổi 7 – Nâng cao về di truyền phân tử (Phần 1).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[7. Buổi 7] – 2. [Đáp án Thi Online] Buổi 7 – Nâng cao về di truyền phân tử (Phần 1).pdf",
+                          "link": "https://drive.google.com/file/d/1KZ6jBKOA9-1Dh-C2sk35R-11TCn9M8HY/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[7. Buổi 7] – 3. [Tài liệu Thi Online] Buổi 7 – Nâng cao về di truyền phân tử (Phần 1).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[7. Buổi 7] – 3. [Tài liệu Thi Online] Buổi 7 – Nâng cao về di truyền phân tử (Phần 1).pdf",
+                          "link": "https://drive.google.com/file/d/1dngtXDilf16ir5h4BjdYtRpe1jDgy5Dd/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[7. Buổi 7] – 4. [Live] Buổi 7 – Nâng cao về di truyền phân tử (Phần 1).mp4",
+                      "videos": [
+                        {
+                          "title": "[7. Buổi 7] – 4. [Live] Buổi 7 – Nâng cao về di truyền phân tử (Phần 1).mp4",
+                          "link": "https://drive.google.com/file/d/1sOZw6dAJaPAASBXqsE0jxiBoRKinubrp/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[7. Buổi 7] – 5. [Live] Buổi 7 – Nâng cao về di truyền phân tử (Phần 1).mp4",
+                      "videos": [
+                        {
+                          "title": "[7. Buổi 7] – 5. [Live] Buổi 7 – Nâng cao về di truyền phân tử (Phần 1).mp4",
+                          "link": "https://drive.google.com/file/d/1ASn7ybshA792NntZRazqnwvpTGh6S82-/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[7. Buổi 7] – 5. [Tài liệu viết tay] Buổi 7 – Nâng cao về di truyền phân tử (Phần 1).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[7. Buổi 7] – 5. [Tài liệu viết tay] Buổi 7 – Nâng cao về di truyền phân tử (Phần 1).pdf",
+                          "link": "https://drive.google.com/file/d/1xewEsSUaAYXAnhGn3sMbMRtAPjQ2if3g/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[7. Buổi 7] – 6. Đáp án Bài tập về nhà – Buổi 7 – Nâng cao về di truyền phân tử (Phần 1).pdf.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[7. Buổi 7] – 6. Đáp án Bài tập về nhà – Buổi 7 – Nâng cao về di truyền phân tử (Phần 1).pdf.pdf",
+                          "link": "https://drive.google.com/file/d/1gE2U6RjJpJMOefrqAS5YaQQ9QDgGVLVO/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[7. Buổi 7] – 7. [Tài liệu BTVN] Buổi 7 – Nâng cao về di truyền phân tử (Phần 1).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[7. Buổi 7] – 7. [Tài liệu BTVN] Buổi 7 – Nâng cao về di truyền phân tử (Phần 1).pdf",
+                          "link": "https://drive.google.com/file/d/1s_MUATDZ6DI_I73pFIK_D_NoqMee6ah-/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[7. Buổi 7] – 8. [Video Chữa BTVN] Buổi 7 – Nâng cao về di truyền phân tử (Phần 1).mp4",
+                      "videos": [
+                        {
+                          "title": "[7. Buổi 7] – 8. [Video Chữa BTVN] Buổi 7 – Nâng cao về di truyền phân tử (Phần 1).mp4",
+                          "link": "https://drive.google.com/file/d/1CLLsnTOru2-m6yRoRLCkSw2kKm7TZq2b/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "7. Buổi 15 – Ôn tập về di truyền liên kết gene và hoán vị gene",
+                  "items": [
+                    {
+                      "name": "[7. Buổi 15] – 1.1. [Video lí thuyết] Liên kết GENE.mp4",
+                      "videos": [
+                        {
+                          "title": "[7. Buổi 15] – 1.1. [Video lí thuyết] Liên kết GENE.mp4",
+                          "link": "https://drive.google.com/file/d/1t5va8IyeSq1vCXdiAbWbMtJgHJuItNwU/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[7. Buổi 15] – 1.2. [Video lí thuyết] Hoán vị gene.mp4",
+                      "videos": [
+                        {
+                          "title": "[7. Buổi 15] – 1.2. [Video lí thuyết] Hoán vị gene.mp4",
+                          "link": "https://drive.google.com/file/d/1zMJ2Lyp_b33Z7EvuadzfDPFJXTSt2jVn/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[7. Buổi 15] – 1.3. [Live] Buổi 15 – Ôn tập về di truyền liên kết gene và hoán vị gene.mp4",
+                      "videos": [
+                        {
+                          "title": "[7. Buổi 15] – 1.3. [Live] Buổi 15 – Ôn tập về di truyền liên kết gene và hoán vị gene.mp4",
+                          "link": "https://drive.google.com/file/d/1k_wTPXbLNtrjVMe3OFAxKijmYn5SLpRy/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[7. Buổi 15] – 1.3. [Video lí thuyết] Bản đồ di truyền.mp4",
+                      "videos": [
+                        {
+                          "title": "[7. Buổi 15] – 1.3. [Video lí thuyết] Bản đồ di truyền.mp4",
+                          "link": "https://drive.google.com/file/d/1jXSnulxt7KhzJpDETx78q5dL0Vw6rh1H/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[7. Buổi 15] – 1.4.1. [Video Chữa BTVN] Câu 1 – 6.mp4",
+                      "videos": [
+                        {
+                          "title": "[7. Buổi 15] – 1.4.1. [Video Chữa BTVN] Câu 1 – 6.mp4",
+                          "link": "https://drive.google.com/file/d/1zsk9vLR6P65jE6MBPDlFEC1SNM73p7Oz/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[7. Buổi 15] – 1.4.2. [Video Chữa BTVN] Câu 7 – 10.mp4",
+                      "videos": [
+                        {
+                          "title": "[7. Buổi 15] – 1.4.2. [Video Chữa BTVN] Câu 7 – 10.mp4",
+                          "link": "https://drive.google.com/file/d/1QYgs85iA_S9apDmcsrwqvuxwYwn-bWtP/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[7. Buổi 15] – 1.4.3. [Video Chữa BTVN] Câu 11 – 14.mp4",
+                      "videos": [
+                        {
+                          "title": "[7. Buổi 15] – 1.4.3. [Video Chữa BTVN] Câu 11 – 14.mp4",
+                          "link": "https://drive.google.com/file/d/1JKVUzU25Qs7nvewSNE78eFxVQOFP-sV5/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[7. Buổi 15] – 1.4. [Video lí thuyết] Bài tập vận dụng.mp4",
+                      "videos": [
+                        {
+                          "title": "[7. Buổi 15] – 1.4. [Video lí thuyết] Bài tập vận dụng.mp4",
+                          "link": "https://drive.google.com/file/d/1xxtWKfzneLuTvGmv-o-2cXq7bvQD76z2/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[7. Buổi 15] – 2.1. [Video lí thuyết] Lý thuyết cô động.mp4",
+                      "videos": [
+                        {
+                          "title": "[7. Buổi 15] – 2.1. [Video lí thuyết] Lý thuyết cô động.mp4",
+                          "link": "https://drive.google.com/file/d/1TAqczC-ABSZ3jR_vfviTMWYgoyYCqpPb/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[7. Buổi 15] – 2.1. [Đáp án Thi Online] Buổi 15 – Ôn tập về di truyền liên kết gene và hoán vị gene.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[7. Buổi 15] – 2.1. [Đáp án Thi Online] Buổi 15 – Ôn tập về di truyền liên kết gene và hoán vị gene.pdf",
+                          "link": "https://drive.google.com/file/d/1YwIaS_eZ1_hnJoUVMuaxfKPGznSw6RuA/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[7. Buổi 15] – 2.2. [Tài liệu Thi Online] Buổi 15 – Ôn tập về di truyền liên kết gene và hoán vị gene.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[7. Buổi 15] – 2.2. [Tài liệu Thi Online] Buổi 15 – Ôn tập về di truyền liên kết gene và hoán vị gene.pdf",
+                          "link": "https://drive.google.com/file/d/1AXpnLuXJfUpTlJ6RzXX8ullLq1z9tNha/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[7. Buổi 15] – 2.2. [Video lí thuyết] Bài tập 1 – 2.mp4",
+                      "videos": [
+                        {
+                          "title": "[7. Buổi 15] – 2.2. [Video lí thuyết] Bài tập 1 – 2.mp4",
+                          "link": "https://drive.google.com/file/d/1dxi9c4ZR0pMFuQa4jZe6PqeR9wU401rP/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[7. Buổi 15] – 2.3. [Video lí thuyết] Bài tập 3 – 4.mp4",
+                      "videos": [
+                        {
+                          "title": "[7. Buổi 15] – 2.3. [Video lí thuyết] Bài tập 3 – 4.mp4",
+                          "link": "https://drive.google.com/file/d/1ydFOQMs5F3rso8MTgUOM2cGKExcPOfRn/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[7. Buổi 15] – 2.3. [Đáp án BTVN] Buổi 15 – Ôn tập về di truyền liên kết gene và hoán vị gene.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[7. Buổi 15] – 2.3. [Đáp án BTVN] Buổi 15 – Ôn tập về di truyền liên kết gene và hoán vị gene.pdf",
+                          "link": "https://drive.google.com/file/d/1Zf3x6Ay5uX0hswF7yk35-Ieu9NNz-4Ff/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[7. Buổi 15] – 2.4. [Tài liệu BTVN] Buổi 15 – Ôn tập về di truyền liên kết gene và hoán vị gene.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[7. Buổi 15] – 2.4. [Tài liệu BTVN] Buổi 15 – Ôn tập về di truyền liên kết gene và hoán vị gene.pdf",
+                          "link": "https://drive.google.com/file/d/1kSGs0Jde8vm7yxAfoVJ2ROL4Rq7L8WZ7/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[7. Buổi 15] – 2.4. [Video lí thuyết] Bài tập 5.mp4",
+                      "videos": [
+                        {
+                          "title": "[7. Buổi 15] – 2.4. [Video lí thuyết] Bài tập 5.mp4",
+                          "link": "https://drive.google.com/file/d/1aenJF1mD0LpSPiWI5ThO19hr31eQMxJS/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[7. Buổi 15] – 2.5. [Tài liệu viết tay Zoom] Buổi 15 – Ôn tập về di truyền liên kết gene và hoán vị gene.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[7. Buổi 15] – 2.5. [Tài liệu viết tay Zoom] Buổi 15 – Ôn tập về di truyền liên kết gene và hoán vị gene.pdf",
+                          "link": "https://drive.google.com/file/d/10VwN0y-vxJKlvDWzF0HHXrXFk36QdRUQ/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "8. Buổi 8_ Nâng cao về di truyền phân tử (Phần 2)",
+                  "items": [
+                    {
+                      "name": "[8. Buổi 8 – 1. Video lí thuyết] – 01. Bài toán tổng hợp 1.mp4",
+                      "videos": [
+                        {
+                          "title": "[8. Buổi 8 – 1. Video lí thuyết] – 01. Bài toán tổng hợp 1.mp4",
+                          "link": "https://drive.google.com/file/d/19EWvUWSTUIbhebXMwUgbJdjSFTLrfCT1/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[8. Buổi 8 – 1. Video lí thuyết] – 02. Ví dụ minh họa.mp4",
+                      "videos": [
+                        {
+                          "title": "[8. Buổi 8 – 1. Video lí thuyết] – 02. Ví dụ minh họa.mp4",
+                          "link": "https://drive.google.com/file/d/1gZMi0btmH-Bse96CS-w_FU3AlKtCF7Ul/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[8. Buổi 8 – 1. Video lí thuyết] – 03. Bài toán tổng hợp 2.mp4",
+                      "videos": [
+                        {
+                          "title": "[8. Buổi 8 – 1. Video lí thuyết] – 03. Bài toán tổng hợp 2.mp4",
+                          "link": "https://drive.google.com/file/d/1R95mINk8TCkeEsJDjUpPWPg26paGGxud/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[8. Buổi 8] – 2. Đáp án Buổi 8 – Nâng cao về di truyền phân tử (Phần 2).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[8. Buổi 8] – 2. Đáp án Buổi 8 – Nâng cao về di truyền phân tử (Phần 2).pdf",
+                          "link": "https://drive.google.com/file/d/19EB7GDlSAy-xM38q5JVm9Vmrq7WRW2d1/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[8. Buổi 8] – 3. [Tài liệu Thi Online] Buổi 8 – Nâng cao về di truyền phân tử (Phần 2).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[8. Buổi 8] – 3. [Tài liệu Thi Online] Buổi 8 – Nâng cao về di truyền phân tử (Phần 2).pdf",
+                          "link": "https://drive.google.com/file/d/1bXZRnJlOJ_UsEFiOXGMnQ24f1Df39mda/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[8. Buổi 8] – 4. [Live] Buổi 8 – Nâng cao về di truyền phân tử (Phần 2).mp4",
+                      "videos": [
+                        {
+                          "title": "[8. Buổi 8] – 4. [Live] Buổi 8 – Nâng cao về di truyền phân tử (Phần 2).mp4",
+                          "link": "https://drive.google.com/file/d/1P7twaH3P6M0F_9fdcgOkZBy0bC2XyuG0/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[Buổi 8] – 5. [Tài liệu viết tay] Buổi 8 – Nâng cao về di truyền phân tử (Phần 2).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[Buổi 8] – 5. [Tài liệu viết tay] Buổi 8 – Nâng cao về di truyền phân tử (Phần 2).pdf",
+                          "link": "https://drive.google.com/file/d/1rIA09DdmA8Sb028jLwZwuqfceusmV9KP/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[Buổi 8] – 6. [Đáp án Bài tập về nhà] Buổi 8 – Nâng cao về di truyền phân tử (Phần 2).pdf.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[Buổi 8] – 6. [Đáp án Bài tập về nhà] Buổi 8 – Nâng cao về di truyền phân tử (Phần 2).pdf.pdf",
+                          "link": "https://drive.google.com/file/d/1DnwX02LXNnYLrAVxiICmxaygNWyHN7b8/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[Buổi 8] – 7. [Tài liệu BTVN] Buổi 8 – Nâng cao về di truyền phân tử (Phần 2).pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[Buổi 8] – 7. [Tài liệu BTVN] Buổi 8 – Nâng cao về di truyền phân tử (Phần 2).pdf",
+                          "link": "https://drive.google.com/file/d/1ny8AjFyyu9_3LjW7nR7UqtA3iimGqnZc/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[Buổi 8] – 8. [Video Chữa BTVN] Buổi 8 – Nâng cao về di truyền phân tử (Phần 2).mp4",
+                      "videos": [
+                        {
+                          "title": "[Buổi 8] – 8. [Video Chữa BTVN] Buổi 8 – Nâng cao về di truyền phân tử (Phần 2).mp4",
+                          "link": "https://drive.google.com/file/d/1qdRSpijRLdCy0HSKetvx1PQCdvk7OmFK/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "8. Buổi 16 – Ôn tập về quy luật di truyền",
+                  "items": [
+                    {
+                      "name": "[8. Buổi 16] – 1.1. [Video lí thuyết] Buổi 16 – Ôn tập về quy luật di truyền.mp4",
+                      "videos": [
+                        {
+                          "title": "[8. Buổi 16] – 1.1. [Video lí thuyết] Buổi 16 – Ôn tập về quy luật di truyền.mp4",
+                          "link": "https://drive.google.com/file/d/1MClAiWU2eaUwT52pImoSZePISqcvxN8d/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[8. Buổi 16] – 1.2. [Live] Buổi 16 – Ôn tập về quy luật di truyền.mp4",
+                      "videos": [
+                        {
+                          "title": "[8. Buổi 16] – 1.2. [Live] Buổi 16 – Ôn tập về quy luật di truyền.mp4",
+                          "link": "https://drive.google.com/file/d/1sGRTrEtfKjwcTVA1nt96rmYIMJLv2rff/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[8. Buổi 16] – 1.3.1. [Video Chữa BTVN] Câu 1 – 6.mp4",
+                      "videos": [
+                        {
+                          "title": "[8. Buổi 16] – 1.3.1. [Video Chữa BTVN] Câu 1 – 6.mp4",
+                          "link": "https://drive.google.com/file/d/1uhFO6EfSFsVYB4pq-7wZ8MutDpoFbMvA/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[8. Buổi 16] – 1.3.2. [Video Chữa BTVN] Câu 7 – 11.mp4",
+                      "videos": [
+                        {
+                          "title": "[8. Buổi 16] – 1.3.2. [Video Chữa BTVN] Câu 7 – 11.mp4",
+                          "link": "https://drive.google.com/file/d/1_nyRnQ1_UdtqjE1LlZ4GKk2QwoLmU-Ub/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[8. Buổi 16] – 1.3.3. [Video Chữa BTVN] Câu 12 – 14.mp4",
+                      "videos": [
+                        {
+                          "title": "[8. Buổi 16] – 1.3.3. [Video Chữa BTVN] Câu 12 – 14.mp4",
+                          "link": "https://drive.google.com/file/d/1vf3pFq7tkBQ7ia_K9Qmbqf3bdB6SJOO-/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[8. Buổi 16] – 2.1. [Đáp án Thi Online] Buổi 16 – Ôn tập về quy luật di truyền.pdf.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[8. Buổi 16] – 2.1. [Đáp án Thi Online] Buổi 16 – Ôn tập về quy luật di truyền.pdf.pdf",
+                          "link": "https://drive.google.com/file/d/1PVU3S741c-iqyXwOpbz_pZ7-CWEWJOuQ/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[8. Buổi 16] – 2.2. [Tài liệu Thi Online] Buổi 16 – Ôn tập về quy luật di truyền.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[8. Buổi 16] – 2.2. [Tài liệu Thi Online] Buổi 16 – Ôn tập về quy luật di truyền.pdf",
+                          "link": "https://drive.google.com/file/d/1dA-Gi8sszUjozj_wuLrzFGkPvWDi9KYQ/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[8. Buổi 16] – 2.3. [Đáp án BTVN] Buổi 16 – Ôn tập về quy luật di truyền.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[8. Buổi 16] – 2.3. [Đáp án BTVN] Buổi 16 – Ôn tập về quy luật di truyền.pdf",
+                          "link": "https://drive.google.com/file/d/1fagNopZb96JUFv9nBKTg0toTkV9B5uYc/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[8. Buổi 16] – 2.4. [Tài liệu BTVN] Buổi 16 – Ôn tập về quy luật di truyền.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[8. Buổi 16] – 2.4. [Tài liệu BTVN] Buổi 16 – Ôn tập về quy luật di truyền.pdf",
+                          "link": "https://drive.google.com/file/d/1N094rwfyHW9tFrA-EER4mHk9EvjswgH9/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[8. Buổi 16] – 2.5. [Tài liệu viết tay Zoom] Buổi 16 – Ôn tập về quy luật di truyền.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[8. Buổi 16] – 2.5. [Tài liệu viết tay Zoom] Buổi 16 – Ôn tập về quy luật di truyền.pdf",
+                          "link": "https://drive.google.com/file/d/1-bpJsjrfNfUnjBh04LhuuwXWEsH2m6AR/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "9. Buổi 17 – Ôn tập về đột biến cấu trúc NST",
+                  "items": [
+                    {
+                      "name": "[9. Buổi 17] – 1.1.1. [Video lí thuyết] 1. Khái niệm, nguyên nhân đột biến NST.mp4",
+                      "videos": [
+                        {
+                          "title": "[9. Buổi 17] – 1.1.1. [Video lí thuyết] 1. Khái niệm, nguyên nhân đột biến NST.mp4",
+                          "link": "https://drive.google.com/file/d/15yGbx9rhkhGmAdvQ2jT_CHDddwiG9IQ8/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[9. Buổi 17] – 1.1.2. [Video lí thuyết] 2. Các dạng đột biến NST.mp4",
+                      "videos": [
+                        {
+                          "title": "[9. Buổi 17] – 1.1.2. [Video lí thuyết] 2. Các dạng đột biến NST.mp4",
+                          "link": "https://drive.google.com/file/d/1KZxlOkzmsn2-jb2B4UIXOdB2CMGlq6qH/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[9. Buổi 17] – 1.1.3. [Video lí thuyết] 3. Cơ chế phát sinh đột biến cấu trúc NST.mp4",
+                      "videos": [
+                        {
+                          "title": "[9. Buổi 17] – 1.1.3. [Video lí thuyết] 3. Cơ chế phát sinh đột biến cấu trúc NST.mp4",
+                          "link": "https://drive.google.com/file/d/1kgzaxbA_8-22rt5bwWzeX49RYgKTrRwU/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[9. Buổi 17] – 1.1.4. [Video lí thuyết] 4. Bài tập.mp4",
+                      "videos": [
+                        {
+                          "title": "[9. Buổi 17] – 1.1.4. [Video lí thuyết] 4. Bài tập.mp4",
+                          "link": "https://drive.google.com/file/d/1NCnMdgGRJDaHJ_bT0L3wX2EDVvLFusJA/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[9. Buổi 17] – 1.2. [Live] Buổi 17 – Ôn tập về đột biến cấu trúc NST.mp4",
+                      "videos": [
+                        {
+                          "title": "[9. Buổi 17] – 1.2. [Live] Buổi 17 – Ôn tập về đột biến cấu trúc NST.mp4",
+                          "link": "https://drive.google.com/file/d/196aGnzZbtMxuHwoGOb_P4PtaBMLig6F6/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[9. Buổi 17] – 1.3.1. 01. Câu 1 – 9.mp4",
+                      "videos": [
+                        {
+                          "title": "[9. Buổi 17] – 1.3.1. 01. Câu 1 – 9.mp4",
+                          "link": "https://drive.google.com/file/d/1yAagZvIb-dOa-uxinLvZoHwX5fUWKD1C/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[9. Buổi 17] – 1.3.2. 02. Câu 10 – 11.mp4",
+                      "videos": [
+                        {
+                          "title": "[9. Buổi 17] – 1.3.2. 02. Câu 10 – 11.mp4",
+                          "link": "https://drive.google.com/file/d/1B_LnYCgbx7Gz8XsTFrZrmgThVh-7yEqz/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[9. Buổi 17] – 1.3.3. 03. Câu 12 – 14.mp4",
+                      "videos": [
+                        {
+                          "title": "[9. Buổi 17] – 1.3.3. 03. Câu 12 – 14.mp4",
+                          "link": "https://drive.google.com/file/d/19LQW-icjT5hVoMAThh2YOcdMiRa7BbK6/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[9. Buổi 17] – 2.1. [Tài liệu Thi Online] Buổi 17 – Ôn tập về đột biến cấu trúc NST.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[9. Buổi 17] – 2.1. [Tài liệu Thi Online] Buổi 17 – Ôn tập về đột biến cấu trúc NST.pdf",
+                          "link": "https://drive.google.com/file/d/1jR-4MpOQNgAbHtTxmZvgTrCf-9_M5LLT/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[9. Buổi 17] – 2.2. [Đáp án Thi Online] Buổi 17 – Ôn tập về đột biến cấu trúc NST.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[9. Buổi 17] – 2.2. [Đáp án Thi Online] Buổi 17 – Ôn tập về đột biến cấu trúc NST.pdf",
+                          "link": "https://drive.google.com/file/d/1AVNOC95-94AZC6EHkmm5VXuoFtu-pYXt/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[9. Buổi 17] – 2.3. [Tài liệu BTVN] Buổi 17 – Ôn tập về đột biến cấu trúc NST.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[9. Buổi 17] – 2.3. [Tài liệu BTVN] Buổi 17 – Ôn tập về đột biến cấu trúc NST.pdf",
+                          "link": "https://drive.google.com/file/d/1L7nZtbg61sQ7aHvGGkBISF9XJLPqvR7T/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[9. Buổi 17] – 2.3. [Đáp án BTVN] Buổi 17 – Ôn tập về đột biến cấu trúc NST.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[9. Buổi 17] – 2.3. [Đáp án BTVN] Buổi 17 – Ôn tập về đột biến cấu trúc NST.pdf",
+                          "link": "https://drive.google.com/file/d/1b36jfiNfYfqIOqxOXIUZoMmItrXlbSIx/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[9. Buổi 17] – 2.5. [Tài liệu viết tay Zoom] Buổi 17 – Ôn tập về đột biến cấu trúc NST.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[9. Buổi 17] – 2.5. [Tài liệu viết tay Zoom] Buổi 17 – Ôn tập về đột biến cấu trúc NST.pdf",
+                          "link": "https://drive.google.com/file/d/1M0NZe6H9pizg1KFIjHJ78Z6NhNnh1Fbb/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "10. Bài 18 – Ôn tập về đột biến số lượng NST",
+                  "items": [
+                    {
+                      "name": "[10. Bài 18] – 1.1.1. [Video lí thuyết] 1. Đột biến lệch bội.mp4",
+                      "videos": [
+                        {
+                          "title": "[10. Bài 18] – 1.1.1. [Video lí thuyết] 1. Đột biến lệch bội.mp4",
+                          "link": "https://drive.google.com/file/d/1oy1q6A0MkhunMkJ25urtGMxkVDkqIYCd/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[10. Bài 18] – 1.1.2. [Video lí thuyết] 2. Đột biến đa bội.mp4",
+                      "videos": [
+                        {
+                          "title": "[10. Bài 18] – 1.1.2. [Video lí thuyết] 2. Đột biến đa bội.mp4",
+                          "link": "https://drive.google.com/file/d/1ehofnnzCYlrP1o1YyzgrVz45MW_XeP2Q/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[10. Bài 18] – 1.1.3. [Video lí thuyết] 3. Cơ chế phát sinh đột biến số lượng NST.mp4",
+                      "videos": [
+                        {
+                          "title": "[10. Bài 18] – 1.1.3. [Video lí thuyết] 3. Cơ chế phát sinh đột biến số lượng NST.mp4",
+                          "link": "https://drive.google.com/file/d/1JbkcxuvFd_J0c5GwiSM5L7OGntBKpFVz/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[10. Bài 18] – 1.1.4. [Video lí thuyết] 4. Tác hại và vai trò của đột biến NST.mp4",
+                      "videos": [
+                        {
+                          "title": "[10. Bài 18] – 1.1.4. [Video lí thuyết] 4. Tác hại và vai trò của đột biến NST.mp4",
+                          "link": "https://drive.google.com/file/d/16q26DJRXH1leyqf-V5IIR6eL1bndu6Wx/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[10. Bài 18] – 1.1.5. [Video lí thuyết] 5. Mối quan hệ giữa di truyền và biến dị.mp4",
+                      "videos": [
+                        {
+                          "title": "[10. Bài 18] – 1.1.5. [Video lí thuyết] 5. Mối quan hệ giữa di truyền và biến dị.mp4",
+                          "link": "https://drive.google.com/file/d/1n4PWcPvZO2dMuteJhG55YMrvfW1KiiJQ/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[10. Bài 18] – 1.1.6. [Video lí thuyết] 6. Bài tập.mp4",
+                      "videos": [
+                        {
+                          "title": "[10. Bài 18] – 1.1.6. [Video lí thuyết] 6. Bài tập.mp4",
+                          "link": "https://drive.google.com/file/d/1UVE1HkBh-hU4pQpZrLyZfIy0syEK8NoX/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[10. Bài 18] – 1.2. [Live] Bài 18 – Ôn tập về đột biến số lượng NST.mp4",
+                      "videos": [
+                        {
+                          "title": "[10. Bài 18] – 1.2. [Live] Bài 18 – Ôn tập về đột biến số lượng NST.mp4",
+                          "link": "https://drive.google.com/file/d/19YZijh-hIBerGaBeRq57Cj5lk1F6K7Nx/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[10. Bài 18] – 1.4. 01. Câu 1 – 10.mp4",
+                      "videos": [
+                        {
+                          "title": "[10. Bài 18] – 1.4. 01. Câu 1 – 10.mp4",
+                          "link": "https://drive.google.com/file/d/1g13wOXPo6_IN_q_nKIdUB3sBqgtH6B3_/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[10. Bài 18] – 1.5. 02. Câu 11 – 14.mp4",
+                      "videos": [
+                        {
+                          "title": "[10. Bài 18] – 1.5. 02. Câu 11 – 14.mp4",
+                          "link": "https://drive.google.com/file/d/16aWFEPZyfkNYNwZGNKHaAjsKB8LP0pA2/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[10. Bài 18] – 2.1. [Tài liệu Thi Online] Bài 18 – Ôn tập về đột biến số lượng NST.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[10. Bài 18] – 2.1. [Tài liệu Thi Online] Bài 18 – Ôn tập về đột biến số lượng NST.pdf",
+                          "link": "https://drive.google.com/file/d/1aYWd9rq9lZgYQbZ2seT7vizNBY62v8dA/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[10. Bài 18] – 2.2. [Đáp án Thi Online] Bài 18 – Ôn tập về đột biến số lượng NST.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[10. Bài 18] – 2.2. [Đáp án Thi Online] Bài 18 – Ôn tập về đột biến số lượng NST.pdf",
+                          "link": "https://drive.google.com/file/d/1xOA8Lyt9emVnFvKDQkgvt6yVgchWOqNy/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[10. Bài 18] – 2.3. [Đáp án BTVN] Bài 18. Ôn tập về đột biến số lượng NST.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[10. Bài 18] – 2.3. [Đáp án BTVN] Bài 18. Ôn tập về đột biến số lượng NST.pdf",
+                          "link": "https://drive.google.com/file/d/17JW0IU5odyxMok--5VjEgVx5sJrVVzDK/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[10. Bài 18] – 2.4. [Tài liệu BTVN] Bài 18. Ôn tập về đột biến số lượng NST.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[10. Bài 18] – 2.4. [Tài liệu BTVN] Bài 18. Ôn tập về đột biến số lượng NST.pdf",
+                          "link": "https://drive.google.com/file/d/1hypeF6__8JGPZFA5TjNsPmi8YI2-fV4y/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[10. Bài 18] – 2.5. [Tài liệu viết tay Zoom] Bài 18 – Ôn tập về đột biến số lượng NST.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[10. Bài 18] – 2.5. [Tài liệu viết tay Zoom] Bài 18 – Ôn tập về đột biến số lượng NST.pdf",
+                          "link": "https://drive.google.com/file/d/1Y_JyuabGOKxjbGiwOx_jK2PJK54IGs-u/view?usp=drivesdk"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "11. Bài 19 – Ôn tập về NST",
+                  "items": [
+                    {
+                      "name": "[11. Bài 19] – 1.1.1. 01. Lý thuyết.mp4",
+                      "videos": [
+                        {
+                          "title": "[11. Bài 19] – 1.1.1. 01. Lý thuyết.mp4",
+                          "link": "https://drive.google.com/file/d/1qGZnGWlbFmbOozGQ-oWr2oja2jgsqfWL/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[11. Bài 19] – 1.1.2. 02. Bài tập 1 – 2.mp4",
+                      "videos": [
+                        {
+                          "title": "[11. Bài 19] – 1.1.2. 02. Bài tập 1 – 2.mp4",
+                          "link": "https://drive.google.com/file/d/1Gnfef-feHIoBP6WbPsaZLfY8sVVqFVFl/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[11. Bài 19] – 1.1.3. 03. Bài tập 3.mp4",
+                      "videos": [
+                        {
+                          "title": "[11. Bài 19] – 1.1.3. 03. Bài tập 3.mp4",
+                          "link": "https://drive.google.com/file/d/1q1u5oEjKmSB6SDGESX9PsWKOLFLBsVhz/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[11. Bài 19] – 1.1.4. 04. Bài tập 4 – 5.mp4",
+                      "videos": [
+                        {
+                          "title": "[11. Bài 19] – 1.1.4. 04. Bài tập 4 – 5.mp4",
+                          "link": "https://drive.google.com/file/d/1OrPs3liOzQZ_YKWCd8dxcJ4PMyqV-zCS/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[11. Bài 19] – 1.2. [Live] Bài 19. Ôn tập về NST.mp4",
+                      "videos": [
+                        {
+                          "title": "[11. Bài 19] – 1.2. [Live] Bài 19. Ôn tập về NST.mp4",
+                          "link": "https://drive.google.com/file/d/1WR_mVZrBkTlivkaCwVQ9Mscne98Ugt0d/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[11. Bài 19] – 2.1. [Đáp án Thi Online] Bài 19. Ôn tập về NST.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[11. Bài 19] – 2.1. [Đáp án Thi Online] Bài 19. Ôn tập về NST.pdf",
+                          "link": "https://drive.google.com/file/d/1bp_N6aH-OFUuc03GFKmLj01BwDMYwTHO/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[11. Bài 19] – 2.2. [Tài liệu Thi Online] Bài 19. Ôn tập về NST.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[11. Bài 19] – 2.2. [Tài liệu Thi Online] Bài 19. Ôn tập về NST.pdf",
+                          "link": "https://drive.google.com/file/d/1f2iONkFF_G24zMCIZBW7ch4AWiDQwh95/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[11. Bài 19] – 2.5. [Tài liệu viết tay Zoom] Bài 19. Ôn tập về NST.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[11. Bài 19] – 2.5. [Tài liệu viết tay Zoom] Bài 19. Ôn tập về NST.pdf",
+                          "link": "https://drive.google.com/file/d/1EiOOwUM0lc0HknwJE46FHox4GUnjHrBQ/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[11. Bài 19] – 5. [Đáp án BTVN] Bài 19. Ôn tập về NST.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[11. Bài 19] – 5. [Đáp án BTVN] Bài 19. Ôn tập về NST.pdf",
+                          "link": "https://drive.google.com/file/d/1D-zS1cgvkG9GXI_Rldg79DzVQ5AstRM6/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[11. Bài 19] – 6. [Tài liệu BTVN] Bài 19. Ôn tập về NST.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[11. Bài 19] – 6. [Tài liệu BTVN] Bài 19. Ôn tập về NST.pdf",
+                          "link": "https://drive.google.com/file/d/15lv46xkTL2nl1UYxDI22dITfizQL5N73/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[11. Bài 19] – 8.1. [Video Chữa BTVN] Câu 1 – 9.mp4",
+                      "videos": [
+                        {
+                          "title": "[11. Bài 19] – 8.1. [Video Chữa BTVN] Câu 1 – 9.mp4",
+                          "link": "https://drive.google.com/file/d/14mooilhHtSySsK-fFUmUnMHiBoJdZvJ_/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[11. Bài 19] – 8.2. [Video Chữa BTVN] Câu 10.mp4",
+                      "videos": [
+                        {
+                          "title": "[11. Bài 19] – 8.2. [Video Chữa BTVN] Câu 10.mp4",
+                          "link": "https://drive.google.com/file/d/1mxN6SxlB8-paBNJzJqEsSGQ7lXiAQyix/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[11. Bài 19] – 8.3. [Video Chữa BTVN] Câu 11 – 14.mp4",
+                      "videos": [
+                        {
+                          "title": "[11. Bài 19] – 8.3. [Video Chữa BTVN] Câu 11 – 14.mp4",
+                          "link": "https://drive.google.com/file/d/1bdWP25iYmvvLHUP4jRSKmT9rotDFeccK/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "12. Buổi 20 – Ôn tập về di truyền người",
+                  "items": [
+                    {
+                      "name": "[12. Buổi 20] – 1.2. 01. Di truyền người – Phần 1.mp4",
+                      "videos": [
+                        {
+                          "title": "[12. Buổi 20] – 1.2. 01. Di truyền người – Phần 1.mp4",
+                          "link": "https://drive.google.com/file/d/1Vln85KbJuOoQwT1Eme1e0PXLf4VgGjHL/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[12. Buổi 20] – 1.3. 02. Di truyền người – Phần 2.mp4",
+                      "videos": [
+                        {
+                          "title": "[12. Buổi 20] – 1.3. 02. Di truyền người – Phần 2.mp4",
+                          "link": "https://drive.google.com/file/d/1sHmx_l02ekVWQexfChFtYr_ddUd-2_wa/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[12. Buổi 20] – 1.4. 03. Di truyền người – Phần 3.mp4",
+                      "videos": [
+                        {
+                          "title": "[12. Buổi 20] – 1.4. 03. Di truyền người – Phần 3.mp4",
+                          "link": "https://drive.google.com/file/d/1xjGAmaIee4vxWMnwPIARVLS7Mt2ACH_l/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[12. Buổi 20] – 1.5. 04. Di truyền người – Phần 4.mp4",
+                      "videos": [
+                        {
+                          "title": "[12. Buổi 20] – 1.5. 04. Di truyền người – Phần 4.mp4",
+                          "link": "https://drive.google.com/file/d/1wdHtmKCQc15SVeODzRWN7drKQ65wEocB/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[12. Buổi 20] – 1.6. 05. Di truyền người – Phần 5.mp4",
+                      "videos": [
+                        {
+                          "title": "[12. Buổi 20] – 1.6. 05. Di truyền người – Phần 5.mp4",
+                          "link": "https://drive.google.com/file/d/11XzUWi36K0nJS397CZF6ooP95-G_xduh/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[12. Buổi 20] – 2. [Đáp án Thi Online] Buổi 20 – Ôn tập về di truyền người.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[12. Buổi 20] – 2. [Đáp án Thi Online] Buổi 20 – Ôn tập về di truyền người.pdf",
+                          "link": "https://drive.google.com/file/d/1NV_AB9uxHrJhtAnzjWj4KxZmaGclqH0p/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[12. Buổi 20] – 3. [Tài liệu Thi Online] Buổi 20 – Ôn tập về di truyền người.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[12. Buổi 20] – 3. [Tài liệu Thi Online] Buổi 20 – Ôn tập về di truyền người.pdf",
+                          "link": "https://drive.google.com/file/d/1ZujxRXPEyaWXcW2c9tjwFW2rVs8i6GdS/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[12. Buổi 20] – 4. [Live] Buổi 20 – Ôn tập về di truyền người.mp4",
+                      "videos": [
+                        {
+                          "title": "[12. Buổi 20] – 4. [Live] Buổi 20 – Ôn tập về di truyền người.mp4",
+                          "link": "https://drive.google.com/file/d/1ruNgbvt54j9Mtlyq21l3IwzcTIUJs78l/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[12. Buổi 20] – 5. [Đáp án BTVN] Buổi 20 – Ôn tập về di truyền người.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[12. Buổi 20] – 5. [Đáp án BTVN] Buổi 20 – Ôn tập về di truyền người.pdf",
+                          "link": "https://drive.google.com/file/d/1vz7xgMxzDWypL73-Q0BhUfIgFO0402Bk/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[12. Buổi 20] – 6. [Tài liệu BTVN] Buổi 20 – Ôn tập về di truyền người.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[12. Buổi 20] – 6. [Tài liệu BTVN] Buổi 20 – Ôn tập về di truyền người.pdf",
+                          "link": "https://drive.google.com/file/d/1OojUYJvt3orW6t9Fi959Vnd7WZiOvnrL/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[12. Buổi 20] – 7. [Tài liệu viết tay Zoom] Buổi 20 – Ôn tập về di truyền người.pdf",
+                      "videos": [],
+                      "pdfs": [
+                        {
+                          "title": "[12. Buổi 20] – 7. [Tài liệu viết tay Zoom] Buổi 20 – Ôn tập về di truyền người.pdf",
+                          "link": "https://drive.google.com/file/d/14wqDysbqU0dzCS9VVtLx1KJ9uib4ZizH/view?usp=drivesdk"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "[12. Buổi 20] – 8.1. [Video Chữa BTVN] Câu 1 – 9.mp4",
+                      "videos": [
+                        {
+                          "title": "[12. Buổi 20] – 8.1. [Video Chữa BTVN] Câu 1 – 9.mp4",
+                          "link": "https://drive.google.com/file/d/1BULZJyCIC0on8ubvkEwAkZcK6SZ221FH/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[12. Buổi 20] – 8.2. [Video Chữa BTVN] Câu 10 – 11.mp4",
+                      "videos": [
+                        {
+                          "title": "[12. Buổi 20] – 8.2. [Video Chữa BTVN] Câu 10 – 11.mp4",
+                          "link": "https://drive.google.com/file/d/15MJxROvIsCPbfFmNJGuVHilRk57DuTIW/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[12. Buổi 20] – 8.3. [Video Chữa BTVN] Câu 12 – 14.mp4",
+                      "videos": [
+                        {
+                          "title": "[12. Buổi 20] – 8.3. [Video Chữa BTVN] Câu 12 – 14.mp4",
+                          "link": "https://drive.google.com/file/d/12j7P23s2bvuuSbATZljs3eC8RkP6_E2o/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "title": "13. Buổi 21 – Ôn tập nâng cao về di truyền người",
+                  "items": [
+                    {
+                      "name": "[13. Buổi 21] – 1.1. [Video lí thuyết] Lý thuyết cô đọng.mp4",
+                      "videos": [
+                        {
+                          "title": "[13. Buổi 21] – 1.1. [Video lí thuyết] Lý thuyết cô đọng.mp4",
+                          "link": "https://drive.google.com/file/d/1uCm9MVSdoXoFCBKXBLp-4fzmlIuznZfP/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[13. Buổi 21] – 1.2. [Video lí thuyết] Câu 1 – 3.mp4",
+                      "videos": [
+                        {
+                          "title": "[13. Buổi 21] – 1.2. [Video lí thuyết] Câu 1 – 3.mp4",
+                          "link": "https://drive.google.com/file/d/166rigwvq0i73fCQ9FuMhNbq0a8E2wZX8/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[13. Buổi 21] – 1.3. [Video lí thuyết] Câu 4 – 6.mp4",
+                      "videos": [
+                        {
+                          "title": "[13. Buổi 21] – 1.3. [Video lí thuyết] Câu 4 – 6.mp4",
+                          "link": "https://drive.google.com/file/d/1oQ-vqx9UVAL1nZcPk6deFyleNyyyHS6y/view?usp=drivesdk"
+                        }
+                      ],
+                      "pdfs": []
+                    },
+                    {
+                      "name": "[13. Buổi 21] – 1.4. [Video lí thuyết] Câu 7 – 8.mp4",
+                      "videos": [
+                        {
+                          "title": "[13. Buổi 21] – 1.4. [Video lí thuyết] Câu 7 – 8.mp4",
+                          "link": "https://drive.google.com/file/d/1euno3F7212gx_vZiEpM0JpSJzr60zFC0/view?usp=drivesdk"
                         }
                       ],
                       "pdfs": []

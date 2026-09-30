@@ -976,6 +976,94 @@ const COURSE_DATA = {
                 }
               ],
               "children": []
+            },
+            {
+              "title": "10. Chuyên đề Nội nặng khí lí tưởng",
+              "items": [
+                {
+                  "name": "Chuyên đề - Nội năng khí lí tưởng.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "Chuyên đề - Nội năng khí lí tưởng.pdf",
+                      "link": "https://drive.google.com/file/d/1hIcVHWnFfK1CBVgAGNnBxMN98em--uWT/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "Chuyên đề- Nội năng KLT (Buổi 1).mp4",
+                  "videos": [
+                    {
+                      "title": "Chuyên đề- Nội năng KLT (Buổi 1).mp4",
+                      "link": "https://drive.google.com/file/d/1H-F0WHNhFTJevXt48hKsD-pHrogvUKnK/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "Chuyên đề- Nội năng KLT (Buổi 2).mp4",
+                  "videos": [
+                    {
+                      "title": "Chuyên đề- Nội năng KLT (Buổi 2).mp4",
+                      "link": "https://drive.google.com/file/d/18YRgz3slUZBdmMoYfetdKPz3fcjA3Txg/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "11. Luyện tập – Bài toán áp suất khí trong ống xi-lanh",
+              "items": [
+                {
+                  "name": "[Luyện tập – Bài toán áp suất khí trong ống xi-lanh] – 1. Bài toán áp suất khí trong ống xi-lanh & Video chữa chi tiết Bài tập tự luyện.mp4",
+                  "videos": [
+                    {
+                      "title": "[Luyện tập – Bài toán áp suất khí trong ống xi-lanh] – 1. Bài toán áp suất khí trong ống xi-lanh & Video chữa chi tiết Bài tập tự luyện.mp4",
+                      "link": "https://drive.google.com/file/d/1ajTmJ2x-Y8ZBx0opWFnvZ6zWcgy_d8HR/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "[Luyện tập – Bài toán áp suất khí trong ống xi-lanh] – 2. Video chữa chi tiết Bài thi online.mp4",
+                  "videos": [
+                    {
+                      "title": "[Luyện tập – Bài toán áp suất khí trong ống xi-lanh] – 2. Video chữa chi tiết Bài thi online.mp4",
+                      "link": "https://drive.google.com/file/d/1LzK2uaLVzmOIu4ri-sv79f2AwcFVNjCY/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "[Luyện tập – Bài toán áp suất khí trong ống xi-lanh] – 3. Tài liệu – Luyện tập bài toán áp suất khí trong ống xi-lanh.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Luyện tập – Bài toán áp suất khí trong ống xi-lanh] – 3. Tài liệu – Luyện tập bài toán áp suất khí trong ống xi-lanh.pdf",
+                      "link": "https://drive.google.com/file/d/1OJg6KXwMmqiCNc2jts1bQPKfNiod-tMj/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "13. Chuyên đề_ Khinh khí cầu và Bóng thám không",
+              "items": [
+                {
+                  "name": "Chuyên đề- Khinh khí cầu và Bóng thám không (Buổi 1).mp4",
+                  "videos": [
+                    {
+                      "title": "Chuyên đề- Khinh khí cầu và Bóng thám không (Buổi 1).mp4",
+                      "link": "https://drive.google.com/file/d/1HsIqt2hGF4v9lgeI-V-v_Qmip7zKeaou/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
             }
           ]
         }
@@ -1167,6 +1255,64 @@ const COURSE_DATA = {
                     }
                   ],
                   "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "9. 0107 – Nhiệt hóa hơi riêng",
+              "items": [
+                {
+                  "name": "[0107] – 1. Video lí thuyết Nhiệt hóa hơi riêng.mp4",
+                  "videos": [
+                    {
+                      "title": "[0107] – 1. Video lí thuyết Nhiệt hóa hơi riêng.mp4",
+                      "link": "https://drive.google.com/file/d/1YFhXyQs98nw2oBhHwQdoVDXmNJy6-yKg/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "[0107] – 2. Tài liệu – 0107 – Nhiệt hóa hơi riêng.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[0107] – 2. Tài liệu – 0107 – Nhiệt hóa hơi riêng.pdf",
+                      "link": "https://drive.google.com/file/d/158T92lsNHeo0uxfTqjsfowKm9cCo_mor/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "2. CHƯƠNG 2 – KHÍ LÍ TƯỞNG – ĐỢT 3_",
+          "items": [],
+          "children": [
+            {
+              "title": "1. 0201 – Mô hình động học phân tử khí",
+              "items": [
+                {
+                  "name": "[0201 – Mô hình động học phân tử khí] – 1.1. Mô hình động học phân tử khí.mp4",
+                  "videos": [
+                    {
+                      "title": "[0201 – Mô hình động học phân tử khí] – 1.1. Mô hình động học phân tử khí.mp4",
+                      "link": "https://drive.google.com/file/d/1FiPPbFrCYqnLEjx67XL5KX-madoS5RNq/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "[0201 – Mô hình động học phân tử khí] – 2.1. Tài liệu – 0201 – Mô hình động học phân tử chất khí.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[0201 – Mô hình động học phân tử khí] – 2.1. Tài liệu – 0201 – Mô hình động học phân tử chất khí.pdf",
+                      "link": "https://drive.google.com/file/d/1XczgLiMfxhIeR7uXrYgSFtRQMl_XgyS1/view?usp=drivesdk"
+                    }
+                  ]
                 }
               ],
               "children": []
@@ -3212,6 +3358,42 @@ const COURSE_DATA = {
                 }
               ],
               "children": []
+            },
+            {
+              "title": "5. Bài 0305 – Lực Lorentz",
+              "items": [
+                {
+                  "name": "[Bài 0305] – 1. Giới thiệu lực Lorentz & Video lí thuyết – Củng cố kiến thức lớp 10 – Chuyển động tròn đều & Video lí thuyết – Lực Lorentz & Video lí thuyết – Điện tích chuyển động trong từ trường đều.mp4",
+                  "videos": [
+                    {
+                      "title": "[Bài 0305] – 1. Giới thiệu lực Lorentz & Video lí thuyết – Củng cố kiến thức lớp 10 – Chuyển động tròn đều & Video lí thuyết – Lực Lorentz & Video lí thuyết – Điện tích chuyển động trong từ trường đều.mp4",
+                      "link": "https://drive.google.com/file/d/1AHblINFPCmrxyef-DoKccFTC1Cw6z_zu/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "[Bài 0305] – 2. Video chữa bài tập.mp4",
+                  "videos": [
+                    {
+                      "title": "[Bài 0305] – 2. Video chữa bài tập.mp4",
+                      "link": "https://drive.google.com/file/d/1Op9zESVtMNNPPXTwDBTOQ05f9cLTQX0o/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                },
+                {
+                  "name": "[Bài 0305] – 3. Tài liệu – 0305 – Lực Lorentz.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Bài 0305] – 3. Tài liệu – 0305 – Lực Lorentz.pdf",
+                      "link": "https://drive.google.com/file/d/14jJBVfmhbeCMxxR7mVOpCgQpbmaMYqaJ/view?usp=drivesdk"
+                    }
+                  ]
+                }
+              ],
+              "children": []
             }
           ]
         },
@@ -4507,6 +4689,1772 @@ const COURSE_DATA = {
                 }
               ],
               "pdfs": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "8. 07 - Tìm hiểu quá trình trao đổi nhiệt và xác định nhiệt dung riêng",
+          "items": [
+            {
+              "name": "07 - Tìm hiểu quá trình trao đổi nhiệt và xác định nhiệt dung riêng.mp4",
+              "videos": [
+                {
+                  "title": "07 - Tìm hiểu quá trình trao đổi nhiệt và xác định nhiệt dung riêng.mp4",
+                  "link": "https://drive.google.com/file/d/1Cq4yJs3Xt7FkrnRjQO22HzNFuuAM35m0/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "9. 08 - Tìm hiểu quá trình nóng chảy và xác định nhiệt nóng chảy riêng",
+          "items": [
+            {
+              "name": "08 - Tìm hiểu quá trình nóng chảy và xác định nhiệt nóng chảy riêng.mp4",
+              "videos": [
+                {
+                  "title": "08 - Tìm hiểu quá trình nóng chảy và xác định nhiệt nóng chảy riêng.mp4",
+                  "link": "https://drive.google.com/file/d/1u8USwE3hLL22AswOm-wMNzDy6dbPcbOG/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "10. 09 - Tìm hiểu quá trình sôi và xác định nhiệt hóa hơi riêng",
+          "items": [
+            {
+              "name": "09 - Tìm hiểu quá trình sôi và xác định nhiệt hóa hơi riêng.mp4",
+              "videos": [
+                {
+                  "title": "09 - Tìm hiểu quá trình sôi và xác định nhiệt hóa hơi riêng.mp4",
+                  "link": "https://drive.google.com/file/d/1KNAv0u0fBbkHS8wHAMWwiSHbKgHYiUiw/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "5. SÁCH TINH HOA LÍ THUYẾT",
+      "items": [],
+      "children": [
+        {
+          "title": "1. Tổng ôn chương trình 10 (Đề 1-10)",
+          "items": [
+            {
+              "name": "[Tổng ôn chương trình 10] – 1. Bộ đề tinh hoa lí thuyết – Đề số 1.mp4",
+              "videos": [
+                {
+                  "title": "[Tổng ôn chương trình 10] – 1. Bộ đề tinh hoa lí thuyết – Đề số 1.mp4",
+                  "link": "https://drive.google.com/file/d/1JRLMqVllfV4tGjqWwCV6hRS9tuvJJobE/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[Tổng ôn chương trình 10] – 2. Bộ đề tinh hoa lí thuyết – Đề số 2.mp4",
+              "videos": [
+                {
+                  "title": "[Tổng ôn chương trình 10] – 2. Bộ đề tinh hoa lí thuyết – Đề số 2.mp4",
+                  "link": "https://drive.google.com/file/d/1wZNBBjPqWelQx5U4-UkdUV52FlX93pI1/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[Tổng ôn chương trình 10] – 3. Bộ đề tinh hoa lí thuyết – Đề số 3.mp4",
+              "videos": [
+                {
+                  "title": "[Tổng ôn chương trình 10] – 3. Bộ đề tinh hoa lí thuyết – Đề số 3.mp4",
+                  "link": "https://drive.google.com/file/d/1-a7HqMppk5sALk6lwVOWgZ0g_eaYnTES/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[Tổng ôn chương trình 10] – 4. Bộ đề tinh hoa lí thuyết – Đề số 4.mp4",
+              "videos": [
+                {
+                  "title": "[Tổng ôn chương trình 10] – 4. Bộ đề tinh hoa lí thuyết – Đề số 4.mp4",
+                  "link": "https://drive.google.com/file/d/1XCaQqhvw_jIgNvw0nUyLGTe0zHrTRFkA/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[Tổng ôn chương trình 10] – 5. Bộ đề tinh hoa lí thuyết – Đề số 5.mp4",
+              "videos": [
+                {
+                  "title": "[Tổng ôn chương trình 10] – 5. Bộ đề tinh hoa lí thuyết – Đề số 5.mp4",
+                  "link": "https://drive.google.com/file/d/1YjOFPprWAOF1wcw6Oh78xy7joa5nw7M6/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[Tổng ôn chương trình 10] – 7. Bộ đề tinh hoa lí thuyết – Đề số 7.mp4",
+              "videos": [
+                {
+                  "title": "[Tổng ôn chương trình 10] – 7. Bộ đề tinh hoa lí thuyết – Đề số 7.mp4",
+                  "link": "https://drive.google.com/file/d/1kr7DiItQh_6fkjIK8dfN63X-Q0GzDzjR/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[Tổng ôn chương trình 10] – 8. Bộ đề tinh hoa lí thuyết – Đề số 8.mp4",
+              "videos": [
+                {
+                  "title": "[Tổng ôn chương trình 10] – 8. Bộ đề tinh hoa lí thuyết – Đề số 8.mp4",
+                  "link": "https://drive.google.com/file/d/1gOAfKh5wXNf-uDy_7qqWCvT0ta_UbpLb/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[Tổng ôn chương trình 10] – 9. Bộ đề tinh hoa lí thuyết – Đề số 9.mp4",
+              "videos": [
+                {
+                  "title": "[Tổng ôn chương trình 10] – 9. Bộ đề tinh hoa lí thuyết – Đề số 9.mp4",
+                  "link": "https://drive.google.com/file/d/15zY3fjhtgKNuGUGBo9ncy-l706ccalGs/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[Tổng ôn chương trình 10] – 10. Bộ đề tinh hoa lí thuyết – Đề số 10.mp4",
+              "videos": [
+                {
+                  "title": "[Tổng ôn chương trình 10] – 10. Bộ đề tinh hoa lí thuyết – Đề số 10.mp4",
+                  "link": "https://drive.google.com/file/d/1gkySnqlEkp__Cm63Ekb-AFoZDs58y96Y/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "2. Tổng ôn chương trình 11 (Đề 11-20)",
+          "items": [
+            {
+              "name": "[Tổng ôn chương trình 11] – 1. Bộ đề tinh hoa lí thuyết – Đề số 11 (Phần 1).mp4",
+              "videos": [
+                {
+                  "title": "[Tổng ôn chương trình 11] – 1. Bộ đề tinh hoa lí thuyết – Đề số 11 (Phần 1).mp4",
+                  "link": "https://drive.google.com/file/d/1ah1jTdScLpcU2wfIDb93UQPPBlRBeKdT/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[Tổng ôn chương trình 11] – 4. Bộ đề tinh hoa lí thuyết – Đề số 12 (Phần 2).mp4",
+              "videos": [
+                {
+                  "title": "[Tổng ôn chương trình 11] – 4. Bộ đề tinh hoa lí thuyết – Đề số 12 (Phần 2).mp4",
+                  "link": "https://drive.google.com/file/d/1JB5MKjKdSJ0jvlvgBuOwMGCFgQpbbdoX/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[Tổng ôn chương trình 11] – 5. Bộ đề tinh hoa lí thuyết – Đề số 13 (Phần 1).mp4",
+              "videos": [
+                {
+                  "title": "[Tổng ôn chương trình 11] – 5. Bộ đề tinh hoa lí thuyết – Đề số 13 (Phần 1).mp4",
+                  "link": "https://drive.google.com/file/d/1Z8Z9s1Lts1uusE_D5NpzbQtv8Pqcyq8I/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[Tổng ôn chương trình 11] – 6. Bộ đề tinh hoa lí thuyết – Đề số 13 (Phần 2).mp4",
+              "videos": [
+                {
+                  "title": "[Tổng ôn chương trình 11] – 6. Bộ đề tinh hoa lí thuyết – Đề số 13 (Phần 2).mp4",
+                  "link": "https://drive.google.com/file/d/1tG-N-9R_HCnz6x2X7wENMSsvpuMnYhEP/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[Tổng ôn chương trình 11] – 7. Bộ đề tinh hoa lí thuyết – Đề số 14 (Phần 1).mp4",
+              "videos": [
+                {
+                  "title": "[Tổng ôn chương trình 11] – 7. Bộ đề tinh hoa lí thuyết – Đề số 14 (Phần 1).mp4",
+                  "link": "https://drive.google.com/file/d/12jtsfYbfB-9J5nA5uLdcOs3DQwmRlXJ7/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[Tổng ôn chương trình 11] – 8. Bộ đề tinh hoa lí thuyết – Đề số 14 (Phần 2).mp4",
+              "videos": [
+                {
+                  "title": "[Tổng ôn chương trình 11] – 8. Bộ đề tinh hoa lí thuyết – Đề số 14 (Phần 2).mp4",
+                  "link": "https://drive.google.com/file/d/1eZVj44OTcE0jess0JMPiVWfpeS2mKfMn/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[Tổng ôn chương trình 11] – 9. Bộ đề tinh hoa lí thuyết – Đề số 15 (Phần 1).mp4",
+              "videos": [
+                {
+                  "title": "[Tổng ôn chương trình 11] – 9. Bộ đề tinh hoa lí thuyết – Đề số 15 (Phần 1).mp4",
+                  "link": "https://drive.google.com/file/d/1hMQLTkPqHTzMqLGFPLNzEOgLqOz3gU-D/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[Tổng ôn chương trình 11] – 10. Bộ đề tinh hoa lí thuyết – Đề số 15 (Phần 2).mp4",
+              "videos": [
+                {
+                  "title": "[Tổng ôn chương trình 11] – 10. Bộ đề tinh hoa lí thuyết – Đề số 15 (Phần 2).mp4",
+                  "link": "https://drive.google.com/file/d/16PPZsodJ9lZWmluvag44Mox790hLgXTe/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[Tổng ôn chương trình 11] – 11. Bộ đề tinh hoa lí thuyết – Đề số 16 (Phần 1).mp4",
+              "videos": [
+                {
+                  "title": "[Tổng ôn chương trình 11] – 11. Bộ đề tinh hoa lí thuyết – Đề số 16 (Phần 1).mp4",
+                  "link": "https://drive.google.com/file/d/1q4Vy2vFZPGKryNn-Wz9jjKT_SxR0fNV5/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[Tổng ôn chương trình 11] – 13. Bộ đề tinh hoa lí thuyết – Đề số 17 (Phần 1).mp4",
+              "videos": [
+                {
+                  "title": "[Tổng ôn chương trình 11] – 13. Bộ đề tinh hoa lí thuyết – Đề số 17 (Phần 1).mp4",
+                  "link": "https://drive.google.com/file/d/1yGJ2anEBfU6pXzEqtmSYwGmAng2b7gYe/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[Tổng ôn chương trình 11] – 14. Bộ đề tinh hoa lí thuyết – Đề số 17 (Phần 2).mp4",
+              "videos": [
+                {
+                  "title": "[Tổng ôn chương trình 11] – 14. Bộ đề tinh hoa lí thuyết – Đề số 17 (Phần 2).mp4",
+                  "link": "https://drive.google.com/file/d/16Yh-ISrGIZPci59PJ4XmIdg6WX99Tqh9/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[Tổng ôn chương trình 11] – 15. Bộ đề tinh hoa lí thuyết – Đề số 18 (Phần 1).mp4",
+              "videos": [
+                {
+                  "title": "[Tổng ôn chương trình 11] – 15. Bộ đề tinh hoa lí thuyết – Đề số 18 (Phần 1).mp4",
+                  "link": "https://drive.google.com/file/d/1f4M2XNZtFQ38X82OngyXF5zoI8mH9bbM/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[Tổng ôn chương trình 11] – 16. Bộ đề tinh hoa lí thuyết – Đề số 18 (Phần 2).mp4",
+              "videos": [
+                {
+                  "title": "[Tổng ôn chương trình 11] – 16. Bộ đề tinh hoa lí thuyết – Đề số 18 (Phần 2).mp4",
+                  "link": "https://drive.google.com/file/d/1CPpiNTxlsbRAX_sVkwNhKJ_-3C6I06yi/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[Tổng ôn chương trình 11] – 19. Bộ đề tinh hoa lí thuyết – Đề số 20 (Phần 1).mp4",
+              "videos": [
+                {
+                  "title": "[Tổng ôn chương trình 11] – 19. Bộ đề tinh hoa lí thuyết – Đề số 20 (Phần 1).mp4",
+                  "link": "https://drive.google.com/file/d/1fpHj8ZzSV9tlZysPquZxktcuJ_XyGvqg/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[Tổng ôn chương trình 11] – 20. Bộ đề tinh hoa lí thuyết – Đề số 20 (Phần 2).mp4",
+              "videos": [
+                {
+                  "title": "[Tổng ôn chương trình 11] – 20. Bộ đề tinh hoa lí thuyết – Đề số 20 (Phần 2).mp4",
+                  "link": "https://drive.google.com/file/d/1FXDJGU5PG1xSbuUz1cftP7ngPLTR2itL/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "3. Tổng ôn vật lí nhiệt (Đề 21 – 30)",
+          "items": [
+            {
+              "name": "[Đề 21 – 30] – 1. Bộ đề tinh hoa lí thuyết – Đề 21.mp4",
+              "videos": [
+                {
+                  "title": "[Đề 21 – 30] – 1. Bộ đề tinh hoa lí thuyết – Đề 21.mp4",
+                  "link": "https://drive.google.com/file/d/1rznxuVC7Co-fjMWmCNFdTe_D4PffTfi2/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[Đề 21 – 30] – 2. Bộ đề tinh hoa lí thuyết – Đề 22.mp4",
+              "videos": [
+                {
+                  "title": "[Đề 21 – 30] – 2. Bộ đề tinh hoa lí thuyết – Đề 22.mp4",
+                  "link": "https://drive.google.com/file/d/1DaJDFBE3B6k1_WiZwoU6O0PmJLsfheMB/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[Đề 21 – 30] – 3. Bộ đề tinh hoa lí thuyết – Đề 23.mp4",
+              "videos": [
+                {
+                  "title": "[Đề 21 – 30] – 3. Bộ đề tinh hoa lí thuyết – Đề 23.mp4",
+                  "link": "https://drive.google.com/file/d/1MBCDJtPSliAY8pSRJT8WWx-3l5pCZd2d/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[Đề 21 – 30] – 4. Bộ đề tinh hoa lí thuyết – Đề 24.mp4",
+              "videos": [
+                {
+                  "title": "[Đề 21 – 30] – 4. Bộ đề tinh hoa lí thuyết – Đề 24.mp4",
+                  "link": "https://drive.google.com/file/d/1MCvmUkf0qvBoogVeMIC1GFshfq2-JrPg/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[Đề 21 – 30] – 5. Bộ đề tinh hoa lí thuyết – Đề 25.mp4",
+              "videos": [
+                {
+                  "title": "[Đề 21 – 30] – 5. Bộ đề tinh hoa lí thuyết – Đề 25.mp4",
+                  "link": "https://drive.google.com/file/d/19SzJk9_djbex2nqxlWKWhj7Gqav8hiCn/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[Đề 21 – 30] – 6. Bộ đề tinh hoa lí thuyết – Đề 26.mp4",
+              "videos": [
+                {
+                  "title": "[Đề 21 – 30] – 6. Bộ đề tinh hoa lí thuyết – Đề 26.mp4",
+                  "link": "https://drive.google.com/file/d/1skEuRCJw6Gzcy0Sgdvy2QoPRkQbAyWkE/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[Đề 21 – 30] – 7. Bộ đề tinh hoa lí thuyết – Đề 27.mp4",
+              "videos": [
+                {
+                  "title": "[Đề 21 – 30] – 7. Bộ đề tinh hoa lí thuyết – Đề 27.mp4",
+                  "link": "https://drive.google.com/file/d/1g2W_kfJ3rOJs3negqd76Pzk9xf3eRZFF/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[Đề 21 – 30] – 8. Bộ đề tinh hoa lí thuyết – Đề 28.mp4",
+              "videos": [
+                {
+                  "title": "[Đề 21 – 30] – 8. Bộ đề tinh hoa lí thuyết – Đề 28.mp4",
+                  "link": "https://drive.google.com/file/d/1fwB4N99zTrzntwLW1fpxXh85JylFA0Ac/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[Đề 21 – 30] – 9. Bộ đề tinh hoa lí thuyết – Đề 29.mp4",
+              "videos": [
+                {
+                  "title": "[Đề 21 – 30] – 9. Bộ đề tinh hoa lí thuyết – Đề 29.mp4",
+                  "link": "https://drive.google.com/file/d/1HdpjeTS1XcQb9e8LMrLMDrsPl68I3Ewj/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[Đề 21 – 30] – 10. Bộ đề tinh hoa lí thuyết – Đề 30.mp4",
+              "videos": [
+                {
+                  "title": "[Đề 21 – 30] – 10. Bộ đề tinh hoa lí thuyết – Đề 30.mp4",
+                  "link": "https://drive.google.com/file/d/1-bqR2c9m-ClLWap8bK6saVxFcNh_Vj87/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "4. Tổng ôn khí lí tưởng (Đề 31–40)",
+          "items": [
+            {
+              "name": "[Tổng ôn khí lí tưởng (Đề 31–40)] – 1. Bộ đề tinh hoa lí thuyết – Đề 31.mp4",
+              "videos": [
+                {
+                  "title": "[Tổng ôn khí lí tưởng (Đề 31–40)] – 1. Bộ đề tinh hoa lí thuyết – Đề 31.mp4",
+                  "link": "https://drive.google.com/file/d/1l1SfJMb-Gm9q9w2F5xmnBNbqQ_U62WZH/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[Tổng ôn khí lí tưởng (Đề 31–40)] – 2. Bộ đề tinh hoa lí thuyết – Đề 32.mp4",
+              "videos": [
+                {
+                  "title": "[Tổng ôn khí lí tưởng (Đề 31–40)] – 2. Bộ đề tinh hoa lí thuyết – Đề 32.mp4",
+                  "link": "https://drive.google.com/file/d/1vg-QOFwGRzDsnkbzmtnIX2ARB8VmHoQc/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[Tổng ôn khí lí tưởng (Đề 31–40)] – 3. Bộ đề tinh hoa lí thuyết – Đề 33.mp4",
+              "videos": [
+                {
+                  "title": "[Tổng ôn khí lí tưởng (Đề 31–40)] – 3. Bộ đề tinh hoa lí thuyết – Đề 33.mp4",
+                  "link": "https://drive.google.com/file/d/1nlOMot0nYM9yLjmYXEArnJq41qw_Wvil/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[Tổng ôn khí lí tưởng (Đề 31–40)] – 4. Bộ đề tinh hoa lí thuyết – Đề 34.mp4",
+              "videos": [
+                {
+                  "title": "[Tổng ôn khí lí tưởng (Đề 31–40)] – 4. Bộ đề tinh hoa lí thuyết – Đề 34.mp4",
+                  "link": "https://drive.google.com/file/d/1H8Jpps7V88DUU9feSeXIFLS6LmwuN8wq/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[Tổng ôn khí lí tưởng (Đề 31–40)] – 5. Bộ đề tinh hoa lí thuyết – Đề 35.mp4",
+              "videos": [
+                {
+                  "title": "[Tổng ôn khí lí tưởng (Đề 31–40)] – 5. Bộ đề tinh hoa lí thuyết – Đề 35.mp4",
+                  "link": "https://drive.google.com/file/d/1PZZ49chlchrgdZ770IpYLpoajDKjH6ax/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[Tổng ôn khí lí tưởng (Đề 31–40)] – 6. Bộ đề tinh hoa lí thuyết – Đề 36.mp4",
+              "videos": [
+                {
+                  "title": "[Tổng ôn khí lí tưởng (Đề 31–40)] – 6. Bộ đề tinh hoa lí thuyết – Đề 36.mp4",
+                  "link": "https://drive.google.com/file/d/10NCQURQI9PlXT3ae0ELD6ZVzgNT0bpwm/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[Tổng ôn khí lí tưởng (Đề 31–40)] – 7. Bộ đề tinh hoa lí thuyết – Đề 37.mp4",
+              "videos": [
+                {
+                  "title": "[Tổng ôn khí lí tưởng (Đề 31–40)] – 7. Bộ đề tinh hoa lí thuyết – Đề 37.mp4",
+                  "link": "https://drive.google.com/file/d/10rmsdKC30FGxhTMzqKDYToEIBEZ6lA6w/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[Tổng ôn khí lí tưởng (Đề 31–40)] – 8. Bộ đề tinh hoa lí thuyết – Đề 38.mp4",
+              "videos": [
+                {
+                  "title": "[Tổng ôn khí lí tưởng (Đề 31–40)] – 8. Bộ đề tinh hoa lí thuyết – Đề 38.mp4",
+                  "link": "https://drive.google.com/file/d/1SSBMnoYpRr42cJGv8WO2C8ucxzlREUzj/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[Tổng ôn khí lí tưởng (Đề 31–40)] – 9. Bộ đề tinh hoa lí thuyết – Đề 39.mp4",
+              "videos": [
+                {
+                  "title": "[Tổng ôn khí lí tưởng (Đề 31–40)] – 9. Bộ đề tinh hoa lí thuyết – Đề 39.mp4",
+                  "link": "https://drive.google.com/file/d/1X5p7-EAgg-mI8n0NSZxoV945_sfEr3XY/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[Tổng ôn khí lí tưởng (Đề 31–40)] – 10. Bộ đề tinh hoa lí thuyết – Đề 40.mp4",
+              "videos": [
+                {
+                  "title": "[Tổng ôn khí lí tưởng (Đề 31–40)] – 10. Bộ đề tinh hoa lí thuyết – Đề 40.mp4",
+                  "link": "https://drive.google.com/file/d/1kG04Y7kX7ulOb-z7gRSew-zYNWn5ONKp/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "6. SÁCH MÔ HÌNH THÌ NGHIỆM",
+      "items": [],
+      "children": [
+        {
+          "title": "Bài 1. Quy tắc an toàn trong phòng thực hành vật lí",
+          "items": [
+            {
+              "name": "[Bài 1] – 1. Video chữa – Đề luyện tập số 1.mp4",
+              "videos": [
+                {
+                  "title": "[Bài 1] – 1. Video chữa – Đề luyện tập số 1.mp4",
+                  "link": "https://drive.google.com/file/d/1j2EIZ_Q7QKMN_vq59AvRHH-r0yf6RbWL/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[Bài 1] – 2. Video chữa – Đề luyện tập số 2.mp4",
+              "videos": [
+                {
+                  "title": "[Bài 1] – 2. Video chữa – Đề luyện tập số 2.mp4",
+                  "link": "https://drive.google.com/file/d/1oydnFYwDFntJMA4BVIW_xINbEMoafb1r/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "Bài 2. Sai số trong phép đo. Ghi kết quả đo",
+          "items": [
+            {
+              "name": "[Bài 2] – 1. Video chữa – Đề luyện tập số 3.mp4",
+              "videos": [
+                {
+                  "title": "[Bài 2] – 1. Video chữa – Đề luyện tập số 3.mp4",
+                  "link": "https://drive.google.com/file/d/1JSeKRTaKQBG-aBXL_eZqvNsFmtNItCB-/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[Bài 2] – 2. Video chữa – Đề luyện tập số 4.mp4",
+              "videos": [
+                {
+                  "title": "[Bài 2] – 2. Video chữa – Đề luyện tập số 4.mp4",
+                  "link": "https://drive.google.com/file/d/1MtqfzXJpIecbX6uimNijdFB1Q0JbVvdF/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[Bài 2] – 3. Video chữa – Đề luyện tập số 5.mp4",
+              "videos": [
+                {
+                  "title": "[Bài 2] – 3. Video chữa – Đề luyện tập số 5.mp4",
+                  "link": "https://drive.google.com/file/d/1bWezzVhES7PJ70LegiCk-yGR9H66DaUV/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "Bài 4. Thí nghiệm nội năng",
+          "items": [
+            {
+              "name": "[Bài 4] – 1. Video chữa chi tiết – Đề luyện tập số 7.mp4",
+              "videos": [
+                {
+                  "title": "[Bài 4] – 1. Video chữa chi tiết – Đề luyện tập số 7.mp4",
+                  "link": "https://drive.google.com/file/d/1VTljgqNphuboIj8_cyqsz3Ko9fSb6wHP/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[Bài 4] – 2. Video chữa chi tiết – Đề luyện tập số 8.mp4",
+              "videos": [
+                {
+                  "title": "[Bài 4] – 2. Video chữa chi tiết – Đề luyện tập số 8.mp4",
+                  "link": "https://drive.google.com/file/d/1wQMSSgDcm52XK_kpEMmnyuUX404Y39GA/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "7. SÁCH NHẬP MÔN VẬT LÍ 12",
+      "items": [],
+      "children": [
+        {
+          "title": "Chương 1 – Bài 1. Sai số phép đo. Ghi kết quả đo (Đề 1)",
+          "items": [
+            {
+              "name": "[Chương 1 – Bài 1] – 1. Video chữa chi tiết – Ví dụ minh họa.mp4",
+              "videos": [
+                {
+                  "title": "[Chương 1 – Bài 1] – 1. Video chữa chi tiết – Ví dụ minh họa.mp4",
+                  "link": "https://drive.google.com/file/d/1TmRoRGf5fe4RVqPEPnXE3IC2V50Bqdmz/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[Chương 1 – Bài 1] – 2. Video chữa chi tiết – Đề luyện tập số 1.mp4",
+              "videos": [
+                {
+                  "title": "[Chương 1 – Bài 1] – 2. Video chữa chi tiết – Đề luyện tập số 1.mp4",
+                  "link": "https://drive.google.com/file/d/1CYlwxhGDL9cMlEczLZ_ymDxDnUWyRCVe/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "Chương 1 – Bài 2. Động học chất điểm (Đề 2-4)",
+          "items": [
+            {
+              "name": "[Chương 1 – Bài 2] – 1. Video chữa chi tiết – Đề luyện tập số 2.mp4",
+              "videos": [
+                {
+                  "title": "[Chương 1 – Bài 2] – 1. Video chữa chi tiết – Đề luyện tập số 2.mp4",
+                  "link": "https://drive.google.com/file/d/1L6j4jKfYmLxp3JpeGJvdu53Wka-tJY5e/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[Chương 1 – Bài 2] – 2. Video chữa chi tiết – Đề luyện tập số 3.mp4",
+              "videos": [
+                {
+                  "title": "[Chương 1 – Bài 2] – 2. Video chữa chi tiết – Đề luyện tập số 3.mp4",
+                  "link": "https://drive.google.com/file/d/17lRWl6hOaYELH6sYYagf1bcGQLtLoRXt/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[Chương 1 – Bài 2] – 3. Video chữa chi tiết – Đề luyện tập số 4.mp4",
+              "videos": [
+                {
+                  "title": "[Chương 1 – Bài 2] – 3. Video chữa chi tiết – Đề luyện tập số 4.mp4",
+                  "link": "https://drive.google.com/file/d/10I6sAY5eyeYTs3_1P7SNXKS5sopf8MLu/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "Chương 1 – Bài 3. Động lực học (Đề 5–8)",
+          "items": [
+            {
+              "name": "[Chương 1 – Bài 3] – 1. Video chữa chi tiết – Đề luyện tập số 5.mp4",
+              "videos": [
+                {
+                  "title": "[Chương 1 – Bài 3] – 1. Video chữa chi tiết – Đề luyện tập số 5.mp4",
+                  "link": "https://drive.google.com/file/d/1l1YrKY09Oedj0guVqD6IMQwX-Q0uFPVv/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[Chương 1 – Bài 3] – 2. Video chữa chi tiết – Đề luyện tập số 6.mp4",
+              "videos": [
+                {
+                  "title": "[Chương 1 – Bài 3] – 2. Video chữa chi tiết – Đề luyện tập số 6.mp4",
+                  "link": "https://drive.google.com/file/d/1b2r-p5XEoPf-Z3MXqmu-hHNvwws7mI64/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[Chương 1 – Bài 3] – 3. Video chữa chi tiết – Đề luyện tập số 7.mp4",
+              "videos": [
+                {
+                  "title": "[Chương 1 – Bài 3] – 3. Video chữa chi tiết – Đề luyện tập số 7.mp4",
+                  "link": "https://drive.google.com/file/d/1r_aAh1WDijgXPi9fJEmzbAALfOhR7ePp/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[Chương 1 – Bài 3] – 4. Video chữa chi tiết – Đề luyện tập số 8.mp4",
+              "videos": [
+                {
+                  "title": "[Chương 1 – Bài 3] – 4. Video chữa chi tiết – Đề luyện tập số 8.mp4",
+                  "link": "https://drive.google.com/file/d/1DkkX-0HPat5RRAX2uBgSASNSB8ulHr2D/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "Chương 1 – Bài 4. Năng lượng (Đề 9–12)",
+          "items": [
+            {
+              "name": "[Chương 1 – Bài 4] – 1. Video chữa chi tiết – Đề luyện tập số 9.mp4",
+              "videos": [
+                {
+                  "title": "[Chương 1 – Bài 4] – 1. Video chữa chi tiết – Đề luyện tập số 9.mp4",
+                  "link": "https://drive.google.com/file/d/17MboQqZDC77H52pBHfV6bo9MbunqA_iU/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[Chương 1 – Bài 4] – 2. Video chữa chi tiết – Đề luyện tập số 10.mp4",
+              "videos": [
+                {
+                  "title": "[Chương 1 – Bài 4] – 2. Video chữa chi tiết – Đề luyện tập số 10.mp4",
+                  "link": "https://drive.google.com/file/d/1iK8SwqneAQBPRNpiHV_yoAN5yvPDyf9f/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[Chương 1 – Bài 4] – 3. [Video chữa chi tiết] Đề luyện tập số 11.mp4.mp4",
+              "videos": [
+                {
+                  "title": "[Chương 1 – Bài 4] – 3. [Video chữa chi tiết] Đề luyện tập số 11.mp4.mp4",
+                  "link": "https://drive.google.com/file/d/1aXdGCypyXe4JY4_xBSRUwTJZQsMWWsGY/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[Chương 1 – Bài 4] – 3. Video chữa chi tiết – Đề luyện tập số 12.mp4",
+              "videos": [
+                {
+                  "title": "[Chương 1 – Bài 4] – 3. Video chữa chi tiết – Đề luyện tập số 12.mp4",
+                  "link": "https://drive.google.com/file/d/1M2y50-ucRVSspCoEeYdsJrKz5EpupX2i/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "Chương 1 – Bài 5. Khối lượng riêng. Áp suất chất lỏng (Đề 13)",
+          "items": [
+            {
+              "name": "[Chương 1 – Bài 5] – 1. [Video chữa chi tiết] Đề luyện tập số 13.mp4",
+              "videos": [
+                {
+                  "title": "[Chương 1 – Bài 5] – 1. [Video chữa chi tiết] Đề luyện tập số 13.mp4",
+                  "link": "https://drive.google.com/file/d/1aXnBnPe6luh9v9X73bhBpDKjor_KSmFl/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "Chương 2 – Bài 1. Dao động và sóng (Đề 14–15)",
+          "items": [
+            {
+              "name": "[Chương 2 – Bài 1] – 1. Video chữa chi tiết – Ví dụ minh họa (phần 1).mp4",
+              "videos": [
+                {
+                  "title": "[Chương 2 – Bài 1] – 1. Video chữa chi tiết – Ví dụ minh họa (phần 1).mp4",
+                  "link": "https://drive.google.com/file/d/1emkJIrBirkMkSOY6o6B8p4MUHqCwh3sb/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[Chương 2 – Bài 1] – 2. Video chữa chi tiết – Ví dụ minh họa (phần 2).mp4",
+              "videos": [
+                {
+                  "title": "[Chương 2 – Bài 1] – 2. Video chữa chi tiết – Ví dụ minh họa (phần 2).mp4",
+                  "link": "https://drive.google.com/file/d/1TswWS8hhLzWkIKHVPJllG8EHO4RFNifd/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[Chương 2 – Bài 1] – 3. Video chữa chi tiết – Đề luyện tập số 14.mp4",
+              "videos": [
+                {
+                  "title": "[Chương 2 – Bài 1] – 3. Video chữa chi tiết – Đề luyện tập số 14.mp4",
+                  "link": "https://drive.google.com/file/d/15HJj4pTLezAdXN4fvIpfv1-QAMP5EGBb/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[Chương 2 – Bài 1] – 4. Video chữa chi tiết – Đề luyện tập số 15.mp4",
+              "videos": [
+                {
+                  "title": "[Chương 2 – Bài 1] – 4. Video chữa chi tiết – Đề luyện tập số 15.mp4",
+                  "link": "https://drive.google.com/file/d/1deAKvkthTtOM6BqWzjHfsoZMSgRUJOBI/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "Chương 2 – Bài 2. Điện trường (Đề 16–17)",
+          "items": [
+            {
+              "name": "[Chương 2 – Bài 2] – 1. Video chữa chi tiết – Ví dụ minh họa.mp4",
+              "videos": [
+                {
+                  "title": "[Chương 2 – Bài 2] – 1. Video chữa chi tiết – Ví dụ minh họa.mp4",
+                  "link": "https://drive.google.com/file/d/1GO8mNyycOf-jyL--OQ-c2KaYKsxiVLDr/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[Chương 2 – Bài 2] – 2. Video chữa chi tiết – Đề luyện tập số 16.mp4",
+              "videos": [
+                {
+                  "title": "[Chương 2 – Bài 2] – 2. Video chữa chi tiết – Đề luyện tập số 16.mp4",
+                  "link": "https://drive.google.com/file/d/1sfNBqUVmV9uQla2j2hg19viky2meWhqv/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[Chương 2 – Bài 2] – 3. Video chữa chi tiết – Đề luyện tập số 17.mp4",
+              "videos": [
+                {
+                  "title": "[Chương 2 – Bài 2] – 3. Video chữa chi tiết – Đề luyện tập số 17.mp4",
+                  "link": "https://drive.google.com/file/d/1-HBQBnUtbkCN3jO9uurIuJw0gyVYLHSL/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "Chương 3 – Bài 1. Cấu trúc của chất",
+          "items": [
+            {
+              "name": "[Chương 3 – Bài 1. Cấu trúc của chất] – 1. Đề luyện tập số 20.mp4",
+              "videos": [
+                {
+                  "title": "[Chương 3 – Bài 1. Cấu trúc của chất] – 1. Đề luyện tập số 20.mp4",
+                  "link": "https://drive.google.com/file/d/1I-Z8UktMddauwTkhIJ4vpWOVzUUv1rnU/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[Chương 3 – Bài 1. Cấu trúc của chất] – 2. Đề luyện tập số 21.mp4",
+              "videos": [
+                {
+                  "title": "[Chương 3 – Bài 1. Cấu trúc của chất] – 2. Đề luyện tập số 21.mp4",
+                  "link": "https://drive.google.com/file/d/1WiUSw8E8ezcEF4LF1XGw4phEfgX_she4/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "Chương 3 – Bài 2. Sự chuyển thể của các chất",
+          "items": [
+            {
+              "name": "[Chương 3 – Bài 2] – 1. Đề luyện tập số 22.mp4",
+              "videos": [
+                {
+                  "title": "[Chương 3 – Bài 2] – 1. Đề luyện tập số 22.mp4",
+                  "link": "https://drive.google.com/file/d/1tATfvyGLcIN_56gzcPKiR0u8Wa5arHO-/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[Chương 3 – Bài 2] – 2. Đề luyện tập số 23.mp4",
+              "videos": [
+                {
+                  "title": "[Chương 3 – Bài 2] – 2. Đề luyện tập số 23.mp4",
+                  "link": "https://drive.google.com/file/d/1p5uHi1_2ooLhTxOTFD_KBRNCyiNikMit/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "Chương 3 – Bài 3. Nội năng. Định luật 1 của nhiệt động lực học (Đề 24–25)",
+          "items": [
+            {
+              "name": "[Chương 3 – Bài 3] – 1. Video chữa chi tiết – Đề luyện tập số 24.mp4",
+              "videos": [
+                {
+                  "title": "[Chương 3 – Bài 3] – 1. Video chữa chi tiết – Đề luyện tập số 24.mp4",
+                  "link": "https://drive.google.com/file/d/16JVuqJh7eGvxaNpCB3lvZvPID_CJlR4k/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[Chương 3 – Bài 3] – 2. Dạng bài – Định luật 1 của nhiệt động lực học.mp4",
+              "videos": [
+                {
+                  "title": "[Chương 3 – Bài 3] – 2. Dạng bài – Định luật 1 của nhiệt động lực học.mp4",
+                  "link": "https://drive.google.com/file/d/1qf6NUynmTk_iKh1Vx2_46xdv1w9ARloC/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "Chương 3 – Bài 4. Thang nhiệt độ (Đề 26)",
+          "items": [
+            {
+              "name": "[Chương 3 – Bài 4] – 1. Video chữa chi tiết – Ví dụ minh họa.mp4",
+              "videos": [
+                {
+                  "title": "[Chương 3 – Bài 4] – 1. Video chữa chi tiết – Ví dụ minh họa.mp4",
+                  "link": "https://drive.google.com/file/d/1xBDr9qLPTXhSGIxn-zEQV7PupjWrHIf2/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[Chương 3 – Bài 4] – 2. Video chữa chi tiết – Đề luyện tập số 26.mp4",
+              "videos": [
+                {
+                  "title": "[Chương 3 – Bài 4] – 2. Video chữa chi tiết – Đề luyện tập số 26.mp4",
+                  "link": "https://drive.google.com/file/d/1sMz95qhrndDbnArFpjBCgyNfDch5_3b6/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "Chương 3 – Bài 5. Nhiệt dung riêng (Đề 27–28)",
+          "items": [
+            {
+              "name": "[Chương 3 – Bài 5] – 1.3. [Video chữa chi tiết] Đề luyện tập số 28.mp4",
+              "videos": [
+                {
+                  "title": "[Chương 3 – Bài 5] – 1.3. [Video chữa chi tiết] Đề luyện tập số 28.mp4",
+                  "link": "https://drive.google.com/file/d/1y5STEo7nt3zP3VgzeDRtt0gpwb4lV4A6/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[Chương 3 – Bài 5] – 1. [Video chữa chi tiết] Đề luyện tập số 27.mp4",
+              "videos": [
+                {
+                  "title": "[Chương 3 – Bài 5] – 1. [Video chữa chi tiết] Đề luyện tập số 27.mp4",
+                  "link": "https://drive.google.com/file/d/1_k6KMFxsOA_B3MMxvgLPsGv5EPfY4lXm/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[Chương 3 – Bài 5] – 5.2. Dạng nhiệt dung riêng.mp4",
+              "videos": [
+                {
+                  "title": "[Chương 3 – Bài 5] – 5.2. Dạng nhiệt dung riêng.mp4",
+                  "link": "https://drive.google.com/file/d/13M3xmsYOTUmI_7vNlAmoHMFzXjXY_vAz/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "Chương 3 – Bài 6. Nhiệt nóng chảy riêng – Nhiệt hóa hơi riêng (Đề 30-31)",
+          "items": [
+            {
+              "name": "[Chương 3 – Bài 6] – 1.1. Dạng sự nóng chảy.mp4",
+              "videos": [
+                {
+                  "title": "[Chương 3 – Bài 6] – 1.1. Dạng sự nóng chảy.mp4",
+                  "link": "https://drive.google.com/file/d/1uyafK1cTWbX-ykCH72Ar3N_K1VWpR6Zm/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[Chương 3 – Bài 6] – 1.2. Video chữa chi tiết Đề luyện tập số 30.mp4",
+              "videos": [
+                {
+                  "title": "[Chương 3 – Bài 6] – 1.2. Video chữa chi tiết Đề luyện tập số 30.mp4",
+                  "link": "https://drive.google.com/file/d/1CwOHwwHnvAJFQZFzpEB1RWjczmgnSNNB/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "8. SÁCH CÀY LÍ THUYẾT 360 ĐỘ",
+      "items": [],
+      "children": [
+        {
+          "title": "1. 10 ĐỀ LÍ THUYẾT VẬT LÍ NHIỆT",
+          "items": [
+            {
+              "name": "[10 ĐỀ LÍ THUYẾT VẬT LÍ NHIỆT] – 1.10. Đề lí thuyết Vật Lí Nhiệt – Đề số 10.mp4",
+              "videos": [
+                {
+                  "title": "[10 ĐỀ LÍ THUYẾT VẬT LÍ NHIỆT] – 1.10. Đề lí thuyết Vật Lí Nhiệt – Đề số 10.mp4",
+                  "link": "https://drive.google.com/file/d/1aFbmhty3-zAJuLAPk0mFvv-PiRihL6Rb/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[10 ĐỀ LÍ THUYẾT VẬT LÍ NHIỆT] – 1. Sách 360 Độ Lí Thuyết – 10 đề lí thuyết Vật Lí Nhiệt.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "[10 ĐỀ LÍ THUYẾT VẬT LÍ NHIỆT] – 1. Sách 360 Độ Lí Thuyết – 10 đề lí thuyết Vật Lí Nhiệt.pdf",
+                  "link": "https://drive.google.com/file/d/1ambu6gSd6Mr6sbZGVTtizbYuWfp289eF/view?usp=drivesdk"
+                }
+              ]
+            },
+            {
+              "name": "[10 ĐỀ LÍ THUYẾT VẬT LÍ NHIỆT] – 1. Đề lí thuyết Vật Lí Nhiệt – Đề số 1.mp4",
+              "videos": [
+                {
+                  "title": "[10 ĐỀ LÍ THUYẾT VẬT LÍ NHIỆT] – 1. Đề lí thuyết Vật Lí Nhiệt – Đề số 1.mp4",
+                  "link": "https://drive.google.com/file/d/1rAbfldhU1MfvLr6R2b4oGmYtNGrOhV2G/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[10 ĐỀ LÍ THUYẾT VẬT LÍ NHIỆT] – 2. Viết tay – Đề lí thuyết Vật Lí Nhiệt – Đề số 1.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "[10 ĐỀ LÍ THUYẾT VẬT LÍ NHIỆT] – 2. Viết tay – Đề lí thuyết Vật Lí Nhiệt – Đề số 1.pdf",
+                  "link": "https://drive.google.com/file/d/10Ae1qNC64LTyzK7AJn8lucIf415zhOHZ/view?usp=drivesdk"
+                }
+              ]
+            },
+            {
+              "name": "[10 ĐỀ LÍ THUYẾT VẬT LÍ NHIỆT] – 2. Đề lí thuyết Vật Lí Nhiệt – Đề số 2.mp4",
+              "videos": [
+                {
+                  "title": "[10 ĐỀ LÍ THUYẾT VẬT LÍ NHIỆT] – 2. Đề lí thuyết Vật Lí Nhiệt – Đề số 2.mp4",
+                  "link": "https://drive.google.com/file/d/1AdCuJOEMXj0lR_GhAfmghm8Tzuc-Z_mx/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[10 ĐỀ LÍ THUYẾT VẬT LÍ NHIỆT] – 3. Viết tay – Đề lí thuyết Vật Lí Nhiệt – Đề số 2.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "[10 ĐỀ LÍ THUYẾT VẬT LÍ NHIỆT] – 3. Viết tay – Đề lí thuyết Vật Lí Nhiệt – Đề số 2.pdf",
+                  "link": "https://drive.google.com/file/d/1CW7lcsUEo2wvoy2NZxx4L7-JcZSIkRd0/view?usp=drivesdk"
+                }
+              ]
+            },
+            {
+              "name": "[10 ĐỀ LÍ THUYẾT VẬT LÍ NHIỆT] – 3. Đề lí thuyết Vật Lí Nhiệt – Đề số 3.mp4",
+              "videos": [
+                {
+                  "title": "[10 ĐỀ LÍ THUYẾT VẬT LÍ NHIỆT] – 3. Đề lí thuyết Vật Lí Nhiệt – Đề số 3.mp4",
+                  "link": "https://drive.google.com/file/d/14MqoOVUqMHLz2Br0fZCTxrhfcNBhY4ft/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[10 ĐỀ LÍ THUYẾT VẬT LÍ NHIỆT] – 4. Viết tay – Đề lí thuyết Vật Lí Nhiệt – Đề số 3.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "[10 ĐỀ LÍ THUYẾT VẬT LÍ NHIỆT] – 4. Viết tay – Đề lí thuyết Vật Lí Nhiệt – Đề số 3.pdf",
+                  "link": "https://drive.google.com/file/d/11KcQbl2Jos3PB_5d0lWsrqPvPobriFC3/view?usp=drivesdk"
+                }
+              ]
+            },
+            {
+              "name": "[10 ĐỀ LÍ THUYẾT VẬT LÍ NHIỆT] – 4. Đề lí thuyết Vật Lí Nhiệt – Đề số 4.mp4",
+              "videos": [
+                {
+                  "title": "[10 ĐỀ LÍ THUYẾT VẬT LÍ NHIỆT] – 4. Đề lí thuyết Vật Lí Nhiệt – Đề số 4.mp4",
+                  "link": "https://drive.google.com/file/d/1um3qAPdfaEVLH10a9BPwFxi6I96jTgjk/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[10 ĐỀ LÍ THUYẾT VẬT LÍ NHIỆT] – 5. Đề lí thuyết Vật Lí Nhiệt – Đề số 5.mp4",
+              "videos": [
+                {
+                  "title": "[10 ĐỀ LÍ THUYẾT VẬT LÍ NHIỆT] – 5. Đề lí thuyết Vật Lí Nhiệt – Đề số 5.mp4",
+                  "link": "https://drive.google.com/file/d/1XOlURE8cwf-xRAWQA6xeh9hgocDomUcT/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[10 ĐỀ LÍ THUYẾT VẬT LÍ NHIỆT] – 6. Đề lí thuyết Vật Lí Nhiệt – Đề số 6.mp4",
+              "videos": [
+                {
+                  "title": "[10 ĐỀ LÍ THUYẾT VẬT LÍ NHIỆT] – 6. Đề lí thuyết Vật Lí Nhiệt – Đề số 6.mp4",
+                  "link": "https://drive.google.com/file/d/1AY3ft7GmXj_5zial6HDlllFBe0y7Kygk/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[10 ĐỀ LÍ THUYẾT VẬT LÍ NHIỆT] – 7. Đề lí thuyết Vật Lí Nhiệt – Đề số 7.mp4",
+              "videos": [
+                {
+                  "title": "[10 ĐỀ LÍ THUYẾT VẬT LÍ NHIỆT] – 7. Đề lí thuyết Vật Lí Nhiệt – Đề số 7.mp4",
+                  "link": "https://drive.google.com/file/d/1Z3csMlSJ1SvKzvzSMuac4hzffARCNXhU/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[10 ĐỀ LÍ THUYẾT VẬT LÍ NHIỆT] – 8. Đề lí thuyết Vật Lí Nhiệt – Đề số 8.mp4",
+              "videos": [
+                {
+                  "title": "[10 ĐỀ LÍ THUYẾT VẬT LÍ NHIỆT] – 8. Đề lí thuyết Vật Lí Nhiệt – Đề số 8.mp4",
+                  "link": "https://drive.google.com/file/d/1v9h5c4WBGTKyTJuQwadAIdOgM9zANQje/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[10 ĐỀ LÍ THUYẾT VẬT LÍ NHIỆT] – 9. Đề lí thuyết Vật Lí Nhiệt – Đề số 9.mp4",
+              "videos": [
+                {
+                  "title": "[10 ĐỀ LÍ THUYẾT VẬT LÍ NHIỆT] – 9. Đề lí thuyết Vật Lí Nhiệt – Đề số 9.mp4",
+                  "link": "https://drive.google.com/file/d/1-nspdOWrUTurC53DNRUrEDTOwr5BPy4K/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[10 ĐỀ LÍ THUYẾT VẬT LÍ NHIỆT] – 14. Viết tay – Đề lí thuyết Vật Lí Nhiệt – Đề số 4.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "[10 ĐỀ LÍ THUYẾT VẬT LÍ NHIỆT] – 14. Viết tay – Đề lí thuyết Vật Lí Nhiệt – Đề số 4.pdf",
+                  "link": "https://drive.google.com/file/d/1KNKpWWN5V0epewbAsEjhEFp4C_cCtFwh/view?usp=drivesdk"
+                }
+              ]
+            },
+            {
+              "name": "[10 ĐỀ LÍ THUYẾT VẬT LÍ NHIỆT] – 15. Viết tay – Đề lí thuyết Vật Lí Nhiệt – Đề số 5.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "[10 ĐỀ LÍ THUYẾT VẬT LÍ NHIỆT] – 15. Viết tay – Đề lí thuyết Vật Lí Nhiệt – Đề số 5.pdf",
+                  "link": "https://drive.google.com/file/d/1MRWmOtc5i38b5WxA7qU2m8Esd3r7o0Yw/view?usp=drivesdk"
+                }
+              ]
+            },
+            {
+              "name": "[10 ĐỀ LÍ THUYẾT VẬT LÍ NHIỆT] – 16. Viết tay – Đề lí thuyết Vật Lí Nhiệt – Đề số 6.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "[10 ĐỀ LÍ THUYẾT VẬT LÍ NHIỆT] – 16. Viết tay – Đề lí thuyết Vật Lí Nhiệt – Đề số 6.pdf",
+                  "link": "https://drive.google.com/file/d/1pydVdGiC7jfuZz6jMJkd_0T1abwlB92M/view?usp=drivesdk"
+                }
+              ]
+            },
+            {
+              "name": "[10 ĐỀ LÍ THUYẾT VẬT LÍ NHIỆT] – 17. Viết tay – Đề lí thuyết Vật Lí Nhiệt – Đề số 7.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "[10 ĐỀ LÍ THUYẾT VẬT LÍ NHIỆT] – 17. Viết tay – Đề lí thuyết Vật Lí Nhiệt – Đề số 7.pdf",
+                  "link": "https://drive.google.com/file/d/1oaWQzhJYvCyCHmfB13Wj1RqE3SpQtwsG/view?usp=drivesdk"
+                }
+              ]
+            },
+            {
+              "name": "[10 ĐỀ LÍ THUYẾT VẬT LÍ NHIỆT] – 18. Viết tay – Đề lí thuyết Vật Lí Nhiệt – Đề số 8.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "[10 ĐỀ LÍ THUYẾT VẬT LÍ NHIỆT] – 18. Viết tay – Đề lí thuyết Vật Lí Nhiệt – Đề số 8.pdf",
+                  "link": "https://drive.google.com/file/d/1l2c-XVtukkpa6w7JY1SfJAONFwmDJ3Ff/view?usp=drivesdk"
+                }
+              ]
+            },
+            {
+              "name": "[10 ĐỀ LÍ THUYẾT VẬT LÍ NHIỆT] – 19. Viết tay – Đề lí thuyết Vật Lí Nhiệt – Đề số 9.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "[10 ĐỀ LÍ THUYẾT VẬT LÍ NHIỆT] – 19. Viết tay – Đề lí thuyết Vật Lí Nhiệt – Đề số 9.pdf",
+                  "link": "https://drive.google.com/file/d/1AnMU3AAr4uI4N5FB52yJI9HWUWIeRH4X/view?usp=drivesdk"
+                }
+              ]
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "2. BÀI GIẢNG LÍ THUYẾT CƠ BẢN VẬT LÍ NHIỆT",
+          "items": [
+            {
+              "name": "[BÀI GIẢNG LÍ THUYẾT CƠ BẢN VẬT LÍ NHIỆT] – 1. [Video lí thuyết] Bài 1 – Cấu trúc của chất.mp4",
+              "videos": [
+                {
+                  "title": "[BÀI GIẢNG LÍ THUYẾT CƠ BẢN VẬT LÍ NHIỆT] – 1. [Video lí thuyết] Bài 1 – Cấu trúc của chất.mp4",
+                  "link": "https://drive.google.com/file/d/10aMw2vJjWjjEn-4xnFXs8frCK-sC5QHa/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[BÀI GIẢNG LÍ THUYẾT CƠ BẢN VẬT LÍ NHIỆT] – 2. [Video lí thuyết] Bài 2 – Sự chuyển thể của các chất.mp4",
+              "videos": [
+                {
+                  "title": "[BÀI GIẢNG LÍ THUYẾT CƠ BẢN VẬT LÍ NHIỆT] – 2. [Video lí thuyết] Bài 2 – Sự chuyển thể của các chất.mp4",
+                  "link": "https://drive.google.com/file/d/1WmJ7tojQH6TrR2lK-A6jjHjEYzpReLC_/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[BÀI GIẢNG LÍ THUYẾT CƠ BẢN VẬT LÍ NHIỆT] – 3. [Video lí thuyết] Bài 3 – Nội năng. Định luật 1 của nhiệt động lực học.mp4",
+              "videos": [
+                {
+                  "title": "[BÀI GIẢNG LÍ THUYẾT CƠ BẢN VẬT LÍ NHIỆT] – 3. [Video lí thuyết] Bài 3 – Nội năng. Định luật 1 của nhiệt động lực học.mp4",
+                  "link": "https://drive.google.com/file/d/1sLE5NVJukjQn9RvNgsr9I7BZai21a31K/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[BÀI GIẢNG LÍ THUYẾT CƠ BẢN VẬT LÍ NHIỆT] – 4. [Video lí thuyết] Bài 4 – Thang nhiệt độ.mp4",
+              "videos": [
+                {
+                  "title": "[BÀI GIẢNG LÍ THUYẾT CƠ BẢN VẬT LÍ NHIỆT] – 4. [Video lí thuyết] Bài 4 – Thang nhiệt độ.mp4",
+                  "link": "https://drive.google.com/file/d/10rbGocD4QfdJ59gdkEJylOiunNHCxabT/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[BÀI GIẢNG LÍ THUYẾT CƠ BẢN VẬT LÍ NHIỆT] – 5. [Video lí thuyết] Bài 5 – Nhiệt dung riêng.mp4",
+              "videos": [
+                {
+                  "title": "[BÀI GIẢNG LÍ THUYẾT CƠ BẢN VẬT LÍ NHIỆT] – 5. [Video lí thuyết] Bài 5 – Nhiệt dung riêng.mp4",
+                  "link": "https://drive.google.com/file/d/15nLbOTpl00Kkjixwi7mvheSt48vkdSkD/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[BÀI GIẢNG LÍ THUYẾT CƠ BẢN VẬT LÍ NHIỆT] – 6. [Video lí thuyết] Bài 6 – Nhiệt nóng chảy riêng và Nhiệt hóa hơi riêng.mp4",
+              "videos": [
+                {
+                  "title": "[BÀI GIẢNG LÍ THUYẾT CƠ BẢN VẬT LÍ NHIỆT] – 6. [Video lí thuyết] Bài 6 – Nhiệt nóng chảy riêng và Nhiệt hóa hơi riêng.mp4",
+                  "link": "https://drive.google.com/file/d/1eY2rKy06Vbf7yr0Yo8z0sjr3ISI-pCzR/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "3. BÀI GIẢNG LÍ THUYẾT CƠ BẢN KHÍ LÍ TƯỞNG",
+          "items": [
+            {
+              "name": "[BÀI GIẢNG LÍ THUYẾT CƠ BẢN KHÍ LÍ TƯỞNG] – 1. Bài 1 – Mô hình động học phân tử chất khí.mp4",
+              "videos": [
+                {
+                  "title": "[BÀI GIẢNG LÍ THUYẾT CƠ BẢN KHÍ LÍ TƯỞNG] – 1. Bài 1 – Mô hình động học phân tử chất khí.mp4",
+                  "link": "https://drive.google.com/file/d/1ZbAH1w8fBgsdinNVuabv_JhxRLDxlcZA/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[BÀI GIẢNG LÍ THUYẾT CƠ BẢN KHÍ LÍ TƯỞNG] – 2. Bài 2 – Định luật Boyle.mp4",
+              "videos": [
+                {
+                  "title": "[BÀI GIẢNG LÍ THUYẾT CƠ BẢN KHÍ LÍ TƯỞNG] – 2. Bài 2 – Định luật Boyle.mp4",
+                  "link": "https://drive.google.com/file/d/1GGGAbaH2dtnE2_x_fBUYH1YQtzasmYOt/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[BÀI GIẢNG LÍ THUYẾT CƠ BẢN KHÍ LÍ TƯỞNG] – 3. Bài 3 – Định luật Charles.mp4",
+              "videos": [
+                {
+                  "title": "[BÀI GIẢNG LÍ THUYẾT CƠ BẢN KHÍ LÍ TƯỞNG] – 3. Bài 3 – Định luật Charles.mp4",
+                  "link": "https://drive.google.com/file/d/1X3q2ezR9fatIsnf35azcZseZs-uuzEvk/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[BÀI GIẢNG LÍ THUYẾT CƠ BẢN KHÍ LÍ TƯỞNG] – 4. Bài 4 – Quá trình đẳng tích.mp4",
+              "videos": [
+                {
+                  "title": "[BÀI GIẢNG LÍ THUYẾT CƠ BẢN KHÍ LÍ TƯỞNG] – 4. Bài 4 – Quá trình đẳng tích.mp4",
+                  "link": "https://drive.google.com/file/d/1u1S0aCt39ljMNuoBtncZeIqoUdhENd2x/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[BÀI GIẢNG LÍ THUYẾT CƠ BẢN KHÍ LÍ TƯỞNG] – 5. Bài 5 – Phương trình trạng thái của khí lí tưởng.mp4",
+              "videos": [
+                {
+                  "title": "[BÀI GIẢNG LÍ THUYẾT CƠ BẢN KHÍ LÍ TƯỞNG] – 5. Bài 5 – Phương trình trạng thái của khí lí tưởng.mp4",
+                  "link": "https://drive.google.com/file/d/1SZBd_xixdhPvfKjh-ULAYSpldF5hB-w9/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[BÀI GIẢNG LÍ THUYẾT CƠ BẢN KHÍ LÍ TƯỞNG] – 6. Bài 6 – Quan hệ giữa động năng phân tử và nhiệt độ.mp4",
+              "videos": [
+                {
+                  "title": "[BÀI GIẢNG LÍ THUYẾT CƠ BẢN KHÍ LÍ TƯỞNG] – 6. Bài 6 – Quan hệ giữa động năng phân tử và nhiệt độ.mp4",
+                  "link": "https://drive.google.com/file/d/18GV1l8pgIqSsRtoOGSarJT7DKYukixHe/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "4. 10 ĐỀ LÍ THUYẾT KHÍ LÍ TƯỞNG",
+          "items": [
+            {
+              "name": "[10 ĐỀ LÍ THUYẾT KHÍ LÍ TƯỞNG] – 1.1. Đề lí thuyết Khí Lí Tưởng – Đề số 1.mp4",
+              "videos": [
+                {
+                  "title": "[10 ĐỀ LÍ THUYẾT KHÍ LÍ TƯỞNG] – 1.1. Đề lí thuyết Khí Lí Tưởng – Đề số 1.mp4",
+                  "link": "https://drive.google.com/file/d/1fWPdtSyk2zOulChU6BRA7ykOumDtAjq-/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[10 ĐỀ LÍ THUYẾT KHÍ LÍ TƯỞNG] – 1.2. Đề lí thuyết Khí Lí Tưởng – Đề số 2.mp4",
+              "videos": [
+                {
+                  "title": "[10 ĐỀ LÍ THUYẾT KHÍ LÍ TƯỞNG] – 1.2. Đề lí thuyết Khí Lí Tưởng – Đề số 2.mp4",
+                  "link": "https://drive.google.com/file/d/1UOAhOamZhjvJ_wCkdSep6N_XJndBFwMd/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[10 ĐỀ LÍ THUYẾT KHÍ LÍ TƯỞNG] – 1.3. Đề lí thuyết Khí Lí Tưởng – Đề số 3.mp4",
+              "videos": [
+                {
+                  "title": "[10 ĐỀ LÍ THUYẾT KHÍ LÍ TƯỞNG] – 1.3. Đề lí thuyết Khí Lí Tưởng – Đề số 3.mp4",
+                  "link": "https://drive.google.com/file/d/1y2K2D5MKDjAEQiDyKPlltlPes9AHyUEz/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[10 ĐỀ LÍ THUYẾT KHÍ LÍ TƯỞNG] – 1.4. Đề lí thuyết Khí Lí Tưởng – Đề số 4.mp4",
+              "videos": [
+                {
+                  "title": "[10 ĐỀ LÍ THUYẾT KHÍ LÍ TƯỞNG] – 1.4. Đề lí thuyết Khí Lí Tưởng – Đề số 4.mp4",
+                  "link": "https://drive.google.com/file/d/1Hv-xs3u0Sp3F2k1zjMNAssgoZ2PcKH5Z/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[10 ĐỀ LÍ THUYẾT KHÍ LÍ TƯỞNG] – 1.5. Đề lí thuyết Khí Lí Tưởng – Đề số 5.mp4",
+              "videos": [
+                {
+                  "title": "[10 ĐỀ LÍ THUYẾT KHÍ LÍ TƯỞNG] – 1.5. Đề lí thuyết Khí Lí Tưởng – Đề số 5.mp4",
+                  "link": "https://drive.google.com/file/d/1c6pi1gHq9ZBUiw4V0gEq7rtR79VvO-bJ/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "[10 ĐỀ LÍ THUYẾT KHÍ LÍ TƯỞNG] – 2.1. File đề – Sách 360 độ lí thuyết – 5 đề khí lí tưởng.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "[10 ĐỀ LÍ THUYẾT KHÍ LÍ TƯỞNG] – 2.1. File đề – Sách 360 độ lí thuyết – 5 đề khí lí tưởng.pdf",
+                  "link": "https://drive.google.com/file/d/1ict6iLk4aXgFmlH-GKRu9yGlAicAVTYe/view?usp=drivesdk"
+                }
+              ]
+            },
+            {
+              "name": "[10 ĐỀ LÍ THUYẾT KHÍ LÍ TƯỞNG] – 2.2. Viết tay – Đề lí thuyết Khí Lí Tưởng – Đề số 1.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "[10 ĐỀ LÍ THUYẾT KHÍ LÍ TƯỞNG] – 2.2. Viết tay – Đề lí thuyết Khí Lí Tưởng – Đề số 1.pdf",
+                  "link": "https://drive.google.com/file/d/1_Zfip2TNHkMDtP-FFqElokYyLfEeQM4L/view?usp=drivesdk"
+                }
+              ]
+            },
+            {
+              "name": "[10 ĐỀ LÍ THUYẾT KHÍ LÍ TƯỞNG] – 2.3. Viết tay – Đề lí thuyết Khí Lí Tưởng – Đề số 2.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "[10 ĐỀ LÍ THUYẾT KHÍ LÍ TƯỞNG] – 2.3. Viết tay – Đề lí thuyết Khí Lí Tưởng – Đề số 2.pdf",
+                  "link": "https://drive.google.com/file/d/1BlBujJg53OQJXoTZydVwqGykJ4fJPgBo/view?usp=drivesdk"
+                }
+              ]
+            },
+            {
+              "name": "[10 ĐỀ LÍ THUYẾT KHÍ LÍ TƯỞNG] – 2.4. Viết tay – Đề lí thuyết Khí Lí Tưởng – Đề số 3.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "[10 ĐỀ LÍ THUYẾT KHÍ LÍ TƯỞNG] – 2.4. Viết tay – Đề lí thuyết Khí Lí Tưởng – Đề số 3.pdf",
+                  "link": "https://drive.google.com/file/d/1odJv38H3ZfIzVDM5ZbToWp-kuGqbt0ql/view?usp=drivesdk"
+                }
+              ]
+            },
+            {
+              "name": "[10 ĐỀ LÍ THUYẾT KHÍ LÍ TƯỞNG] – 2.5. Viết tay – Đề lí thuyết Khí Lí Tưởng – Đề số 4.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "[10 ĐỀ LÍ THUYẾT KHÍ LÍ TƯỞNG] – 2.5. Viết tay – Đề lí thuyết Khí Lí Tưởng – Đề số 4.pdf",
+                  "link": "https://drive.google.com/file/d/1-JKHZTfD3RgwAiUVn8ME9Z_iSrUjDgbg/view?usp=drivesdk"
+                }
+              ]
+            },
+            {
+              "name": "[10 ĐỀ LÍ THUYẾT KHÍ LÍ TƯỞNG] – 2.6. Viết tay – Đề lí thuyết Khí Lí Tưởng – Đề số 5.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "[10 ĐỀ LÍ THUYẾT KHÍ LÍ TƯỞNG] – 2.6. Viết tay – Đề lí thuyết Khí Lí Tưởng – Đề số 5.pdf",
+                  "link": "https://drive.google.com/file/d/1xHT_ZtqLgd4rYyTc4ma9FFjI150OFDz1/view?usp=drivesdk"
+                }
+              ]
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "9. Bồi Dưỡng HSG Vật Lí Cấp Tỉnh_",
+      "items": [],
+      "children": [
+        {
+          "title": "0. FILE TÀI LIỆU 100 CÂU NÂNG CAO NHIỆT KHÍ",
+          "items": [
+            {
+              "name": "[TÀI LIỆU HSG] - 100 CÂU NÂNG CAO NHIỆT _ KHÍ LÍ TƯỞNG.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "[TÀI LIỆU HSG] - 100 CÂU NÂNG CAO NHIỆT _ KHÍ LÍ TƯỞNG.pdf",
+                  "link": "https://drive.google.com/file/d/1zZ4PMDCk3I07rqq1974VdubP7ZD6EWLL/view?usp=drivesdk"
+                }
+              ]
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "0. HƯỚNG DẪN HỌC - KHÓA BỒI DƯỠNG HSG CẤP TỈNH",
+          "items": [
+            {
+              "name": "HƯỚNG DẪN HỌC - KHÓA BỒI DƯỠNG HSG CẤP TỈNH.mp4",
+              "videos": [
+                {
+                  "title": "HƯỚNG DẪN HỌC - KHÓA BỒI DƯỠNG HSG CẤP TỈNH.mp4",
+                  "link": "https://drive.google.com/file/d/1buSm3XYZFmAPWfThg5EoN_bkFBvV5alI/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "1. Bồi dưỡng HSG Vật Lí 12 - Đồ thị nhiệt chu trình",
+          "items": [
+            {
+              "name": "Bồi dưỡng HSG Vật Lí 12 - Đồ thị nhiệt chu trình.mp4",
+              "videos": [
+                {
+                  "title": "Bồi dưỡng HSG Vật Lí 12 - Đồ thị nhiệt chu trình.mp4",
+                  "link": "https://drive.google.com/file/d/1uexENsfoI53bWUt9osk8CTjiw0O8PcKU/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "Viết tay - Buổi 0 Đồ thị Nhiệt Chu Trình.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "Viết tay - Buổi 0 Đồ thị Nhiệt Chu Trình.pdf",
+                  "link": "https://drive.google.com/file/d/1oYI6SltLB8Wk1zDAwAgna448aDk5rUML/view?usp=drivesdk"
+                }
+              ]
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "2. Chuyên đề_ Chuyển động thẳng",
+          "items": [
+            {
+              "name": "Bồi dưỡng HSG lớp 10 - chuyên đề chuyển động thẳng (Tiếp).mp4",
+              "videos": [
+                {
+                  "title": "Bồi dưỡng HSG lớp 10 - chuyên đề chuyển động thẳng (Tiếp).mp4",
+                  "link": "https://drive.google.com/file/d/1mTrnDjUzjaYll32SINX6XUkMyDNExd3a/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "Bồi dưỡng HSG- Chuyên đề chuyển động thẳng (tiết 1).mp4",
+              "videos": [
+                {
+                  "title": "Bồi dưỡng HSG- Chuyên đề chuyển động thẳng (tiết 1).mp4",
+                  "link": "https://drive.google.com/file/d/1R3_lyyZTQaiwtTmiI5KeQf-j3QszOQgB/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "Vật lý 10 - HSG - Chuyển động thẳng.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "Vật lý 10 - HSG - Chuyển động thẳng.pdf",
+                  "link": "https://drive.google.com/file/d/14Dd_TJ5rDSC6mtSRfdzQZFcN4Jy13dAg/view?usp=drivesdk"
+                }
+              ]
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "3. Vật Lí 11 - HSG - Đồ thị lực đàn hồi và lực kéo về",
+          "items": [
+            {
+              "name": "Bản viết tay - HSG 11.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "Bản viết tay - HSG 11.pdf",
+                  "link": "https://drive.google.com/file/d/1Oavl_QkeYwIwFgF5ZC678n5P_pJ4xthM/view?usp=drivesdk"
+                }
+              ]
+            },
+            {
+              "name": "Bồi dưỡng HSG 11- Chuyên đề lực đàn hồi và lực kéo về (tiết 2).mp4",
+              "videos": [
+                {
+                  "title": "Bồi dưỡng HSG 11- Chuyên đề lực đàn hồi và lực kéo về (tiết 2).mp4",
+                  "link": "https://drive.google.com/file/d/14bi-0eThtQBzOVWj5hW1u1QedPgBOqO8/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "Chữa 5 câu đồ thị lực đàn hồi - lực kéo về - lớp 11.mp4",
+              "videos": [
+                {
+                  "title": "Chữa 5 câu đồ thị lực đàn hồi - lực kéo về - lớp 11.mp4",
+                  "link": "https://drive.google.com/file/d/1upQqBnRVEvJ4pbqSn8EUwMxy1IU7aWKp/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "Vật Lí 11 - HSG - Đồ thị lực đàn hồi và lực kéo về.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "Vật Lí 11 - HSG - Đồ thị lực đàn hồi và lực kéo về.pdf",
+                  "link": "https://drive.google.com/file/d/1VBycRk0gJfVMAKBIaeTnXpHFY0wQL-KR/view?usp=drivesdk"
+                }
+              ]
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "4. Chuyên đề_ Trao đổi Nhiệt nâng cao",
+          "items": [
+            {
+              "name": "Bồi dưỡng HSG- Chuyên đề Trao đổi Nhiệt nâng cao.mp4",
+              "videos": [
+                {
+                  "title": "Bồi dưỡng HSG- Chuyên đề Trao đổi Nhiệt nâng cao.mp4",
+                  "link": "https://drive.google.com/file/d/1R0xISgmGAsi-CBwRPgp_r7JT6J8DXNx6/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "Chuyên đề Trao Đổi Nhiệt Nâng Cao - File số 1.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "Chuyên đề Trao Đổi Nhiệt Nâng Cao - File số 1.pdf",
+                  "link": "https://drive.google.com/file/d/1FDN04kXTZ7tVGuTOaM57SI8hQbn-5mkG/view?usp=drivesdk"
+                }
+              ]
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "5. HSG VẬT LÍ 12 - Chuyên đề cơ nhiệt hệ Cylinder - Piston",
+          "items": [
+            {
+              "name": "BỒI DƯỠNG HSG - VẬT LÍ 12 - Chuyên đề cơ nhiệt hệ Cylinder - Piston (tiếp).mp4",
+              "videos": [
+                {
+                  "title": "BỒI DƯỠNG HSG - VẬT LÍ 12 - Chuyên đề cơ nhiệt hệ Cylinder - Piston (tiếp).mp4",
+                  "link": "https://drive.google.com/file/d/1VCa_CsCH5WXL1g9rF-qz4tMm-I1wlxpT/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "BỒI DƯỠNG HSG - VẬT LÍ 12 - Chuyên đề cơ nhiệt hệ Cylinder - Piston ca 2 tt.mp4",
+              "videos": [
+                {
+                  "title": "BỒI DƯỠNG HSG - VẬT LÍ 12 - Chuyên đề cơ nhiệt hệ Cylinder - Piston ca 2 tt.mp4",
+                  "link": "https://drive.google.com/file/d/15FMLGztsIzCrXxr1n2b5Opz_MgeMxBr5/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "BỒI DƯỠNG HSG - VẬT LÍ 12 - Chuyên đề cơ nhiệt hệ Cylinder - Piston.mp4",
+              "videos": [
+                {
+                  "title": "BỒI DƯỠNG HSG - VẬT LÍ 12 - Chuyên đề cơ nhiệt hệ Cylinder - Piston.mp4",
+                  "link": "https://drive.google.com/file/d/1zXHyPuq8P05KvjFAuapGBNmMUgd_nBXc/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "Dãn dòng 2 - Vật lý 12 - HSG - Cơ nhiệt hệ Cylinder - Piston.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "Dãn dòng 2 - Vật lý 12 - HSG - Cơ nhiệt hệ Cylinder - Piston.pdf",
+                  "link": "https://drive.google.com/file/d/12-03VC98k3F4tde8InKi7anIXCud8j0a/view?usp=drivesdk"
+                }
+              ]
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "6. HSG VẬT LÍ 10 - Chuyển Động Ném",
+          "items": [
+            {
+              "name": "Bồi dưỡng HSG- Chuyên đề chuyển động ném (tiết 1).mp4",
+              "videos": [
+                {
+                  "title": "Bồi dưỡng HSG- Chuyên đề chuyển động ném (tiết 1).mp4",
+                  "link": "https://drive.google.com/file/d/1cjTc3Czf9oUBbxwNc_WZuiUTvtJc4ems/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "Dãn dòng 2 - Vật lý 10 - HSG - Chuyển động ném.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "Dãn dòng 2 - Vật lý 10 - HSG - Chuyển động ném.pdf",
+                  "link": "https://drive.google.com/file/d/1PGNSYTzan0AX98TC6rE9skDA41WBsUuR/view?usp=drivesdk"
+                }
+              ]
+            }
+          ],
+          "children": []
+        },
+        {
+          "title": "7. HSG VẬT LÍ 12 - Chuyên đề ống nghiệm chứa khí lí tưởng",
+          "items": [
+            {
+              "name": "Bồi dưỡng HSG- Chuyên đề ống nghiệm chứa khí lí tưởng.mp4",
+              "videos": [
+                {
+                  "title": "Bồi dưỡng HSG- Chuyên đề ống nghiệm chứa khí lí tưởng.mp4",
+                  "link": "https://drive.google.com/file/d/1s2enntePlI7XEGr3U9RRBQ0fjmE-LTJv/view?usp=drivesdk"
+                }
+              ],
+              "pdfs": []
+            },
+            {
+              "name": "Chuyên đề HSG - Ống nghiệm chứa khí.pdf",
+              "videos": [],
+              "pdfs": [
+                {
+                  "title": "Chuyên đề HSG - Ống nghiệm chứa khí.pdf",
+                  "link": "https://drive.google.com/file/d/1LZNygG3_6RTUWbtGZupsQ-jKHlclfbWd/view?usp=drivesdk"
+                }
+              ]
             }
           ],
           "children": []

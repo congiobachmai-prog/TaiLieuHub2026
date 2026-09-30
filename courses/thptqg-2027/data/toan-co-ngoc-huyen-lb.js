@@ -1116,6 +1116,380 @@ const COURSE_DATA = {
                 }
               ],
               "children": []
+            },
+            {
+              "title": "11. Theme 6. Ứng dụng của đạo hàm giải quyết một số vấn đề liên quan đến thực tiễn",
+              "items": [
+                {
+                  "name": "Theme 6. Ứng dụng của đạo hàm giải quyết một số vấn đề liên quan đến thực tiễn.mp4",
+                  "videos": [
+                    {
+                      "title": "Theme 6. Ứng dụng của đạo hàm giải quyết một số vấn đề liên quan đến thực tiễn.mp4",
+                      "link": "https://drive.google.com/file/d/1BRjHsZRA3AoUqGfKDRw9W2LShfkw7TE_/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "12. Theme 7. Nguyên hàm và tính chất của nguyên hàm",
+              "items": [
+                {
+                  "name": "[Handout] Theme 7.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Handout] Theme 7.pdf",
+                      "link": "https://drive.google.com/file/d/1fBDjn7JSyMxIqptivC5ptavHfXPnn60Q/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "Theme 7. Nguyên hàm và tính chất của nguyên hàm.mp4",
+                  "videos": [
+                    {
+                      "title": "Theme 7. Nguyên hàm và tính chất của nguyên hàm.mp4",
+                      "link": "https://drive.google.com/file/d/1gL3ZeYQjUCZMC0LKffpGX3rcgr-aj32k/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "13. Theme 8. Tích phân và tính chất của tích phân",
+              "items": [
+                {
+                  "name": "[Handout] Theme 8.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Handout] Theme 8.pdf",
+                      "link": "https://drive.google.com/file/d/1fW2NWHQjusV81Vr-2HSSHENGsh5F7k08/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "Theme 8. Tích phân và tính chất của tích phân.mp4",
+                  "videos": [
+                    {
+                      "title": "Theme 8. Tích phân và tính chất của tích phân.mp4",
+                      "link": "https://drive.google.com/file/d/1K1McKiDO7zyl6ooUewVNPV-rRWn7IPtc/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "14. Theme 9. Nguyên hàm, tích phân hàm phân thức hữu tỉ",
+              "items": [
+                {
+                  "name": "[Handout] Theme 9.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Handout] Theme 9.pdf",
+                      "link": "https://drive.google.com/file/d/1kAcz91GnYrq4K39T0mw1XByrhkPIoQpO/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "Theme 9. Nguyên hàm, tích phân hàm phân thức hữu tỉ.mp4",
+                  "videos": [
+                    {
+                      "title": "Theme 9. Nguyên hàm, tích phân hàm phân thức hữu tỉ.mp4",
+                      "link": "https://drive.google.com/file/d/1mFcqzYjL4FwTgg49ZCO2_a1iwKu3tYVk/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "15. Theme 10. Ứng dụng của tích phân vào tính diện tích hình phẳng",
+              "items": [
+                {
+                  "name": "[Handout] Theme 10.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Handout] Theme 10.pdf",
+                      "link": "https://drive.google.com/file/d/1xkzdXp9v5knO8J0ke6l1BBx8nQGjTWU5/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "Theme 10. Ứng dụng của tích phân vào tính diện tích hình phẳng.mp4",
+                  "videos": [
+                    {
+                      "title": "Theme 10. Ứng dụng của tích phân vào tính diện tích hình phẳng.mp4",
+                      "link": "https://drive.google.com/file/d/1YOSiGyD04jsVeUDx6xg4Xe-bhGSAtU0_/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "16. Theme 11. Ứng dụng của tích phân vào tính thể tích vật thể",
+              "items": [
+                {
+                  "name": "[Handout] Theme 11.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Handout] Theme 11.pdf",
+                      "link": "https://drive.google.com/file/d/1vzwVL8TZVJEOULpwkEswIxI-fyubmNa5/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "Theme 11. Ứng dụng của tích phân vào tính thể tích vật thể.mp4",
+                  "videos": [
+                    {
+                      "title": "Theme 11. Ứng dụng của tích phân vào tính thể tích vật thể.mp4",
+                      "link": "https://drive.google.com/file/d/1SPw8rFBn_TFPl2yjG92SUweYeSU8kEMi/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "17. Theme 12. Vectơ và các phép toán vectơ trong không gian - Buổi 1",
+              "items": [
+                {
+                  "name": "[Handout] Theme 12-Dạng 1.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Handout] Theme 12-Dạng 1.pdf",
+                      "link": "https://drive.google.com/file/d/1Dzt_kQb3Fn2qIIJBYsFNMqjbps3dIqlc/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "Theme 12. Vectơ và các phép toán vectơ trong không gian - Buổi 1.mp4",
+                  "videos": [
+                    {
+                      "title": "Theme 12. Vectơ và các phép toán vectơ trong không gian - Buổi 1.mp4",
+                      "link": "https://drive.google.com/file/d/15lFjy41-3PjB9QjWTXJCZ-nTp46tCaFz/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "18. Theme 12. Vectơ và các phép toán vectơ trong không gian - Buổi 2",
+              "items": [
+                {
+                  "name": "[Handout] Theme 12-Dạng 2.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Handout] Theme 12-Dạng 2.pdf",
+                      "link": "https://drive.google.com/file/d/1C7EirBT83YkCFAvs-V8K4WgOjGndYWAn/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "Theme 12. Vectơ và các phép toán vectơ trong không gian - Buổi 2.mp4",
+                  "videos": [
+                    {
+                      "title": "Theme 12. Vectơ và các phép toán vectơ trong không gian - Buổi 2.mp4",
+                      "link": "https://drive.google.com/file/d/1qs1mBqumSwk-Sr73c5zSWvDnVdDfUoU7/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "19. Theme 12. Vectơ và các phép toán vectơ trong không gian - Buổi 3",
+              "items": [
+                {
+                  "name": "Theme 12. Vectơ và các phép toán vectơ trong không gian - Buổi 3.mp4",
+                  "videos": [
+                    {
+                      "title": "Theme 12. Vectơ và các phép toán vectơ trong không gian - Buổi 3.mp4",
+                      "link": "https://drive.google.com/file/d/1bbaflqexEPNBY42ufdVvvsvGBhkWXwgY/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "20. Theme 13. Hệ trục tọa độ trong không gian Oxyz",
+              "items": [
+                {
+                  "name": "[Handout] Theme 13.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Handout] Theme 13.pdf",
+                      "link": "https://drive.google.com/file/d/1zPiVDzGzhm6SSB88HU4BxbltU4yjAAHD/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "Theme 13. Hệ trục tọa độ trong không gian Oxyz.mp4",
+                  "videos": [
+                    {
+                      "title": "Theme 13. Hệ trục tọa độ trong không gian Oxyz.mp4",
+                      "link": "https://drive.google.com/file/d/1CzE7RqwqiV2piI7sblFHAJcceNs7sL9Y/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "21. Theme 14. Biểu thức tọa độ của các phép toán vectơ trong không gian",
+              "items": [
+                {
+                  "name": "[Handout] Theme 14.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Handout] Theme 14.pdf",
+                      "link": "https://drive.google.com/file/d/1hKObijhFbQxiLeVC62ISjoU3JqERc8gS/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "Theme 14. Biểu thức tọa độ của các phép toán vectơ trong không gian.mp4",
+                  "videos": [
+                    {
+                      "title": "Theme 14. Biểu thức tọa độ của các phép toán vectơ trong không gian.mp4",
+                      "link": "https://drive.google.com/file/d/1q3eZqo0bGxB4O5ttHYBGBUXnkrgAztgN/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "22. Theme 15. Phương trình mặt phẳng - Buổi 1",
+              "items": [
+                {
+                  "name": "[Handout] Theme 15-Dạng 1.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Handout] Theme 15-Dạng 1.pdf",
+                      "link": "https://drive.google.com/file/d/1dIaTeSnkLeSXi0VqVleOzlufC37R3eqx/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "Theme 15. Phương trình mặt phẳng - Buổi 1.mp4",
+                  "videos": [
+                    {
+                      "title": "Theme 15. Phương trình mặt phẳng - Buổi 1.mp4",
+                      "link": "https://drive.google.com/file/d/1aPKymMn5jfNjCX2uuHkLrtD7EF0m4Cce/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "23. Theme 15. Phương trình mặt phẳng - Buổi 2",
+              "items": [
+                {
+                  "name": "[Ghi chép] Theme 15-Dạng 2.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Ghi chép] Theme 15-Dạng 2.pdf",
+                      "link": "https://drive.google.com/file/d/1vrT9TJA-cvGwc1LmjgU4-AtULYEXur5j/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[Tài liệu] Theme 15-Dạng 2.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Tài liệu] Theme 15-Dạng 2.pdf",
+                      "link": "https://drive.google.com/file/d/1dJVcP0BfOkt9bCwgKVN2hjXhy9OJa9ae/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "Theme 15. Phương trình mặt phẳng - Buổi 2.mp4",
+                  "videos": [
+                    {
+                      "title": "Theme 15. Phương trình mặt phẳng - Buổi 2.mp4",
+                      "link": "https://drive.google.com/file/d/1A9yyCr1LqyMQTFOiyqh2t4HynOLPZIYJ/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "24. Theme 16. Phương trình đường thẳng - Buổi 1",
+              "items": [
+                {
+                  "name": "[Ghi chép] Theme 16-Dạng 1.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Ghi chép] Theme 16-Dạng 1.pdf",
+                      "link": "https://drive.google.com/file/d/1vHbYtDD49GD5WxaNx7QAYyUI3-I1b7t1/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[Handout] Theme 16-Dạng 1.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Handout] Theme 16-Dạng 1.pdf",
+                      "link": "https://drive.google.com/file/d/1uxZ3ZZgE_U4TPYXkeTb3gTaeK6HdbQsA/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[Tài liệu] Theme 16-Dạng 1.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Tài liệu] Theme 16-Dạng 1.pdf",
+                      "link": "https://drive.google.com/file/d/1SIGXgExAzbwvJHdOYB8WyvNqgTWSJnPe/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "Theme 16. Phương trình đường thẳng - Buổi 1.mp4",
+                  "videos": [
+                    {
+                      "title": "Theme 16. Phương trình đường thẳng - Buổi 1.mp4",
+                      "link": "https://drive.google.com/file/d/1dtOHfwfVIJ5ltUSTGmDVewRDdBQnAhM-/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
             }
           ]
         },
@@ -3606,6 +3980,144 @@ const COURSE_DATA = {
                 }
               ],
               "children": []
+            },
+            {
+              "title": "07. Theme 26. Công thức Bayes - Buổi 1",
+              "items": [
+                {
+                  "name": "[Ghi chép] Theme 26.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Ghi chép] Theme 26.pdf",
+                      "link": "https://drive.google.com/file/d/1AODat-39Rzgp2hMlKtOBnKQpGQU36dFe/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[Handout] VD Theme 26.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Handout] VD Theme 26.pdf",
+                      "link": "https://drive.google.com/file/d/1lS01TZgkrkc7bjsEJFetC4UmwBXikz0e/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[Tài liệu] Theme 26.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Tài liệu] Theme 26.pdf",
+                      "link": "https://drive.google.com/file/d/1iHzNT5U1t-PIC9bdgNJbTmhwlfgYOkxh/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "Theme 26. Công thức Bayes - Buổi 1.mp4",
+                  "videos": [
+                    {
+                      "title": "Theme 26. Công thức Bayes - Buổi 1.mp4",
+                      "link": "https://drive.google.com/file/d/1QlfJ18KBhqX_GM1Ptg_k6CSyNgbMPz78/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "08. Theme 26. Công thức Bayes - Buổi 2",
+              "items": [
+                {
+                  "name": "[Ghi chép] Theme 26.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Ghi chép] Theme 26.pdf",
+                      "link": "https://drive.google.com/file/d/1TYxXJQGu_dYE3zZj2m5NIk6ebzMI-yKr/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[Handout] BTRL Theme 26.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Handout] BTRL Theme 26.pdf",
+                      "link": "https://drive.google.com/file/d/1DoR7t2ZmdZRong0kOtYEYP0gyw5PN7tT/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[Tài liệu] Theme 26.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Tài liệu] Theme 26.pdf",
+                      "link": "https://drive.google.com/file/d/1z9Rw1FwSf6blUVZgMaC_gvkW-gYkJaV0/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "Theme 26. Công thức Bayes - Buổi 2.mp4",
+                  "videos": [
+                    {
+                      "title": "Theme 26. Công thức Bayes - Buổi 2.mp4",
+                      "link": "https://drive.google.com/file/d/1MJMhErx3fBirvAB5CTdeXg-GF9VU-dmv/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "09. Tổng ôn Chapter 5&6. Thống kê & Xác suất có điều kiện",
+              "items": [
+                {
+                  "name": "[Ghi chép] Tổng ôn Chapter 5&6.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Ghi chép] Tổng ôn Chapter 5&6.pdf",
+                      "link": "https://drive.google.com/file/d/1o8DksZmVYD3JeKCiqccQDEo9f1sbYLDI/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[Handout] Tổng ôn Chapter 5&6.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Handout] Tổng ôn Chapter 5&6.pdf",
+                      "link": "https://drive.google.com/file/d/1iexF1D1QQexTbKZX5dLI4VccYKhhh1SI/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[Tài liệu] Tổng ôn Chapter 5&6.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Tài liệu] Tổng ôn Chapter 5&6.pdf",
+                      "link": "https://drive.google.com/file/d/1N5EIWzdTNM2VigJHUkVCCPrFRo-5FOu8/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "Tổng ôn Chapter 5&6. Thống kê & Xác suất có điều kiện.mp4",
+                  "videos": [
+                    {
+                      "title": "Tổng ôn Chapter 5&6. Thống kê & Xác suất có điều kiện.mp4",
+                      "link": "https://drive.google.com/file/d/10iTjlBEikEqtU1wuD57ij_oOi0ZIXMeX/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
             }
           ]
         },
@@ -3974,6 +4486,202 @@ const COURSE_DATA = {
                     {
                       "title": "Theme 8. Xác suất của biến cố.mp4",
                       "link": "https://drive.google.com/file/d/1GgDtEP7vErlRd3h8uon11o36p0PqaedF/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "2.STEP 2 2027 | Vận dụng Toán 12",
+      "items": [],
+      "children": [
+        {
+          "title": "Chapter 1. Ứng dụng đạo hàm để khảo sát và vẽ đồ thị hàm số",
+          "items": [],
+          "children": [
+            {
+              "title": "01. Theme 1. Bài toán thực tế tối ưu diện tích, thể tích vật thể - Buổi 1",
+              "items": [
+                {
+                  "name": "[Ghi chép] STEP 2-Theme 1.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Ghi chép] STEP 2-Theme 1.pdf",
+                      "link": "https://drive.google.com/file/d/1KL29hHphjXVFTJy5NPFm3wWSpFqBEwR8/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[Handout] STEP 2-VD Theme 1.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Handout] STEP 2-VD Theme 1.pdf",
+                      "link": "https://drive.google.com/file/d/1mOe_i4MoAQd_94hVmYVqGCprZmPPU_4q/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[Tài liệu] STEP 2-Theme 1.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Tài liệu] STEP 2-Theme 1.pdf",
+                      "link": "https://drive.google.com/file/d/1mYmC6HKp9xmW7W8o_pcCYXp5QyAFtP0d/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "Theme 1. Bài toán thực tế tối ưu diện tích, thể tích vật thể - Buổi 1.mp4",
+                  "videos": [
+                    {
+                      "title": "Theme 1. Bài toán thực tế tối ưu diện tích, thể tích vật thể - Buổi 1.mp4",
+                      "link": "https://drive.google.com/file/d/1R1Xia9Njnk1aFy0B4IEs6eJReT8eX-kB/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "02. Theme 1. Bài toán thực tế tối ưu diện tích, thể tích vật thể - Buổi 2",
+              "items": [
+                {
+                  "name": "[Ghi chép] STEP 2-Theme 1.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Ghi chép] STEP 2-Theme 1.pdf",
+                      "link": "https://drive.google.com/file/d/10HDgGzXOPAKb9NoDcs29PQ9j-n-jbwzZ/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[Handout] STEP 2-BTRL Theme 1.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Handout] STEP 2-BTRL Theme 1.pdf",
+                      "link": "https://drive.google.com/file/d/1IrVx0MmTyt9pnnQBPaY4ReGBlkBEuT90/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[Tài liệu] STEP 2-Theme 1.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Tài liệu] STEP 2-Theme 1.pdf",
+                      "link": "https://drive.google.com/file/d/1yQDkle3CgkFkgbjcz99PVe5mLsB06gvz/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "Theme 1. Bài toán thực tế tối ưu diện tích, thể tích vật thể - Buổi 2.mp4",
+                  "videos": [
+                    {
+                      "title": "Theme 1. Bài toán thực tế tối ưu diện tích, thể tích vật thể - Buổi 2.mp4",
+                      "link": "https://drive.google.com/file/d/14zzBfdOcmUu20NGkm4gQqN_LPDr4o4oz/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "03. Theme 2. Bài toán tối ưu thời gian, quãng đường chuyển động - Buổi 1",
+              "items": [
+                {
+                  "name": "[Ghi chép] STEP 2-Theme 2.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Ghi chép] STEP 2-Theme 2.pdf",
+                      "link": "https://drive.google.com/file/d/1uOh99TyHaJ_GGIT1_0YD1yegbyUSxBxG/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[Handout] STEP 2-VD Theme 2.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Handout] STEP 2-VD Theme 2.pdf",
+                      "link": "https://drive.google.com/file/d/1Qs_7mo6_h1e3GyCPgXksKKJoV5JwXEK8/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[Tài liệu] STEP 2-Theme 2.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Tài liệu] STEP 2-Theme 2.pdf",
+                      "link": "https://drive.google.com/file/d/1_41h8273FRi1RFhAJnUXGeISxYNLK6S7/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "Theme 2. Bài toán tối ưu thời gian, quãng đường chuyển động - Buổi 1.mp4",
+                  "videos": [
+                    {
+                      "title": "Theme 2. Bài toán tối ưu thời gian, quãng đường chuyển động - Buổi 1.mp4",
+                      "link": "https://drive.google.com/file/d/1SrAr1_RyreJO26MkYu8aKQl3HYzGnhV7/view?usp=drivesdk"
+                    }
+                  ],
+                  "pdfs": []
+                }
+              ],
+              "children": []
+            },
+            {
+              "title": "04. Theme 2. Bài toán tối ưu thời gian, quãng đường chuyển động - Buổi 2",
+              "items": [
+                {
+                  "name": "[Ghi chép] STEP 2-Theme 2.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Ghi chép] STEP 2-Theme 2.pdf",
+                      "link": "https://drive.google.com/file/d/1rUElcfD5VIuBrt31mBtsCPzYzHxMfYS8/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[Handout] STEP 2-BTRL Theme 2.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Handout] STEP 2-BTRL Theme 2.pdf",
+                      "link": "https://drive.google.com/file/d/1y3p0lImHX72H5w-yCGrUoeHNHgh5KYE0/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "[Tài liệu] STEP 2-Theme 2.pdf",
+                  "videos": [],
+                  "pdfs": [
+                    {
+                      "title": "[Tài liệu] STEP 2-Theme 2.pdf",
+                      "link": "https://drive.google.com/file/d/1XfYYOHqN1dQZ_Hd4Bczy7jnYQPWmXvkO/view?usp=drivesdk"
+                    }
+                  ]
+                },
+                {
+                  "name": "Theme 2. Bài toán tối ưu thời gian, quãng đường chuyển động - Buổi 2.mp4",
+                  "videos": [
+                    {
+                      "title": "Theme 2. Bài toán tối ưu thời gian, quãng đường chuyển động - Buổi 2.mp4",
+                      "link": "https://drive.google.com/file/d/1bQeJmMrJiG7qzG2e03RNMm911qapJymX/view?usp=drivesdk"
                     }
                   ],
                   "pdfs": []
