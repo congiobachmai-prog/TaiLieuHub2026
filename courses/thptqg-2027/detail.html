@@ -86,41 +86,49 @@
   </div>
 
   <div class="modal-overlay" id="videoModal">
-    <div class="modal-box">
-      <div class="modal-header">
-        <span id="videoTitle" style="font-weight: 600; font-size: 14px;">Xem Bài Học</span>
+    <div class="modal-box" style="position: relative; max-width: 960px; height: 85vh;">
+      <div class="modal-header" style="gap: 10px; flex-wrap: wrap;">
+        <span id="videoTitle" style="font-weight: 700; font-size: 14px; flex: 1;">Xem Bài Học</span>
+        <button id="addNoteBtn" onclick="saveTimestampNote()" style="background: #eab308; color: #0f172a; border: none; padding: 6px 12px; border-radius: 6px; font-size: 12px; font-weight: bold; cursor: pointer; display: none;">
+          <i class="fa-solid fa-bookmark"></i> Lưu Ghi Chú Mốc Giờ
+        </button>
         <button class="close-btn" onclick="closeModal()">&times;</button>
       </div>
-      <div class="modal-body">
-        <iframe id="driveFrame" src="" allow="autoplay" allowfullscreen></iframe>
+
+      <div class="modal-body" id="playerContainer" style="position: relative; flex: 1; background: #000; display: flex; flex-direction: column; overflow: hidden;">
+        <!-- TRÌNH PHÁT VIDEO / AUDIO HTML5 GỐC (CHẠY MƯỢT TRÊN IPHONE SAFARI & CHỐNG TẢI) -->
+        <video id="nativeVideo" controls controlsList="nodownload" oncontextmenu="return false;" playsinline style="width: 100%; height: 100%; display: none; background: #000;"></video>
+        
+        <!-- KHUNG ĐỌC PDF TRỰC TIẾP -->
+        <iframe id="pdfFrame" src="" style="width: 100%; height: 100%; border: none; display: none; background: #fff;"></iframe>
+
+        <!-- DYNAMIC WATERMARK CHỐNG QUAY MÀN HÌNH (NHẢY VỊ TRÍ NGẪU NHIÊN MỖI 8 GIÂY) -->
+        <div id="dynamicWatermark" style="position: absolute; pointer-events: none; z-index: 99; color: rgba(255, 255, 255, 0.28); background: rgba(0, 0, 0, 0.25); padding: 4px 10px; border-radius: 6px; font-size: 12px; font-weight: bold; user-select: none; transition: top 0.8s ease, left 0.8s ease;"></div>
       </div>
+
+      <!-- KHU VỰC HIỂN THỊ GHI CHÚ MỐC THỜI GIAN CỦA HỌC VIÊN -->
+      <div id="notesPanel" style="background: #0f172a; color: #f8fafc; padding: 8px 16px; font-size: 12.5px; border-top: 1px solid #334155; display: none; max-height: 90px; overflow-y: auto;"></div>
     </div>
   </div>
 
   <script>
-    // XỬ LÝ CHUYỂN CHỦ ĐỀ BAN NGÀY / BAN ĐÊM
+    const WORKER_URL = "https://tlh-api.congiobachmai.workers.dev";
+    const SECRET_KEY = "TLH_SECURE_2026_@KEY";
+
     function toggleTheme() {
-        const htmlElement = document.documentElement;
-        const currentTheme = htmlElement.getAttribute("data-theme");
-        const newTheme = currentTheme === "dark" ? "light" : "dark";
-        
-        htmlElement.setAttribute("data-theme", newTheme);
-        localStorage.setItem("themePreference", newTheme);
-        updateThemeUI(newTheme);
+        const htmlEl = document.documentElement;
+        const nextTheme = htmlEl.getAttribute("data-theme") === "dark" ? "light" : "dark";
+        htmlEl.setAttribute("data-theme", nextTheme);
+        localStorage.setItem("themePreference", nextTheme);
+        updateThemeUI(nextTheme);
     }
 
     function updateThemeUI(theme) {
-        const themeIcon = document.getElementById("themeIcon");
-        const themeText = document.getElementById("themeText");
-        if (!themeIcon || !themeText) return;
-        
-        if (theme === "dark") {
-            themeIcon.className = "fa-solid fa-moon";
-            themeText.textContent = "Ban Đêm";
-        } else {
-            themeIcon.className = "fa-solid fa-sun";
-            themeText.textContent = "Ban Ngày";
-        }
+        const icon = document.getElementById("themeIcon");
+        const txt = document.getElementById("themeText");
+        if (!icon || !txt) return;
+        icon.className = theme === "dark" ? "fa-solid fa-moon" : "fa-solid fa-sun";
+        txt.textContent = theme === "dark" ? "Ban Đêm" : "Ban Ngày";
     }
 
     document.addEventListener("DOMContentLoaded", () => {
@@ -133,24 +141,10 @@
             btn.onclick = toggleTheme;
             navbar.appendChild(btn);
         }
-
         const savedTheme = localStorage.getItem("themePreference") || "light";
         document.documentElement.setAttribute("data-theme", savedTheme);
         updateThemeUI(savedTheme);
     });
-
-    // ==========================================
-    // CẤU HÌNH BẢO MẬT CHỐNG SỬA TÀI KHOẢN
-    // ==========================================
-    const SECRET_KEY = "TLH_SECURE_2026_@KEY";
-
-    function setSecureCourses(coursesArray) {
-        try {
-            let jsonStr = JSON.stringify(coursesArray);
-            let encoded = btoa(encodeURIComponent(jsonStr + "|" + SECRET_KEY));
-            localStorage.setItem("allowedCourses", encoded);
-        } catch(e) {}
-    }
 
     function getSecureCourses() {
         let raw = localStorage.getItem("allowedCourses");
@@ -159,62 +153,65 @@
             let decoded = decodeURIComponent(atob(raw));
             let parts = decoded.split("|");
             if (parts.length === 2 && parts[1] === SECRET_KEY) {
-                let courses = JSON.parse(parts[0]);
-                return courses.map(c => String(c).toLowerCase().trim());
+                return JSON.parse(parts[0]).map(c => String(c).toLowerCase().trim());
             }
-        } catch(e) { return []; }
+        } catch(e) {}
         return [];
     }
 
-    const urlParams = new URLSearchParams(window.location.search);
-    const course = urlParams.get('course') || 'toan-thay-chi';
-
-    (function checkAuth() {
-        let userEmail = localStorage.getItem("userEmail");
-        let allowedCourses = getSecureCourses();
-
-        if (!userEmail) {
-            alert("Vui lòng đăng nhập tài khoản để vào xem khóa học!");
-            window.location.href = "../../index.html?action=login";
-            return;
+    function getDeviceId() {
+        let did = localStorage.getItem("tlh_device_id");
+        if (!did) {
+            did = "DEV_" + Math.random().toString(36).substring(2, 10) + "_" + Date.now().toString(36);
+            localStorage.setItem("tlh_device_id", did);
         }
-
-        let hasPermission = allowedCourses.includes("all") || 
-                            allowedCourses.includes("thptqg-all") || 
-                            allowedCourses.includes("toeic-all") || 
-                            allowedCourses.includes("toeic-4-ky-nang") || 
-                            allowedCourses.includes(course.toLowerCase());
-
-        if (!hasPermission) {
-            alert("Tài khoản của bạn chưa kích hoạt môn học này!");
-            window.location.href = "checkout.html";
-        }
-    })();
-
-    const script = document.createElement('script');
-    script.src = `data/${course}.js`;
-
-    script.onload = function() {
-        if (typeof COURSE_DATA !== 'undefined') {
-            document.getElementById('course-title').innerText = COURSE_DATA.title || 'Nội Dung Khóa Học';
-            renderTabs(COURSE_DATA);
-        } else {
-            document.getElementById('course-title').innerText = "Không tìm thấy dữ liệu khóa học!";
-        }
-    };
-
-    script.onerror = function() {
-        document.getElementById('course-title').innerText = "Lỗi Tải Khóa Học";
-        document.getElementById('content-container').innerHTML = `<p style="color:red; font-weight:bold;">Không tìm thấy file data/${course}.js!</p>`;
-    };
-
-    document.body.appendChild(script);
-
-    function renderTabs(data) {
-        if (!data || !data.tree) return;
-        let html = renderNodes(data.tree, 0, true);
-        document.getElementById('content-container').innerHTML = html;
+        return did;
     }
+
+    const urlParams = new URLSearchParams(window.location.search);
+    const course = (urlParams.get('course') || 'toan-thay-chi').toLowerCase().trim();
+    const userEmail = (localStorage.getItem("userEmail") || "").trim().toLowerCase();
+    const deviceId = getDeviceId();
+    const allowedCourses = getSecureCourses();
+
+    const hasFullPermission = Boolean(userEmail) && (
+        allowedCourses.includes("all") ||
+        allowedCourses.includes("thptqg-all") ||
+        allowedCourses.includes("toeic-all") ||
+        allowedCourses.includes("toeic-4-ky-nang") ||
+        allowedCourses.includes(course)
+    );
+
+    if (!hasFullPermission) {
+        let previewBanner = document.createElement("div");
+        previewBanner.style.cssText = "background: #fefce8; border: 2px solid #eab308; color: #854d0e; padding: 12px 18px; border-radius: 14px; margin-bottom: 18px; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px; font-size: 13.5px; font-weight: 600;";
+        previewBanner.innerHTML = `
+            <span>👀 Bạn đang ở chế độ <b>Xem Trước Đề Cương</b> (Mở khóa miễn phí bài học thử đầu tiên).</span>
+            <a href="checkout.html" style="background: #dc2626; color: #fff; padding: 8px 16px; border-radius: 8px; text-decoration: none; font-weight: bold;">
+                <i class="fa-solid fa-unlock-keyhole"></i> Đăng Ký Mở Khóa Toàn Bộ Môn Này
+            </a>
+        `;
+        document.querySelector(".container").insertBefore(previewBanner, document.getElementById("content-container"));
+    }
+
+    // TẢI MỤC LỤC TỪ SUPABASE QUA CLOUDFLARE WORKER (KHÔNG CẦN THƯ MỤC DATA/*.JS NỮA)
+    fetch(`${WORKER_URL}/course?id=${encodeURIComponent(course)}`)
+        .then(r => r.json())
+        .then(res => {
+            if (res.status === "success" && res.data) {
+                document.getElementById('course-title').innerText = res.data.title || 'Nội Dung Khóa Học';
+                if (res.data.is_empty || !res.data.curriculum_tree || res.data.curriculum_tree.length === 0) {
+                    document.getElementById('content-container').innerHTML = `<div style="padding:24px; background:var(--glass-bg); border-radius:16px; text-align:center; font-weight:bold;">📚 Khóa học đang được cập nhật video bài giảng mới nhất. Vui lòng quay lại sau!</div>`;
+                } else {
+                    document.getElementById('content-container').innerHTML = renderNodes(res.data.curriculum_tree, 0, true);
+                }
+            } else {
+                document.getElementById('course-title').innerText = "Không tìm thấy khóa học!";
+            }
+        })
+        .catch(() => {
+            document.getElementById('course-title').innerText = "Lỗi kết nối máy chủ!";
+        });
 
     function renderNodes(nodes, depth, isCollapsed = false) {
         if (!nodes || nodes.length === 0) return '';
@@ -225,49 +222,59 @@
             let bgHeader = depth === 0 ? 'rgba(255,255,255,0.2)' : (depth === 1 ? 'rgba(255,255,255,0.1)' : 'transparent');
             let borderLeft = depth === 0 ? '4px solid var(--primary)' : (depth === 1 ? '3px solid #38bdf8' : '2px solid #94a3b8');
             let fontSize = depth === 0 ? '16px' : (depth === 1 ? '14px' : '13px');
-            let fontColor = 'var(--text-main)';
             let iconClass = depth === 0 ? 'fa-folder-open' : (depth === 1 ? 'fa-bookmark' : 'fa-folder');
             let collapsedClass = isCollapsed ? 'collapsed' : '';
 
             html += `
             <div class="accordion-card ${collapsedClass}" id="${nodeId}" style="border-left: ${borderLeft};">
                 <div class="accordion-header" onclick="toggleNode('${nodeId}', event)" style="background: ${bgHeader};">
-                    <span style="font-size: ${fontSize}; font-weight: bold; color: ${fontColor};">
+                    <span style="font-size: ${fontSize}; font-weight: bold; color: var(--text-main);">
                         <i class="fa-solid ${iconClass}" style="color: var(--primary); margin-right: 8px;"></i>${node.title}
                     </span>
                     <i class="fa-solid fa-chevron-down chevron-icon" style="color: var(--text-muted);"></i>
                 </div>
                 <div class="accordion-content">`;
 
-                if (node.items && node.items.length > 0) {
-                    node.items.forEach(item => {
-                        let v = (item.videos || []).map(vid => 
-                            `<button onclick="play('${convertDriveUrl(vid.link)}', '${item.name}')" class="btn-action btn-video"><i class="fa-solid fa-circle-play"></i> Xem Video</button>`
-                        ).join('') || '';
+            if (node.items && node.items.length > 0) {
+                node.items.forEach(item => {
+                    let safeTitle = (item.name || "Bài học").replace(/'/g, "\\'");
+                    let btnsHtml = '';
+                    let hasFreeBadge = false;
+                    let isDone = false;
 
-                        let p = (item.pdfs || []).map(pdf => 
-                            `<button onclick="play('${convertDriveUrl(pdf.link)}', '${item.name}')" class="btn-action btn-pdf"><i class="fa-solid fa-file-pdf"></i> Xem PDF</button>`
-                        ).join('') || '';
+                    (item.actions || []).forEach(act => {
+                        if (act.is_free) hasFreeBadge = true;
+                        if (localStorage.getItem("done_" + act.lesson_id) === "1") isDone = true;
+                        let unlocked = hasFullPermission || act.is_free;
 
-                        let a = (item.audios || []).map(aud => 
-                            `<button onclick="play('${convertDriveUrl(aud.link)}', '${item.name}')" class="btn-action btn-audio"><i class="fa-solid fa-headphones"></i> Nghe Audio</button>`
-                        ).join('') || '';
-
-                        let z = (item.zips || []).map(zip => 
-                            `<button onclick="play('${convertDriveUrl(zip.link)}', '${item.name}')" class="btn-action btn-zip"><i class="fa-solid fa-file-zipper"></i> Xem File ZIP</button>`
-                        ).join('') || '';
-
-                        html += `
-                        <div class="lesson-item">
-                            <span class="lesson-name"><i class="fa-regular fa-file" style="color: var(--text-muted); margin-right: 6px;"></i>${item.name}</span>
-                            <div class="action-btns">${v}${p}${a}${z}</div>
-                        </div>`;
+                        if (act.type === "exam") {
+                            btnsHtml += `<button onclick="openLesson('${act.lesson_id}', 'exam', '${safeTitle}', ${act.is_free})" class="btn-action btn-video" style="background:#2563eb !important; color:#fff !important;"><i class="fa-solid ${unlocked ? 'fa-pen-to-square' : 'fa-lock'}"></i> Làm Bài Online</button>`;
+                        } else if (act.type === "video") {
+                            btnsHtml += `<button onclick="openLesson('${act.lesson_id}', 'video', '${safeTitle}', ${act.is_free})" class="btn-action btn-video"><i class="fa-solid ${unlocked ? 'fa-circle-play' : 'fa-lock'}"></i> Xem Video</button>`;
+                        } else if (act.type === "pdf") {
+                            btnsHtml += `<button onclick="openLesson('${act.lesson_id}', 'pdf', '${safeTitle}', ${act.is_free})" class="btn-action btn-pdf"><i class="fa-solid ${unlocked ? 'fa-file-pdf' : 'fa-lock'}"></i> Xem PDF</button>`;
+                        } else if (act.type === "audio") {
+                            btnsHtml += `<button onclick="openLesson('${act.lesson_id}', 'audio', '${safeTitle}', ${act.is_free})" class="btn-action btn-audio"><i class="fa-solid ${unlocked ? 'fa-headphones' : 'fa-lock'}"></i> Nghe Audio</button>`;
+                        } else {
+                            btnsHtml += `<button onclick="openLesson('${act.lesson_id}', 'zip', '${safeTitle}', ${act.is_free})" class="btn-action btn-zip"><i class="fa-solid ${unlocked ? 'fa-file-zipper' : 'fa-lock'}"></i> Tải Tệp</button>`;
+                        }
                     });
-                }
 
-                if (node.children && node.children.length > 0) {
-                    html += renderNodes(node.children, depth + 1, false);
-                }
+                    let badgeHtml = (!hasFullPermission && hasFreeBadge)
+                        ? `<span style="background:#16a34a; color:#fff; font-size:10px; padding:2px 6px; border-radius:4px; margin-left:6px;">HỌC THỬ</span>`
+                        : (isDone ? `<span style="color:#16a34a; font-size:12px; margin-left:6px;" title="Đã học"><i class="fa-solid fa-circle-check"></i></span>` : '');
+
+                    html += `
+                    <div class="lesson-item">
+                        <span class="lesson-name"><i class="fa-regular fa-file" style="color: var(--text-muted); margin-right: 6px;"></i>${item.name} ${badgeHtml}</span>
+                        <div class="action-btns">${btnsHtml}</div>
+                    </div>`;
+                });
+            }
+
+            if (node.children && node.children.length > 0) {
+                html += renderNodes(node.children, depth + 1, false);
+            }
 
             html += `</div></div>`;
         });
@@ -281,20 +288,129 @@
         if (el) el.classList.toggle('collapsed');
     }
 
-    function convertDriveUrl(url) {
-        if(!url) return "";
-        return url.replace('/view?usp=drivesdk', '/preview').replace('/view', '/preview');
+    // XỬ LÝ PHÁT BÀI HỌC BẢO MẬT, LƯU TIẾN ĐỘ, GHI CHÚ & WATERMARK
+    let currentLessonId = null;
+    let watermarkTimer = null;
+    let progressTimer = null;
+
+    function startWatermark() {
+        const wm = document.getElementById("dynamicWatermark");
+        wm.innerText = `${userEmail || "KHÁCH HỌC THỬ"} • TaiLieuHub`;
+        const moveWm = () => {
+            wm.style.top = Math.floor(10 + Math.random() * 75) + "%";
+            wm.style.left = Math.floor(5 + Math.random() * 65) + "%";
+        };
+        moveWm();
+        if (watermarkTimer) clearInterval(watermarkTimer);
+        watermarkTimer = setInterval(moveWm, 8000);
     }
 
-    function play(url, title) {
-        document.getElementById('videoTitle').innerText = title;
-        document.getElementById('driveFrame').src = url;
-        document.getElementById('videoModal').style.display = 'flex';
+    function openLesson(lessonId, type, title, isFree) {
+        if (!hasFullPermission && !isFree) {
+            if (!userEmail) {
+                if (confirm("Vui lòng Đăng Nhập tài khoản để mở khóa bài học này! Chuyển tới trang Đăng Nhập ngay?")) {
+                    window.location.href = "../../index.html?action=login";
+                }
+            } else {
+                if (confirm("Bài giảng này dành cho học viên đã đăng ký môn học. Chuyển tới trang kích hoạt VietQR tự động ngay?")) {
+                    window.location.href = "checkout.html";
+                }
+            }
+            return;
+        }
+
+        const streamUrl = `${WORKER_URL}/stream?lesson_id=${encodeURIComponent(lessonId)}&email=${encodeURIComponent(userEmail)}&device=${encodeURIComponent(deviceId)}`;
+
+        if (type === "exam" || type === "zip") {
+            window.open(streamUrl, "_blank");
+            return;
+        }
+
+        currentLessonId = lessonId;
+        document.getElementById("videoTitle").innerText = title;
+        const vid = document.getElementById("nativeVideo");
+        const pdf = document.getElementById("pdfFrame");
+        const noteBtn = document.getElementById("addNoteBtn");
+        const notesPanel = document.getElementById("notesPanel");
+
+        startWatermark();
+
+        if (type === "video" || type === "audio") {
+            pdf.style.display = "none";
+            pdf.src = "";
+            vid.style.display = "block";
+            noteBtn.style.display = "inline-block";
+            notesPanel.style.display = "block";
+            vid.src = streamUrl;
+
+            // Khôi phục vị trí giây đang xem dở (Tầng 5)
+            const savedSec = parseFloat(localStorage.getItem("prog_" + lessonId) || "0");
+            vid.onloadedmetadata = () => {
+                if (savedSec > 5 && savedSec < vid.duration - 10) {
+                    vid.currentTime = savedSec;
+                }
+                vid.play().catch(() => {});
+            };
+
+            if (progressTimer) clearInterval(progressTimer);
+            progressTimer = setInterval(() => {
+                if (!vid.paused && vid.currentTime > 0) {
+                    localStorage.setItem("prog_" + lessonId, Math.floor(vid.currentTime));
+                    if (vid.duration && vid.currentTime / vid.duration > 0.85) {
+                        localStorage.setItem("done_" + lessonId, "1");
+                    }
+                }
+            }, 3000);
+
+            renderLessonNotes();
+        } else if (type === "pdf") {
+            vid.pause();
+            vid.style.display = "none";
+            vid.src = "";
+            noteBtn.style.display = "none";
+            notesPanel.style.display = "none";
+            pdf.style.display = "block";
+            pdf.src = streamUrl;
+            localStorage.setItem("done_" + lessonId, "1");
+        }
+
+        document.getElementById("videoModal").style.display = "flex";
     }
 
-    function closeModal() { 
-        document.getElementById('driveFrame').src = ''; 
-        document.getElementById('videoModal').style.display = 'none'; 
+    function saveTimestampNote() {
+        const vid = document.getElementById("nativeVideo");
+        if (!currentLessonId) return;
+        const sec = Math.floor(vid.currentTime || 0);
+        const minStr = `${Math.floor(sec / 60)}:${String(sec % 60).padStart(2, '0')}`;
+        const content = prompt(`Nhập ghi chú tại mốc thời gian [${minStr}]:`);
+        if (!content || !content.trim()) return;
+
+        let notes = JSON.parse(localStorage.getItem("notes_" + currentLessonId) || "[]");
+        notes.push({ sec, timeLabel: minStr, text: content.trim() });
+        localStorage.setItem("notes_" + currentLessonId, JSON.stringify(notes));
+        renderLessonNotes();
+    }
+
+    function renderLessonNotes() {
+        const panel = document.getElementById("notesPanel");
+        let notes = JSON.parse(localStorage.getItem("notes_" + currentLessonId) || "[]");
+        if (notes.length === 0) {
+            panel.innerHTML = `<span style="color:#94a3b8;">💡 Mẹo: Bấm nút <b>Lưu Ghi Chú Mốc Giờ</b> ở góc trên khi đang xem để đánh dấu công thức quan trọng.</span>`;
+            return;
+        }
+        panel.innerHTML = `<b>📌 Ghi chú của bạn:</b> ` + notes.map(n => 
+            `<a href="javascript:void(0)" onclick="document.getElementById('nativeVideo').currentTime=${n.sec}" style="display:inline-block; background:#1e293b; color:#38bdf8; padding:3px 8px; border-radius:4px; margin:3px 6px 3px 0; text-decoration:none; border:1px solid #334155;">[${n.timeLabel}] ${n.text}</a>`
+        ).join("");
+    }
+
+    function closeModal() {
+        const vid = document.getElementById("nativeVideo");
+        vid.pause();
+        vid.src = "";
+        document.getElementById("pdfFrame").src = "";
+        if (watermarkTimer) clearInterval(watermarkTimer);
+        if (progressTimer) clearInterval(progressTimer);
+        document.getElementById("videoModal").style.display = "none";
     }
   </script>
 </body>

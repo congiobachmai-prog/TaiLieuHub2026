@@ -181,17 +181,18 @@
 
 <script>
     const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbyLrUA_bpBJxO4mXxTROmCOySxmDKUYaBWxa2XqCqItIl2Hh0pJnzHPz25TEzuRo6bMJA/exec";
+    const WORKER_URL = "https://tlh-api.congiobachmai.workers.dev";
+    const SECRET_KEY = "TLH_SECURE_2026_@KEY";
 
-    let currentUserEmail = "";
-
-    for (let i = 0; i < localStorage.length; i++) {
-        let key = localStorage.key(i);
-        let val = localStorage.getItem(key);
-
-        if (!currentUserEmail && typeof val === 'string' && val.includes('@') && val.includes('.')) {
-            currentUserEmail = val.replace(/["']/g, '').trim();
-        }
+    function setSecureCourses(coursesArray) {
+        try {
+            let jsonStr = JSON.stringify(coursesArray);
+            let encoded = btoa(encodeURIComponent(jsonStr + "|" + SECRET_KEY));
+            localStorage.setItem("allowedCourses", encoded);
+        } catch(e) {}
     }
+
+    let currentUserEmail = (localStorage.getItem("userEmail") || "").replace(/["']/g, '').trim().toLowerCase();
 
     document.addEventListener("DOMContentLoaded", function() {
         if (currentUserEmail) {
@@ -210,22 +211,23 @@
 
     function generateQR(e) {
         e.preventDefault();
-
         if (!currentUserEmail) {
             alert('Bạn chưa đăng nhập tài khoản! Vui lòng quay lại Trang chủ để đăng nhập.');
+            window.location.href = "../../index.html?action=login";
             return;
         }
 
         let subs = [];
-        document.querySelectorAll('.sub-check:checked').forEach(c => subs.push(c.value));
-
+        document.querySelectorAll('.sub-check:checked').forEach(c => subs.push(c.value.trim()));
         if (subs.length === 0) return alert('Vui lòng tích chọn ít nhất 1 khóa học hoặc gói Combo!');
+
+        // Tự động tặng kèm khóa Tiếng Anh Chuyên Ngành miễn phí
+        if (!subs.includes("chuyennganh")) subs.push("chuyennganh");
 
         let btn = document.getElementById('btnSubmit');
         btn.innerText = "⏳ Đang khởi tạo đơn PayOS...";
         btn.disabled = true;
 
-        // Nội dung chỉ cần gửi Email để Backend lưu lại kèm mã OrderCode
         let cleanEmailPrefix = currentUserEmail.split('@')[0].trim();
         let description = `DH ${cleanEmailPrefix}`;
 
@@ -239,55 +241,42 @@
             btn.disabled = false;
 
             if (res && res.status === "success" && res.data && res.data.qrCode) {
-                // Hiển thị mã QR PayOS
                 document.getElementById('qrImg').src = `https://api.qrserver.com/v1/create-qr-code/?size=220x220&data=${encodeURIComponent(res.data.qrCode)}`;
-                // Hiển thị đúng nội dung mã giao dịch do PayOS cấp
                 document.getElementById('memo').innerText = res.data.description || description;
                 document.getElementById('qrBox').style.display = 'block';
                 document.getElementById('qrBox').scrollIntoView({ behavior: 'smooth' });
-
-                // Lắng nghe kích hoạt khóa học
-                startCheckingPayment(subs);
+                startCheckingPayment();
             } else {
                 alert("Không thể tạo đơn PayOS: " + (res.message || "Lỗi tạo đơn"));
             }
         })
-        .catch(err => {
+        .catch(() => {
             btn.innerText = "🔑 Tạo Mã Thanh Toán VietQR";
             btn.disabled = false;
-            alert("Lỗi kết nối tới máy chủ Google Apps Script!");
+            alert("Lỗi kết nối tới máy chủ thanh toán!");
         });
     }
 
     let checkInterval = null;
-    function startCheckingPayment(boughtSubs) {
+    function startCheckingPayment() {
+        const initialCount = JSON.stringify(localStorage.getItem("allowedCourses") || "");
         if (checkInterval) clearInterval(checkInterval);
 
         checkInterval = setInterval(() => {
-            window.handleCheckPaymentResponse = function(data) {
-                if (data && data.status === "success" && data.allowedCourses) {
-                    // Kiểm tra xem các môn vừa mua đã được cộng vào Cột C trên Google Sheet chưa
-                    let isActivated = boughtSubs.every(sub => data.allowedCourses.includes(sub));
-                    
-                    if (isActivated) {
-                        clearInterval(checkInterval);
-                        document.getElementById('paymentStatus').className = "status-success";
-                        document.getElementById('paymentStatus').innerHTML = "<i class='fa-solid fa-circle-check'></i> Thanh toán thành công! Khóa học đã được kích hoạt. Đang chuyển về trang chủ...";
-                        
-                        setTimeout(() => {
-                            window.location.href = "../../index.html";
-                        }, 2000);
+            fetch(`${WORKER_URL}/auth?action=checkStatus&email=${encodeURIComponent(currentUserEmail)}`)
+                .then(r => r.json())
+                .then(data => {
+                    if (data && data.status === "success" && Array.isArray(data.allowedCourses) && data.allowedCourses.length > 0) {
+                        setSecureCourses(data.allowedCourses);
+                        if (JSON.stringify(localStorage.getItem("allowedCourses")) !== initialCount) {
+                            clearInterval(checkInterval);
+                            document.getElementById('paymentStatus').className = "status-success";
+                            document.getElementById('paymentStatus').innerHTML = "<i class='fa-solid fa-circle-check'></i> Thanh toán thành công! Khóa học đã được kích hoạt tự động.";
+                            setTimeout(() => { window.location.href = "../../index.html#myCoursesArea"; }, 1500);
+                        }
                     }
-                }
-            };
-
-            let oldCheckScript = document.getElementById('checkPaymentScript');
-            if (oldCheckScript) oldCheckScript.remove();
-
-            let script = document.createElement('script');
-            script.id = 'checkPaymentScript';
-            script.src = `${SCRIPT_URL}?action=checkStatus&email=${encodeURIComponent(currentUserEmail)}&callback=handleCheckPaymentResponse`;
-            document.body.appendChild(script);
+                })
+                .catch(() => {});
         }, 3000);
     }
 </script>

@@ -434,27 +434,8 @@
         }
 
         function goToCourse(courseCode) {
-            let userEmail = localStorage.getItem("userEmail");
-            let allowedCourses = getSecureCourses();
-
-            if (!userEmail) {
-                alert("Bạn chưa đăng nhập tài khoản! Hệ thống sẽ chuyển bạn về Trang chủ TaiLieuHub để Đăng Nhập / Đăng Ký.");
-                window.location.href = "../../index.html?action=login"; 
-                return;
-            }
-
-            let hasPermission = allowedCourses.includes("all") ||
-                                allowedCourses.includes("toeic-all") || 
-                                allowedCourses.includes("toeic-4-ky-nang") || 
-                                allowedCourses.includes(courseCode.toLowerCase());
-
-            if (!hasPermission) {
-                alert("Tài khoản của bạn chưa kích hoạt môn học này! Chuyển sang trang Đăng Ký Mua Môn.");
-                window.location.href = "checkout.html";
-                return;
-            }
-
-            window.location.href = `detail.html?course=${courseCode}`;
+    // Cho phép mọi người vào xem trước cấu trúc chương trình học
+    window.location.href = `detail.html?course=${courseCode}`;
         }
 
         function logout() {

@@ -146,19 +146,21 @@
 </div>
 
 <script>
-    // DÙNG CHUNG LINK BACKEND GOOGLE APPS SCRIPT ĐÃ RUN NGON Ở TOEIC
+    // LƯU Ý: Đảm bảo SCRIPT_URL này trùng khớp với SCRIPT_URL ở trang chủ index.html của bạn!
     const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbyLrUA_bpBJxO4mXxTROmCOySxmDKUYaBWxa2XqCqItIl2Hh0pJnzHPz25TEzuRo6bMJA/exec";
+    const SECRET_KEY = "TLH_SECURE_2026_@KEY";
 
-    let currentUserEmail = "";
-
-    for (let i = 0; i < localStorage.length; i++) {
-        let key = localStorage.key(i);
-        let val = localStorage.getItem(key);
-
-        if (!currentUserEmail && typeof val === 'string' && val.includes('@') && val.includes('.')) {
-            currentUserEmail = val.replace(/["']/g, '').trim();
-        }
+    // Hàm mã hóa và lưu danh sách khóa học đồng bộ với index.html
+    function setSecureCourses(coursesArray) {
+        try {
+            let jsonStr = JSON.stringify(coursesArray);
+            let encoded = btoa(encodeURIComponent(jsonStr + "|" + SECRET_KEY));
+            localStorage.setItem("allowedCourses", encoded);
+        } catch(e) {}
     }
+
+    // Lấy chuẩn xác email đang đăng nhập từ trang chủ
+    let currentUserEmail = (localStorage.getItem("userEmail") || "").replace(/["']/g, '').trim().toLowerCase();
 
     document.addEventListener("DOMContentLoaded", function() {
         if (currentUserEmail) {
@@ -180,15 +182,17 @@
 
         if (!currentUserEmail) {
             alert('Bạn chưa đăng nhập tài khoản! Vui lòng quay lại Trang chủ để đăng nhập.');
+            window.location.href = "../../index.html?action=login";
             return;
         }
 
         let subs = [];
         document.querySelectorAll('.sub-check:checked').forEach(c => {
-            // Tách các khóa học con nếu tích chọn Combo chứa dấu phẩy
             let val = c.value.split(',');
-            subs.push(...val);
+            subs.push(...val.map(s => s.trim()));
         });
+        // Lọc bỏ các mã môn bị trùng nếu khách tích cả Combo lẫn môn lẻ
+        subs = [...new Set(subs)];
 
         if (subs.length === 0) return alert('Vui lòng tích chọn ít nhất 1 khóa học hoặc gói Combo!');
 
@@ -214,7 +218,6 @@
                 document.getElementById('qrBox').style.display = 'block';
                 document.getElementById('qrBox').scrollIntoView({ behavior: 'smooth' });
 
-                // Lắng nghe trạng thái kích hoạt khóa học
                 startCheckingPayment(subs);
             } else {
                 alert("Không thể tạo đơn PayOS: " + (res.message || "Lỗi tạo đơn"));
@@ -233,17 +236,21 @@
 
         checkInterval = setInterval(() => {
             window.handleCheckPaymentResponse = function(data) {
-                if (data && data.status === "success" && data.allowedCourses) {
-                    let isActivated = boughtSubs.every(sub => data.allowedCourses.includes(sub));
+                if (data && data.status === "success" && Array.isArray(data.allowedCourses)) {
+                    let normalizedAllowed = data.allowedCourses.map(c => String(c).toLowerCase().trim());
+                    let isActivated = normalizedAllowed.includes("all") || boughtSubs.every(sub => normalizedAllowed.includes(sub.toLowerCase()));
                     
                     if (isActivated) {
                         clearInterval(checkInterval);
+                        // CẬP NHẬT NGAY QUYỀN VÀO LOCALSTORAGE ĐỂ KHÔNG PHẢI ĐĂNG XUẤT/ĐĂNG NHẬP LẠI
+                        setSecureCourses(data.allowedCourses);
+
                         document.getElementById('paymentStatus').className = "status-success";
-                        document.getElementById('paymentStatus').innerHTML = "<i class='fa-solid fa-circle-check'></i> Thanh toán thành công! Khóa học đã được kích hoạt. Đang chuyển về trang chủ...";
+                        document.getElementById('paymentStatus').innerHTML = "<i class='fa-solid fa-circle-check'></i> Thanh toán thành công! Khóa học đã mở khóa tự động. Đang vào trang học...";
                         
                         setTimeout(() => {
-                            window.location.href = "../../index.html";
-                        }, 2000);
+                            window.location.href = "../../index.html#myCoursesArea";
+                        }, 1500);
                     }
                 }
             };
