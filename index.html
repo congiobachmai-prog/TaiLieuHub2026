@@ -6,17 +6,19 @@
     <title>TaiLieuHub - Kho Tài Liệu Học Tập & Ôn Thi Hàng Đầu</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link rel="stylesheet" href="style.css">
+    <!-- Thư viện xác thực tài khoản Google chính thức -->
+    <script src="https://accounts.google.com/gsi/client" async defer></script>
 </head>
 <body>
 
-    <!-- Nền Đốm Sáng Động (Mesh Blobs) -->
+    <!-- Nền Đốm Sáng Động -->
     <div class="bg-mesh">
         <div class="blob blob-1"></div>
         <div class="blob blob-2"></div>
         <div class="blob blob-3"></div>
     </div>
 
-    <!-- Thanh Apple Liquid Navigation Bar -->
+    <!-- Thanh Điều Hướng -->
     <header>
         <nav class="liquid-nav" id="nav">
             <div class="liquid-glare-container">
@@ -36,13 +38,12 @@
                     <span>Tài liệu</span>
                 </a>
 
-                <!-- 🚀 NÚT CHUYỂN SANG TRANG THI ONLINE -->
                 <a href="https://congiobachmai-prog.github.io/BaiThiOnline_GitHub/index.html" class="nav-btn" style="background: linear-gradient(135deg, #2563eb, #1d4ed8); color: white !important;">
                     <i class="fa-solid fa-headphones-simple"></i>
                     <span>Thi Online</span>
                 </a>
 
-                <button class="nav-btn" onclick="openAuthModal('login')" id="auth-group-btn">
+                <button class="nav-btn" onclick="openAuthModal()" id="auth-group-btn">
                     <i class="fa-solid fa-right-to-bracket"></i>
                     <span id="authButtonText">Đăng Nhập</span>
                 </button>
@@ -60,7 +61,6 @@
 
             <div class="divider"></div>
 
-            <!-- Nút Bật/Tắt Dark Mode -->
             <button class="theme-btn" id="theme-btn" aria-label="Dark Mode Toggle">
                 <div class="theme-icon-wrapper">
                     <svg class="sun" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor">
@@ -77,7 +77,6 @@
         </nav>
     </header>
 
-    <!-- Hero Banner Kính Mờ -->
     <section class="hero">
         <div class="hero-content">
             <h1>Kho Tài Liệu Ôn Thi & Học Tập Chất Lượng Cao</h1>
@@ -105,7 +104,6 @@
             <p>Lựa chọn môn học bạn đang cần tài liệu ôn tập</p>
         </div>
 
-        <!-- Danh mục card khóa học -->
         <div class="categories-grid">
             <div class="category-card">
                 <img src="https://lh3.googleusercontent.com/d/1KqvMwM8CBjDrPH6rn-LQzPcONMUoHnYE" alt="THPTQG 2027" class="card-banner">
@@ -170,23 +168,19 @@
         <a href="tel:0981621308" class="widget-btn widget-phone"><i class="fa-solid fa-phone"></i></a>
     </div>
 
-    <!-- Modal Đăng Nhập / Đăng Ký -->
+    <!-- Hộp thoại Đăng Nhập 1 Chạm Bằng Google Chính Chủ -->
     <div class="modal-overlay" id="authModal">
-        <div class="modal-box">
+        <div class="modal-box" style="text-align: center; padding: 28px 24px;">
             <button class="close-modal-btn" onclick="closeAuthModal()">&times;</button>
-            <h2 id="modalTitle">Đăng Nhập Tài Khoản</h2>
-            
-            <form id="authForm" onsubmit="handleAuthSubmit(event)">
-                <input type="email" id="authEmail" placeholder="Nhập địa chỉ Gmail..." required>
-                <input type="password" id="authPassword" placeholder="Nhập Mật khẩu..." required>
-                <button type="submit" class="btn-submit-auth" id="btnAuthSubmit">Đăng Nhập</button>
-            </form>
+            <h2 id="modalTitle" style="margin-bottom: 10px;">Xác Thực Tài Khoản Học Viên</h2>
+            <p style="font-size: 13.5px; color: var(--text-muted); margin-bottom: 20px; line-height: 1.5;">
+                Vui lòng chọn đúng <b>Tài khoản Google (Gmail)</b> trên trình duyệt của bạn để đăng nhập hoặc tạo tài khoản mới tự động:
+            </p>
 
-            <p id="authMsg" style="text-align:center; font-size:13px; margin-top:10px; font-weight:bold;"></p>
+            <!-- Nút Đăng Nhập Google Chính Thức -->
+            <div id="googleBtnContainer" style="display: flex; justify-content: center; min-height: 44px; margin: 10px 0;"></div>
 
-            <div class="auth-toggle-link" id="authToggleArea">
-                Chưa có tài khoản? <a href="javascript:void(0)" onclick="switchAuthMode('register')">Đăng ký ngay</a>
-            </div>
+            <p id="authMsg" style="text-align:center; font-size:13px; margin-top:14px; font-weight:bold;"></p>
         </div>
     </div>
 
@@ -207,6 +201,8 @@
 
     <script>
         const SECRET_KEY = "TLH_SECURE_2026_@KEY";
+        const WORKER_URL = "https://tlh-api.congiobachmai.workers.dev";
+        const GOOGLE_CLIENT_ID = "188699485645-ae2e97nojuqmur0q25nl1pktpvfvnrmg.apps.googleusercontent.com";
 
         function setSecureCourses(coursesArray) {
             try {
@@ -228,18 +224,6 @@
                 }
             } catch(e) { return []; }
             return [];
-        }
-
-        const WORKER_URL = "https://tlh-api.congiobachmai.workers.dev";
-
-        // Tạo mã định danh thiết bị duy nhất để chống dùng chung tài khoản (Tầng 3)
-        function getDeviceId() {
-            let did = localStorage.getItem("tlh_device_id");
-            if (!did) {
-                did = "DEV_" + Math.random().toString(36).substring(2, 10) + "_" + Date.now().toString(36);
-                localStorage.setItem("tlh_device_id", did);
-            }
-            return did;
         }
 
         const COURSE_MAP = {
@@ -295,12 +279,52 @@
             'phatam': { name: 'TOEIC: Luyện Phát Âm Thầy Joe Hall', url: './courses/toeic-mai-phuong/detail.html?course=phatam' }
         };
 
-        let currentAuthMode = 'login';
+        let googleInitialized = false;
+
+        function initGoogleButton() {
+            if (googleInitialized || !window.google || !window.google.accounts) return;
+            window.google.accounts.id.initialize({
+                client_id: GOOGLE_CLIENT_ID,
+                callback: handleGoogleCredentialResponse
+            });
+            window.google.accounts.id.renderButton(
+                document.getElementById("googleBtnContainer"),
+                { theme: "filled_blue", size: "large", shape: "pill", text: "continue_with", width: 280 }
+            );
+            googleInitialized = true;
+        }
+
+        function handleGoogleCredentialResponse(response) {
+            let msg = document.getElementById("authMsg");
+            msg.style.color = "var(--primary)";
+            msg.innerText = "Đang xác thực tài khoản Google của bạn...";
+
+            fetch(`${WORKER_URL}/auth?action=googleLogin&id_token=${encodeURIComponent(response.credential)}`)
+                .then(r => r.json())
+                .then(result => {
+                    if (result.status === "success") {
+                        msg.style.color = "#16a34a";
+                        msg.innerText = "Xác thực thành công!";
+                        localStorage.setItem("userEmail", result.email);
+                        setSecureCourses(result.allowedCourses || []);
+                        setTimeout(() => {
+                            closeAuthModal();
+                            checkUserAuthStatus();
+                        }, 400);
+                    } else {
+                        msg.style.color = "#dc2626";
+                        msg.innerText = result.message || "Không thể xác thực tài khoản Google!";
+                    }
+                })
+                .catch(() => {
+                    msg.style.color = "#dc2626";
+                    msg.innerText = "Lỗi kết nối tới máy chủ bảo mật!";
+                });
+        }
 
         function checkUserAuthStatus() {
             let userEmail = localStorage.getItem("userEmail");
             let myCoursesArea = document.getElementById("myCoursesArea");
-            let myCoursesList = document.getElementById("myCoursesList");
             let authButtonText = document.getElementById("authButtonText");
 
             if (userEmail) {
@@ -312,7 +336,6 @@
                 document.getElementById("userEmailNotice").innerText = `Tài khoản: ${userEmail}`;
                 myCoursesArea.style.display = 'block';
 
-                // Tự động đồng bộ quyền mới nhất từ Supabase mỗi khi mở trang chủ
                 fetch(`${WORKER_URL}/auth?action=checkStatus&email=${encodeURIComponent(userEmail)}`)
                     .then(r => r.json())
                     .then(res => {
@@ -326,7 +349,7 @@
                     .catch(() => renderMyCoursesCards(getSecureCourses()));
             } else {
                 authButtonText.innerText = "Đăng Nhập";
-                document.getElementById("auth-group-btn").onclick = function() { openAuthModal('login'); };
+                document.getElementById("auth-group-btn").onclick = function() { openAuthModal(); };
                 myCoursesArea.style.display = 'none';
             }
         }
@@ -356,73 +379,22 @@
             let userEmail = localStorage.getItem("userEmail");
             if (!userEmail) {
                 alert("Vui lòng Đăng Nhập tài khoản để xem các khóa học đã mua!");
-                openAuthModal('login');
+                openAuthModal();
             } else {
                 let el = document.getElementById("myCoursesArea");
                 if (el) el.scrollIntoView({ behavior: 'smooth' });
             }
         }
 
-        function openAuthModal(mode) {
-            switchAuthMode(mode);
+        function openAuthModal() {
+            document.getElementById("authMsg").innerText = '';
             document.getElementById("authModal").style.display = 'flex';
+            initGoogleButton();
         }
+
         function closeAuthModal() {
             document.getElementById("authModal").style.display = 'none';
             document.getElementById("authMsg").innerText = '';
-        }
-
-        function switchAuthMode(mode) {
-            currentAuthMode = mode;
-            document.getElementById("authMsg").innerText = '';
-            if (mode === 'login') {
-                document.getElementById("modalTitle").innerText = "Đăng Nhập Tài Khoản";
-                document.getElementById("btnAuthSubmit").innerText = "Đăng Nhập";
-                document.getElementById("authToggleArea").innerHTML = `Chưa có tài khoản? <a href="javascript:void(0)" onclick="switchAuthMode('register')">Đăng ký ngay</a>`;
-            } else {
-                document.getElementById("modalTitle").innerText = "Tạo Tài Khoản Mới";
-                document.getElementById("btnAuthSubmit").innerText = "Đăng Ký";
-                document.getElementById("authToggleArea").innerHTML = `Đã có tài khoản? <a href="javascript:void(0)" onclick="switchAuthMode('login')">Đăng nhập</a>`;
-            }
-        }
-
-        function handleAuthSubmit(e) {
-            e.preventDefault();
-            let email = document.getElementById("authEmail").value.trim().toLowerCase();
-            let password = document.getElementById("authPassword").value.trim();
-            let msg = document.getElementById("authMsg");
-            let deviceId = getDeviceId();
-
-            msg.style.color = "var(--primary)";
-            msg.innerText = "Đang xác thực bảo mật...";
-
-            fetch(`${WORKER_URL}/auth?action=${currentAuthMode}&email=${encodeURIComponent(email)}&password=${encodeURIComponent(password)}&device=${encodeURIComponent(deviceId)}`)
-                .then(r => r.json())
-                .then(result => {
-                    if (result.status === "success") {
-                        msg.style.color = "#16a34a";
-                        msg.innerText = result.message || "Thành công!";
-
-                        if (currentAuthMode === 'login') {
-                            localStorage.setItem("userEmail", result.email);
-                            setSecureCourses(result.allowedCourses || []);
-                            setTimeout(() => {
-                                closeAuthModal();
-                                checkUserAuthStatus();
-                            }, 500);
-                        } else {
-                            alert("Tạo tài khoản thành công! Hệ thống sẽ tự động đăng nhập cho bạn.");
-                            switchAuthMode('login');
-                        }
-                    } else {
-                        msg.style.color = "#dc2626";
-                        msg.innerText = result.message || "Email hoặc Mật khẩu chưa đúng!";
-                    }
-                })
-                .catch(() => {
-                    msg.style.color = "#dc2626";
-                    msg.innerText = "Lỗi kết nối tới cổng bảo mật!";
-                });
         }
 
         function logout() {
@@ -488,7 +460,7 @@
 
             const urlParams = new URLSearchParams(window.location.search);
             if (urlParams.get('action') === 'login' && !localStorage.getItem("userEmail")) {
-                openAuthModal('login');
+                setTimeout(() => openAuthModal(), 400);
             }
         });
     </script>
